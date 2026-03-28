@@ -1,0 +1,45 @@
+name: Refresh Trade Show Calendars
+
+on:
+  schedule:
+    - cron: '0 22 * * 6'  # 22:00 UTC Saturday = 00:00 CEST Sunday (Paris)
+                           # In winter (CET/UTC+1): fires at 23:00 UTC Sat = 00:00 CET Sun
+  workflow_dispatch:       # manual trigger from GitHub Actions UI
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # allows GITHUB_TOKEN to push commits back to this repo
+
+    steps:
+      - name: Checkout trade-show-cal
+        uses: actions/checkout@v4
+        with:
+          path: trade-show-cal
+
+      - name: Checkout eventseye-web-scraper
+        uses: actions/checkout@v4
+        with:
+          repository: RebootAndBrew/eventseye-web-scraper
+          path: scraper
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Run scraper
+        run: uv run scraper/scrape.py --output trade-show-cal
+        # uv resolves PEP 723 inline deps from scrape.py automatically
+
+      - name: Commit and push if changed
+        working-directory: trade-show-cal
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.ics
+          if git diff --cached --quiet; then
+            echo "No changes to .ics files — skipping commit."
+          else
+            git commit -m "chore: refresh trade show calendars — $(date +%Y-%m-%d)"
+            git push
+          fi

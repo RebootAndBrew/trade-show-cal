@@ -47,11 +47,8 @@ Import any calendar into Vista Social via `manageExternalCalendar` using the raw
 
 ## Refreshing
 
-Re-run the scraper quarterly and commit new `.ics` files. Vista Social auto-syncs within ~24h.
+Calendars are refreshed automatically every Sunday at midnight (Paris time) via GitHub Actions. To trigger a manual refresh, go to Actions → "Refresh Trade Show Calendars" → "Run workflow".
 
-```bash
-cd ~/eventseye-web-scraper
-uv run scrape.py --output ~/trade-show-cal
-cd ~/trade-show-cal
-git add *.ics && git commit -m "Refresh trade show calendars — $(date +%Y-%m-%d)" && git push
-```
+## Legal & Compliance
+
+We have reviewed the legal position of scraping EventsEye.com for this purpose. EventsEye has no `robots.txt` and no Terms of Service, meaning no automated access restrictions have been stated. The data collected consists solely of factual public information (trade show names, dates, and locations). It is used exclusively for private, internal calendar purposes and is not republished commercially. Under EU Database Directive case law, use of factual data for internal reference does not constitute extraction or reutilisation of a protected database. We are satisfied that this use is lawful.

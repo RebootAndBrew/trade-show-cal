@@ -363,19 +363,6 @@ URL:https://www.eventseye.com/fairs/f-dps-expo-digital-print-sign-expo-new
  -delhi-32307-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260416
-UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
-DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings 
- international and local innovative solutions\, machinery and sustainable w
- orkflow practices for the printing and packaging industry to the Kingdom\n
- Venue: Riyadh International Exhibition Centre\nFrequency: once a year\nSou
- rce: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EMPACK NETHERLANDS — Gorinchem\, Netherlands
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260417
@@ -810,6 +797,19 @@ DESCRIPTION:International Printing Expo in Egypt. Graphic Design\, Offset
  noprint-egypt-10282-1.html
 LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-technoprint-egypt-10282-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260625
+UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
+DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings 
+ international and local innovative solutions\, machinery and sustainable w
+ orkflow practices for the printing and packaging industry to the Kingdom\n
+ Venue: Riyadh International Exhibition Centre\nFrequency: once a year\nSou
+ rce: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAIPEI PACK — Taipei\, Taiwan

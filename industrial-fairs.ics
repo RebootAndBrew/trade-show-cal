@@ -474,19 +474,6 @@ URL:https://www.eventseye.com/fairs/f-foire-internationale-de-toulouse-128
  54-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260416
-UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
-DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings 
- international and local innovative solutions\, machinery and sustainable w
- orkflow practices for the printing and packaging industry to the Kingdom\n
- Venue: Riyadh International Exhibition Centre\nFrequency: once a year\nSou
- rce: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GUANGZHOU SOURCING FAIR — Guangzhou\, China
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260418
@@ -648,29 +635,21 @@ LOCATION:Valence\, France
 URL:https://www.eventseye.com/fairs/f-rsd3-2292-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTEC COIMBATORE — Coimbatore\, India
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260609
-UID:f-intec-coimbatore-8557-1@eventseye.impio-vault
-DESCRIPTION:India's international Machine Tools and Industrial Trade Fair\
- nVenue: Codissia Trade Fair Complex\nFrequency: every 2 years\nSource: htt
- ps://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
-LOCATION:Coimbatore\, India
-URL:https://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EXPOSITION DE PICARDIE — Amiens\, France
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260615
-UID:f-foire-exposition-de-picardie-19736-1@eventseye.impio-vault
-DESCRIPTION:Picardy International Fair. Housing\, Furnishing\, Furniture\,
-  Garden\, Swimming pool\, Tourism & Leisure\, Sport\, Auto\, Motorhome\, W
- ine\, Gastronomy\, Shopping\, Crafts\, Women's well-being\, etc.\nVenue: M
- égaCité\nFrequency: once a year\nSource: https://www.eventseye.com/fairs
- /f-foire-exposition-de-picardie-19736-1.html
-LOCATION:Amiens\, France
-URL:https://www.eventseye.com/fairs/f-foire-exposition-de-picardie-19736-1
- .html
+SUMMARY:SIMEC - SALON INDUSTRIEL DE LA MAURICIE\, ESTRIE ET DU CENTRE-DU-Q
+ UÉBEC — Drummondville\, QC\, Canada
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260424
+UID:f-simec-salon-industriel-de-la-mauricie-estrie-et-du-centre-du-quebec-
+ 17602-1@eventseye.impio-vault
+DESCRIPTION:Industrial Expo in the Estrie region. The event brings togethe
+ r distributors\, suppliers and service companies with the know-how needed 
+ for development and growth of businesses in the region\nVenue: Centrexpo C
+ ogeco Drummondville\nFrequency: every 2 years\nSource: https://www.eventse
+ ye.com/fairs/f-simec-salon-industriel-de-la-mauricie-estrie-et-du-centre-d
+ u-quebec-17602-1.html
+LOCATION:Drummondville\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-simec-salon-industriel-de-la-maurici
+ e-estrie-et-du-centre-du-quebec-17602-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOIRE EXPO INTERNATIONALE DE NANCY — Nancy\, France
@@ -795,6 +774,19 @@ DESCRIPTION:Korea Expo highlights products and services from Korea: Fashio
  https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260625
+UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
+DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings 
+ international and local innovative solutions\, machinery and sustainable w
+ orkflow practices for the printing and packaging industry to the Kingdom\n
+ Venue: Riyadh International Exhibition Centre\nFrequency: once a year\nSou
+ rce: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GHANA INTERNATIONAL TRADE EXHIBITION — Accra\, Ghana
@@ -1104,6 +1096,490 @@ DESCRIPTION:The great fair in eastern France\, bordering 4 European countr
 LOCATION:Chalons-en-Champagne\, France
 URL:https://www.eventseye.com/fairs/f-foire-de-chalons-en-champagne-28699-
  1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOMBASA INTERNATIONAL SHOW (MIS) — Mombasa\, Kenya
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260907
+UID:f-mombasa-international-show-(mis)-18868-1@eventseye.impio-vault
+DESCRIPTION:Mombasa International Show. MOMBASA INTERNATIONAL SHOW (MIS) e
+ xhibitors are from the following industries:- Agriculture\, Manufacturing\
+ , Tourism related Enterprises\, Fishing Industry\, Banking sector\, Import
+  & Export\, Transport and communication\nVenue: ASK Jomo Kenyatta Showgrou
+ nd\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-momb
+ asa-international-show-(mis)-18868-1.html
+LOCATION:Mombasa\, Kenya
+URL:https://www.eventseye.com/fairs/f-mombasa-international-show-(mis)-188
+ 68-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIWAN INDUSTRY WEEK — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-taiwan-industry-week-32759-1@eventseye.impio-vault
+DESCRIPTION:TAIWAN INDUSTRY WEEK includes 4 key international exhibitions.
+  - THS (Taiwan Hardware Industry)- IMT (Taiwan Metal Technology)- T-SAFE (
+ Taiwan Occupational Safety)- HVAC (Taiwan RHVAC Industry)\nVenue: Taipei N
+ angang Exhibition Center\nFrequency: once a year\nSource: https://www.even
+ tseye.com/fairs/f-taiwan-industry-week-32759-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taiwan-industry-week-32759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TITE X IHT TAIWAN INTERNATIONAL TOOLS & HARDWARE EXPO + INTERNATIO
+ NAL HARDWARE EXPO — Taichung\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-tite-x-iht-taiwan-international-tools-hardware-expo-international-ha
+ rdware-expo-33219-1@eventseye.impio-vault
+DESCRIPTION:TiTE x IHT Expo is an international tradeshow for the tools an
+ d hardware sector\, drawing exhibitors and attendees from around the world
+ . Tools & Accessories\, Metalworking\, Machinery & Processing\, Factory Eq
+ uipment & Industrial Safety\, Automotive Repair...\nVenue: Greater Taichun
+ g International Expo Center\nFrequency: once a year\nSource: https://www.e
+ ventseye.com/fairs/f-tite-x-iht-taiwan-international-tools-hardware-expo-i
+ nternational-hardware-expo-33219-1.html
+LOCATION:Taichung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-tite-x-iht-taiwan-international-tool
+ s-hardware-expo-international-hardware-expo-33219-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECO-EXPO KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-eco-expo-korea-21192-1@eventseye.impio-vault
+DESCRIPTION:Eco-Business Exhibition. Eco-Expo Korea encourages sustainable
+  lifestyles to realize green economy and sustainable development. It is he
+ ld in parallel with eco-business meetings among suppliers\, public procure
+ rs and distributors\nVenue: COEX Exhibition Center\nFrequency: once a year
+ \nSource: https://www.eventseye.com/fairs/f-eco-expo-korea-21192-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-eco-expo-korea-21192-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFFERTA KARLSRUHE — Karlsruhe\, Germany
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261102
+UID:f-offerta-karlsruhe-25026-1@eventseye.impio-vault
+DESCRIPTION:Shopping & Leisure Fair for the Whole Family. Four thematic ar
+ eas – leisure\, construction\, lifestyle and halls – spread across fou
+ r halls and an outdoor area\nVenue: Messe Karlsruhe\nFrequency: once a yea
+ r\nSource: https://www.eventseye.com/fairs/f-offerta-karlsruhe-25026-1.htm
+ l
+LOCATION:Karlsruhe\, Germany
+URL:https://www.eventseye.com/fairs/f-offerta-karlsruhe-25026-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFRICA INTERNATIONAL EXPO — Milan\, Italy
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+UID:f-africa-international-expo-32334-1@eventseye.impio-vault
+DESCRIPTION:Africa International Expo is the leading Italian event for dev
+ eloping relationships and commercial contacts with Africa. Discover servic
+ es and opportunities to develop your business in the African market\nVenue
+ : Milan Marriott Hotel Convention & Exhibition Center\nFrequency: once a y
+ ear\nSource: https://www.eventseye.com/fairs/f-africa-international-expo-3
+ 2334-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-africa-international-expo-32334-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMATION & TESTING NORD EST — Vicenza\, Italy
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automation-testing-nord-est-33365-1@eventseye.impio-vault
+DESCRIPTION:A&T is dedicated to entrepreneurs\, managers\, technicians and
+  researchers from companies in northwestern Italy. Automation & Mechatroni
+ cs\, Electronics & Electromechanics\, Household Appliances\, Air condition
+ ing & Refrigeration...\nVenue: Fiera di Vicenza\nFrequency: once a year\nS
+ ource: https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365
+ -1.html
+LOCATION:Vicenza\, Italy
+URL:https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO INDUSTRIA — Vicenza\, Italy
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+UID:f-expo-industria-33366-1@eventseye.impio-vault
+DESCRIPTION:Vicenza Industrial Fair. Understand new trends\, evaluate new 
+ services\, and improve the quality and performance of your business\nVenue
+ : Fiera di Vicenza\nFrequency: once a year\nSource: https://www.eventseye.
+ com/fairs/f-expo-industria-33366-1.html
+LOCATION:Vicenza\, Italy
+URL:https://www.eventseye.com/fairs/f-expo-industria-33366-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATIN AMERICA EXPO — Milan\, Italy
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+UID:f-latin-america-expo-32335-1@eventseye.impio-vault
+DESCRIPTION:America Latina Expo is the leading Italian event for developin
+ g relationships and commercial contacts with Latin America. Discover servi
+ ces and opportunities to grow your business in Latin American markets\nVen
+ ue: Milan Marriott Hotel Convention & Exhibition Center\nFrequency: once a
+  year\nSource: https://www.eventseye.com/fairs/f-latin-america-expo-32335-
+ 1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-latin-america-expo-32335-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BHARAT GLOBAL CULTURAL EXPO — Bangalore\, India
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-bharat-global-cultural-expo-33102-1@eventseye.impio-vault
+DESCRIPTION:The Bharat Global Cultural Expo is a prestigious event taking 
+ place in the vibrant city of Bangalore. As a global platform\, it brings t
+ ogether industries\, government bodies\, and cultural institutions from ar
+ ound the world under one roof\nVenue: Bengaluru Palace\nFrequency: twice a
+  year\nSource: https://www.eventseye.com/fairs/f-bharat-global-cultural-ex
+ po-33102-1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-bharat-global-cultural-expo-33102-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIG SABAH SALE — Kota Kinabalu (Borneo)\, Malaysia
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-big-sabah-sale-33292-1@eventseye.impio-vault
+DESCRIPTION:Big Sabah Sale is the big trade fair in Kota Kinabalu (Borneo)
+ . Fashion & Lifestyle\, Gastronomy\, Home Living & Decor...\nVenue: SICC -
+  Sabah International Convention Centre\nFrequency: once a year\nSource: ht
+ tps://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
+LOCATION:Kota Kinabalu (Borneo)\, Malaysia
+URL:https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261109
+UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\
+ , Shopping\, Gastronomy\, leisure and local life\nVenue: Alpexpo\nFrequenc
+ y: once a year\nSource: https://www.eventseye.com/fairs/f-foire-internatio
+ nale-de-grenoble-1034-1.html
+LOCATION:Grenoble\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-103
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONSUMENTA NÜRNBERG — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261109
+UID:f-consumenta-nurnberg-513-1@eventseye.impio-vault
+DESCRIPTION:South Germany's largest and most successful shopping fair. Con
+ struction\, Living\, Household\, Hobby\, Health and Pleasure Sectors\nVenu
+ e: Exhibition Centre Nuremberg\nFrequency: once a year\nSource: https://ww
+ w.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE ET GASTRONOMIQUE DE DIJON — Dijon\, France
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261112
+UID:f-foire-internationale-et-gastronomique-de-dijon-22422-1@eventseye.imp
+ io-vault
+DESCRIPTION:The Dijon Gastronomic Fair is a popular event awaited with ent
+ husiasm and curiosity each year by its many visitors and exhibitors\nVenue
+ : Parc des Expositions et Congrès de Dijon\nFrequency: once a year\nSourc
+ e: https://www.eventseye.com/fairs/f-foire-internationale-et-gastronomique
+ -de-dijon-22422-1.html
+LOCATION:Dijon\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-et-gastronomiqu
+ e-de-dijon-22422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENGINEERING ASIA - LAHORE — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-engineering-asia-lahore-28141-1@eventseye.impio-vault
+DESCRIPTION:Engineering Asia International Exhibition aims at developing a
+ nd promoting every sphere of engineering sector in Pakistan through inter 
+ & intra industrial cooperation and joint ventures among local and foreign 
+ partners\nVenue: Expo Centre Lahore\nFrequency: every 2 years\nSource: htt
+ ps://www.eventseye.com/fairs/f-engineering-asia-lahore-28141-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-engineering-asia-lahore-28141-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITIF ASIA — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-itif-asia-7926-1@eventseye.impio-vault
+DESCRIPTION:International Trade & Industry Fair of Pakistan. ITIF Asia aim
+ s to focus on the immense potential of industrial machinery tools equipmen
+ ts\, automotive power plants\, automobile industry machines\, raw material
+  supplies etc.\nVenue: Expo Centre Lahore\nFrequency: once a year\nSource:
+  https://www.eventseye.com/fairs/f-itif-asia-7926-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-itif-asia-7926-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW INDUSTRY WEEK – INDUSTRIAL MACHINES AND EQUIPMENT FAIR 
+ — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-warsaw-industry-week-industrial-machines-and-equipment-fair-25203-1@
+ eventseye.impio-vault
+DESCRIPTION:Warsaw Industry Week – Industrial Machines & Equipment Fair.
+  Machinery & equipment for metal and wood works\, plastics processing\, au
+ tomation\, robotization of industrial processes\, software\, industrial me
+ thodology\, cutting\, grinding\, R&D\, workplace health\nVenue: Ptak Warsa
+ w Expo\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-
+ warsaw-industry-week-industrial-machines-and-equipment-fair-25203-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-industry-week-industrial-mach
+ ines-and-equipment-fair-25203-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADVANCED MANUFACTURING - MADRID — Madrid\, Spain
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+UID:f-advanced-manufacturing-madrid-31868-1@eventseye.impio-vault
+DESCRIPTION:The leading event in industrial innovation\; Manufacturing\, m
+ achining and metal processing\; Robotics and automation and the only event
+  on composite materials and their applications in Spain\nVenue: Ifema - Pa
+ rque Ferial Juan Carlos I\nFrequency: once a year\nSource: https://www.eve
+ ntseye.com/fairs/f-advanced-manufacturing-madrid-31868-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-advanced-manufacturing-madrid-31868-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIMF - VIETNAM INDUSTRIAL & MANUFACTURING FAIR — Bac Ninh\, Viet
+ nam
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261107
+UID:f-vimf-vietnam-industrial-manufacturing-fair-26383-1@eventseye.impio-v
+ ault
+DESCRIPTION:Vietnam Industrial & Manufacturing Fair. Specialized high prof
+ ile event on technologies\, equipment's\, machines & tools\, system\, indu
+ stry materials and engineering services for manufacturing\, metalworking a
+ nd subcontracting industries...\nVenue: Kinh Bac Cultural Center\nFrequenc
+ y: once a year\nSource: https://www.eventseye.com/fairs/f-vimf-vietnam-ind
+ ustrial-manufacturing-fair-26383-1.html
+LOCATION:Bac Ninh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vimf-vietnam-industrial-manufacturin
+ g-fair-26383-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDUSTRY EXPO & B2B MEETINGS — Arad\, Romania
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+UID:f-industry-expo-b2b-meetings-32730-1@eventseye.impio-vault
+DESCRIPTION:Industry Expo & B2B Meetings is the leading B2B Industrial Tra
+ de Fair in Romania\, organized with the purpose of development and improve
+ ment of business relations\, dedicated to industrial manufacturing profess
+ ionals\, buyers\, suppliers and sub-suppliers\nVenue: Expo  Arad Internati
+ onal\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
+ dustry-expo-b2b-meetings-32730-1.html
+LOCATION:Arad\, Romania
+URL:https://www.eventseye.com/fairs/f-industry-expo-b2b-meetings-32730-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DES MOINES HOLIDAY BOUTIQUE — Des Moines\, IA\, USA
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-des-moines-holiday-boutique-28289-1@eventseye.impio-vault
+DESCRIPTION:Des Moines\, IA Holiday Fair. Holiday Decor\, Apparel\, Toys\,
+  Treats and more!\nVenue: Iowa Events Center\nFrequency: once a year\nSour
+ ce: https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.
+ html
+LOCATION:Des Moines\, IA\, USA
+URL:https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES AUTOMNALES — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261116
+UID:f-les-automnales-5040-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Geneva. House\, wellness\, leisure\, fla
+ vors. Exhibitors\, workshops and animations await you\nVenue: Palexpo\nFre
+ quency: once a year\nSource: https://www.eventseye.com/fairs/f-les-automna
+ les-5040-1.html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-les-automnales-5040-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINTERFAIR HARDENGERG — Hardenberg\, Netherlands
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-winterfair-hardengerg-31962-1@eventseye.impio-vault
+DESCRIPTION:Hardenberg Winter Fair. Shopping\, fashion\, home accessories\
+ , beauty\, jewelry\, gastronomy\, cooking and baking demonstrations\, crea
+ tive hobbies...\nVenue: Evenementenhal Hardenberg\nFrequency: once a year\
+ nSource: https://www.eventseye.com/fairs/f-winterfair-hardengerg-31962-1.h
+ tml
+LOCATION:Hardenberg\, Netherlands
+URL:https://www.eventseye.com/fairs/f-winterfair-hardengerg-31962-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D ADDITIVE EXPO — Batalha\, Portugal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+UID:f-3d-additive-expo-27148-1@eventseye.impio-vault
+DESCRIPTION:Trade show of 3D printing and additive manufacturing technolog
+ ies. The largest show of affordable 3D printers and scanners in one place 
+ & The leading Czech manufacturers of filaments with their novelties\nVenue
+ : Batalha Centro de Exposições\nFrequency: once a year\nSource: https://
+ www.eventseye.com/fairs/f-3d-additive-expo-27148-1.html
+LOCATION:Batalha\, Portugal
+URL:https://www.eventseye.com/fairs/f-3d-additive-expo-27148-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS GIFT + HOBBY SHOW — Indianapolis\, IN\, USA
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261116
+UID:f-christmas-gift-hobby-show-28293-1@eventseye.impio-vault
+DESCRIPTION:Indianapolis\, IN Christmas Gift & Hobby Show. From clothes to
+  toys and everything in-between\nVenue: Indiana State Fairgrounds\nFrequen
+ cy: once a year\nSource: https://www.eventseye.com/fairs/f-christmas-gift-
+ hobby-show-28293-1.html
+LOCATION:Indianapolis\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-christmas-gift-hobby-show-28293-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I4.0 EXPO — Batalha\, Portugal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+UID:f-i4.0-expo-27147-1@eventseye.impio-vault
+DESCRIPTION:I4.0EXPO - Industry 4.0\, Automation and Robotics Exhibition i
+ s the stage for all companies that follow the digital evolution and presen
+ t proposals for the optimization of industrial processes\nVenue: Batalha C
+ entro de Exposições\nFrequency: once a year\nSource: https://www.eventse
+ ye.com/fairs/f-i4.0-expo-27147-1.html
+LOCATION:Batalha\, Portugal
+URL:https://www.eventseye.com/fairs/f-i4.0-expo-27147-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBCONTRATAÇÃO — Batalha\, Portugal
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+UID:f-subcontratacao-27149-1@eventseye.impio-vault
+DESCRIPTION:SUBCONTRATAÇÃO is dedicated to the large universe of compani
+ es of manufacturing/production processes such as casting\, mechanization o
+ f parts\, molds\, dies\, surface treatment\, welding\, and many others\nVe
+ nue: Batalha Centro de Exposições\nFrequency: once a year\nSource: https
+ ://www.eventseye.com/fairs/f-subcontratacao-27149-1.html
+LOCATION:Batalha\, Portugal
+URL:https://www.eventseye.com/fairs/f-subcontratacao-27149-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DICKENS CHRISTMAS SHOW AND FESTIVALS — Myrtle Beach\, SC\, USA
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+UID:f-dickens-christmas-show-and-festivals-30744-1@eventseye.impio-vault
+DESCRIPTION:The Dickens Christmas Show & Festivals comprises a multitude o
+ f shopping and entertainment options\, for individuals and groups alike. J
+ ewelry\, crafts\, gifts\, toys\, art\, gourmet foods\, holiday décor\, an
+ d much much more\nVenue: Myrtle Beach Convention Center\nFrequency: once a
+  year\nSource: https://www.eventseye.com/fairs/f-dickens-christmas-show-an
+ d-festivals-30744-1.html
+LOCATION:Myrtle Beach\, SC\, USA
+URL:https://www.eventseye.com/fairs/f-dickens-christmas-show-and-festivals
+ -30744-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TANZANIA INTERNATIONAL TRADE SHOW — Dar Es Salaam\, Tanzania
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-tanzania-international-trade-show-20462-1@eventseye.impio-vault
+DESCRIPTION:Tanzania Trade Show is the biggest international trade fair fo
+ r Tanzania and East & Central Africa. Automotive\, IT\, Electronics\, Cons
+ truction\, Medical\, Pharmaceutical\, Food\, Hotel Supplies\, Consumer\, H
+ ousehold\, Industrial Machinery\, Packaging\, Printing...\nVenue: Diamond 
+ Jubilee Hall\nFrequency: once a year\nSource: https://www.eventseye.com/fa
+ irs/f-tanzania-international-trade-show-20462-1.html
+LOCATION:Dar Es Salaam\, Tanzania
+URL:https://www.eventseye.com/fairs/f-tanzania-international-trade-show-20
+ 462-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAK INDUSTRIAL EXO — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261117
+UID:f-pak-industrial-exo-27040-1@eventseye.impio-vault
+DESCRIPTION:Pakistan Industrial Fair. B2B Exhibition of Bearings\, Agricul
+ ture\, CNC\, Auto parts sectors... It is an important platform for economi
+ c and trade exchanges between enterprises in China and Pakistan\nVenue: Ex
+ po Centre Lahore\nFrequency: once a year\nSource: https://www.eventseye.co
+ m/fairs/f-pak-industrial-exo-27040-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-pak-industrial-exo-27040-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFRICA INDUSMACH - TANZANIA — Dar Es Salaam\, Tanzania
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-africa-indusmach-tanzania-19091-1@eventseye.impio-vault
+DESCRIPTION:INDUSMACH AFRICA - Tanzania is a mega industrial exhibition on
+  industrial products\, technologies\, machinery and related services. Expe
+ rience complete value chains and swap information with experts from a comp
+ lete spectrum of industrial sectors\nVenue: Diamond Jubilee Hall\nFrequenc
+ y: once a year\nSource: https://www.eventseye.com/fairs/f-africa-indusmach
+ -tanzania-19091-1.html
+LOCATION:Dar Es Salaam\, Tanzania
+URL:https://www.eventseye.com/fairs/f-africa-indusmach-tanzania-19091-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTW - CHINA TRADE WEEK - MOROCCO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-ctw-china-trade-week-morocco-26158-1@eventseye.impio-vault
+DESCRIPTION:China Trade Week - Morocco is an essential opportunity for any
+  business owners\, professional buyers\, wholesalers or import /export org
+ anizations who are seeking new sources for their products and services\nVe
+ nue: Anfa Park\nFrequency: once a year\nSource: https://www.eventseye.com/
+ fairs/f-ctw-china-trade-week-morocco-26158-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-morocco-26158-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KC HOLIDAY BOUTIQUE — Overland Park\, KS\, USA
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+UID:f-kc-holiday-boutique-28294-1@eventseye.impio-vault
+DESCRIPTION:Overland Park\, KS Holiday Fair. Holiday Decor\, Apparel\, Toy
+ s\, Treats and more!\nVenue: Overland Park Convention Center\nFrequency: o
+ nce a year\nSource: https://www.eventseye.com/fairs/f-kc-holiday-boutique-
+ 28294-1.html
+LOCATION:Overland Park\, KS\, USA
+URL:https://www.eventseye.com/fairs/f-kc-holiday-boutique-28294-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINTI MÄSS — Winterthur\, Switzerland
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+UID:f-winti-mass-17840-1@eventseye.impio-vault
+DESCRIPTION:Winterthur Winter Fair. Gastronomy\, Tastings\, Bakery worksho
+ ps\, live concerts... The Winti Mäss is Winterthur's traditional public f
+ air and attracts shoppers\, connoisseurs and explorers from the entire reg
+ ion\nVenue: Eulachhallen\nFrequency: once a year\nSource: https://www.even
+ tseye.com/fairs/f-winti-mass-17840-1.html
+LOCATION:Winterthur\, Switzerland
+URL:https://www.eventseye.com/fairs/f-winti-mass-17840-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREATER CINCINNATI HOLIDAY MARKET — Cincinnati\, OH\, USA
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-greater-cincinnati-holiday-market-28288-1@eventseye.impio-vault
+DESCRIPTION:Cincinnati\, OH Holiday Fair. Holiday Decor\, Apparel\, Toys\,
+  Treats and more!\nVenue: Duke Energy Convention Center\nFrequency: once a
+  year\nSource: https://www.eventseye.com/fairs/f-greater-cincinnati-holida
+ y-market-28288-1.html
+LOCATION:Cincinnati\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-greater-cincinnati-holiday-market-28
+ 288-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ENGIEXPO – INDUSTRIAL MACHINERY & ENGINEERING EXPO – PUNE — 
@@ -1552,23 +2028,6 @@ DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibiti
 LOCATION:Würzburg\, Germany
 URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.ht
  ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIMEC - SALON INDUSTRIEL DE LA MAURICIE\, ESTRIE ET DU CENTRE-DU-Q
- UÉBEC — Drummondville\, QC\, Canada
-DTSTART;VALUE=DATE:20260422
-DTEND;VALUE=DATE:20260424
-UID:f-simec-salon-industriel-de-la-mauricie-estrie-et-du-centre-du-quebec-
- 17602-1@eventseye.impio-vault
-DESCRIPTION:Industrial Expo in the Estrie region. The event brings togethe
- r distributors\, suppliers and service companies with the know-how needed 
- for development and growth of businesses in the region\nVenue: Centrexpo C
- ogeco Drummondville\nFrequency: every 2 years\nSource: https://www.eventse
- ye.com/fairs/f-simec-salon-industriel-de-la-mauricie-estrie-et-du-centre-d
- u-quebec-17602-1.html
-LOCATION:Drummondville\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-simec-salon-industriel-de-la-maurici
- e-estrie-et-du-centre-du-quebec-17602-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FERIA INTERNACIONAL DE COCHABAMBA — Cochabamba\, Bolivia
@@ -2097,6 +2556,20 @@ URL:https://www.eventseye.com/fairs/f-emsetech-manufacturing-expo-b2b-meet
  ings-32728-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOIRE D'AGEN — Agen\, France
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260601
+UID:f-foire-d-agen-22371-1@eventseye.impio-vault
+DESCRIPTION:Agen Fair. - Housing (houses\, construction\, landscaping\, sw
+ imming pools and spa)- Renewable Energies- Decoration\, Furnishing- Automo
+ bile\, Motorcycle\, Soft mobility\, Motorhome\, Leisure vehicle- Gourmet p
+ roducts- Services...\nVenue: Parc des expositions d'Agen\nFrequency: once 
+ a year\nSource: https://www.eventseye.com/fairs/f-foire-d-agen-22371-1.htm
+ l
+LOCATION:Agen\, France
+URL:https://www.eventseye.com/fairs/f-foire-d-agen-22371-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CCEME - CHANGSHA — Changsha\, China
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
@@ -2179,499 +2652,29 @@ LOCATION:Bucharest\, Romania
 URL:https://www.eventseye.com/fairs/f-tibco-2704-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FOIRE DU JURA — Delémont\, Switzerland
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261026
-UID:f-foire-du-jura-23489-1@eventseye.impio-vault
-DESCRIPTION:Fair of Jura. Meeting of craftsmen and industrialists from all
-  over Switzerland\nVenue: Le Comptoir Delémontain\nFrequency: once a year
- \nSource: https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
-LOCATION:Delémont\, Switzerland
-URL:https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
+SUMMARY:INTEC COIMBATORE — Coimbatore\, India
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260609
+UID:f-intec-coimbatore-8557-1@eventseye.impio-vault
+DESCRIPTION:India's international Machine Tools and Industrial Trade Fair\
+ nVenue: Codissia Trade Fair Complex\nFrequency: every 2 years\nSource: htt
+ ps://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
+LOCATION:Coimbatore\, India
+URL:https://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TAIWAN INDUSTRY WEEK — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-taiwan-industry-week-32759-1@eventseye.impio-vault
-DESCRIPTION:TAIWAN INDUSTRY WEEK includes 4 key international exhibitions.
-  - THS (Taiwan Hardware Industry)- IMT (Taiwan Metal Technology)- T-SAFE (
- Taiwan Occupational Safety)- HVAC (Taiwan RHVAC Industry)\nVenue: Taipei N
- angang Exhibition Center\nFrequency: once a year\nSource: https://www.even
- tseye.com/fairs/f-taiwan-industry-week-32759-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taiwan-industry-week-32759-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TITE X IHT TAIWAN INTERNATIONAL TOOLS & HARDWARE EXPO + INTERNATIO
- NAL HARDWARE EXPO — Taichung\, Taiwan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-tite-x-iht-taiwan-international-tools-hardware-expo-international-ha
- rdware-expo-33219-1@eventseye.impio-vault
-DESCRIPTION:TiTE x IHT Expo is an international tradeshow for the tools an
- d hardware sector\, drawing exhibitors and attendees from around the world
- . Tools & Accessories\, Metalworking\, Machinery & Processing\, Factory Eq
- uipment & Industrial Safety\, Automotive Repair...\nVenue: Greater Taichun
- g International Expo Center\nFrequency: once a year\nSource: https://www.e
- ventseye.com/fairs/f-tite-x-iht-taiwan-international-tools-hardware-expo-i
- nternational-hardware-expo-33219-1.html
-LOCATION:Taichung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-tite-x-iht-taiwan-international-tool
- s-hardware-expo-international-hardware-expo-33219-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ECO-EXPO KOREA — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-eco-expo-korea-21192-1@eventseye.impio-vault
-DESCRIPTION:Eco-Business Exhibition. Eco-Expo Korea encourages sustainable
-  lifestyles to realize green economy and sustainable development. It is he
- ld in parallel with eco-business meetings among suppliers\, public procure
- rs and distributors\nVenue: COEX Exhibition Center\nFrequency: once a year
- \nSource: https://www.eventseye.com/fairs/f-eco-expo-korea-21192-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-eco-expo-korea-21192-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFFERTA KARLSRUHE — Karlsruhe\, Germany
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261102
-UID:f-offerta-karlsruhe-25026-1@eventseye.impio-vault
-DESCRIPTION:Shopping & Leisure Fair for the Whole Family. Four thematic ar
- eas – leisure\, construction\, lifestyle and halls – spread across fou
- r halls and an outdoor area\nVenue: Messe Karlsruhe\nFrequency: once a yea
- r\nSource: https://www.eventseye.com/fairs/f-offerta-karlsruhe-25026-1.htm
- l
-LOCATION:Karlsruhe\, Germany
-URL:https://www.eventseye.com/fairs/f-offerta-karlsruhe-25026-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFRICA INTERNATIONAL EXPO — Milan\, Italy
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261029
-UID:f-africa-international-expo-32334-1@eventseye.impio-vault
-DESCRIPTION:Africa International Expo is the leading Italian event for dev
- eloping relationships and commercial contacts with Africa. Discover servic
- es and opportunities to develop your business in the African market\nVenue
- : Milan Marriott Hotel Convention & Exhibition Center\nFrequency: once a y
- ear\nSource: https://www.eventseye.com/fairs/f-africa-international-expo-3
- 2334-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-africa-international-expo-32334-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMATION & TESTING NORD EST — Vicenza\, Italy
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automation-testing-nord-est-33365-1@eventseye.impio-vault
-DESCRIPTION:A&T is dedicated to entrepreneurs\, managers\, technicians and
-  researchers from companies in northwestern Italy. Automation & Mechatroni
- cs\, Electronics & Electromechanics\, Household Appliances\, Air condition
- ing & Refrigeration...\nVenue: Fiera di Vicenza\nFrequency: once a year\nS
- ource: https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365
- -1.html
-LOCATION:Vicenza\, Italy
-URL:https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO INDUSTRIA — Vicenza\, Italy
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261031
-UID:f-expo-industria-33366-1@eventseye.impio-vault
-DESCRIPTION:Vicenza Industrial Fair. Understand new trends\, evaluate new 
- services\, and improve the quality and performance of your business\nVenue
- : Fiera di Vicenza\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-expo-industria-33366-1.html
-LOCATION:Vicenza\, Italy
-URL:https://www.eventseye.com/fairs/f-expo-industria-33366-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LATIN AMERICA EXPO — Milan\, Italy
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261029
-UID:f-latin-america-expo-32335-1@eventseye.impio-vault
-DESCRIPTION:America Latina Expo is the leading Italian event for developin
- g relationships and commercial contacts with Latin America. Discover servi
- ces and opportunities to grow your business in Latin American markets\nVen
- ue: Milan Marriott Hotel Convention & Exhibition Center\nFrequency: once a
-  year\nSource: https://www.eventseye.com/fairs/f-latin-america-expo-32335-
- 1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-latin-america-expo-32335-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BHARAT GLOBAL CULTURAL EXPO — Bangalore\, India
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-bharat-global-cultural-expo-33102-1@eventseye.impio-vault
-DESCRIPTION:The Bharat Global Cultural Expo is a prestigious event taking 
- place in the vibrant city of Bangalore. As a global platform\, it brings t
- ogether industries\, government bodies\, and cultural institutions from ar
- ound the world under one roof\nVenue: Bengaluru Palace\nFrequency: twice a
-  year\nSource: https://www.eventseye.com/fairs/f-bharat-global-cultural-ex
- po-33102-1.html
-LOCATION:Bangalore\, India
-URL:https://www.eventseye.com/fairs/f-bharat-global-cultural-expo-33102-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIG SABAH SALE — Kota Kinabalu (Borneo)\, Malaysia
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-big-sabah-sale-33292-1@eventseye.impio-vault
-DESCRIPTION:Big Sabah Sale is the big trade fair in Kota Kinabalu (Borneo)
- . Fashion & Lifestyle\, Gastronomy\, Home Living & Decor...\nVenue: SICC -
-  Sabah International Convention Centre\nFrequency: once a year\nSource: ht
- tps://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
-LOCATION:Kota Kinabalu (Borneo)\, Malaysia
-URL:https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261109
-UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\
- , Shopping\, Gastronomy\, leisure and local life\nVenue: Alpexpo\nFrequenc
- y: once a year\nSource: https://www.eventseye.com/fairs/f-foire-internatio
- nale-de-grenoble-1034-1.html
-LOCATION:Grenoble\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-103
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONSUMENTA NÜRNBERG — Nuremberg\, Germany
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261109
-UID:f-consumenta-nurnberg-513-1@eventseye.impio-vault
-DESCRIPTION:South Germany's largest and most successful shopping fair. Con
- struction\, Living\, Household\, Hobby\, Health and Pleasure Sectors\nVenu
- e: Exhibition Centre Nuremberg\nFrequency: once a year\nSource: https://ww
- w.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
-LOCATION:Nuremberg\, Germany
-URL:https://www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE ET GASTRONOMIQUE DE DIJON — Dijon\, France
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261112
-UID:f-foire-internationale-et-gastronomique-de-dijon-22422-1@eventseye.imp
- io-vault
-DESCRIPTION:The Dijon Gastronomic Fair is a popular event awaited with ent
- husiasm and curiosity each year by its many visitors and exhibitors\nVenue
- : Parc des Expositions et Congrès de Dijon\nFrequency: once a year\nSourc
- e: https://www.eventseye.com/fairs/f-foire-internationale-et-gastronomique
- -de-dijon-22422-1.html
-LOCATION:Dijon\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-et-gastronomiqu
- e-de-dijon-22422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENGINEERING ASIA - LAHORE — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-engineering-asia-lahore-28141-1@eventseye.impio-vault
-DESCRIPTION:Engineering Asia International Exhibition aims at developing a
- nd promoting every sphere of engineering sector in Pakistan through inter 
- & intra industrial cooperation and joint ventures among local and foreign 
- partners\nVenue: Expo Centre Lahore\nFrequency: every 2 years\nSource: htt
- ps://www.eventseye.com/fairs/f-engineering-asia-lahore-28141-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-engineering-asia-lahore-28141-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ITIF ASIA — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-itif-asia-7926-1@eventseye.impio-vault
-DESCRIPTION:International Trade & Industry Fair of Pakistan. ITIF Asia aim
- s to focus on the immense potential of industrial machinery tools equipmen
- ts\, automotive power plants\, automobile industry machines\, raw material
-  supplies etc.\nVenue: Expo Centre Lahore\nFrequency: once a year\nSource:
-  https://www.eventseye.com/fairs/f-itif-asia-7926-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-itif-asia-7926-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW INDUSTRY WEEK – INDUSTRIAL MACHINES AND EQUIPMENT FAIR 
- — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-warsaw-industry-week-industrial-machines-and-equipment-fair-25203-1@
- eventseye.impio-vault
-DESCRIPTION:Warsaw Industry Week – Industrial Machines & Equipment Fair.
-  Machinery & equipment for metal and wood works\, plastics processing\, au
- tomation\, robotization of industrial processes\, software\, industrial me
- thodology\, cutting\, grinding\, R&D\, workplace health\nVenue: Ptak Warsa
- w Expo\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-
- warsaw-industry-week-industrial-machines-and-equipment-fair-25203-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-industry-week-industrial-mach
- ines-and-equipment-fair-25203-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADVANCED MANUFACTURING - MADRID — Madrid\, Spain
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261106
-UID:f-advanced-manufacturing-madrid-31868-1@eventseye.impio-vault
-DESCRIPTION:The leading event in industrial innovation\; Manufacturing\, m
- achining and metal processing\; Robotics and automation and the only event
-  on composite materials and their applications in Spain\nVenue: Ifema - Pa
- rque Ferial Juan Carlos I\nFrequency: once a year\nSource: https://www.eve
- ntseye.com/fairs/f-advanced-manufacturing-madrid-31868-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-advanced-manufacturing-madrid-31868-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIMF - VIETNAM INDUSTRIAL & MANUFACTURING FAIR — Bac Ninh\, Viet
- nam
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261107
-UID:f-vimf-vietnam-industrial-manufacturing-fair-26383-1@eventseye.impio-v
- ault
-DESCRIPTION:Vietnam Industrial & Manufacturing Fair. Specialized high prof
- ile event on technologies\, equipment's\, machines & tools\, system\, indu
- stry materials and engineering services for manufacturing\, metalworking a
- nd subcontracting industries...\nVenue: Kinh Bac Cultural Center\nFrequenc
- y: once a year\nSource: https://www.eventseye.com/fairs/f-vimf-vietnam-ind
- ustrial-manufacturing-fair-26383-1.html
-LOCATION:Bac Ninh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vimf-vietnam-industrial-manufacturin
- g-fair-26383-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDUSTRY EXPO & B2B MEETINGS — Arad\, Romania
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-UID:f-industry-expo-b2b-meetings-32730-1@eventseye.impio-vault
-DESCRIPTION:Industry Expo & B2B Meetings is the leading B2B Industrial Tra
- de Fair in Romania\, organized with the purpose of development and improve
- ment of business relations\, dedicated to industrial manufacturing profess
- ionals\, buyers\, suppliers and sub-suppliers\nVenue: Expo  Arad Internati
- onal\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- dustry-expo-b2b-meetings-32730-1.html
-LOCATION:Arad\, Romania
-URL:https://www.eventseye.com/fairs/f-industry-expo-b2b-meetings-32730-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DES MOINES HOLIDAY BOUTIQUE — Des Moines\, IA\, USA
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-des-moines-holiday-boutique-28289-1@eventseye.impio-vault
-DESCRIPTION:Des Moines\, IA Holiday Fair. Holiday Decor\, Apparel\, Toys\,
-  Treats and more!\nVenue: Iowa Events Center\nFrequency: once a year\nSour
- ce: https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.
- html
-LOCATION:Des Moines\, IA\, USA
-URL:https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LES AUTOMNALES — Geneve\, Switzerland
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261116
-UID:f-les-automnales-5040-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Geneva. House\, wellness\, leisure\, fla
- vors. Exhibitors\, workshops and animations await you\nVenue: Palexpo\nFre
- quency: once a year\nSource: https://www.eventseye.com/fairs/f-les-automna
- les-5040-1.html
-LOCATION:Geneve\, Switzerland
-URL:https://www.eventseye.com/fairs/f-les-automnales-5040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTERFAIR HARDENGERG — Hardenberg\, Netherlands
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-winterfair-hardengerg-31962-1@eventseye.impio-vault
-DESCRIPTION:Hardenberg Winter Fair. Shopping\, fashion\, home accessories\
- , beauty\, jewelry\, gastronomy\, cooking and baking demonstrations\, crea
- tive hobbies...\nVenue: Evenementenhal Hardenberg\nFrequency: once a year\
- nSource: https://www.eventseye.com/fairs/f-winterfair-hardengerg-31962-1.h
- tml
-LOCATION:Hardenberg\, Netherlands
-URL:https://www.eventseye.com/fairs/f-winterfair-hardengerg-31962-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3D ADDITIVE EXPO — Batalha\, Portugal
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261114
-UID:f-3d-additive-expo-27148-1@eventseye.impio-vault
-DESCRIPTION:Trade show of 3D printing and additive manufacturing technolog
- ies. The largest show of affordable 3D printers and scanners in one place 
- & The leading Czech manufacturers of filaments with their novelties\nVenue
- : Batalha Centro de Exposições\nFrequency: once a year\nSource: https://
- www.eventseye.com/fairs/f-3d-additive-expo-27148-1.html
-LOCATION:Batalha\, Portugal
-URL:https://www.eventseye.com/fairs/f-3d-additive-expo-27148-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS GIFT + HOBBY SHOW — Indianapolis\, IN\, USA
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261116
-UID:f-christmas-gift-hobby-show-28293-1@eventseye.impio-vault
-DESCRIPTION:Indianapolis\, IN Christmas Gift & Hobby Show. From clothes to
-  toys and everything in-between\nVenue: Indiana State Fairgrounds\nFrequen
- cy: once a year\nSource: https://www.eventseye.com/fairs/f-christmas-gift-
- hobby-show-28293-1.html
-LOCATION:Indianapolis\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-christmas-gift-hobby-show-28293-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I4.0 EXPO — Batalha\, Portugal
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261114
-UID:f-i4.0-expo-27147-1@eventseye.impio-vault
-DESCRIPTION:I4.0EXPO - Industry 4.0\, Automation and Robotics Exhibition i
- s the stage for all companies that follow the digital evolution and presen
- t proposals for the optimization of industrial processes\nVenue: Batalha C
- entro de Exposições\nFrequency: once a year\nSource: https://www.eventse
- ye.com/fairs/f-i4.0-expo-27147-1.html
-LOCATION:Batalha\, Portugal
-URL:https://www.eventseye.com/fairs/f-i4.0-expo-27147-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBCONTRATAÇÃO — Batalha\, Portugal
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261114
-UID:f-subcontratacao-27149-1@eventseye.impio-vault
-DESCRIPTION:SUBCONTRATAÇÃO is dedicated to the large universe of compani
- es of manufacturing/production processes such as casting\, mechanization o
- f parts\, molds\, dies\, surface treatment\, welding\, and many others\nVe
- nue: Batalha Centro de Exposições\nFrequency: once a year\nSource: https
- ://www.eventseye.com/fairs/f-subcontratacao-27149-1.html
-LOCATION:Batalha\, Portugal
-URL:https://www.eventseye.com/fairs/f-subcontratacao-27149-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DICKENS CHRISTMAS SHOW AND FESTIVALS — Myrtle Beach\, SC\, USA
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-UID:f-dickens-christmas-show-and-festivals-30744-1@eventseye.impio-vault
-DESCRIPTION:The Dickens Christmas Show & Festivals comprises a multitude o
- f shopping and entertainment options\, for individuals and groups alike. J
- ewelry\, crafts\, gifts\, toys\, art\, gourmet foods\, holiday décor\, an
- d much much more\nVenue: Myrtle Beach Convention Center\nFrequency: once a
-  year\nSource: https://www.eventseye.com/fairs/f-dickens-christmas-show-an
- d-festivals-30744-1.html
-LOCATION:Myrtle Beach\, SC\, USA
-URL:https://www.eventseye.com/fairs/f-dickens-christmas-show-and-festivals
- -30744-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TANZANIA INTERNATIONAL TRADE SHOW — Dar Es Salaam\, Tanzania
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-tanzania-international-trade-show-20462-1@eventseye.impio-vault
-DESCRIPTION:Tanzania Trade Show is the biggest international trade fair fo
- r Tanzania and East & Central Africa. Automotive\, IT\, Electronics\, Cons
- truction\, Medical\, Pharmaceutical\, Food\, Hotel Supplies\, Consumer\, H
- ousehold\, Industrial Machinery\, Packaging\, Printing...\nVenue: Diamond 
- Jubilee Hall\nFrequency: once a year\nSource: https://www.eventseye.com/fa
- irs/f-tanzania-international-trade-show-20462-1.html
-LOCATION:Dar Es Salaam\, Tanzania
-URL:https://www.eventseye.com/fairs/f-tanzania-international-trade-show-20
- 462-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAK INDUSTRIAL EXO — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261117
-UID:f-pak-industrial-exo-27040-1@eventseye.impio-vault
-DESCRIPTION:Pakistan Industrial Fair. B2B Exhibition of Bearings\, Agricul
- ture\, CNC\, Auto parts sectors... It is an important platform for economi
- c and trade exchanges between enterprises in China and Pakistan\nVenue: Ex
- po Centre Lahore\nFrequency: once a year\nSource: https://www.eventseye.co
- m/fairs/f-pak-industrial-exo-27040-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-pak-industrial-exo-27040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFRICA INDUSMACH - TANZANIA — Dar Es Salaam\, Tanzania
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-africa-indusmach-tanzania-19091-1@eventseye.impio-vault
-DESCRIPTION:INDUSMACH AFRICA - Tanzania is a mega industrial exhibition on
-  industrial products\, technologies\, machinery and related services. Expe
- rience complete value chains and swap information with experts from a comp
- lete spectrum of industrial sectors\nVenue: Diamond Jubilee Hall\nFrequenc
- y: once a year\nSource: https://www.eventseye.com/fairs/f-africa-indusmach
- -tanzania-19091-1.html
-LOCATION:Dar Es Salaam\, Tanzania
-URL:https://www.eventseye.com/fairs/f-africa-indusmach-tanzania-19091-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTW - CHINA TRADE WEEK - MOROCCO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-ctw-china-trade-week-morocco-26158-1@eventseye.impio-vault
-DESCRIPTION:China Trade Week - Morocco is an essential opportunity for any
-  business owners\, professional buyers\, wholesalers or import /export org
- anizations who are seeking new sources for their products and services\nVe
- nue: Anfa Park\nFrequency: once a year\nSource: https://www.eventseye.com/
- fairs/f-ctw-china-trade-week-morocco-26158-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-morocco-26158-1
+SUMMARY:FOIRE EXPOSITION DE PICARDIE — Amiens\, France
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260615
+UID:f-foire-exposition-de-picardie-19736-1@eventseye.impio-vault
+DESCRIPTION:Picardy International Fair. Housing\, Furnishing\, Furniture\,
+  Garden\, Swimming pool\, Tourism & Leisure\, Sport\, Auto\, Motorhome\, W
+ ine\, Gastronomy\, Shopping\, Crafts\, Women's well-being\, etc.\nVenue: M
+ égaCité\nFrequency: once a year\nSource: https://www.eventseye.com/fairs
+ /f-foire-exposition-de-picardie-19736-1.html
+LOCATION:Amiens\, France
+URL:https://www.eventseye.com/fairs/f-foire-exposition-de-picardie-19736-1
  .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KC HOLIDAY BOUTIQUE — Overland Park\, KS\, USA
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261123
-UID:f-kc-holiday-boutique-28294-1@eventseye.impio-vault
-DESCRIPTION:Overland Park\, KS Holiday Fair. Holiday Decor\, Apparel\, Toy
- s\, Treats and more!\nVenue: Overland Park Convention Center\nFrequency: o
- nce a year\nSource: https://www.eventseye.com/fairs/f-kc-holiday-boutique-
- 28294-1.html
-LOCATION:Overland Park\, KS\, USA
-URL:https://www.eventseye.com/fairs/f-kc-holiday-boutique-28294-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTI MÄSS — Winterthur\, Switzerland
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261123
-UID:f-winti-mass-17840-1@eventseye.impio-vault
-DESCRIPTION:Winterthur Winter Fair. Gastronomy\, Tastings\, Bakery worksho
- ps\, live concerts... The Winti Mäss is Winterthur's traditional public f
- air and attracts shoppers\, connoisseurs and explorers from the entire reg
- ion\nVenue: Eulachhallen\nFrequency: once a year\nSource: https://www.even
- tseye.com/fairs/f-winti-mass-17840-1.html
-LOCATION:Winterthur\, Switzerland
-URL:https://www.eventseye.com/fairs/f-winti-mass-17840-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GREATER CINCINNATI HOLIDAY MARKET — Cincinnati\, OH\, USA
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-greater-cincinnati-holiday-market-28288-1@eventseye.impio-vault
-DESCRIPTION:Cincinnati\, OH Holiday Fair. Holiday Decor\, Apparel\, Toys\,
-  Treats and more!\nVenue: Duke Energy Convention Center\nFrequency: once a
-  year\nSource: https://www.eventseye.com/fairs/f-greater-cincinnati-holida
- y-market-28288-1.html
-LOCATION:Cincinnati\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-greater-cincinnati-holiday-market-28
- 288-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOMBASA INTERNATIONAL SHOW (MIS) — Mombasa\, Kenya
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260907
-UID:f-mombasa-international-show-(mis)-18868-1@eventseye.impio-vault
-DESCRIPTION:Mombasa International Show. MOMBASA INTERNATIONAL SHOW (MIS) e
- xhibitors are from the following industries:- Agriculture\, Manufacturing\
- , Tourism related Enterprises\, Fishing Industry\, Banking sector\, Import
-  & Export\, Transport and communication\nVenue: ASK Jomo Kenyatta Showgrou
- nd\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-momb
- asa-international-show-(mis)-18868-1.html
-LOCATION:Mombasa\, Kenya
-URL:https://www.eventseye.com/fairs/f-mombasa-international-show-(mis)-188
- 68-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZOM WETZIKON — Wetzikon\, Switzerland
@@ -3264,6 +3267,17 @@ DESCRIPTION:TRADE EXPO INDONESIA is an international B2B-focused tradeshow
  ml
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-trade-expo-indonesia-25668-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DU JURA — Delémont\, Switzerland
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261026
+UID:f-foire-du-jura-23489-1@eventseye.impio-vault
+DESCRIPTION:Fair of Jura. Meeting of craftsmen and industrialists from all
+  over Switzerland\nVenue: Le Comptoir Delémontain\nFrequency: once a year
+ \nSource: https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
+LOCATION:Delémont\, Switzerland
+URL:https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HI-INDUSTRIMESSEN — Herning\, Denmark

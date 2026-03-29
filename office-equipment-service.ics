@@ -2,66 +2,63 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IMPIO Content Vault//EventsEye Trade Shows//EN
 CALSCALE:GREGORIAN
-X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Even
- tsEye.com
 X-WR-CALNAME:Office Equipment & service
+X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Event
+ sEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:SCHOOL AND NURSERY EQUIPMENT EXHIBITION — Poznan\, Poland
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260304
-UID:f-school-and-nursery-equipment-exhibition-13696-1@eventseye.impio-vaul
- t
-DESCRIPTION:School and Nursery Equipment Exhibition. An international trad
- e show for stationery\, education\, and training\nVenue: Poznan Congress C
- enter\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-s
- chool-and-nursery-equipment-exhibition-13696-1.html
+UID:f-school-and-nursery-equipment-exhibition-13696-1@eventseye.impio-vault
+DESCRIPTION:School and Nursery Equipment Exhibition. An international trade
+  show for stationery\, education\, and training\\nVenue: Poznan Congress C
+ enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -school-and-nursery-equipment-exhibition-13696-1.html
 LOCATION:Poznan\, Poland
-URL:https://www.eventseye.com/fairs/f-school-and-nursery-equipment-exhibit
- ion-13696-1.html
+URL:https://www.eventseye.com/fairs/f-school-and-nursery-equipment-exhibiti
+ on-13696-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVA
- IL — Paris\, France
+SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
+ L — Paris\, France
 DTSTART;VALUE=DATE:20260324
 DTEND;VALUE=DATE:20260327
-UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail
- -16798-1@eventseye.impio-vault
-DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the enti
- re range of services\, multi-service and multi-technical real estate to no
- n-production buyers and Work Environment Directors of companies and commun
- ities\nVenue: Paris Expo Porte de Versailles\nFrequency: once a year\nSour
- ce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-
- et-de-l-environnement-de-travail-16798-1.html
+UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail-16798-1@eventseye.impio-vault
+DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the entir
+ e range of services\, multi-service and multi-technical real estate to non
+ -production buyers and Work Environment Directors of companies and communi
+ ties\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-productio
+ n-et-de-l-environnement-de-travail-16798-1.html
 LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-
- et-de-l-environnement-de-travail-16798-1.html
+URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-e
+ t-de-l-environnement-de-travail-16798-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCHOOL & OFFICE LIVE CHINA — Ningbo\, China
 DTSTART;VALUE=DATE:20260325
 DTEND;VALUE=DATE:20260328
 UID:f-school-office-live-china-33911-1@eventseye.impio-vault
-DESCRIPTION:China (Ningbo) International Stationery Industry Fair\, coveri
- ng the four fields of office\, school\, art and life\, and the whole indus
- trial chain. Ningbo is the global stationery manufacturing and trade cente
- r and the stationery capital of China\nVenue: Ningbo International Confere
- nce & Exhibition Center\nFrequency: once a year\nSource: https://www.event
- seye.com/fairs/f-school-office-live-china-33911-1.html
+DESCRIPTION:China (Ningbo) International Stationery Industry Fair\, coverin
+ g the four fields of office\, school\, art and life\, and the whole indust
+ rial chain. Ningbo is the global stationery manufacturing and trade center
+  and the stationery capital of China\\nVenue: Ningbo International Confere
+ nce & Exhibition Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-school-office-live-china-33911-1.html
 LOCATION:Ningbo\, China
-URL:https://www.eventseye.com/fairs/f-school-office-live-china-33911-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-school-office-live-china-33911-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260418
 UID:f-oceans-fairs-32060-1@eventseye.impio-vault
-DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wi
- th manufacturers and wholesalers of thousands of products. Beauty\, Toys\,
-  School\, Electric Car & Motorcycle\, Machinery...\nVenue: International C
- enter Tijuana\nFrequency: 3 times a year\nSource: https://www.eventseye.co
- m/fairs/f-oceans-fairs-32060-1.html
+DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wit
+ h manufacturers and wholesalers of thousands of products. Beauty\, Toys\, 
+ School\, Electric Car & Motorcycle\, Machinery...\\nVenue: International C
+ enter Tijuana\\nFrequency: 3 times a year\\nSource: https://www.eventseye.
+ com/fairs/f-oceans-fairs-32060-1.html
 LOCATION:Tijuana\, Mexico
 URL:https://www.eventseye.com/fairs/f-oceans-fairs-32060-1.html
 END:VEVENT
@@ -70,12 +67,12 @@ SUMMARY:READYSTOCK — Warsaw\, Poland
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260417
 UID:f-readystock-29549-1@eventseye.impio-vault
-DESCRIPTION:Readystock is an international\, multi-industry fair of ready-
- to-sell products fro. various industries. Among them\, e.g. household appl
- iances\, decorations\, gifts\, toys\, tools\, cosmetics\, chemicals\, groc
- eries\, office\, school and advertising articles\nVenue: PGE Narodowy Stad
- ium\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-rea
- dystock-29549-1.html
+DESCRIPTION:Readystock is an international\, multi-industry fair of ready-t
+ o-sell products fro. various industries. Among them\, e.g. household appli
+ ances\, decorations\, gifts\, toys\, tools\, cosmetics\, chemicals\, groce
+ ries\, office\, school and advertising articles\\nVenue: PGE Narodowy Stad
+ ium\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-r
+ eadystock-29549-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-readystock-29549-1.html
 END:VEVENT
@@ -84,43 +81,42 @@ SUMMARY:DESIGNED GIFTIONERY TAIPEI — Taipei\, Taiwan
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260420
 UID:f-designed-giftionery-taipei-4298-1@eventseye.impio-vault
-DESCRIPTION:Taipei International Gift & Stationery Spring Show. Elevate yo
- ur brand in a world of exceptional gifts\, stationery\, and home décor\, 
- and unlock a lifestyle that embraces uniqueness and style\nVenue: Taipei W
- orld Trade Center (TWTC)\nFrequency: once a year\nSource: https://www.even
- tseye.com/fairs/f-designed-giftionery-taipei-4298-1.html
+DESCRIPTION:Taipei International Gift & Stationery Spring Show. Elevate you
+ r brand in a world of exceptional gifts\, stationery\, and home décor\, a
+ nd unlock a lifestyle that embraces uniqueness and style\\nVenue: Taipei W
+ orld Trade Center (TWTC)\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-designed-giftionery-taipei-4298-1.html
 LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-designed-giftionery-taipei-4298-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-designed-giftionery-taipei-4298-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BJKSE (BEIJING INTERNATIONAL PRESCHOOL TOOLS & KINDERGARTEN SUPPLI
- E EXHIBITION) — Beijing\, China
+SUMMARY:BJKSE (BEIJING INTERNATIONAL PRESCHOOL TOOLS & KINDERGARTEN SUPPLIE
+  EXHIBITION) — Beijing\, China
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260512
-UID:f-bjkse-(beijing-international-preschool-tools-kindergarten-supplie-ex
- hibition)-33885-1@eventseye.impio-vault
-DESCRIPTION:As one of the world’s biggest exhibition in Early Childhood 
- Education and Care\, this expo features the world’s most diverse and com
- plet. collection of ECEC commodities\, including Educational toys\, equipm
- ent\, books\, teaching aids\, childcare services...\nFrequency: once a yea
- r\nSource: https://www.eventseye.com/fairs/f-bjkse-(beijing-international-
- preschool-tools-kindergarten-supplie-exhibition)-33885-1.html
+UID:f-bjkse-(beijing-international-preschool-tools-kindergarten-supplie-exhibition)-33885-1@eventseye.impio-vault
+DESCRIPTION:As one of the world’s biggest exhibition in Early Childhood E
+ ducation and Care\, this expo features the world’s most diverse and comp
+ let. collection of ECEC commodities\, including Educational toys\, equipme
+ nt\, books\, teaching aids\, childcare services...\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-bjkse-(beijing-international
+ -preschool-tools-kindergarten-supplie-exhibition)-33885-1.html
 LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-bjkse-(beijing-international-prescho
- ol-tools-kindergarten-supplie-exhibition)-33885-1.html
+URL:https://www.eventseye.com/fairs/f-bjkse-(beijing-international-preschoo
+ l-tools-kindergarten-supplie-exhibition)-33885-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WORKSPACE EXPO EGYPT — Cairo\, Egypt
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260517
 UID:f-workspace-expo-egypt-30332-1@eventseye.impio-vault
-DESCRIPTION:The "Workspace Projects & Design Solutions Exhibition” is th
- e only event in Egypt & Middle East specialized for showcasing the latest 
- mega administrative & workspace projects with recent unique design solutio
- ns in a business environment\nVenue: EIEC (Egypt International Exhibition 
- Center)\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f
- -workspace-expo-egypt-30332-1.html
+DESCRIPTION:The "Workspace Projects & Design Solutions Exhibition” is the
+  only event in Egypt & Middle East specialized for showcasing the latest m
+ ega administrative & workspace projects with recent unique design solution
+ s in a business environment\\nVenue: EIEC (Egypt International Exhibition 
+ Center)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-workspace-expo-egypt-30332-1.html
 LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-workspace-expo-egypt-30332-1.html
 END:VEVENT
@@ -129,26 +125,26 @@ SUMMARY:CHINA YIWU STATIONERY & GIFT EXHIBITION — Yiwu\, China
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260606
 UID:f-china-yiwu-stationery-gift-exhibition-33815-1@eventseye.impio-vault
-DESCRIPTION:Yiwu (China) international Stationery & Gift Fair. Stationery 
- and office supplies\, creative cultural products and trendy toys\, as well
-  as art supplies\nVenue: Yiwu International Expo Center\nFrequency: once a
-  year\nSource: https://www.eventseye.com/fairs/f-china-yiwu-stationery-gif
- t-exhibition-33815-1.html
+DESCRIPTION:Yiwu (China) international Stationery & Gift Fair. Stationery a
+ nd office supplies\, creative cultural products and trendy toys\, as well 
+ as art supplies\\nVenue: Yiwu International Expo Center\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-china-yiwu-stationery-g
+ ift-exhibition-33815-1.html
 LOCATION:Yiwu\, China
-URL:https://www.eventseye.com/fairs/f-china-yiwu-stationery-gift-exhibitio
- n-33815-1.html
+URL:https://www.eventseye.com/fairs/f-china-yiwu-stationery-gift-exhibition
+ -33815-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPER ONE SHOW UAE — Abu Dhabi\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260606
 UID:f-paper-one-show-uae-28768-1@eventseye.impio-vault
-DESCRIPTION:International paper exhibition in the MENA region. Paper One S
- how is dedicated to all kinds of paper and paper manufacturing\, paper jum
- bo rolls\, finished products\, printing\, writing\, tissue\, and hygienic 
- paper\, converters\, cartons\, paperboard\, and more\nVenue: Abu-Dhabi Nat
- ional Exhibition Center - ADNEC\nFrequency: once a year\nSource: https://w
- ww.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
+DESCRIPTION:International paper exhibition in the MENA region. Paper One Sh
+ ow is dedicated to all kinds of paper and paper manufacturing\, paper jumb
+ o rolls\, finished products\, printing\, writing\, tissue\, and hygienic p
+ aper\, converters\, cartons\, paperboard\, and more\\nVenue: Abu-Dhabi Nat
+ ional Exhibition Center - ADNEC\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
 LOCATION:Abu Dhabi\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
 END:VEVENT
@@ -157,56 +153,55 @@ SUMMARY:CENTRAL ASIA OFFICE — Almaty\, Kazakhstan
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260625
 UID:f-central-asia-office-21598-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Office Equipments\, Design\, Stat
- ionery and Promotional Gift\nVenue: Atakent International Exhibition Centr
- e\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-centr
- al-asia-office-21598-1.html
+DESCRIPTION:International Exhibition for Office Equipments\, Design\, Stati
+ onery and Promotional Gift\\nVenue: Atakent International Exhibition Centr
+ e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cen
+ tral-asia-office-21598-1.html
 LOCATION:Almaty\, Kazakhstan
 URL:https://www.eventseye.com/fairs/f-central-asia-office-21598-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ISOT - INTERNATIONAL STATIONERY & OFFICE PRODUCTS FAIR TOKYO — T
- okyo\, Japan
+SUMMARY:ISOT - INTERNATIONAL STATIONERY & OFFICE PRODUCTS FAIR TOKYO — To
+ kyo\, Japan
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260627
-UID:f-isot-international-stationery-office-products-fair-tokyo-6734-1@even
- tseye.impio-vault
-DESCRIPTION:ISOT - International Stationery & Office Products Fair- is Jap
- an's largest and longest-running trade show for stationery. The prestigiou
- s STATIONERY OF THE YEAR AWARD attracts extensive media coverage and stati
- onery enthusiasts from all over Japan\nVenue: Tokyo International Exhibiti
- on Center (Tokyo Big Sight)\nFrequency: once a year\nSource: https://www.e
- ventseye.com/fairs/f-isot-international-stationery-office-products-fair-to
- kyo-6734-1.html
+UID:f-isot-international-stationery-office-products-fair-tokyo-6734-1@eventseye.impio-vault
+DESCRIPTION:ISOT - International Stationery & Office Products Fair- is Japa
+ n's largest and longest-running trade show for stationery. The prestigious
+  STATIONERY OF THE YEAR AWARD attracts extensive media coverage and statio
+ nery enthusiasts from all over Japan\\nVenue: Tokyo International Exhibiti
+ on Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-isot-international-stationery-office-products-fair-
+ tokyo-6734-1.html
 LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-isot-international-stationery-office
- -products-fair-tokyo-6734-1.html
+URL:https://www.eventseye.com/fairs/f-isot-international-stationery-office-
+ products-fair-tokyo-6734-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIFESTYLE WEEK JAPAN - TOKYO - SUMMER — Tokyo\, Japan
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260627
 UID:f-lifestyle-week-japan-tokyo-summer-27841-1@eventseye.impio-vault
-DESCRIPTION:LIFESTYLE Week is a comprehensive lifestyle exhibition consist
- ed of specialised shows\, covering gifts\, interior goods\, stationery\, f
- ashion goods\, beauty & healthcare products\, food gifts\, etc.\nVenue: To
- kyo International Exhibition Center (Tokyo Big Sight)\nFrequency: once a y
- ear\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-
- summer-27841-1.html
+DESCRIPTION:LIFESTYLE Week is a comprehensive lifestyle exhibition consiste
+ d of specialised shows\, covering gifts\, interior goods\, stationery\, fa
+ shion goods\, beauty & healthcare products\, food gifts\, etc.\\nVenue: To
+ kyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-toky
+ o-summer-27841-1.html
 LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-summer-27
- 841-1.html
+URL:https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-summer-278
+ 41-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MALAYSIA GIFTS FAIR — Kuala Lumpur\, Malaysia
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260703
 UID:f-malaysia-gifts-fair-13848-1@eventseye.impio-vault
-DESCRIPTION:Since 2009\, the Malaysia Gifts Fair has evolved into ASEAN’
- s largest and most influential gifting event. A premier platform for the g
- ifting and premium industry\, where innovation meets sustainability\nVenue
- : Kuala Lumpur Convention Centre (KLCC)\nFrequency: once a year\nSource: h
- ttps://www.eventseye.com/fairs/f-malaysia-gifts-fair-13848-1.html
+DESCRIPTION:Since 2009\, the Malaysia Gifts Fair has evolved into ASEAN’s
+  largest and most influential gifting event. A premier platform for the gi
+ fting and premium industry\, where innovation meets sustainability\\nVenue
+ : Kuala Lumpur Convention Centre (KLCC)\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-malaysia-gifts-fair-13848-1.html
 LOCATION:Kuala Lumpur\, Malaysia
 URL:https://www.eventseye.com/fairs/f-malaysia-gifts-fair-13848-1.html
 END:VEVENT
@@ -215,12 +210,12 @@ SUMMARY:HONG KONG BOOK FAIR — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260722
 UID:f-hong-kong-book-fair-7859-1@eventseye.impio-vault
-DESCRIPTION:Hong Kong Book Fair features Books and Publications\, Children
- 's and Teen's Books\, Religious Books\, e-Books & e-Learning Resources\, A
- udio Visual Learning Aids\, Educational Software\, Multimedia Products\, S
- tationery and Printed Products\nVenue: Hong Kong Convention & Exhibition C
- entre\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-h
- ong-kong-book-fair-7859-1.html
+DESCRIPTION:Hong Kong Book Fair features Books and Publications\, Children'
+ s and Teen's Books\, Religious Books\, e-Books & e-Learning Resources\, Au
+ dio Visual Learning Aids\, Educational Software\, Multimedia Products\, St
+ ationery and Printed Products\\nVenue: Hong Kong Convention & Exhibition C
+ entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -hong-kong-book-fair-7859-1.html
 LOCATION:Hong Kong\, Hong Kong
 URL:https://www.eventseye.com/fairs/f-hong-kong-book-fair-7859-1.html
 END:VEVENT
@@ -229,11 +224,11 @@ SUMMARY:VIETOFFICE — Ho Chi Minh\, Vietnam
 DTSTART;VALUE=DATE:20260730
 DTEND;VALUE=DATE:20260802
 UID:f-vietoffice-31090-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Smart Office Solutions\, Office E
- quipment and Stationery in Vietnam. Modern\, convenient and advanced offic
- e products and equipment from popular brands around the world\nVenue: Saig
- on Exhibition & Convention Center - SECC\nFrequency: once a year\nSource: 
- https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
+DESCRIPTION:International Exhibition for Smart Office Solutions\, Office Eq
+ uipment and Stationery in Vietnam. Modern\, convenient and advanced office
+  products and equipment from popular brands around the world\\nVenue: Saig
+ on Exhibition & Convention Center - SECC\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
 LOCATION:Ho Chi Minh\, Vietnam
 URL:https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
 END:VEVENT
@@ -242,10 +237,10 @@ SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260806
 UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
-DESCRIPTION:Escolar Office Brasil brings together the most innovative prod
- ucts in the sectors of stationery\, school supplies\, office supplies\, cr
- afts...\nVenue: Expo Center Norte\nFrequency: once a year\nSource: https:/
- /www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
+ cts in the sectors of stationery\, school supplies\, office supplies\, cra
+ fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
 END:VEVENT
@@ -254,42 +249,41 @@ SUMMARY:LIFE INSTYLE MELBOURNE — Melbourne\, Australia
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260810
 UID:f-life-instyle-melbourne-19188-1@eventseye.impio-vault
-DESCRIPTION:Trade show where retailers can source high quality products. F
- ashion & Accessories for Women\, Men & Kids\, Art\, Beauty & Grooming\, Bo
- dy\, Bath & Fragrance\, Books & Stationery\, Food & Beverage\, Furniture &
-  Lighting\, Gadgets & Technology\, Outdoor & Garden...\nVenue: Royal Exhib
- ition Building\, Carlton Gardens\nFrequency: once a year\nSource: https://
- www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
+DESCRIPTION:Trade show where retailers can source high quality products. Fa
+ shion & Accessories for Women\, Men & Kids\, Art\, Beauty & Grooming\, Bod
+ y\, Bath & Fragrance\, Books & Stationery\, Food & Beverage\, Furniture & 
+ Lighting\, Gadgets & Technology\, Outdoor & Garden...\\nVenue: Royal Exhib
+ ition Building\, Carlton Gardens\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
 LOCATION:Melbourne\, Australia
 URL:https://www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IBTE - INTERNATIONAL BABY PRODUCTS & TOYS EXPO - INDONESIA — Jak
- arta\, Indonesia
+SUMMARY:IBTE - INTERNATIONAL BABY PRODUCTS & TOYS EXPO - INDONESIA — Jaka
+ rta\, Indonesia
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260823
-UID:f-ibte-international-baby-products-toys-expo-indonesia-24970-1@eventse
- ye.impio-vault
-DESCRIPTION:IBTE is Indonesia’s largest international baby products & to
- ys exhibition\, bringing international brands & manufacturers. Featuring t
- he Baby Products\, Stationery\, Leisure & Amusement\, Toys\, IP License pr
- oducts industry\nVenue: Jakarta International Expo (JIExpo)\nFrequency: on
- ce a year\nSource: https://www.eventseye.com/fairs/f-ibte-international-ba
- by-products-toys-expo-indonesia-24970-1.html
+UID:f-ibte-international-baby-products-toys-expo-indonesia-24970-1@eventseye.impio-vault
+DESCRIPTION:IBTE is Indonesia’s largest international baby products & toy
+ s exhibition\, bringing international brands & manufacturers. Featuring th
+ e Baby Products\, Stationery\, Leisure & Amusement\, Toys\, IP License pro
+ ducts industry\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-ibte-international-
+ baby-products-toys-expo-indonesia-24970-1.html
 LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-ibte-international-baby-products-toy
- s-expo-indonesia-24970-1.html
+URL:https://www.eventseye.com/fairs/f-ibte-international-baby-products-toys
+ -expo-indonesia-24970-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GIFTS INDIA — Mumbai\, India
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260823
 UID:f-gifts-india-24997-1@eventseye.impio-vault
-DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Statione
- ry\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & H
- ome Decor\nVenue: Bombay Convention & Exhibition Centre (BCEC)\nFrequency:
-  once a year\nSource: https://www.eventseye.com/fairs/f-gifts-india-24997-
- 1.html
+DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Stationer
+ y\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & Ho
+ me Decor\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-gifts-india-2499
+ 7-1.html
 LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-gifts-india-24997-1.html
 END:VEVENT
@@ -298,11 +292,11 @@ SUMMARY:FORMEX — Stockholm\, Sweden
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260828
 UID:f-formex-16902-1@eventseye.impio-vault
-DESCRIPTION:Trade fair with Nordic interior design\, gifts\, delicacies\, 
- craft\, interior textile\, fashion\, paper\, toys and designed products fo
- r children\nVenue: Stockholmsmässan - Stockholm International Fairs\nFreq
- uency: twice a year\nSource: https://www.eventseye.com/fairs/f-formex-1690
- 2-1.html
+DESCRIPTION:Trade fair with Nordic interior design\, gifts\, delicacies\, c
+ raft\, interior textile\, fashion\, paper\, toys and designed products for
+  children\\nVenue: Stockholmsmässan - Stockholm International Fairs\\nFre
+ quency: twice a year\\nSource: https://www.eventseye.com/fairs/f-formex-16
+ 902-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-formex-16902-1.html
 END:VEVENT
@@ -311,12 +305,12 @@ SUMMARY:CADEAUX LEIPZIG — Leipzig\, Germany
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260908
 UID:f-cadeaux-leipzig-362-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Gifts and Ideas for the home. Folk art/arts and
-  crafts from the Erzgebirge region\, Floristry/home/gifts/souvenirs\, Stat
- ionery/handicrafts/creative items\, Bathroom/wellness/beauty\, Costume jew
- ellery/accessories\, Home textiles...\nVenue: Exhibition Centre Leipzig\nF
- requency: twice a year\nSource: https://www.eventseye.com/fairs/f-cadeaux-
- leipzig-362-1.html
+DESCRIPTION:Trade Fair for Gifts and Ideas for the home. Folk art/arts and 
+ crafts from the Erzgebirge region\, Floristry/home/gifts/souvenirs\, Stati
+ onery/handicrafts/creative items\, Bathroom/wellness/beauty\, Costume jewe
+ llery/accessories\, Home textiles...\\nVenue: Exhibition Centre Leipzig\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-cadeau
+ x-leipzig-362-1.html
 LOCATION:Leipzig\, Germany
 URL:https://www.eventseye.com/fairs/f-cadeaux-leipzig-362-1.html
 END:VEVENT
@@ -325,10 +319,11 @@ SUMMARY:AUTUMN FAIR — Birmingham\, UK - United Kingdom
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260910
 UID:f-autumn-fair-28711-1@eventseye.impio-vault
-DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty &
-  Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. J
- ewellery & Watches...\nVenue: National Exhibition Centre\nFrequency: once 
- a year\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
+DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty & 
+ Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
+ wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.ht
+ ml
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
 END:VEVENT
@@ -337,26 +332,26 @@ SUMMARY:WORLD OF GIFTS TRADE SHOW — Kiev\, Ukraine
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260912
 UID:f-world-of-gifts-trade-show-28496-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Gifts. Gifts and souvenirs\, Busin
- ess Gifts & Promotional Souvenirs\, Jewelry and fashion accessories. С ra
- ft stationery\, Gift wrap\, Travel accessories\, Products for creativity\,
- Handmade...\nVenue: Kiev International Exhibition Center\nFrequency: once 
- a year\nSource: https://www.eventseye.com/fairs/f-world-of-gifts-trade-sho
- w-28496-1.html
+DESCRIPTION:International Exhibition of Gifts. Gifts and souvenirs\, Busine
+ ss Gifts & Promotional Souvenirs\, Jewelry and fashion accessories. С raf
+ t stationery\, Gift wrap\, Travel accessories\, Products for creativity\,\
+ nHandmade...\\nVenue: Kiev International Exhibition Center\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-world-of-gifts-trade
+ -show-28496-1.html
 LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-world-of-gifts-trade-show-28496-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-world-of-gifts-trade-show-28496-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPER ARABIA — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260918
 UID:f-paper-arabia-5661-1@eventseye.impio-vault
-DESCRIPTION:International Technological Exhibition for Paper\, Printing & 
- Converting Industries. Explore innovations in the tissue\, non-woven\, and
-  paper converting industries\nVenue: Dubai World Trade Centre (Dubai Exhib
- ition Centre)\nFrequency: once a year\nSource: https://www.eventseye.com/f
- airs/f-paper-arabia-5661-1.html
+DESCRIPTION:International Technological Exhibition for Paper\, Printing & C
+ onverting Industries. Explore innovations in the tissue\, non-woven\, and 
+ paper converting industries\\nVenue: Dubai World Trade Centre (Dubai Exhib
+ ition Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-paper-arabia-5661-1.html
 LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-paper-arabia-5661-1.html
 END:VEVENT
@@ -365,25 +360,25 @@ SUMMARY:OFFICE SERVICE EXPO - TOKYO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260919
 UID:f-office-service-expo-tokyo-30941-1@eventseye.impio-vault
-DESCRIPTION:Japanese office services fair. All products and services for b
- ack office will be exhibited at OFFICE SERVICE EXPO - TOKYO\nVenue: Tokyo 
- International Exhibition Center (Tokyo Big Sight)\nFrequency: once a year\
- nSource: https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941
- -1.html
+DESCRIPTION:Japanese office services fair. All products and services for ba
+ ck office will be exhibited at OFFICE SERVICE EXPO - TOKYO\\nVenue: Tokyo 
+ International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-office-service-expo-tokyo-309
+ 41-1.html
 LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LARIO CREATIVA — Erba\, Italy
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
 UID:f-lario-creativa-34065-1@eventseye.impio-vault
-DESCRIPTION:Lario Creativa is a creative fair dedicated to DIY\, crafts an
- d handmade activities\, featuring exhibitors\, workshops\, demonstrations 
- and creative courses for visitors interested in creative hobbies\nVenue: L
- ario Fiere\nFrequency: unknown\nSource: https://www.eventseye.com/fairs/f-
- lario-creativa-34065-1.html
+DESCRIPTION:Lario Creativa is a creative fair dedicated to DIY\, crafts and
+  handmade activities\, featuring exhibitors\, workshops\, demonstrations a
+ nd creative courses for visitors interested in creative hobbies\\nVenue: L
+ ario Fiere\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
+ f-lario-creativa-34065-1.html
 LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-lario-creativa-34065-1.html
 END:VEVENT
@@ -392,11 +387,11 @@ SUMMARY:BIRO-EXPO — Belgrade\, Serbia
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260927
 UID:f-biro-expo-8519-1@eventseye.impio-vault
-DESCRIPTION:Bureau equipment and supplies (computers\, printers\, paper an
- d spare parts)\, equipment for transfer and telecommunications\, communica
- tions equipment and furniture\, office supplies\nVenue: Belgrade Fair Grou
- nds\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-bir
- o-expo-8519-1.html
+DESCRIPTION:Bureau equipment and supplies (computers\, printers\, paper and
+  spare parts)\, equipment for transfer and telecommunications\, communicat
+ ions equipment and furniture\, office supplies\\nVenue: Belgrade Fair Grou
+ nds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-b
+ iro-expo-8519-1.html
 LOCATION:Belgrade\, Serbia
 URL:https://www.eventseye.com/fairs/f-biro-expo-8519-1.html
 END:VEVENT
@@ -405,11 +400,11 @@ SUMMARY:MIAC — Lucca\, Italy
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261010
 UID:f-miac-9400-1@eventseye.impio-vault
-DESCRIPTION:International trade show for Technologies & Machinery for the 
- Production of Paper/Paperboard & for the Converting of Tissue Paper. Machi
- nes\, equipment\, systems & solutions to improve the management of the var
- ious stages in the paper production cycle\nVenue: Lucca Fiere\nFrequency: 
- once a year\nSource: https://www.eventseye.com/fairs/f-miac-9400-1.html
+DESCRIPTION:International trade show for Technologies & Machinery for the P
+ roduction of Paper/Paperboard & for the Converting of Tissue Paper. Machin
+ es\, equipment\, systems & solutions to improve the management of the vari
+ ous stages in the paper production cycle\\nVenue: Lucca Fiere\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-miac-9400-1.html
 LOCATION:Lucca\, Italy
 URL:https://www.eventseye.com/fairs/f-miac-9400-1.html
 END:VEVENT
@@ -418,12 +413,12 @@ SUMMARY:ASIA INK EXPO — Guangzhou\, China
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 UID:f-asia-ink-expo-33980-1@eventseye.impio-vault
-DESCRIPTION:Asia Ink Expo & Asia Ink Industry Development Conference is a 
- leading event in the inks sector. The event is structured around five key 
- modules: product exhibitions\, thematic forums\, business matchmaking\, li
- ve demonstrations\, and opportunity releases\nVenue: GADD - Guangzhou Aero
- tropolis Development District\nFrequency: once a year\nSource: https://www
- .eventseye.com/fairs/f-asia-ink-expo-33980-1.html
+DESCRIPTION:Asia Ink Expo & Asia Ink Industry Development Conference is a l
+ eading event in the inks sector. The event is structured around five key m
+ odules: product exhibitions\, thematic forums\, business matchmaking\, liv
+ e demonstrations\, and opportunity releases\\nVenue: GADD - Guangzhou Aero
+ tropolis Development District\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-asia-ink-expo-33980-1.html
 LOCATION:Guangzhou\, China
 URL:https://www.eventseye.com/fairs/f-asia-ink-expo-33980-1.html
 END:VEVENT
@@ -432,10 +427,10 @@ SUMMARY:CSF-REMAXWORLD — Zhuhai\, China
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 UID:f-csf-remaxworld-27049-1@eventseye.impio-vault
-DESCRIPTION:Leading trading platform for stationery\, office supply and cu
- ltural products in the Asian-Pacific region\nVenue: Zhuhai International C
- onvention & Exhibition Center\nFrequency: once a year\nSource: https://www
- .eventseye.com/fairs/f-csf-remaxworld-27049-1.html
+DESCRIPTION:Leading trading platform for stationery\, office supply and cul
+ tural products in the Asian-Pacific region\\nVenue: Zhuhai International C
+ onvention & Exhibition Center\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
 LOCATION:Zhuhai\, China
 URL:https://www.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
 END:VEVENT
@@ -444,10 +439,10 @@ SUMMARY:REMAXWORLD EXPO — Zhuhai\, China
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261018
 UID:f-remaxworld-expo-22336-1@eventseye.impio-vault
-DESCRIPTION:RemaxWorld Expo is the largest trade show for the office equip
- ment and consumables industry\nVenue: Zhuhai International Convention & Ex
- hibition Center\nFrequency: once a year\nSource: https://www.eventseye.com
- /fairs/f-remaxworld-expo-22336-1.html
+DESCRIPTION:RemaxWorld Expo is the largest trade show for the office equipm
+ ent and consumables industry\\nVenue: Zhuhai International Convention & Ex
+ hibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-remaxworld-expo-22336-1.html
 LOCATION:Zhuhai\, China
 URL:https://www.eventseye.com/fairs/f-remaxworld-expo-22336-1.html
 END:VEVENT
@@ -456,10 +451,10 @@ SUMMARY:ASIAN STATIONERY SHOW — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261030
 UID:f-asian-stationery-show-26651-1@eventseye.impio-vault
-DESCRIPTION:Asian Stationery Show has become the key showcase and sourcing
-  hub for Asian stationery and office supplies in Hong Kong\nVenue: Hong Ko
- ng Convention & Exhibition Centre\nFrequency: once a year\nSource: https:/
- /www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
+DESCRIPTION:Asian Stationery Show has become the key showcase and sourcing 
+ hub for Asian stationery and office supplies in Hong Kong\\nVenue: Hong Ko
+ ng Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
 LOCATION:Hong Kong\, Hong Kong
 URL:https://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
 END:VEVENT
@@ -468,24 +463,24 @@ SUMMARY:MEGASHOW HONG KONG PART 2 — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261030
 UID:f-megashow-hong-kong-part-2-27201-1@eventseye.impio-vault
-DESCRIPTION:Asian Stationery Show - Asian Gifts & Travel Goods Show - Asia
- n Sanitary & Bathroom Accessories Show\nVenue: Hong Kong Convention & Exhi
- bition Centre\nFrequency: once a year\nSource: https://www.eventseye.com/f
- airs/f-megashow-hong-kong-part-2-27201-1.html
+DESCRIPTION:Asian Stationery Show - Asian Gifts & Travel Goods Show - Asian
+  Sanitary & Bathroom Accessories Show\\nVenue: Hong Kong Convention & Exhi
+ bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-megashow-hong-kong-part-2-27201-1.html
 LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-megashow-hong-kong-part-2-27201-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-megashow-hong-kong-part-2-27201-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GESS DUBAI — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261113
 UID:f-gess-dubai-26348-1@eventseye.impio-vault
-DESCRIPTION:The Leading Education Conference & Exhibition in the Middle Ea
- st. GESS Turkey enables educational suppliers and solutions providers to a
- ccess important decision makers in the education sector\nVenue: Dubai Worl
- d Trade Centre (Dubai Exhibition Centre)\nFrequency: once a year\nSource: 
- https://www.eventseye.com/fairs/f-gess-dubai-26348-1.html
+DESCRIPTION:The Leading Education Conference & Exhibition in the Middle Eas
+ t. GESS Turkey enables educational suppliers and solutions providers to ac
+ cess important decision makers in the education sector\\nVenue: Dubai Worl
+ d Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-gess-dubai-26348-1.html
 LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-gess-dubai-26348-1.html
 END:VEVENT
@@ -494,41 +489,40 @@ SUMMARY:OFFICE SERVICE EXPO - OSAKA — Osaka\, Japan
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
 UID:f-office-service-expo-osaka-17038-1@eventseye.impio-vault
-DESCRIPTION:Japanese office services fair. All products and services for b
- ack office will be exhibited at OFFICE SERVICE EXPO - OSAKA\nVenue: Intex 
- Osaka\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-o
- ffice-service-expo-osaka-17038-1.html
+DESCRIPTION:Japanese office services fair. All products and services for ba
+ ck office will be exhibited at OFFICE SERVICE EXPO - OSAKA\\nVenue: Intex 
+ Osaka\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -office-service-expo-osaka-17038-1.html
 LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-office-service-expo-osaka-17038-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-office-service-expo-osaka-17038-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIPREMIUM - SEOUL INTERNATIONAL SOURCING FAIR — Seoul\, Korea So
- uth
+SUMMARY:SIPREMIUM - SEOUL INTERNATIONAL SOURCING FAIR — Seoul\, Korea Sou
+ th
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
-UID:f-sipremium-seoul-international-sourcing-fair-15036-1@eventseye.impio-
- vault
-DESCRIPTION:Seoul International Sourcing Fair for Premium\, Gift\, Station
- ery & Homeware. SIPREMIUM is Korea’s premier trade show for gifts\, hous
- ehold goods and sales promotional items\nVenue: COEX Exhibition Center\nFr
- equency: once a year\nSource: https://www.eventseye.com/fairs/f-sipremium-
- seoul-international-sourcing-fair-15036-1.html
+UID:f-sipremium-seoul-international-sourcing-fair-15036-1@eventseye.impio-vault
+DESCRIPTION:Seoul International Sourcing Fair for Premium\, Gift\, Statione
+ ry & Homeware. SIPREMIUM is Korea’s premier trade show for gifts\, house
+ hold goods and sales promotional items\\nVenue: COEX Exhibition Center\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-sipremiu
+ m-seoul-international-sourcing-fair-15036-1.html
 LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-sipremium-seoul-international-sourci
- ng-fair-15036-1.html
+URL:https://www.eventseye.com/fairs/f-sipremium-seoul-international-sourcin
+ g-fair-15036-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPEREX SOUTH INDIA — Chennai\, India
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261206
 UID:f-paperex-south-india-22596-1@eventseye.impio-vault
-DESCRIPTION:"Paperex South India" is the regional edition of the world’s
-  largest paper show\, bringing together every segment of the paper\, pulp\
- , and allied industries under one roof. From raw materials and machinery t
- o sustainable solutions and innovations\nVenue: Chennai Trade Centre\nFreq
- uency: every 2 years\nSource: https://www.eventseye.com/fairs/f-paperex-so
- uth-india-22596-1.html
+DESCRIPTION:"Paperex South India" is the regional edition of the world’s 
+ largest paper show\, bringing together every segment of the paper\, pulp\,
+  and allied industries under one roof. From raw materials and machinery to
+  sustainable solutions and innovations\\nVenue: Chennai Trade Centre\\nFre
+ quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-paperex-
+ south-india-22596-1.html
 LOCATION:Chennai\, India
 URL:https://www.eventseye.com/fairs/f-paperex-south-india-22596-1.html
 END:VEVENT
@@ -537,66 +531,66 @@ SUMMARY:OFFICE SUPPLIES & FURNITURE ASIA — Karachi\, Pakistan
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261227
 UID:f-office-supplies-furniture-asia-28166-1@eventseye.impio-vault
-DESCRIPTION:International Office Supplies & Furniture international trade 
- show. The event will bring together the entire country’s office products
-  industry under one roof\nVenue: Karachi Expo Centre\nFrequency: once a ye
- ar\nSource: https://www.eventseye.com/fairs/f-office-supplies-furniture-as
- ia-28166-1.html
+DESCRIPTION:International Office Supplies & Furniture international trade s
+ how. The event will bring together the entire country’s office products 
+ industry under one roof\\nVenue: Karachi Expo Centre\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-office-supplies-furniture-
+ asia-28166-1.html
 LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-office-supplies-furniture-asia-28166
- -1.html
+URL:https://www.eventseye.com/fairs/f-office-supplies-furniture-asia-28166-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:STATIONERY & EDUCATION ASIA — Karachi\, Pakistan
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261227
 UID:f-stationery-education-asia-28167-1@eventseye.impio-vault
-DESCRIPTION:Pakistan's Trade Show for all Stationery & Education Equipment
- s\nVenue: Karachi Expo Centre\nFrequency: once a year\nSource: https://www
- .eventseye.com/fairs/f-stationery-education-asia-28167-1.html
+DESCRIPTION:Pakistan's Trade Show for all Stationery & Education Equipments
+ \\nVenue: Karachi Expo Centre\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-stationery-education-asia-28167-1.html
 LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-stationery-education-asia-28167-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-stationery-education-asia-28167-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HONG KONG INTERNATIONAL STATIONERY FAIR — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270115
 UID:f-hong-kong-international-stationery-fair-7857-1@eventseye.impio-vault
-DESCRIPTION:As a one-stop showcase of the latest and greatest in the world
-  of stationery\, the Hong Kong International Stationery & School Supplies 
- Fair presents a wealth of opportunity for leading suppliers to connect wit
- h buyers from across the world\nVenue: Hong Kong Convention & Exhibition C
- entre\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-h
- ong-kong-international-stationery-fair-7857-1.html
+DESCRIPTION:As a one-stop showcase of the latest and greatest in the world 
+ of stationery\, the Hong Kong International Stationery & School Supplies F
+ air presents a wealth of opportunity for leading suppliers to connect with
+  buyers from across the world\\nVenue: Hong Kong Convention & Exhibition C
+ entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -hong-kong-international-stationery-fair-7857-1.html
 LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hong-kong-international-stationery-f
- air-7857-1.html
+URL:https://www.eventseye.com/fairs/f-hong-kong-international-stationery-fa
+ ir-7857-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EDUCATION SHOW LONDON @ BETT — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270123
 UID:f-education-show-london-@-bett-20777-1@eventseye.impio-vault
-DESCRIPTION:With an extended offer including hundreds of solutions provide
- rs\, CPD content presentations\, the Education Show gives school leaders\,
-  business managers and teachers the benefit of saving time by being able t
- o purchase school essentials in one place\nVenue: ExCeL\nFrequency: once a
-  year\nSource: https://www.eventseye.com/fairs/f-education-show-london-@-b
- ett-20777-1.html
+DESCRIPTION:With an extended offer including hundreds of solutions provider
+ s\, CPD content presentations\, the Education Show gives school leaders\, 
+ business managers and teachers the benefit of saving time by being able to
+  purchase school essentials in one place\\nVenue: ExCeL\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-education-show-london-@
+ -bett-20777-1.html
 LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-education-show-london-@-bett-20777-1
- .html
+URL:https://www.eventseye.com/fairs/f-education-show-london-@-bett-20777-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WARSAW HOME GIFT & DECO — Warsaw\, Poland
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
 UID:f-warsaw-home-gift-deco-26344-1@eventseye.impio-vault
-DESCRIPTION:Central Eastern Europe’s newest and largest trade show dedic
- ated to gifts\, toys\, decorations\, home products\, handicraft and office
-  supplies\nVenue: Ptak Warsaw Expo\nFrequency: once a year\nSource: https:
- //www.eventseye.com/fairs/f-warsaw-home-gift-deco-26344-1.html
+DESCRIPTION:Central Eastern Europe’s newest and largest trade show dedica
+ ted to gifts\, toys\, decorations\, home products\, handicraft and office 
+ supplies\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-warsaw-home-gift-deco-26344-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-warsaw-home-gift-deco-26344-1.html
 END:VEVENT
@@ -605,10 +599,11 @@ SUMMARY:SPRING FAIR — Birmingham\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270211
 UID:f-spring-fair-28712-1@eventseye.impio-vault
-DESCRIPTION:Birmingham Spring Trade Fair. Home\, Living & Décor. Beauty &
-  Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. J
- ewellery & Watches...\nVenue: National Exhibition Centre\nFrequency: once 
- a year\nSource: https://www.eventseye.com/fairs/f-spring-fair-28712-1.html
+DESCRIPTION:Birmingham Spring Trade Fair. Home\, Living & Décor. Beauty & 
+ Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
+ wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-spring-fair-28712-1.ht
+ ml
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-spring-fair-28712-1.html
 END:VEVENT
@@ -617,11 +612,11 @@ SUMMARY:SKREPKA EXHIBITION — Moscow\, Russia
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270212
 UID:f-skrepka-exhibition-32139-1@eventseye.impio-vault
-DESCRIPTION:Skrepka Expo – unique largest international multi-thematic B
- toB exhibition in Russia\, significant event in the industry of stationery
- \, souvenirs and kids products in Russia\nVenue: Timiryazev Engineering Ce
- nter\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-sk
- repka-exhibition-32139-1.html
+DESCRIPTION:Skrepka Expo – unique largest international multi-thematic Bt
+ oB exhibition in Russia\, significant event in the industry of stationery\
+ , souvenirs and kids products in Russia\\nVenue: Timiryazev Engineering Ce
+ nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ skrepka-exhibition-32139-1.html
 LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-skrepka-exhibition-32139-1.html
 END:VEVENT
@@ -630,25 +625,26 @@ SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270724
 UID:f-office-service-expo-nagoya-28657-1@eventseye.impio-vault
-DESCRIPTION:Japanese office services fair. All products and services for b
- ack office will be exhibited at OFFICE SERVICE EXPO - NAGOYA\nVenue: Nagoy
- a International Exhibition Hall (Port Messe Nagoya)\nFrequency: once a yea
- r\nSource: https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28
- 657-1.html
+DESCRIPTION:Japanese office services fair. All products and services for ba
+ ck office will be exhibited at OFFICE SERVICE EXPO - NAGOYA\\nVenue: Nagoy
+ a International Exhibition Hall (Port Messe Nagoya)\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-office-service-expo-nagoya-
+ 28657-1.html
 LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28657-1.h
- tml
+URL:https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28657-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPEREX — New Delhi\, India
 DTSTART;VALUE=DATE:20271201
 DTEND;VALUE=DATE:20271205
 UID:f-paperex-2079-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition and Conference on Pulp\, paper and al
- lied Industries. PAPEREX is the world’s largest business platform unitin
- g every segment of the paper value chain\nVenue: IICC (India International
-  Convention & Expo Centre) - Yashobhoomi Convention Centre\nFrequency: eve
- ry 2 years\nSource: https://www.eventseye.com/fairs/f-paperex-2079-1.html
+DESCRIPTION:International Exhibition and Conference on Pulp\, paper and all
+ ied Industries. PAPEREX is the world’s largest business platform uniting
+  every segment of the paper value chain\\nVenue: IICC (India International
+  Convention & Expo Centre) - Yashobhoomi Convention Centre\\nFrequency: ev
+ ery 2 years\\nSource: https://www.eventseye.com/fairs/f-paperex-2079-1.htm
+ l
 LOCATION:New Delhi\, India
 URL:https://www.eventseye.com/fairs/f-paperex-2079-1.html
 END:VEVENT

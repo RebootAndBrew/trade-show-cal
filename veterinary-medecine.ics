@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IMPIO Content Vault//EventsEye Trade Shows//EN
 CALSCALE:GREGORIAN
-X-WR-CALDESC:Trade shows: Veterinary Medecine — sourced from EventsEye.c
- om
 X-WR-CALNAME:Veterinary Medecine
+X-WR-CALDESC:Trade shows: Veterinary Medecine — sourced from EventsEye.co
+ m
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 SUMMARY:ZOOSHOW — St. Petersburg\, Russia
 DTSTART;VALUE=DATE:20251213
 DTEND;VALUE=DATE:20251216
 UID:f-zooshow-4012-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of Food\, Goods and Services for Pets
- \nVenue: ExpoForum Convention and Exhibition Centre\nFrequency: unknown\nS
- ource: https://www.eventseye.com/fairs/f-zooshow-4012-1.html
+DESCRIPTION:International Trade Fair of Food\, Goods and Services for Pets\
+ \nVenue: ExpoForum Convention and Exhibition Centre\\nFrequency: unknown\\
+ nSource: https://www.eventseye.com/fairs/f-zooshow-4012-1.html
 LOCATION:St. Petersburg\, Russia
 URL:https://www.eventseye.com/fairs/f-zooshow-4012-1.html
 END:VEVENT
@@ -22,68 +22,66 @@ SUMMARY:LEIPZIG VETERINARY CONGRESS — Leipzig\, Germany
 DTSTART;VALUE=DATE:20260115
 DTEND;VALUE=DATE:20260118
 UID:f-leipzig-veterinary-congress-2796-1@eventseye.impio-vault
-DESCRIPTION:The Leipzig Veterinary Congress is the biggest event for veter
- inary medicine in the German-speaking area. The congress and the trade fai
- r both focus on species-specific and interdisciplinary topics\nVenue: Exhi
- bition Centre Leipzig\nFrequency: every 2 years\nSource: https://www.event
- seye.com/fairs/f-leipzig-veterinary-congress-2796-1.html
+DESCRIPTION:The Leipzig Veterinary Congress is the biggest event for veteri
+ nary medicine in the German-speaking area. The congress and the trade fair
+  both focus on species-specific and interdisciplinary topics\\nVenue: Exhi
+ bition Centre Leipzig\\nFrequency: every 2 years\\nSource: https://www.eve
+ ntseye.com/fairs/f-leipzig-veterinary-congress-2796-1.html
 LOCATION:Leipzig\, Germany
-URL:https://www.eventseye.com/fairs/f-leipzig-veterinary-congress-2796-1.h
- tml
+URL:https://www.eventseye.com/fairs/f-leipzig-veterinary-congress-2796-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANIMAL HEALTH INNOVATION EUROPE — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260305
 UID:f-animal-health-innovation-europe-28490-1@eventseye.impio-vault
-DESCRIPTION:Animal Health Innovation Europe is the sector’s premier inve
- stment forum in Europe showcasing the innovators in animal health and nutr
- ition and connecting those businesses with financial investors and strateg
- ic corporate partners\nVenue: Royal Lancaster\, London\nFrequency: once a 
- year\nSource: https://www.eventseye.com/fairs/f-animal-health-innovation-e
- urope-28490-1.html
+DESCRIPTION:Animal Health Innovation Europe is the sector’s premier inves
+ tment forum in Europe showcasing the innovators in animal health and nutri
+ tion and connecting those businesses with financial investors and strategi
+ c corporate partners\\nVenue: Royal Lancaster\, London\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-animal-health-innovation
+ -europe-28490-1.html
 LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-animal-health-innovation-europe-2849
- 0-1.html
+URL:https://www.eventseye.com/fairs/f-animal-health-innovation-europe-28490
+ -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESOTIKA PET SHOW - GONZAGA — Gonzaga\, Italy
 DTSTART;VALUE=DATE:20260307
 DTEND;VALUE=DATE:20260309
 UID:f-esotika-pet-show-gonzaga-31219-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Fiera Millenaria d
- i Gonzaga\nFrequency: once a year\nSource: https://www.eventseye.com/fairs
- /f-esotika-pet-show-gonzaga-31219-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Fiera Millenaria d
+ i Gonzaga\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-esotika-pet-show-gonzaga-31219-1.html
 LOCATION:Gonzaga\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-gonzaga-31219-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-gonzaga-31219-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VICTAM AND ANIMAL HEALTH AND NUTRITION ASIA — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260313
-UID:f-victam-and-animal-health-and-nutrition-asia-27622-1@eventseye.impio-
- vault
-DESCRIPTION:Trade show dedicated to animal feed and health. Worldwide even
- t focusing on innovation in nutrition\, pharmaceutics\, and high-tech anim
- al health solutions\nVenue: Bangkok International Trade & Exhibition Centr
- e (BITEC)\nFrequency: every 2 years\nSource: https://www.eventseye.com/fai
- rs/f-victam-and-animal-health-and-nutrition-asia-27622-1.html
+UID:f-victam-and-animal-health-and-nutrition-asia-27622-1@eventseye.impio-vault
+DESCRIPTION:Trade show dedicated to animal feed and health. Worldwide event
+  focusing on innovation in nutrition\, pharmaceutics\, and high-tech anima
+ l health solutions\\nVenue: Bangkok International Trade & Exhibition Centr
+ e (BITEC)\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
+ airs/f-victam-and-animal-health-and-nutrition-asia-27622-1.html
 LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-victam-and-animal-health-and-nutriti
- on-asia-27622-1.html
+URL:https://www.eventseye.com/fairs/f-victam-and-animal-health-and-nutritio
+ n-asia-27622-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IBERZOO + PROPET — Madrid\, Spain
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260314
 UID:f-iberzoo-propet-14538-1@eventseye.impio-vault
-DESCRIPTION:IBERZOO+PROPET supports progress in the pet sector. Animal car
- e and welfare\, nutrition\, products & accessories\, grooming\, health\, w
- ellness\, education\, trends and innovation for pets\nVenue: Ifema - Parqu
- e Ferial Juan Carlos I\nFrequency: once a year\nSource: https://www.events
- eye.com/fairs/f-iberzoo-propet-14538-1.html
+DESCRIPTION:IBERZOO+PROPET supports progress in the pet sector. Animal care
+  and welfare\, nutrition\, products & accessories\, grooming\, health\, we
+ llness\, education\, trends and innovation for pets\\nVenue: Ifema - Parqu
+ e Ferial Juan Carlos I\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-iberzoo-propet-14538-1.html
 LOCATION:Madrid\, Spain
 URL:https://www.eventseye.com/fairs/f-iberzoo-propet-14538-1.html
 END:VEVENT
@@ -92,12 +90,12 @@ SUMMARY:ATLANTA PET EXPO — Atlanta\, GA\, USA
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260316
 UID:f-atlanta-pet-expo-23997-1@eventseye.impio-vault
-DESCRIPTION:Pets Fair and Pet Products Exhibition in Atlanta. ATLANTA PET 
- EXPO also features pet service providers\, all products for pets\, pet gro
- oming salons\, pet shops\, pet resorts & recreations\, veterinary vaccines
- \, cat & dog food and fun activities for pets\nVenue: Georgia Internationa
- l Convention Center - GICC\nFrequency: once a year\nSource: https://www.ev
- entseye.com/fairs/f-atlanta-pet-expo-23997-1.html
+DESCRIPTION:Pets Fair and Pet Products Exhibition in Atlanta. ATLANTA PET E
+ XPO also features pet service providers\, all products for pets\, pet groo
+ ming salons\, pet shops\, pet resorts & recreations\, veterinary vaccines\
+ , cat & dog food and fun activities for pets\\nVenue: Georgia Internationa
+ l Convention Center - GICC\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-atlanta-pet-expo-23997-1.html
 LOCATION:Atlanta\, GA\, USA
 URL:https://www.eventseye.com/fairs/f-atlanta-pet-expo-23997-1.html
 END:VEVENT
@@ -106,10 +104,10 @@ SUMMARY:EXPOZOO — Paris\, France
 DTSTART;VALUE=DATE:20260313
 DTEND;VALUE=DATE:20260316
 UID:f-expozoo-18828-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for professionals of the pet market in France. Part
-  of PARIS ANIMAL SHOW\, the biggest Pet Show in France\nVenue: Paris Expo 
- Porte de Versailles\nFrequency: once a year\nSource: https://www.eventseye
- .com/fairs/f-expozoo-18828-1.html
+DESCRIPTION:Exhibition for professionals of the pet market in France. Part 
+ of PARIS ANIMAL SHOW\, the biggest Pet Show in France\\nVenue: Paris Expo 
+ Porte de Versailles\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-expozoo-18828-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-expozoo-18828-1.html
 END:VEVENT
@@ -118,40 +116,39 @@ SUMMARY:ANIMAL EXPO — Paris\, France
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 UID:f-animal-expo-106-1@eventseye.impio-vault
-DESCRIPTION:ANIMAL EXPO is the largest pet show in France dedicated to pet
- s and their well-being. Attend canine sports demonstrations\, positive tra
- ining workshops\, and ask questions of experts and enthusiasts...\nVenue: 
- Paris Expo Porte de Versailles\nFrequency: twice a year\nSource: https://w
- ww.eventseye.com/fairs/f-animal-expo-106-1.html
+DESCRIPTION:ANIMAL EXPO is the largest pet show in France dedicated to pets
+  and their well-being. Attend canine sports demonstrations\, positive trai
+ ning workshops\, and ask questions of experts and enthusiasts...\\nVenue: 
+ Paris Expo Porte de Versailles\\nFrequency: twice a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-animal-expo-106-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-animal-expo-106-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OFFENBURG — Offenburg\, 
- Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OFFENBURG — Offenburg\, G
+ ermany
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
-UID:f-internationale-rassehunde-ausstellung-offenburg-1480-1@eventseye.imp
- io-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nVenue: Messe Offenburg\nFrequency: once a year\nSource: https://www.
- eventseye.com/fairs/f-internationale-rassehunde-ausstellung-offenburg-1480
- -1.html
+UID:f-internationale-rassehunde-ausstellung-offenburg-1480-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nVenue: Messe Offenburg\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-offenburg-14
+ 80-1.html
 LOCATION:Offenburg\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-offenburg-1480-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -offenburg-1480-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PET EKSPO — Riga\, Latvia
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 UID:f-pet-ekspo-6620-1@eventseye.impio-vault
-DESCRIPTION:International Pets and Zoo Industry Exhibition. Pet Food\, Acc
- essories. Veterinary. Education and Information\nVenue: Riga International
-  Exhibition Centre\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-pet-ekspo-6620-1.html
+DESCRIPTION:International Pets and Zoo Industry Exhibition. Pet Food\, Acce
+ ssories. Veterinary. Education and Information\\nVenue: Riga International
+  Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-pet-ekspo-6620-1.html
 LOCATION:Riga\, Latvia
 URL:https://www.eventseye.com/fairs/f-pet-ekspo-6620-1.html
 END:VEVENT
@@ -160,42 +157,41 @@ SUMMARY:PET EXPO ROMANIA — Bucharest\, Romania
 DTSTART;VALUE=DATE:20260314
 DTEND;VALUE=DATE:20260316
 UID:f-pet-expo-romania-19308-1@eventseye.impio-vault
-DESCRIPTION:Pets & veterinary products Expo. Pet Expo Romania is a unique 
- opportunity in Romania for companies in the pet market to showcase product
- s services and get in touch with a large number of potential partner compa
- nies and a huge number of target consumers\nVenue: Romexpo\nFrequency: onc
- e a year\nSource: https://www.eventseye.com/fairs/f-pet-expo-romania-19308
- -1.html
+DESCRIPTION:Pets & veterinary products Expo. Pet Expo Romania is a unique o
+ pportunity in Romania for companies in the pet market to showcase products
+  services and get in touch with a large number of potential partner compan
+ ies and a huge number of target consumers\\nVenue: Romexpo\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-pet-expo-romania-193
+ 08-1.html
 LOCATION:Bucharest\, Romania
 URL:https://www.eventseye.com/fairs/f-pet-expo-romania-19308-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHINA BEIJING INTERNATIONAL PET SUPPLIES EXHIBITION (CPSE) — Bei
- jing\, China
+SUMMARY:CHINA BEIJING INTERNATIONAL PET SUPPLIES EXHIBITION (CPSE) — Beij
+ ing\, China
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260323
-UID:f-china-beijing-international-pet-supplies-exhibition-(cpse)-22657-1@e
- ventseye.impio-vault
-DESCRIPTION:International Pet Industy Exhibition in China. China Beijing I
- nternational Pet Supplies Exhibition (CPSE) also features Pet medical trea
- tment\, Aquarium products\, Franchised outlets\, Pet services\, Pet owner 
- supplies\nVenue: China International Exhibition Centre (CIEC)\nFrequency: 
- once a year\nSource: https://www.eventseye.com/fairs/f-china-beijing-inter
- national-pet-supplies-exhibition-(cpse)-22657-1.html
+UID:f-china-beijing-international-pet-supplies-exhibition-(cpse)-22657-1@eventseye.impio-vault
+DESCRIPTION:International Pet Industy Exhibition in China. China Beijing In
+ ternational Pet Supplies Exhibition (CPSE) also features Pet medical treat
+ ment\, Aquarium products\, Franchised outlets\, Pet services\, Pet owner s
+ upplies\\nVenue: China International Exhibition Centre (CIEC)\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-china-beijing-int
+ ernational-pet-supplies-exhibition-(cpse)-22657-1.html
 LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-china-beijing-international-pet-supp
- lies-exhibition-(cpse)-22657-1.html
+URL:https://www.eventseye.com/fairs/f-china-beijing-international-pet-suppl
+ ies-exhibition-(cpse)-22657-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PET FAIR BEIJING — Beijing\, China
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260323
 UID:f-pet-fair-beijing-33322-1@eventseye.impio-vault
-DESCRIPTION:The International Pet Industry Trade Hub in Beijing. PET FAIR 
- BEIJING provides the global pet industry with a fully business-to-business
-  well beyond the ASEAN region\nVenue: China International Exhibition Centr
- e (CIEC)\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/
- f-pet-fair-beijing-33322-1.html
+DESCRIPTION:The International Pet Industry Trade Hub in Beijing. PET FAIR B
+ EIJING provides the global pet industry with a fully business-to-business 
+ well beyond the ASEAN region\\nVenue: China International Exhibition Centr
+ e (CIEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-pet-fair-beijing-33322-1.html
 LOCATION:Beijing\, China
 URL:https://www.eventseye.com/fairs/f-pet-fair-beijing-33322-1.html
 END:VEVENT
@@ -204,24 +200,23 @@ SUMMARY:ESOTIKA PET SHOW - FERRARA — Ferrara\, Italy
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260323
 UID:f-esotika-pet-show-ferrara-33957-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Fiera di Ferrara\n
- Frequency: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-
- pet-show-ferrara-33957-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Fiera di Ferrara\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotik
+ a-pet-show-ferrara-33957-1.html
 LOCATION:Ferrara\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-ferrara-33957-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-ferrara-33957-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MY FANTASTIC PETS - UDINE — Udine\, Italy
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260323
 UID:f-my-fantastic-pets-udine-33807-1@eventseye.impio-vault
-DESCRIPTION:Italian Pet Show. The exhibition area features all categories 
- of pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and far
- m animals)\, as well as a wide range of products and services for animals\
- nVenue: Udine e Gorizia Fiere\nFrequency: once a year\nSource: https://www
- .eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
+DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
+ f pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and farm
+  animals)\, as well as a wide range of products and services for animals\\
+ nVenue: Udine e Gorizia Fiere\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
 LOCATION:Udine\, Italy
 URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
 END:VEVENT
@@ -230,10 +225,10 @@ SUMMARY:SOFISTICAT — Bucharest\, Romania
 DTSTART;VALUE=DATE:20260321
 DTEND;VALUE=DATE:20260323
 UID:f-sofisticat-27053-1@eventseye.impio-vault
-DESCRIPTION:Spring Bucharest International Cat Show organized by the Felin
- e Association "SofistiCat"\nVenue: Sala Palatului Cultural Center\nFrequen
- cy: once a year\nSource: https://www.eventseye.com/fairs/f-sofisticat-2705
- 3-1.html
+DESCRIPTION:Spring Bucharest International Cat Show organized by the Feline
+  Association "SofistiCat"\\nVenue: Sala Palatului Cultural Center\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-sofisticat-27
+ 053-1.html
 LOCATION:Bucharest\, Romania
 URL:https://www.eventseye.com/fairs/f-sofisticat-27053-1.html
 END:VEVENT
@@ -242,23 +237,23 @@ SUMMARY:ESOTIKA PET SHOW - BUSTIO ARIZO — Busto Arsizio\, Italy
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260330
 UID:f-esotika-pet-show-bustio-arizo-30702-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Malpensa Fiere\nFr
- equency: twice a year\nSource: https://www.eventseye.com/fairs/f-esotika-p
- et-show-bustio-arizo-30702-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Malpensa Fiere\\nF
+ requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-esotika
+ -pet-show-bustio-arizo-30702-1.html
 LOCATION:Busto Arsizio\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-bustio-arizo-30702-
- 1.html
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-bustio-arizo-30702-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MEIN HUND - ROSENHEIM — Rosenheim\, Germany
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260330
 UID:f-mein-hund-rosenheim-26209-1@eventseye.impio-vault
-DESCRIPTION:Dog Show. MEIN HUND - ROSENHEIM presents club and services for
-  dogs\, pet grooming salons\, pet care services\, dog food and chew toys\n
- Venue: Inntalhalle\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-mein-hund-rosenheim-26209-1.html
+DESCRIPTION:Dog Show. MEIN HUND - ROSENHEIM presents club and services for 
+ dogs\, pet grooming salons\, pet care services\, dog food and chew toys\\n
+ Venue: Inntalhalle\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-mein-hund-rosenheim-26209-1.html
 LOCATION:Rosenheim\, Germany
 URL:https://www.eventseye.com/fairs/f-mein-hund-rosenheim-26209-1.html
 END:VEVENT
@@ -267,12 +262,12 @@ SUMMARY:TIER&NATUR IN MV — Rostock\, Germany
 DTSTART;VALUE=DATE:20260328
 DTEND;VALUE=DATE:20260330
 UID:f-tier-natur-in-mv-18547-1@eventseye.impio-vault
-DESCRIPTION:A meeting place for all pet lovers in the northeast of Germany
- . It doesn't matter whether it has two\, four\, six\, or eight legs – fe
- athers\, fur\, wings\, or paws. At TIER&NATUR in MV\, all animal and natur
- e lovers will get their money's worth\nVenue: HanseMesse Rostock\nFrequenc
- y: once a year\nSource: https://www.eventseye.com/fairs/f-tier-natur-in-mv
- -18547-1.html
+DESCRIPTION:A meeting place for all pet lovers in the northeast of Germany.
+  It doesn't matter whether it has two\, four\, six\, or eight legs – fea
+ thers\, fur\, wings\, or paws. At TIER&NATUR in MV\, all animal and nature
+  lovers will get their money's worth\\nVenue: HanseMesse Rostock\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-tier-natur-in-
+ mv-18547-1.html
 LOCATION:Rostock\, Germany
 URL:https://www.eventseye.com/fairs/f-tier-natur-in-mv-18547-1.html
 END:VEVENT
@@ -281,10 +276,10 @@ SUMMARY:PET EXPO — Singapore\, Singapore
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260406
 UID:f-pet-expo-25743-1@eventseye.impio-vault
-DESCRIPTION:PetExpo is Singapore’s largest pet event and is an all-encom
- passing event that addresses the needs of pet owners and their pets\nVenue
- : Singapore Expo\nFrequency: twice a year\nSource: https://www.eventseye.c
- om/fairs/f-pet-expo-25743-1.html
+DESCRIPTION:PetExpo is Singapore’s largest pet event and is an all-encomp
+ assing event that addresses the needs of pet owners and their pets\\nVenue
+ : Singapore Expo\\nFrequency: twice a year\\nSource: https://www.eventseye
+ .com/fairs/f-pet-expo-25743-1.html
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-pet-expo-25743-1.html
 END:VEVENT
@@ -293,11 +288,11 @@ SUMMARY:FOR PETS — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260413
 UID:f-for-pets-17047-1@eventseye.impio-vault
-DESCRIPTION:FOR PETS is the main trade show in Czech Republic focused on d
- omestic animals: dogs\, cats\, exotic birds\, rodents\, terrarium & aquari
- um animals. Pet food\, veterinary products\, cosmetics and supplies\nVenue
- : PVA Letnany - Prague Exhibition Centre Letnany\nFrequency: once a year\n
- Source: https://www.eventseye.com/fairs/f-for-pets-17047-1.html
+DESCRIPTION:FOR PETS is the main trade show in Czech Republic focused on do
+ mestic animals: dogs\, cats\, exotic birds\, rodents\, terrarium & aquariu
+ m animals. Pet food\, veterinary products\, cosmetics and supplies\\nVenue
+ : PVA Letnany - Prague Exhibition Centre Letnany\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-for-pets-17047-1.html
 LOCATION:Prague\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-for-pets-17047-1.html
 END:VEVENT
@@ -306,39 +301,39 @@ SUMMARY:CHANCHAO KAOHSIUNG PETS SHOW — Kaohsiung\, Taiwan
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260414
 UID:f-chanchao-kaohsiung-pets-show-20560-1@eventseye.impio-vault
-DESCRIPTION:Kaohsiung Pet Show. Dried and semi-dry foods\, Clothing access
- ories\, Grooming care\, Hygiene products\, Accessories related to outings\
- , Training assistance\, Services...\nVenue: Koahsiung Exhibition Center\nF
- requency: twice a year\nSource: https://www.eventseye.com/fairs/f-chanchao
- -kaohsiung-pets-show-20560-1.html
+DESCRIPTION:Kaohsiung Pet Show. Dried and semi-dry foods\, Clothing accesso
+ ries\, Grooming care\, Hygiene products\, Accessories related to outings\,
+  Training assistance\, Services...\\nVenue: Koahsiung Exhibition Center\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-chanch
+ ao-kaohsiung-pets-show-20560-1.html
 LOCATION:Kaohsiung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-chanchao-kaohsiung-pets-show-20560-1
- .html
+URL:https://www.eventseye.com/fairs/f-chanchao-kaohsiung-pets-show-20560-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - PIAZZOLA SUL BRENTA — Piazzola sul Brenta\, I
- taly
+SUMMARY:ESOTIKA PET SHOW - PIAZZOLA SUL BRENTA — Piazzola sul Brenta\, It
+ aly
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260413
 UID:f-esotika-pet-show-piazzola-sul-brenta-33958-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nFrequency: unknown\nSourc
- e: https://www.eventseye.com/fairs/f-esotika-pet-show-piazzola-sul-brenta-
- 33958-1.html
-LOCATION:Piazzola sul Brenta\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-piazzola-sul-brenta
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nFrequency: unknown\\nSour
+ ce: https://www.eventseye.com/fairs/f-esotika-pet-show-piazzola-sul-brenta
  -33958-1.html
+LOCATION:Piazzola sul Brenta\, Italy
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-piazzola-sul-brenta-
+ 33958-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANIMAL TECH — Brno\, Czech Republic
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260416
 UID:f-animal-tech-25636-1@eventseye.impio-vault
-DESCRIPTION:International Fair for Animal Production. The key themes of th
- e exhibition are breeding\, genetics\, veterinary medicine\, technology an
- d agricultural technology for livestock\nVenue: Brno Exhibition Centre\nFr
- equency: every 2 years\nSource: https://www.eventseye.com/fairs/f-animal-t
- ech-25636-1.html
+DESCRIPTION:International Fair for Animal Production. The key themes of the
+  exhibition are breeding\, genetics\, veterinary medicine\, technology and
+  agricultural technology for livestock\\nVenue: Brno Exhibition Centre\\nF
+ requency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-animal
+ -tech-25636-1.html
 LOCATION:Brno\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-animal-tech-25636-1.html
 END:VEVENT
@@ -347,59 +342,57 @@ SUMMARY:ANIMAL VETEX — Brno\, Czech Republic
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260416
 UID:f-animal-vetex-107-1@eventseye.impio-vault
-DESCRIPTION:International Veterinary and Livestock Fair. The key themes of
-  the exhibition are breeding\, genetics\, veterinary medicine\, technology
-  and agricultural technology for livestock\nVenue: Brno Exhibition Centre\
- nFrequency: every 2 years\nSource: https://www.eventseye.com/fairs/f-anima
- l-vetex-107-1.html
+DESCRIPTION:International Veterinary and Livestock Fair. The key themes of 
+ the exhibition are breeding\, genetics\, veterinary medicine\, technology 
+ and agricultural technology for livestock\\nVenue: Brno Exhibition Centre\
+ \nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ani
+ mal-vetex-107-1.html
 LOCATION:Brno\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-animal-vetex-107-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NATIONAL SHOW OF LIVESTOCK AND AGRICULTURAL EQUIPMENT — Brno\, C
- zech Republic
+SUMMARY:NATIONAL SHOW OF LIVESTOCK AND AGRICULTURAL EQUIPMENT — Brno\, Cz
+ ech Republic
 DTSTART;VALUE=DATE:20260412
 DTEND;VALUE=DATE:20260416
-UID:f-national-show-of-livestock-and-agricultural-equipment-23519-1@events
- eye.impio-vault
-DESCRIPTION:This event in Brno is considered the largest show of livestock
-  production in the Czech Republic. It is a unique opportunity for breeders
- \, experts\, and the general public to learn about current trends and inno
- vations in livestock breeding\nVenue: Brno Exhibition Centre\nFrequency: e
- very 2 years\nSource: https://www.eventseye.com/fairs/f-national-show-of-l
- ivestock-and-agricultural-equipment-23519-1.html
+UID:f-national-show-of-livestock-and-agricultural-equipment-23519-1@eventseye.impio-vault
+DESCRIPTION:This event in Brno is considered the largest show of livestock 
+ production in the Czech Republic. It is a unique opportunity for breeders\
+ , experts\, and the general public to learn about current trends and innov
+ ations in livestock breeding\\nVenue: Brno Exhibition Centre\\nFrequency: 
+ every 2 years\\nSource: https://www.eventseye.com/fairs/f-national-show-of
+ -livestock-and-agricultural-equipment-23519-1.html
 LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-national-show-of-livestock-and-agric
- ultural-equipment-23519-1.html
+URL:https://www.eventseye.com/fairs/f-national-show-of-livestock-and-agricu
+ ltural-equipment-23519-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AGROSPRING AGRO ANIMAL SHOW / FRUIT.VEGETABLES.LOGISTICS / GRAIN T
- ECH EXPO UKRAINE — Kiev\, Ukraine
+SUMMARY:AGROSPRING AGRO ANIMAL SHOW / FRUIT.VEGETABLES.LOGISTICS / GRAIN TE
+ CH EXPO UKRAINE — Kiev\, Ukraine
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260425
-UID:f-agrospring-agro-animal-show-fruit.vegetables.logistics-grain-tech-ex
- po-ukraine-27698-1@eventseye.impio-vault
-DESCRIPTION:The most important platform for animal husbandry and agricultu
- ral technology in Ukraine. The complete range of state-of-the-art solution
- s for livestock\, animal husbandry and agricultural technology\nVenue: Kie
- v International Exhibition Center\nFrequency: once a year\nSource: https:/
- /www.eventseye.com/fairs/f-agrospring-agro-animal-show-fruit.vegetables.lo
- gistics-grain-tech-expo-ukraine-27698-1.html
+UID:f-agrospring-agro-animal-show-fruit.vegetables.logistics-grain-tech-expo-ukraine-27698-1@eventseye.impio-vault
+DESCRIPTION:The most important platform for animal husbandry and agricultur
+ al technology in Ukraine. The complete range of state-of-the-art solutions
+  for livestock\, animal husbandry and agricultural technology\\nVenue: Kie
+ v International Exhibition Center\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-agrospring-agro-animal-show-fruit.vegetables.
+ logistics-grain-tech-expo-ukraine-27698-1.html
 LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-agrospring-agro-animal-show-fruit.ve
- getables.logistics-grain-tech-expo-ukraine-27698-1.html
+URL:https://www.eventseye.com/fairs/f-agrospring-agro-animal-show-fruit.veg
+ etables.logistics-grain-tech-expo-ukraine-27698-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INTERPETFEST — Ho Chi Minh\, Vietnam
 DTSTART;VALUE=DATE:20260423
 DTEND;VALUE=DATE:20260427
 UID:f-interpetfest-32476-1@eventseye.impio-vault
-DESCRIPTION:InterPet Fast is the largest international event in Vietnam. V
- ietnam Small Animal Veterinary Experts Conference\, Pet Competition\, Work
- shop & Play Zone\, Adoption & Rescue area\, Shelters and animal care organ
- izations...\nVenue: Saigon Exhibition & Convention Center - SECC\nFrequenc
- y: once a year\nSource: https://www.eventseye.com/fairs/f-interpetfest-324
- 76-1.html
+DESCRIPTION:InterPet Fast is the largest international event in Vietnam. Vi
+ etnam Small Animal Veterinary Experts Conference\, Pet Competition\, Works
+ hop & Play Zone\, Adoption & Rescue area\, Shelters and animal care organi
+ zations...\\nVenue: Saigon Exhibition & Convention Center - SECC\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-interpetfest-3
+ 2476-1.html
 LOCATION:Ho Chi Minh\, Vietnam
 URL:https://www.eventseye.com/fairs/f-interpetfest-32476-1.html
 END:VEVENT
@@ -408,40 +401,38 @@ SUMMARY:HORSES - HEVOSET — Tampere\, Finland
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 UID:f-horses-hevoset-13407-1@eventseye.impio-vault
-DESCRIPTION:HEVOSET is the largest equestrian trade show in Finland with h
- igh-level competitions\, welcoming professionals\, families with children\
- , hore enthusiasts and everyone interested in horses\nVenue: Tampere Exhib
- ition and Sports Centre\nFrequency: once a year\nSource: https://www.event
- seye.com/fairs/f-horses-hevoset-13407-1.html
+DESCRIPTION:HEVOSET is the largest equestrian trade show in Finland with hi
+ gh-level competitions\, welcoming professionals\, families with children\,
+  hore enthusiasts and everyone interested in horses\\nVenue: Tampere Exhib
+ ition and Sports Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-horses-hevoset-13407-1.html
 LOCATION:Tampere\, Finland
 URL:https://www.eventseye.com/fairs/f-horses-hevoset-13407-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LINGEN — Lingen\, German
- y
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LINGEN — Lingen\, Germany
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
-UID:f-internationale-rassehunde-ausstellung-lingen-24871-1@eventseye.impio
- -vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nVenue: Emslandhallen Lingen\nFrequency: once a year\nSource: https:/
- /www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-lingen-24
- 871-1.html
+UID:f-internationale-rassehunde-ausstellung-lingen-24871-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nVenue: Emslandhallen Lingen\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-lingen-
+ 24871-1.html
 LOCATION:Lingen\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-lingen-24871-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -lingen-24871-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PETEXPO — Helsinki\, Finland
 DTSTART;VALUE=DATE:20260425
 DTEND;VALUE=DATE:20260427
 UID:f-petexpo-13528-1@eventseye.impio-vault
-DESCRIPTION:Pet fair in Finland. Pet Exhibition features dozens of breeds 
- of dogs and cats as well as rodents and reptiles\nVenue: Helsinki Fair Cen
- tre\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-pet
- expo-13528-1.html
+DESCRIPTION:Pet fair in Finland. Pet Exhibition features dozens of breeds o
+ f dogs and cats as well as rodents and reptiles\\nVenue: Helsinki Fair Cen
+ tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-p
+ etexpo-13528-1.html
 LOCATION:Helsinki\, Finland
 URL:https://www.eventseye.com/fairs/f-petexpo-13528-1.html
 END:VEVENT
@@ -450,11 +441,11 @@ SUMMARY:PET EXPO THAILAND — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20260430
 DTEND;VALUE=DATE:20260504
 UID:f-pet-expo-thailand-32646-1@eventseye.impio-vault
-DESCRIPTION:Die große Ausstellung von Produkten und Dienstleistungen für
-  Tierliebhaber in Thailand. Lebensmittel\, Ausrüstung\, Medikamente\, Sha
- mpoo\, Kleidung\, Accessoires\, Veterinärprodukte...\nVenue: Queen Siriki
- t National Convention Center\nFrequency: once a year\nSource: https://www.
- eventseye.com/fairs/f-pet-expo-thailand-32646-1.html
+DESCRIPTION:Die große Ausstellung von Produkten und Dienstleistungen für 
+ Tierliebhaber in Thailand. Lebensmittel\, Ausrüstung\, Medikamente\, Sham
+ poo\, Kleidung\, Accessoires\, Veterinärprodukte...\\nVenue: Queen Siriki
+ t National Convention Center\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-pet-expo-thailand-32646-1.html
 LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-pet-expo-thailand-32646-1.html
 END:VEVENT
@@ -463,54 +454,53 @@ SUMMARY:LIVESTOCK TAIWAN EXPO & FORUM — Tainan\, Taiwan
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260509
 UID:f-livestock-taiwan-expo-forum-28653-1@eventseye.impio-vault
-DESCRIPTION:Livestock Trade Show in Taiwan. The show provides a one-stop p
- lace to all stakeholders in livestock\, feed\, animal health & welfare\, e
- gg grading/washing/packaging\, bio-security\, gene and agricultural circul
- ar economy industry\, solutions and services\nVenue: ICC Tainan\nFrequency
- : once a year\nSource: https://www.eventseye.com/fairs/f-livestock-taiwan-
- expo-forum-28653-1.html
+DESCRIPTION:Livestock Trade Show in Taiwan. The show provides a one-stop pl
+ ace to all stakeholders in livestock\, feed\, animal health & welfare\, eg
+ g grading/washing/packaging\, bio-security\, gene and agricultural circula
+ r economy industry\, solutions and services\\nVenue: ICC Tainan\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-livestock-taiwa
+ n-expo-forum-28653-1.html
 LOCATION:Tainan\, Taiwan
-URL:https://www.eventseye.com/fairs/f-livestock-taiwan-expo-forum-28653-1.
- html
+URL:https://www.eventseye.com/fairs/f-livestock-taiwan-expo-forum-28653-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGRO & POULTRY AFRICA - UGANDA — Kampala\, Uganda
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
 UID:f-agro-poultry-africa-uganda-30969-1@eventseye.impio-vault
-DESCRIPTION:AGRO & POULTRY AFRICA is an international trade show on Agricu
- lture\, Dairy & Poultry\, Farming and Veterinary in East Africa\nVenue: UM
- A Exhibition Centre Lugogo\nFrequency: once a year\nSource: https://www.ev
- entseye.com/fairs/f-agro-poultry-africa-uganda-30969-1.html
+DESCRIPTION:AGRO & POULTRY AFRICA is an international trade show on Agricul
+ ture\, Dairy & Poultry\, Farming and Veterinary in East Africa\\nVenue: UM
+ A Exhibition Centre Lugogo\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-agro-poultry-africa-uganda-30969-1.html
 LOCATION:Kampala\, Uganda
-URL:https://www.eventseye.com/fairs/f-agro-poultry-africa-uganda-30969-1.h
- tml
+URL:https://www.eventseye.com/fairs/f-agro-poultry-africa-uganda-30969-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - DORTMUND — Dortmund\, Ge
- rmany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - DORTMUND — Dortmund\, Ger
+ many
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
-UID:f-internationale-rassehunde-ausstellung-dortmund-24873-1@eventseye.imp
- io-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: twice a year\nSource: https://www.eventseye.com/fairs/f-i
- nternationale-rassehunde-ausstellung-dortmund-24873-1.html
+UID:f-internationale-rassehunde-ausstellung-dortmund-24873-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-
+ internationale-rassehunde-ausstellung-dortmund-24873-1.html
 LOCATION:Dortmund\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-dortmund-24873-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -dortmund-24873-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VETFORUM EUROPE — Marbella\, Spain
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260513
 UID:f-vetforum-europe-31389-1@eventseye.impio-vault
-DESCRIPTION:VetForum Europe brings you the opportunity to connect and meet
-  with other veterinary industry players over two days of meetings and info
- rmal networking\nVenue: Don Carlos Resort & Spa\nFrequency: once a year\nS
- ource: https://www.eventseye.com/fairs/f-vetforum-europe-31389-1.html
+DESCRIPTION:VetForum Europe brings you the opportunity to connect and meet 
+ with other veterinary industry players over two days of meetings and infor
+ mal networking\\nVenue: Don Carlos Resort & Spa\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-vetforum-europe-31389-1.html
 LOCATION:Marbella\, Spain
 URL:https://www.eventseye.com/fairs/f-vetforum-europe-31389-1.html
 END:VEVENT
@@ -519,12 +509,12 @@ SUMMARY:INTERZOO — Nuremberg\, Germany
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260516
 UID:f-interzoo-1545-1@eventseye.impio-vault
-DESCRIPTION:Leading trade fair for the international pet industry. INTERZO
- O is one of the world’s most comprehensive product range for dogs\, cats
- \, small mammals\, birds\, aquariums and terrariums\, animals in the garde
- n\, equestrian sports\, petfood technology...\nVenue: Exhibition Centre Nu
- remberg\nFrequency: every 2 years\nSource: https://www.eventseye.com/fairs
- /f-interzoo-1545-1.html
+DESCRIPTION:Leading trade fair for the international pet industry. INTERZOO
+  is one of the world’s most comprehensive product range for dogs\, cats\
+ , small mammals\, birds\, aquariums and terrariums\, animals in the garden
+ \, equestrian sports\, petfood technology...\\nVenue: Exhibition Centre Nu
+ remberg\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-interzoo-1545-1.html
 LOCATION:Nuremberg\, Germany
 URL:https://www.eventseye.com/fairs/f-interzoo-1545-1.html
 END:VEVENT
@@ -532,56 +522,54 @@ BEGIN:VEVENT
 SUMMARY:CHANCHAO TAICHUNG PETS AND AQUARIUM SHOW — Taichung\, Taiwan
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260519
-UID:f-chanchao-taichung-pets-and-aquarium-show-21579-1@eventseye.impio-vau
- lt
-DESCRIPTION:Taichung Pet Show. Dried and semi-dry foods\, Clothing accesso
- ries\, Grooming care\, Hygiene products\, Accessories related to outings\,
-  Training assistance\, Services...\nVenue: Greater Taichung International 
- Expo Center\nFrequency: once a year\nSource: https://www.eventseye.com/fai
- rs/f-chanchao-taichung-pets-and-aquarium-show-21579-1.html
+UID:f-chanchao-taichung-pets-and-aquarium-show-21579-1@eventseye.impio-vault
+DESCRIPTION:Taichung Pet Show. Dried and semi-dry foods\, Clothing accessor
+ ies\, Grooming care\, Hygiene products\, Accessories related to outings\, 
+ Training assistance\, Services...\\nVenue: Greater Taichung International 
+ Expo Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-chanchao-taichung-pets-and-aquarium-show-21579-1.html
 LOCATION:Taichung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-chanchao-taichung-pets-and-aquarium-
- show-21579-1.html
+URL:https://www.eventseye.com/fairs/f-chanchao-taichung-pets-and-aquarium-s
+ how-21579-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CAHE - CHINA ANIMAL HUSBANDRY EXHIBITION — Chengdu\, China
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260521
 UID:f-cahe-china-animal-husbandry-exhibition-14875-1@eventseye.impio-vault
-DESCRIPTION:The international meeting point for animal husbandry professio
- nals in China\, showcase a complete range of products and services related
-  to pig\, poultry\, cattle\, dairy and sheep\nVenue: Western China Interna
- tional Expo City\nFrequency: once a year\nSource: https://www.eventseye.co
- m/fairs/f-cahe-china-animal-husbandry-exhibition-14875-1.html
+DESCRIPTION:The international meeting point for animal husbandry profession
+ als in China\, showcase a complete range of products and services related 
+ to pig\, poultry\, cattle\, dairy and sheep\\nVenue: Western China Interna
+ tional Expo City\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-cahe-china-animal-husbandry-exhibition-14875-1.html
 LOCATION:Chengdu\, China
-URL:https://www.eventseye.com/fairs/f-cahe-china-animal-husbandry-exhibiti
- on-14875-1.html
+URL:https://www.eventseye.com/fairs/f-cahe-china-animal-husbandry-exhibitio
+ n-14875-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GALMED - LVIV MEDICAL FORUM — Lviv\, Ukraine
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260522
 UID:f-galmed-lviv-medical-forum-5674-1@eventseye.impio-vault
-DESCRIPTION:Medical Equipment\, Instrument and Apparatus for Medical Insti
- tutions. Rehabilitation and Prosthesis Means. Pharmaceutical Medicines. Ve
- terinary Preparations\nVenue: Lviv Palace of Arts\nFrequency: once a year\
- nSource: https://www.eventseye.com/fairs/f-galmed-lviv-medical-forum-5674-
- 1.html
+DESCRIPTION:Medical Equipment\, Instrument and Apparatus for Medical Instit
+ utions. Rehabilitation and Prosthesis Means. Pharmaceutical Medicines. Vet
+ erinary Preparations\\nVenue: Lviv Palace of Arts\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-galmed-lviv-medical-forum-567
+ 4-1.html
 LOCATION:Lviv\, Ukraine
-URL:https://www.eventseye.com/fairs/f-galmed-lviv-medical-forum-5674-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-galmed-lviv-medical-forum-5674-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ILDEX VIETNAM — Ho Chi Minh\, Vietnam
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260523
 UID:f-ildex-vietnam-8533-1@eventseye.impio-vault
-DESCRIPTION:Vietnam international trade show and conferences from animal p
- roduction and processing to technology\, from agriculture to innovations a
- nd from pets to medical and laboratory sectors. Dairy\, meat processing an
- d aquaculture\nVenue: Saigon Exhibition & Convention Center - SECC\nFreque
- ncy: every 2 years\nSource: https://www.eventseye.com/fairs/f-ildex-vietna
- m-8533-1.html
+DESCRIPTION:Vietnam international trade show and conferences from animal pr
+ oduction and processing to technology\, from agriculture to innovations an
+ d from pets to medical and laboratory sectors. Dairy\, meat processing and
+  aquaculture\\nVenue: Saigon Exhibition & Convention Center - SECC\\nFrequ
+ ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ildex-viet
+ nam-8533-1.html
 LOCATION:Ho Chi Minh\, Vietnam
 URL:https://www.eventseye.com/fairs/f-ildex-vietnam-8533-1.html
 END:VEVENT
@@ -590,10 +578,10 @@ SUMMARY:DEUTSCHE VET — Cologne\, Germany
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
 UID:f-deutsche-vet-27250-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant
-  training with clinical programmes for small animal vets\nVenue: XPOST Kö
- ln\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-deut
- sche-vet-27250-1.html
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: XPOST Kö
+ ln\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-de
+ utsche-vet-27250-1.html
 LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-deutsche-vet-27250-1.html
 END:VEVENT
@@ -602,11 +590,11 @@ SUMMARY:DEUTSCHEVET — Cologne\, Germany
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
 UID:f-deutschevet-32378-1@eventseye.impio-vault
-DESCRIPTION:DeutscheVET is a must for anyone interested in animal health a
- nd veterinary medicine. Take advantage of this opportunity to expand your 
- specialist knowledge and make valuable contacts\nVenue: XPOST Köln\nFrequ
- ency: once a year\nSource: https://www.eventseye.com/fairs/f-deutschevet-3
- 2378-1.html
+DESCRIPTION:DeutscheVET is a must for anyone interested in animal health an
+ d veterinary medicine. Take advantage of this opportunity to expand your s
+ pecialist knowledge and make valuable contacts\\nVenue: XPOST Köln\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-deutschevet
+ -32378-1.html
 LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-deutschevet-32378-1.html
 END:VEVENT
@@ -614,26 +602,26 @@ BEGIN:VEVENT
 SUMMARY:K·CAT FAIR - SEOUL — Seoul\, Korea South
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
-UID:f-k·cat-fair-seoul-28107-1@eventseye.impio-vault
-DESCRIPTION:K-cat fair exhibition specializes in cat products and services
- \, such as cat food and supplies\, and services designed for cats and cat 
- lovers\nVenue: Kintex - Korea International Exhibition Center\nFrequency: 
- twice a year\nSource: https://www.eventseye.com/fairs/f-k·cat-fair-seoul-
- 28107-1.html
+UID:f-k%C2%B7cat-fair-seoul-28107-1@eventseye.impio-vault
+DESCRIPTION:K-cat fair exhibition specializes in cat products and services\
+ , such as cat food and supplies\, and services designed for cats and cat l
+ overs\\nVenue: Kintex - Korea International Exhibition Center\\nFrequency:
+  twice a year\\nSource: https://www.eventseye.com/fairs/f-k%C2%B7cat-fair-
+ seoul-28107-1.html
 LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-k·cat-fair-seoul-28107-1.html
+URL:https://www.eventseye.com/fairs/f-k%C2%B7cat-fair-seoul-28107-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNITECHDAYS — Beauvais\, France
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
 UID:f-unitechdays-31331-1@eventseye.impio-vault
-DESCRIPTION:Animal and plant technical days. Organized by agronomy enginee
- ring students from the UniLaSalle Polytechnic Institute\, UniTechDays deal
- s with animal and plant production. It attracts 500 students\, sector prof
- essionals and farmers\nVenue: Institut polytechnique UniLaSalle Beauvais\n
- Frequency: once a year\nSource: https://www.eventseye.com/fairs/f-unitechd
- ays-31331-1.html
+DESCRIPTION:Animal and plant technical days. Organized by agronomy engineer
+ ing students from the UniLaSalle Polytechnic Institute\, UniTechDays deals
+  with animal and plant production. It attracts 500 students\, sector profe
+ ssionals and farmers\\nVenue: Institut polytechnique UniLaSalle Beauvais\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-unitec
+ hdays-31331-1.html
 LOCATION:Beauvais\, France
 URL:https://www.eventseye.com/fairs/f-unitechdays-31331-1.html
 END:VEVENT
@@ -642,12 +630,12 @@ SUMMARY:BELFARM — Minsk\, Belarus
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260607
 UID:f-belfarm-18939-1@eventseye.impio-vault
-DESCRIPTION:Farming Equipement International Exhibition. Breeding animals\
- , Livestock reproduction technology\, Feed\, feed supplements\, Feed stora
- ge & preparation\, Machinery for Pasture Maintenance\, Veterinary services
- \, Equipment for cleaning & disinfection...\nVenue: Minsk-Arena\nFrequency
- : once a year\nSource: https://www.eventseye.com/fairs/f-belfarm-18939-1.h
- tml
+DESCRIPTION:Farming Equipement International Exhibition. Breeding animals\,
+  Livestock reproduction technology\, Feed\, feed supplements\, Feed storag
+ e & preparation\, Machinery for Pasture Maintenance\, Veterinary services\
+ , Equipment for cleaning & disinfection...\\nVenue: Minsk-Arena\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-belfarm-18939-1
+ .html
 LOCATION:Minsk\, Belarus
 URL:https://www.eventseye.com/fairs/f-belfarm-18939-1.html
 END:VEVENT
@@ -656,11 +644,11 @@ SUMMARY:WDS - WORLD DOG SHOW — Bologna\, Italy
 DTSTART;VALUE=DATE:20260603
 DTEND;VALUE=DATE:20260608
 UID:f-wds-world-dog-show-23701-1@eventseye.impio-vault
-DESCRIPTION:The most important Dog Show and Championship in the World. In 
- addition to dog shows and their exciting final competitions\, there will b
- e a lot of information about dog life and dog sports available at WDS\nFre
- quency: once a year\nSource: https://www.eventseye.com/fairs/f-wds-world-d
- og-show-23701-1.html
+DESCRIPTION:The most important Dog Show and Championship in the World. In a
+ ddition to dog shows and their exciting final competitions\, there will be
+  a lot of information about dog life and dog sports available at WDS\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-wds-world-
+ dog-show-23701-1.html
 LOCATION:Bologna\, Italy
 URL:https://www.eventseye.com/fairs/f-wds-world-dog-show-23701-1.html
 END:VEVENT
@@ -669,11 +657,11 @@ SUMMARY:PETFAIR VIETNAM — Ho Chi Minh\, Vietnam
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260613
 UID:f-petfair-vietnam-33590-1@eventseye.impio-vault
-DESCRIPTION:Petfair Vietnam is the international Trade Fair for the Pet In
- dustry in Vietnam. A B2B Platform in this Keep-increasing Developing Sourc
- ing and Consuming Market\nVenue: Saigon Exhibition & Convention Center - S
- ECC\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-pet
- fair-vietnam-33590-1.html
+DESCRIPTION:Petfair Vietnam is the international Trade Fair for the Pet Ind
+ ustry in Vietnam. A B2B Platform in this Keep-increasing Developing Sourci
+ ng and Consuming Market\\nVenue: Saigon Exhibition & Convention Center - S
+ ECC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-p
+ etfair-vietnam-33590-1.html
 LOCATION:Ho Chi Minh\, Vietnam
 URL:https://www.eventseye.com/fairs/f-petfair-vietnam-33590-1.html
 END:VEVENT
@@ -682,83 +670,80 @@ SUMMARY:BVA LIVE — Birmingham\, UK - United Kingdom
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260613
 UID:f-bva-live-27253-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant
-  training with clinical programmes for small animal vets\nVenue: National 
- Exhibition Centre\nFrequency: once a year\nSource: https://www.eventseye.c
- om/fairs/f-bva-live-27253-1.html
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: National 
+ Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-bva-live-27253-1.html
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-bva-live-27253-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - SONDERSHAUSEN — Sondersh
- ausen\, Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - SONDERSHAUSEN — Sondersha
+ usen\, Germany
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
-UID:f-internationale-rassehunde-ausstellung-sondershausen-34007-1@eventsey
- e.impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-sondershausen-34007-1.html
+UID:f-internationale-rassehunde-ausstellung-sondershausen-34007-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-sondershausen-34007-1.html
 LOCATION:Sondershausen\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-sondershausen-34007-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -sondershausen-34007-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LATVIAN WINNER — Riga\, Latvia
 DTSTART;VALUE=DATE:20260613
 DTEND;VALUE=DATE:20260615
 UID:f-latvian-winner-18085-1@eventseye.impio-vault
-DESCRIPTION:International pedigreed Cat & Dog Exhibition. Exciting shows\,
-  demonstrations and bargain purchases...\nVenue: Riga International Exhibi
- tion Centre\nFrequency: once a year\nSource: https://www.eventseye.com/fai
- rs/f-latvian-winner-18085-1.html
+DESCRIPTION:International pedigreed Cat & Dog Exhibition. Exciting shows\, 
+ demonstrations and bargain purchases...\\nVenue: Riga International Exhibi
+ tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-latvian-winner-18085-1.html
 LOCATION:Riga\, Latvia
 URL:https://www.eventseye.com/fairs/f-latvian-winner-18085-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IPVS - INTERNATIONAL PIG VETERINARY SOCIETY CONGRESS — Ho Chi Mi
- nh\, Vietnam
+SUMMARY:IPVS - INTERNATIONAL PIG VETERINARY SOCIETY CONGRESS — Ho Chi Min
+ h\, Vietnam
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260620
-UID:f-ipvs-international-pig-veterinary-society-congress-33594-1@eventseye
- .impio-vault
-DESCRIPTION:IPVS Congress is the world’s largest and most prestigious ev
- ent for the global pig production community. The latest scientific topics 
- about swine will be reported and discussed during the congress\nVenue: Thi
- skyhall Sala Convention Center\nFrequency: every 2 years\nSource: https://
- www.eventseye.com/fairs/f-ipvs-international-pig-veterinary-society-congre
- ss-33594-1.html
+UID:f-ipvs-international-pig-veterinary-society-congress-33594-1@eventseye.impio-vault
+DESCRIPTION:IPVS Congress is the world’s largest and most prestigious eve
+ nt for the global pig production community. The latest scientific topics a
+ bout swine will be reported and discussed during the congress\\nVenue: Thi
+ skyhall Sala Convention Center\\nFrequency: every 2 years\\nSource: https:
+ //www.eventseye.com/fairs/f-ipvs-international-pig-veterinary-society-cong
+ ress-33594-1.html
 LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-ipvs-international-pig-veterinary-so
- ciety-congress-33594-1.html
+URL:https://www.eventseye.com/fairs/f-ipvs-international-pig-veterinary-soc
+ iety-congress-33594-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DLP EXPO ADRICA - DAIRY LIVESTOCK & POULTRY — Nairobi\, Kenya
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260620
-UID:f-dlp-expo-adrica-dairy-livestock-poultry-23417-1@eventseye.impio-vaul
- t
-DESCRIPTION:International Dairy Livestock & Poultry Expo in Kenya. Latest 
- Technology & Equipments of Animal Husbandry\, Dairy\, Dairy Farming\, Pack
- aging\, Processing & Veterinary\nVenue: Kenyatta International Conference 
- Center\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-
- dlp-expo-adrica-dairy-livestock-poultry-23417-1.html
+UID:f-dlp-expo-adrica-dairy-livestock-poultry-23417-1@eventseye.impio-vault
+DESCRIPTION:International Dairy Livestock & Poultry Expo in Kenya. Latest T
+ echnology & Equipments of Animal Husbandry\, Dairy\, Dairy Farming\, Packa
+ ging\, Processing & Veterinary\\nVenue: Kenyatta International Conference 
+ Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-dlp-expo-adrica-dairy-livestock-poultry-23417-1.html
 LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-dlp-expo-adrica-dairy-livestock-poul
- try-23417-1.html
+URL:https://www.eventseye.com/fairs/f-dlp-expo-adrica-dairy-livestock-poult
+ ry-23417-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JAS LA ROCHELLE — La Rochelle\, France
 DTSTART;VALUE=DATE:20260617
 DTEND;VALUE=DATE:20260619
 UID:f-jas-la-rochelle-31088-1@eventseye.impio-vault
-DESCRIPTION:The Food & Health Days (JAS) today represent a benchmark event
-  for agri-food professionals\, and one of the most important European busi
- ness conventions in the sector\nVenue: Espace Encan\nFrequency: every 2 ye
- ars\nSource: https://www.eventseye.com/fairs/f-jas-la-rochelle-31088-1.htm
- l
+DESCRIPTION:The Food & Health Days (JAS) today represent a benchmark event 
+ for agri-food professionals\, and one of the most important European busin
+ ess conventions in the sector\\nVenue: Espace Encan\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-jas-la-rochelle-31088-1.h
+ tml
 LOCATION:La Rochelle\, France
 URL:https://www.eventseye.com/fairs/f-jas-la-rochelle-31088-1.html
 END:VEVENT
@@ -767,10 +752,10 @@ SUMMARY:LIVESTOCK PHILIPPINES — Manila\, Philippines
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260627
 UID:f-livestock-philippines-20197-1@eventseye.impio-vault
-DESCRIPTION:Philippines International Trade Fair for Innovative Production
-  and Processing for Poultry and Livestock\nVenue: World Trade Centre Metro
-  Manila (WTCMM)\nFrequency: once a year\nSource: https://www.eventseye.com
- /fairs/f-livestock-philippines-20197-1.html
+DESCRIPTION:Philippines International Trade Fair for Innovative Production 
+ and Processing for Poultry and Livestock\\nVenue: World Trade Centre Metro
+  Manila (WTCMM)\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-livestock-philippines-20197-1.html
 LOCATION:Manila\, Philippines
 URL:https://www.eventseye.com/fairs/f-livestock-philippines-20197-1.html
 END:VEVENT
@@ -779,25 +764,25 @@ SUMMARY:THAILAND INTERNATIONAL DOG SHOW — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260629
 UID:f-thailand-international-dog-show-21545-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for Dog Lovers. Thailand International Dog Show exh
- ibitors will showcase a wide range of the latest dog care products & servi
- ces\, ranging from dog food\, dog fashion apparels and accessories\, dog c
- are and grooming products and medical services\nVenue: Impact Exhibition &
-  Convention Center\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-thailand-international-dog-show-21545-1.html
+DESCRIPTION:Exhibition for Dog Lovers. Thailand International Dog Show exhi
+ bitors will showcase a wide range of the latest dog care products & servic
+ es\, ranging from dog food\, dog fashion apparels and accessories\, dog ca
+ re and grooming products and medical services\\nVenue: Impact Exhibition &
+  Convention Center\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-thailand-international-dog-show-21545-1.html
 LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-thailand-international-dog-show-2154
- 5-1.html
+URL:https://www.eventseye.com/fairs/f-thailand-international-dog-show-21545
+ -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANIMALS’ & VETERINARY DAYS — Warsaw\, Poland
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260629
 UID:f-animals-veterinary-days-25422-1@eventseye.impio-vault
-DESCRIPTION:The largest event in Poland dedicated to accompanying animals.
-  Pets\, food\, hygiene articles and accessories...\nVenue: Ptak Warsaw Exp
- o\nFrequency: every 2 years\nSource: https://www.eventseye.com/fairs/f-ani
- mals-veterinary-days-25422-1.html
+DESCRIPTION:The largest event in Poland dedicated to accompanying animals. 
+ Pets\, food\, hygiene articles and accessories...\\nVenue: Ptak Warsaw Exp
+ o\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-a
+ nimals-veterinary-days-25422-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-animals-veterinary-days-25422-1.html
 END:VEVENT
@@ -806,114 +791,108 @@ SUMMARY:ANIMAL EXPO ADELAIDE — Adelaide\, Australia
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
 UID:f-animal-expo-adelaide-23048-1@eventseye.impio-vault
-DESCRIPTION:Adelaide Pet Fair. 100% of animals including Reptiles\, Snakes
- \, Rabbits\, Poultry\, Birds\, Ferrets\, Mini Horses & Ponies\, Dogs\, Cat
- s plus many more\nVenue: Adelaide Showground\nFrequency: once a year\nSour
- ce: https://www.eventseye.com/fairs/f-animal-expo-adelaide-23048-1.html
+DESCRIPTION:Adelaide Pet Fair. 100% of animals including Reptiles\, Snakes\
+ , Rabbits\, Poultry\, Birds\, Ferrets\, Mini Horses & Ponies\, Dogs\, Cats
+  plus many more\\nVenue: Adelaide Showground\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-animal-expo-adelaide-23048-1.html
 LOCATION:Adelaide\, Australia
 URL:https://www.eventseye.com/fairs/f-animal-expo-adelaide-23048-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KREUTH — Kreuth\, German
- y
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KREUTH — Kreuth\, Germany
 DTSTART;VALUE=DATE:20260627
 DTEND;VALUE=DATE:20260629
-UID:f-internationale-rassehunde-ausstellung-kreuth-31208-1@eventseye.impio
- -vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-kreuth-31208-1.html
+UID:f-internationale-rassehunde-ausstellung-kreuth-31208-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-kreuth-31208-1.html
 LOCATION:Kreuth\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-kreuth-31208-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -kreuth-31208-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHANCHAO TAIPEI PETS SHOW — Taipei\, Taiwan
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260707
 UID:f-chanchao-taipei-pets-show-9070-1@eventseye.impio-vault
-DESCRIPTION:Taipei Pet Show. Dried and semi-dry foods\, Clothing accessori
- es\, Grooming care\, Hygiene products\, Accessories related to outings\, T
- raining assistance\, Services...\nVenue: Taipei Nangang Exhibition Center\
- nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-chancha
- o-taipei-pets-show-9070-1.html
+DESCRIPTION:Taipei Pet Show. Dried and semi-dry foods\, Clothing accessorie
+ s\, Grooming care\, Hygiene products\, Accessories related to outings\, Tr
+ aining assistance\, Services...\\nVenue: Taipei Nangang Exhibition Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-chanc
+ hao-taipei-pets-show-9070-1.html
 LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-chanchao-taipei-pets-show-9070-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-chanchao-taipei-pets-show-9070-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - HALLBERGMOOS — Hallbergm
- oos\, Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - HALLBERGMOOS — Hallbergmo
+ os\, Germany
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
-UID:f-internationale-rassehunde-ausstellung-hallbergmoos-31207-1@eventseye
- .impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-hallbergmoos-31207-1.html
+UID:f-internationale-rassehunde-ausstellung-hallbergmoos-31207-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-hallbergmoos-31207-1.html
 LOCATION:Hallbergmoos\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-hallbergmoos-31207-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -hallbergmoos-31207-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXPOPET COLOMBIA - BOGOTÁ — Bogotá\, Colombia
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260721
 UID:f-expopet-colombia-bogota-21378-1@eventseye.impio-vault
-DESCRIPTION:Colombian International Pet Show. Discover a wide range of pro
- ducts and services that will improve your pet's quality of life and enjoy 
- activities designed especially for animal lovers\nVenue: Corferias - Centr
- o de Convenciones\nFrequency: once a year\nSource: https://www.eventseye.c
- om/fairs/f-expopet-colombia-bogota-21378-1.html
+DESCRIPTION:Colombian International Pet Show. Discover a wide range of prod
+ ucts and services that will improve your pet's quality of life and enjoy a
+ ctivities designed especially for animal lovers\\nVenue: Corferias - Centr
+ o de Convenciones\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-expopet-colombia-bogota-21378-1.html
 LOCATION:Bogotá\, Colombia
 URL:https://www.eventseye.com/fairs/f-expopet-colombia-bogota-21378-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - GELSENKIRCHEN — Gelsenki
- rchen\, Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - GELSENKIRCHEN — Gelsenkir
+ chen\, Germany
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
-UID:f-internationale-rassehunde-ausstellung-gelsenkirchen-31206-1@eventsey
- e.impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-gelsenkirchen-31206-1.html
+UID:f-internationale-rassehunde-ausstellung-gelsenkirchen-31206-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-gelsenkirchen-31206-1.html
 LOCATION:Gelsenkirchen\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-gelsenkirchen-31206-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -gelsenkirchen-31206-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OLDENBURG — Oldenburg\, 
- Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OLDENBURG — Oldenburg\, G
+ ermany
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260803
-UID:f-internationale-rassehunde-ausstellung-oldenburg-31196-1@eventseye.im
- pio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-oldenburg-31196-1.html
+UID:f-internationale-rassehunde-ausstellung-oldenburg-31196-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-oldenburg-31196-1.html
 LOCATION:Oldenburg\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-oldenburg-31196-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -oldenburg-31196-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SG PET FESTIVAL — Singapore\, Singapore
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260803
 UID:f-sg-pet-festival-32025-1@eventseye.impio-vault
-DESCRIPTION:The Largest Pet Event in Singapore. Whether you’re smitten w
- ith kitties\, head over paws for pups\, or captivated by these adorable co
- mpanions like hamsters or bunnies\, this event has a paw-some surprise for
-  every pet lover\nVenue: Marina Bay Sands\nFrequency: once a year\nSource:
-  https://www.eventseye.com/fairs/f-sg-pet-festival-32025-1.html
+DESCRIPTION:The Largest Pet Event in Singapore. Whether you’re smitten wi
+ th kitties\, head over paws for pups\, or captivated by these adorable com
+ panions like hamsters or bunnies\, this event has a paw-some surprise for 
+ every pet lover\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-sg-pet-festival-32025-1.html
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-sg-pet-festival-32025-1.html
 END:VEVENT
@@ -922,57 +901,55 @@ SUMMARY:PET SOUTH AMERICA — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260815
 UID:f-pet-south-america-3718-1@eventseye.impio-vault
-DESCRIPTION:PET South America brings together all the solutions\, products
- \, and services for the pet market in Latin America. Benefit from a highly
-  qualified professional environment\, discover market trends\, and network
-  with professionals\nVenue: Parque Anhembi\nFrequency: once a year\nSource
- : https://www.eventseye.com/fairs/f-pet-south-america-3718-1.html
+DESCRIPTION:PET South America brings together all the solutions\, products\
+ , and services for the pet market in Latin America. Benefit from a highly 
+ qualified professional environment\, discover market trends\, and network 
+ with professionals\\nVenue: Parque Anhembi\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-pet-south-america-3718-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-pet-south-america-3718-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LUDWIGSHAFEN — Ludwigsha
- fen\, Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LUDWIGSHAFEN — Ludwigshaf
+ en\, Germany
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260817
-UID:f-internationale-rassehunde-ausstellung-ludwigshafen-24876-1@eventseye
- .impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-ludwigshafen-24876-1.html
+UID:f-internationale-rassehunde-ausstellung-ludwigshafen-24876-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-ludwigshafen-24876-1.html
 LOCATION:Ludwigshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-ludwigshafen-24876-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -ludwigshafen-24876-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IAVC - INTERNATIONAL ASIA VETERINARY CONFERENCE & EXHIBITION — S
- henzhen\, China
+SUMMARY:IAVC - INTERNATIONAL ASIA VETERINARY CONFERENCE & EXHIBITION — Sh
+ enzhen\, China
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260820
-UID:f-iavc-international-asia-veterinary-conference-exhibition-32656-1@eve
- ntseye.impio-vault
-DESCRIPTION:IAVC brings together leading veterinary practitioners and pet 
- industry experts from around the world. The latest trends\, innovations\, 
- and consumer needs in the veterinary sector to maintain a competitive edge
- \nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-iavc-i
- nternational-asia-veterinary-conference-exhibition-32656-1.html
+UID:f-iavc-international-asia-veterinary-conference-exhibition-32656-1@eventseye.impio-vault
+DESCRIPTION:IAVC brings together leading veterinary practitioners and pet i
+ ndustry experts from around the world. The latest trends\, innovations\, a
+ nd consumer needs in the veterinary sector to maintain a competitive edge\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-iavc-
+ international-asia-veterinary-conference-exhibition-32656-1.html
 LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-iavc-international-asia-veterinary-c
- onference-exhibition-32656-1.html
+URL:https://www.eventseye.com/fairs/f-iavc-international-asia-veterinary-co
+ nference-exhibition-32656-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PET FAIR ASIA — Shanghai\, China
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260824
 UID:f-pet-fair-asia-7022-1@eventseye.impio-vault
-DESCRIPTION:PET FAIR ASIA is the largest exhibition for pet supplies in As
- ia\, and a leading innovation hub for the international pet industry. The 
- event gives a significant importance to Asian markets and proposes a wide 
- coverage of the supply chain & sourcing needs\nVenue: Shanghai New Interna
- tional Expo Centre - SNIEC\nFrequency: once a year\nSource: https://www.ev
- entseye.com/fairs/f-pet-fair-asia-7022-1.html
+DESCRIPTION:PET FAIR ASIA is the largest exhibition for pet supplies in Asi
+ a\, and a leading innovation hub for the international pet industry. The e
+ vent gives a significant importance to Asian markets and proposes a wide c
+ overage of the supply chain & sourcing needs\\nVenue: Shanghai New Interna
+ tional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-pet-fair-asia-7022-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-pet-fair-asia-7022-1.html
 END:VEVENT
@@ -981,24 +958,24 @@ SUMMARY:AGRO & POULTRY AFRICA - KENYA — Nairobi\, Kenya
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260823
 UID:f-agro-poultry-africa-kenya-30974-1@eventseye.impio-vault
-DESCRIPTION:AGRO & POULTRY AFRICA is an international trade show on Agricu
- lture\, Dairy & Poultry\, Farming and Veterinary in East Africa\nVenue: Th
- e Sarit Centre\nFrequency: once a year\nSource: https://www.eventseye.com/
- fairs/f-agro-poultry-africa-kenya-30974-1.html
+DESCRIPTION:AGRO & POULTRY AFRICA is an international trade show on Agricul
+ ture\, Dairy & Poultry\, Farming and Veterinary in East Africa\\nVenue: Th
+ e Sarit Centre\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-agro-poultry-africa-kenya-30974-1.html
 LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-agro-poultry-africa-kenya-30974-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-agro-poultry-africa-kenya-30974-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PETFAIR CAMBODIA — Phnom Penh\, Cambodia
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260829
 UID:f-petfair-cambodia-33588-1@eventseye.impio-vault
-DESCRIPTION:Petfair Cambodia is the international Trade Fair for the Pet I
- ndustry in Cambodia. A B2B Platform in this Keep-increasing Developing Sou
- rcing and Consuming Market\nVenue: Diamond Island Convention & Exhibition 
- Center\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-
- petfair-cambodia-33588-1.html
+DESCRIPTION:Petfair Cambodia is the international Trade Fair for the Pet In
+ dustry in Cambodia. A B2B Platform in this Keep-increasing Developing Sour
+ cing and Consuming Market\\nVenue: Diamond Island Convention & Exhibition 
+ Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-petfair-cambodia-33588-1.html
 LOCATION:Phnom Penh\, Cambodia
 URL:https://www.eventseye.com/fairs/f-petfair-cambodia-33588-1.html
 END:VEVENT
@@ -1007,39 +984,38 @@ SUMMARY:MEIN HUND - SCHLOSS OELBER — Baddeckenstedt\, Germany
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260831
 UID:f-mein-hund-schloss-oelber-25794-1@eventseye.impio-vault
-DESCRIPTION:Dog Show. MEIN HUND - SCHLOSS OELBER presents club and service
- s for dogs\, pet grooming salons\, pet care services\, dog food and chew t
- oys\nVenue: Schloss Oelber\nFrequency: once a year\nSource: https://www.ev
- entseye.com/fairs/f-mein-hund-schloss-oelber-25794-1.html
+DESCRIPTION:Dog Show. MEIN HUND - SCHLOSS OELBER presents club and services
+  for dogs\, pet grooming salons\, pet care services\, dog food and chew to
+ ys\\nVenue: Schloss Oelber\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-mein-hund-schloss-oelber-25794-1.html
 LOCATION:Baddeckenstedt\, Germany
-URL:https://www.eventseye.com/fairs/f-mein-hund-schloss-oelber-25794-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-mein-hund-schloss-oelber-25794-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NATIONAL EXHIBITION OF FARM ANIMALS — Nitra\, Slovakia
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260907
 UID:f-national-exhibition-of-farm-animals-33280-1@eventseye.impio-vault
-DESCRIPTION:Slovakia's Exhibition of Farm Animals. Part of NITRA AGROKOMPL
- EX\, a major event for the agricultural industry in Slovakia and the surro
- unding countries\nVenue: Agrokomplex Nitra\nFrequency: once a year\nSource
- : https://www.eventseye.com/fairs/f-national-exhibition-of-farm-animals-33
- 280-1.html
-LOCATION:Nitra\, Slovakia
-URL:https://www.eventseye.com/fairs/f-national-exhibition-of-farm-animals-
+DESCRIPTION:Slovakia's Exhibition of Farm Animals. Part of NITRA AGROKOMPLE
+ X\, a major event for the agricultural industry in Slovakia and the surrou
+ nding countries\\nVenue: Agrokomplex Nitra\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-national-exhibition-of-farm-animals-
  33280-1.html
+LOCATION:Nitra\, Slovakia
+URL:https://www.eventseye.com/fairs/f-national-exhibition-of-farm-animals-3
+ 3280-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:STOCKHOLM HUNDMÄSSA — Stockholm\, Sweden
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 UID:f-stockholm-hundmassa-16920-1@eventseye.impio-vault
-DESCRIPTION:Scandinavia's largest dog show with activities and exhibition\
- , where dog lovers and enthusiasts from around the world gather. Over 300 
- breeds are judged in the rings throughout the weekend\, with thousands of 
- dogs participating\nVenue: Stockholmsmässan - Stockholm International Fai
- rs\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-stoc
- kholm-hundmassa-16920-1.html
+DESCRIPTION:Scandinavia's largest dog show with activities and exhibition\,
+  where dog lovers and enthusiasts from around the world gather. Over 300 b
+ reeds are judged in the rings throughout the weekend\, with thousands of d
+ ogs participating\\nVenue: Stockholmsmässan - Stockholm International Fai
+ rs\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-st
+ ockholm-hundmassa-16920-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-stockholm-hundmassa-16920-1.html
 END:VEVENT
@@ -1048,10 +1024,10 @@ SUMMARY:ESOTIKA PET SHOW - ERBA — Erba\, Italy
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 UID:f-esotika-pet-show-erba-32547-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Lario Fiere\nFrequ
- ency: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-pet-s
- how-erba-32547-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Lario Fiere\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika-pet
+ -show-erba-32547-1.html
 LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-esotika-pet-show-erba-32547-1.html
 END:VEVENT
@@ -1060,12 +1036,12 @@ SUMMARY:GROWTECH. MIDDLE EAST — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260911
 UID:f-growtech.-middle-east-17451-1@eventseye.impio-vault
-DESCRIPTION:GROWTECH. MIDDLE EAST is the Middle East's premier agricultura
- l trade show. Discover breakthrough agri-tech solutions\, and access game-
- changing innovations in crop production\, livestock\, aquaculture\, smart 
- farming & water management\nVenue: Dubai World Trade Centre (Dubai Exhibit
- ion Centre)\nFrequency: once a year\nSource: https://www.eventseye.com/fai
- rs/f-growtech.-middle-east-17451-1.html
+DESCRIPTION:GROWTECH. MIDDLE EAST is the Middle East's premier agricultural
+  trade show. Discover breakthrough agri-tech solutions\, and access game-c
+ hanging innovations in crop production\, livestock\, aquaculture\, smart f
+ arming & water management\\nVenue: Dubai World Trade Centre (Dubai Exhibit
+ ion Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-growtech.-middle-east-17451-1.html
 LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-growtech.-middle-east-17451-1.html
 END:VEVENT
@@ -1074,11 +1050,11 @@ SUMMARY:VETERINARY-VET ME — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260911
 UID:f-veterinary-vet-me-18994-1@eventseye.impio-vault
-DESCRIPTION:Middle East's Premier Veterinary Trade Exhibition & Conference
- . Part of Growtech Middle East\, powering the Future of Food Production in
-  the Middle East\nVenue: Dubai World Trade Centre (Dubai Exhibition Centre
- )\nFrequency: every 2 years\nSource: https://www.eventseye.com/fairs/f-vet
- erinary-vet-me-18994-1.html
+DESCRIPTION:Middle East's Premier Veterinary Trade Exhibition & Conference.
+  Part of Growtech Middle East\, powering the Future of Food Production in 
+ the Middle East\\nVenue: Dubai World Trade Centre (Dubai Exhibition Centre
+ )\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-v
+ eterinary-vet-me-18994-1.html
 LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-veterinary-vet-me-18994-1.html
 END:VEVENT
@@ -1087,10 +1063,10 @@ SUMMARY:SMART POULTRY WORLD — Sofia\, Bulgaria
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
 UID:f-smart-poultry-world-31326-1@eventseye.impio-vault
-DESCRIPTION:Smart Poultry World is a forum that combines an exhibition flo
- or and lectures by leading professionals in the field\, and focuses on inn
- ovations in the Poultry industry\nFrequency: once a year\nSource: https://
- www.eventseye.com/fairs/f-smart-poultry-world-31326-1.html
+DESCRIPTION:Smart Poultry World is a forum that combines an exhibition floo
+ r and lectures by leading professionals in the field\, and focuses on inno
+ vations in the Poultry industry\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-smart-poultry-world-31326-1.html
 LOCATION:Sofia\, Bulgaria
 URL:https://www.eventseye.com/fairs/f-smart-poultry-world-31326-1.html
 END:VEVENT
@@ -1099,10 +1075,10 @@ SUMMARY:THE VET EXPO - AUSTRALIA — Sydney\, Australia
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
 UID:f-the-vet-expo-australia-31182-1@eventseye.impio-vault
-DESCRIPTION:Australia’s new festival style event for Veterinarians\, ani
- mal health professionals and the business of pet care\nVenue: ICC Sydney -
-  International Convention Centre Sydney\nFrequency: once a year\nSource: h
- ttps://www.eventseye.com/fairs/f-the-vet-expo-australia-31182-1.html
+DESCRIPTION:Australia’s new festival style event for Veterinarians\, anim
+ al health professionals and the business of pet care\\nVenue: ICC Sydney -
+  International Convention Centre Sydney\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-the-vet-expo-australia-31182-1.html
 LOCATION:Sydney\, Australia
 URL:https://www.eventseye.com/fairs/f-the-vet-expo-australia-31182-1.html
 END:VEVENT
@@ -1111,24 +1087,24 @@ SUMMARY:DLP EXPO ASIA - DAIRY LIVESTOCK & POULTRY — Gandhinagar\, India
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260914
 UID:f-dlp-expo-asia-dairy-livestock-poultry-23418-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition & Conference on Latest Technology & E
- quipments of Animal Husbandry\, Dairy\, Dairy Framing\, Packaging\, Proces
- sing And Veterinary\nVenue: Helipad Exhibition Centre (HEC)\nFrequency: on
- ce a year\nSource: https://www.eventseye.com/fairs/f-dlp-expo-asia-dairy-l
- ivestock-poultry-23418-1.html
+DESCRIPTION:International Exhibition & Conference on Latest Technology & Eq
+ uipments of Animal Husbandry\, Dairy\, Dairy Framing\, Packaging\, Process
+ ing And Veterinary\\nVenue: Helipad Exhibition Centre (HEC)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-dlp-expo-asia-dairy
+ -livestock-poultry-23418-1.html
 LOCATION:Gandhinagar\, India
-URL:https://www.eventseye.com/fairs/f-dlp-expo-asia-dairy-livestock-poultr
- y-23418-1.html
+URL:https://www.eventseye.com/fairs/f-dlp-expo-asia-dairy-livestock-poultry
+ -23418-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESOTIKA PET SHOW - AREZZO — Arezzo\, Italy
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 UID:f-esotika-pet-show-arezzo-31216-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Arezzo Fiere e Con
- gressi\nFrequency: twice a year\nSource: https://www.eventseye.com/fairs/f
- -esotika-pet-show-arezzo-31216-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Arezzo Fiere e Con
+ gressi\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs
+ /f-esotika-pet-show-arezzo-31216-1.html
 LOCATION:Arezzo\, Italy
 URL:https://www.eventseye.com/fairs/f-esotika-pet-show-arezzo-31216-1.html
 END:VEVENT
@@ -1137,41 +1113,40 @@ SUMMARY:FXBG PET PALOOZA — Fredericksburg\, VA\, USA
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
 UID:f-fxbg-pet-palooza-19418-1@eventseye.impio-vault
-DESCRIPTION:FXBG PET PALOOZA is a family-fun event bringing together pet o
- wners\, lovers and enthusiasts with vendors that represent all aspects of 
- the pet world such as manufacturers\, retailers\, breeders\, hobbyists\, c
- lubs\, veterinarians\nVenue: Fredericksburg Expo & Conference Center\nFreq
- uency: once a year\nSource: https://www.eventseye.com/fairs/f-fxbg-pet-pal
- ooza-19418-1.html
+DESCRIPTION:FXBG PET PALOOZA is a family-fun event bringing together pet ow
+ ners\, lovers and enthusiasts with vendors that represent all aspects of t
+ he pet world such as manufacturers\, retailers\, breeders\, hobbyists\, cl
+ ubs\, veterinarians\\nVenue: Fredericksburg Expo & Conference Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-fxbg-pet-p
+ alooza-19418-1.html
 LOCATION:Fredericksburg\, VA\, USA
 URL:https://www.eventseye.com/fairs/f-fxbg-pet-palooza-19418-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LEIPZIG — Leipzig\, Germ
- any
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - LEIPZIG — Leipzig\, Germa
+ ny
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260914
-UID:f-internationale-rassehunde-ausstellung-leipzig-24877-1@eventseye.impi
- o-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nVenue: Exhibition Centre Leipzig\nFrequency: once a year\nSource: ht
- tps://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-leip
- zig-24877-1.html
+UID:f-internationale-rassehunde-ausstellung-leipzig-24877-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nVenue: Exhibition Centre Leipzig\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-le
+ ipzig-24877-1.html
 LOCATION:Leipzig\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-leipzig-24877-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -leipzig-24877-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VETFORUM USA — Fort Worth\, TX\, USA
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
 UID:f-vetforum-usa-31390-1@eventseye.impio-vault
-DESCRIPTION:VetForum USA brings you the opportunity to connect and meet wi
- th other veterinary industry players over two days of meetings and informa
- l networking\nFrequency: once a year\nSource: https://www.eventseye.com/fa
- irs/f-vetforum-usa-31390-1.html
+DESCRIPTION:VetForum USA brings you the opportunity to connect and meet wit
+ h other veterinary industry players over two days of meetings and informal
+  networking\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-vetforum-usa-31390-1.html
 LOCATION:Fort Worth\, TX\, USA
 URL:https://www.eventseye.com/fairs/f-vetforum-usa-31390-1.html
 END:VEVENT
@@ -1180,11 +1155,11 @@ SUMMARY:MY FANTASTIC PETS - LARIO — Erba\, Italy
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
 UID:f-my-fantastic-pets-lario-26748-1@eventseye.impio-vault
-DESCRIPTION:Italian Pet Show. The exhibition area features all categories 
- of pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and far
- m animals)\, as well as a wide range of products and services for animals\
- nVenue: Lario Fiere\nFrequency: once a year\nSource: https://www.eventseye
- .com/fairs/f-my-fantastic-pets-lario-26748-1.html
+DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
+ f pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and farm
+  animals)\, as well as a wide range of products and services for animals\\
+ nVenue: Lario Fiere\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-my-fantastic-pets-lario-26748-1.html
 LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-lario-26748-1.html
 END:VEVENT
@@ -1193,126 +1168,22 @@ SUMMARY:ESOTIKA PET SHOW - MASSA CARRARA — Carrara\, Italy
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
 UID:f-esotika-pet-show-massa-carrara-31980-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: CarraraFiere\nFreq
- uency: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-pet-
- show-massa-carrara-31980-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: CarraraFiere\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika-pe
+ t-show-massa-carrara-31980-1.html
 LOCATION:Carrara\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-massa-carrara-31980
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO MASCOTAS — Alicante\, Spain
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-UID:f-expo-mascotas-27784-1@eventseye.impio-vault
-DESCRIPTION:Dog and other pets show. EXPO MASCOTAS is designed to find Und
- er one roof a whole range of articles\, products\, services and informatio
- n related to pets\nVenue: IFA - Fira Alicant\nFrequency: once a year\nSour
- ce: https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
-LOCATION:Alicante\, Spain
-URL:https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINNER — Helsinki\, Finland
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-winner-13825-1@eventseye.impio-vault
-DESCRIPTION:Finland's biggest Dog Event. Dog Fair Finland offers a great c
- hance to get acquainted with different breeds and discuss the choice of br
- eed and good dog-ownership with experts in the field\nVenue: Helsinki Fair
-  Centre\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f
- -winner-13825-1.html
-LOCATION:Helsinki\, Finland
-URL:https://www.eventseye.com/fairs/f-winner-13825-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOOTECHNIA — Thessaloniki\, Greece
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270201
-UID:f-zootechnia-6227-1@eventseye.impio-vault
-DESCRIPTION:International Fair for Livestock and Poultry\, engaging specia
- lized industry firms\, public and private sector stakeholders\, and intere
- sted professionals from both Greece and beyond\nVenue: Thessaloniki Intern
- ational Exhibition Centre\nFrequency: every 2 years\nSource: https://www.e
- ventseye.com/fairs/f-zootechnia-6227-1.html
-LOCATION:Thessaloniki\, Greece
-URL:https://www.eventseye.com/fairs/f-zootechnia-6227-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIVE - CONGRESSO INTERNAZIONALE MEDICINA VETERINARIA — Bologna\,
-  Italy
-DTSTART;VALUE=DATE:20270204
-DTEND;VALUE=DATE:20270207
-UID:f-sive-congresso-internazionale-medicina-veterinaria-33847-1@eventseye
- .impio-vault
-DESCRIPTION:A key event for professionals in equine veterinary medicine\, 
- organized by the Italian Association of Equine Veterinarians (SIVE). Scien
- tific sessions focuse on prevention\, diagnosis\, and treatment of major e
- quine diseases\nFrequency: once a year\nSource: https://www.eventseye.com/
- fairs/f-sive-congresso-internazionale-medicina-veterinaria-33847-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-sive-congresso-internazionale-medici
- na-veterinaria-33847-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERMA — Lodz\, Poland
-DTSTART;VALUE=DATE:20270219
-DTEND;VALUE=DATE:20270222
-UID:f-ferma-23988-1@eventseye.impio-vault
-DESCRIPTION:The most important information exchange platform for breeding 
- and breeding cattle\, pigs and poultry in Poland\nVenue: Expo Lodz\nFreque
- ncy: once a year\nSource: https://www.eventseye.com/fairs/f-ferma-23988-1.
- html
-LOCATION:Lodz\, Poland
-URL:https://www.eventseye.com/fairs/f-ferma-23988-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIERAVICOLA — Rimini\, Italy
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270423
-UID:f-fieravicola-28148-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Poultry\, Poultry Products and all
-  Elements of the Production Chain in Cesena\nVenue: Rimini Fiera\nFrequenc
- y: every 2 years\nSource: https://www.eventseye.com/fairs/f-fieravicola-28
- 148-1.html
-LOCATION:Rimini\, Italy
-URL:https://www.eventseye.com/fairs/f-fieravicola-28148-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOOMARK INTERNATIONAL — Bologna\, Italy
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-zoomark-international-3750-1@eventseye.impio-vault
-DESCRIPTION:At the heart of Europe\, Zoomark is an essential international
-  meeting point for leaders in the pet industry\, bringing together all pla
- yers in the production and distribution chain in one location\nVenue: Bolo
- gna Exhibition Centre\nFrequency: every 2 years\nSource: https://www.event
- seye.com/fairs/f-zoomark-international-3750-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-zoomark-international-3750-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ILDEX INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270918
-UID:f-ildex-indonesia-17761-1@eventseye.impio-vault
-DESCRIPTION:International Livestock and Dairy Expo. Trade show and confere
- nces from animal production and processing to technology\, from agricultur
- e to innovations and from pets to medical and laboratory sectors\nVenue: I
- CE - Indonesian Convention Exhibition\nFrequency: every 2 years\nSource: h
- ttps://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-massa-carrara-31980-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DU UND DAS TIER TULLN — Tulln\, Austria
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
 UID:f-du-und-das-tier-tulln-23584-1@eventseye.impio-vault
-DESCRIPTION:Tulln international dog show with austria’s largest small an
- imal show\nVenue: Messe Tulln\nFrequency: once a year\nSource: https://www
- .eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
+DESCRIPTION:Tulln international dog show with austria’s largest small ani
+ mal show\\nVenue: Messe Tulln\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
 LOCATION:Tulln\, Austria
 URL:https://www.eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
 END:VEVENT
@@ -1321,41 +1192,40 @@ SUMMARY:INTERNATIONALE RASSEHUNDEAUSSTELLUNG — Rostock\, Germany
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
 UID:f-internationale-rassehundeausstellung-12147-1@eventseye.impio-vault
-DESCRIPTION:International Dog Fair of Rostock. The largest dog show in nor
- theastern Germany - a paradise for dogs\, their owners and owners\nVenue: 
- HanseMesse Rostock\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-internationale-rassehundeausstellung-12147-1.html
+DESCRIPTION:International Dog Fair of Rostock. The largest dog show in nort
+ heastern Germany - a paradise for dogs\, their owners and owners\\nVenue: 
+ HanseMesse Rostock\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-internationale-rassehundeausstellung-12147-1.html
 LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehundeausstellung
- -12147-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehundeausstellung-
+ 12147-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - ROSTOCK — Rostock\, Germ
- any
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - ROSTOCK — Rostock\, Germa
+ ny
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
-UID:f-internationale-rassehunde-ausstellung-rostock-24879-1@eventseye.impi
- o-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-rostock-24879-1.html
+UID:f-internationale-rassehunde-ausstellung-rostock-24879-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-rostock-24879-1.html
 LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-rostock-24879-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -rostock-24879-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGRO FARMA EXPO — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261009
 UID:f-agro-farma-expo-33173-1@eventseye.impio-vault
-DESCRIPTION:Agro FARMA Expo is a key event for the livestock industry\, sh
- owcasing the latest technologies\, equipment & solutions that support effi
- cient and sustainable animal farming. An excellent space for exchanging ex
- periences\, networking\, discovering innovations\nVenue: Ptak Warsaw Expo\
- nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-agro-fa
- rma-expo-33173-1.html
+DESCRIPTION:Agro FARMA Expo is a key event for the livestock industry\, sho
+ wcasing the latest technologies\, equipment & solutions that support effic
+ ient and sustainable animal farming. An excellent space for exchanging exp
+ eriences\, networking\, discovering innovations\\nVenue: Ptak Warsaw Expo\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-agro-
+ farma-expo-33173-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-agro-farma-expo-33173-1.html
 END:VEVENT
@@ -1364,11 +1234,11 @@ SUMMARY:SOMMET DE L'ÉLEVAGE — Clermont-Ferrand\, France
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261010
 UID:f-sommet-de-l-elevage-6652-1@eventseye.impio-vault
-DESCRIPTION:European Exhibition of Livestock Professionals. Located in the
-  center of France\, the world cradle of the largest beef breeds\, the SOMM
- ET DE L’ÉLEVAGE is an exceptional showcase of French breeding\nVenue: G
- rande Halle d'Auvergne\nFrequency: once a year\nSource: https://www.events
- eye.com/fairs/f-sommet-de-l-elevage-6652-1.html
+DESCRIPTION:European Exhibition of Livestock Professionals. Located in the 
+ center of France\, the world cradle of the largest beef breeds\, the SOMME
+ T DE L’ÉLEVAGE is an exceptional showcase of French breeding\\nVenue: G
+ rande Halle d'Auvergne\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-sommet-de-l-elevage-6652-1.html
 LOCATION:Clermont-Ferrand\, France
 URL:https://www.eventseye.com/fairs/f-sommet-de-l-elevage-6652-1.html
 END:VEVENT
@@ -1377,12 +1247,12 @@ SUMMARY:VETERINARY EXPO POLAND — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261009
 UID:f-veterinary-expo-poland-33174-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Expo Poland is a trade fair for the veterinary indu
- stry\, bringing together innovations\, technologies\, and practical soluti
- ons. A space for networking\, showcasing products and services\, exploring
-  the latest trends of veterinary medicine\nVenue: Ptak Warsaw Expo\nFreque
- ncy: once a year\nSource: https://www.eventseye.com/fairs/f-veterinary-exp
- o-poland-33174-1.html
+DESCRIPTION:Veterinary Expo Poland is a trade fair for the veterinary indus
+ try\, bringing together innovations\, technologies\, and practical solutio
+ ns. A space for networking\, showcasing products and services\, exploring 
+ the latest trends of veterinary medicine\\nVenue: Ptak Warsaw Expo\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-veterinary-e
+ xpo-poland-33174-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-veterinary-expo-poland-33174-1.html
 END:VEVENT
@@ -1391,10 +1261,10 @@ SUMMARY:PETZOO EURASIA — Istanbul\, Turkey
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261011
 UID:f-petzoo-eurasia-30834-1@eventseye.impio-vault
-DESCRIPTION:PETZOO Eurasia is Turkey's largest pet products\, accessories 
- and services exhibition\nVenue: Istanbul Expo Center / Istanbul Fuar Merke
- zi / CNR Expo\nFrequency: once a year\nSource: https://www.eventseye.com/f
- airs/f-petzoo-eurasia-30834-1.html
+DESCRIPTION:PETZOO Eurasia is Turkey's largest pet products\, accessories a
+ nd services exhibition\\nVenue: Istanbul Expo Center / Istanbul Fuar Merke
+ zi / CNR Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-petzoo-eurasia-30834-1.html
 LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-petzoo-eurasia-30834-1.html
 END:VEVENT
@@ -1403,69 +1273,66 @@ SUMMARY:CHANCHAO MEOW EXPO — Taipei\, Taiwan
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261012
 UID:f-chanchao-meow-expo-27744-1@eventseye.impio-vault
-DESCRIPTION:Exhibition dedicated to Pet’s food\, treats\, services and h
- ealth care products\nVenue: Taipei Nangang Exhibition Center\nFrequency: o
- nce a year\nSource: https://www.eventseye.com/fairs/f-chanchao-meow-expo-2
- 7744-1.html
+DESCRIPTION:Exhibition dedicated to Pet’s food\, treats\, services and he
+ alth care products\\nVenue: Taipei Nangang Exhibition Center\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-chanchao-meow-expo
+ -27744-1.html
 LOCATION:Taipei\, Taiwan
 URL:https://www.eventseye.com/fairs/f-chanchao-meow-expo-27744-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THAILAND INTERNATIONAL DOG SHOW & PET VARIETY — Bangkok\, Thaila
- nd
+SUMMARY:THAILAND INTERNATIONAL DOG SHOW & PET VARIETY — Bangkok\, Thailan
+ d
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261011
-UID:f-thailand-international-dog-show-pet-variety-20519-1@eventseye.impio-
- vault
-DESCRIPTION:Exhibition for pet owners and lovers. Thailand int'l Dog Show 
- & Pet Variety is an International showcase of dog & pet food\, pet fashion
-  apparels and accessories\, exotic pet shop\, dog & pet breeders\, dog & p
- et care and grooming products & medical services\nVenue: Impact Exhibition
-  & Convention Center\nFrequency: once a year\nSource: https://www.eventsey
- e.com/fairs/f-thailand-international-dog-show-pet-variety-20519-1.html
+UID:f-thailand-international-dog-show-pet-variety-20519-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for pet owners and lovers. Thailand int'l Dog Show &
+  Pet Variety is an International showcase of dog & pet food\, pet fashion 
+ apparels and accessories\, exotic pet shop\, dog & pet breeders\, dog & pe
+ t care and grooming products & medical services\\nVenue: Impact Exhibition
+  & Convention Center\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-thailand-international-dog-show-pet-variety-20519-1.html
 LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-thailand-international-dog-show-pet-
- variety-20519-1.html
+URL:https://www.eventseye.com/fairs/f-thailand-international-dog-show-pet-v
+ ariety-20519-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ESOTIKA PET SHOW - BRESCIA — Brescia\, Italy
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 UID:f-esotika-pet-show-brescia-31979-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Fiera di Brescia\n
- Frequency: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-
- pet-show-brescia-31979-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Fiera di Brescia\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotik
+ a-pet-show-brescia-31979-1.html
 LOCATION:Brescia\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-brescia-31979-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-brescia-31979-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANNUAL WORLD SMALL ANIMAL VETERINARY ASSOCIATION CONGRESS — Wars
- aw\, Poland
+SUMMARY:ANNUAL WORLD SMALL ANIMAL VETERINARY ASSOCIATION CONGRESS — Warsa
+ w\, Poland
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261016
-UID:f-annual-world-small-animal-veterinary-association-congress-12416-1@ev
- entseye.impio-vault
-DESCRIPTION:Annual World Small Animal Veterinary Association Congress. WSA
- VA World Congress is an opportunity for our global veterinary community to
-  come together to learn\, to share ideas and to forge relationships with c
- olleagues from around the world\nFrequency: once a year\nSource: https://w
- ww.eventseye.com/fairs/f-annual-world-small-animal-veterinary-association-
- congress-12416-1.html
+UID:f-annual-world-small-animal-veterinary-association-congress-12416-1@eventseye.impio-vault
+DESCRIPTION:Annual World Small Animal Veterinary Association Congress. WSAV
+ A World Congress is an opportunity for our global veterinary community to 
+ come together to learn\, to share ideas and to forge relationships with co
+ lleagues from around the world\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-annual-world-small-animal-veterinary-association
+ -congress-12416-1.html
 LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-annual-world-small-animal-veterinary
- -association-congress-12416-1.html
+URL:https://www.eventseye.com/fairs/f-annual-world-small-animal-veterinary-
+ association-congress-12416-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WILD WEST VET SHOW — Reno\, NV\, USA
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261018
 UID:f-wild-west-vet-show-27244-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant
-  training with clinical programmes for small animal vets\nVenue: Peppermil
- l Resort Spa Casino\nFrequency: once a year\nSource: https://www.eventseye
- .com/fairs/f-wild-west-vet-show-27244-1.html
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: Peppermil
+ l Resort Spa Casino\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-wild-west-vet-show-27244-1.html
 LOCATION:Reno\, NV\, USA
 URL:https://www.eventseye.com/fairs/f-wild-west-vet-show-27244-1.html
 END:VEVENT
@@ -1474,25 +1341,25 @@ SUMMARY:ESOTIKA PET SHOW - CASALE MONFERRATO — Casale Monferrato\, Italy
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 UID:f-esotika-pet-show-casale-monferrato-30705-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Palafiere\nFrequen
- cy: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-pet-sho
- w-casale-monferrato-30705-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Palafiere\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika-pet-s
+ how-casale-monferrato-30705-1.html
 LOCATION:Casale Monferrato\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-casale-monferrato-3
- 0705-1.html
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-casale-monferrato-30
+ 705-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCALA PET PALOOZA — Ocala\, FL\, USA
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 UID:f-ocala-pet-palooza-31540-1@eventseye.impio-vault
-DESCRIPTION:The Ocala Pet Palooza features various exciting activities suc
- h as pet parades\, costume contests\, agility courses\, prizes for pet own
- ers. ​ Adoption\, Animal Exhibits\, Behavior & Training\, Birds\, Cats\,
-  Dogs\, Education\, Fish\, Grooming\, Horses...\nVenue: World Equestrian C
- enter\, Ocala\, FL\nFrequency: once a year\nSource: https://www.eventseye.
- com/fairs/f-ocala-pet-palooza-31540-1.html
+DESCRIPTION:The Ocala Pet Palooza features various exciting activities such
+  as pet parades\, costume contests\, agility courses\, prizes for pet owne
+ rs. ​ Adoption\, Animal Exhibits\, Behavior & Training\, Birds\, Cats\, 
+ Dogs\, Education\, Fish\, Grooming\, Horses...\\nVenue: World Equestrian C
+ enter\, Ocala\, FL\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-ocala-pet-palooza-31540-1.html
 LOCATION:Ocala\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-ocala-pet-palooza-31540-1.html
 END:VEVENT
@@ -1501,23 +1368,22 @@ SUMMARY:ESOTIKA PET SHOW - PERUGIA — Perugia\, Italy
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 UID:f-esotika-pet-show-perugia-33405-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nFrequency: once a year\nS
- ource: https://www.eventseye.com/fairs/f-esotika-pet-show-perugia-33405-1.
- html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-esotika-pet-show-perugia-33405-1
+ .html
 LOCATION:Perugia\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-perugia-33405-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-perugia-33405-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXPOVET — Lebbeke\, Belgium
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
 UID:f-expovet-15430-1@eventseye.impio-vault
-DESCRIPTION:Expovet is the largest trade fair in Flanders for veterinarian
- s and veterinary assistants where networking is central and innovation and
-  passion are the driving forces\nVenue: Oktoberhallen\nFrequency: once a y
- ear\nSource: https://www.eventseye.com/fairs/f-expovet-15430-1.html
+DESCRIPTION:Expovet is the largest trade fair in Flanders for veterinarians
+  and veterinary assistants where networking is central and innovation and 
+ passion are the driving forces\\nVenue: Oktoberhallen\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-expovet-15430-1.html
 LOCATION:Lebbeke\, Belgium
 URL:https://www.eventseye.com/fairs/f-expovet-15430-1.html
 END:VEVENT
@@ -1526,10 +1392,10 @@ SUMMARY:PET FAIR SE ASIA — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261031
 UID:f-pet-fair-se-asia-27623-1@eventseye.impio-vault
-DESCRIPTION:Thai Pets Industry Fair. Asean Partnership Hub for Distributio
- n\, Retail and Sourcing\nVenue: Bangkok International Trade & Exhibition C
- entre (BITEC)\nFrequency: once a year\nSource: https://www.eventseye.com/f
- airs/f-pet-fair-se-asia-27623-1.html
+DESCRIPTION:Thai Pets Industry Fair. Asean Partnership Hub for Distribution
+ \, Retail and Sourcing\\nVenue: Bangkok International Trade & Exhibition C
+ entre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-pet-fair-se-asia-27623-1.html
 LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-pet-fair-se-asia-27623-1.html
 END:VEVENT
@@ -1538,24 +1404,23 @@ SUMMARY:PET FAIR SOUTH EAST ASIA — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261031
 UID:f-pet-fair-south-east-asia-33315-1@eventseye.impio-vault
-DESCRIPTION:The International Pet Industry Trade Hub in South East Asia. P
- ET FAIR SE ASIA provides the global pet industry with a fully business-to-
- business well beyond the ASEAN region\nVenue: Bangkok International Trade 
- & Exhibition Centre (BITEC)\nFrequency: once a year\nSource: https://www.e
- ventseye.com/fairs/f-pet-fair-south-east-asia-33315-1.html
+DESCRIPTION:The International Pet Industry Trade Hub in South East Asia. PE
+ T FAIR SE ASIA provides the global pet industry with a fully business-to-b
+ usiness well beyond the ASEAN region\\nVenue: Bangkok International Trade 
+ & Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-pet-fair-south-east-asia-33315-1.html
 LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-pet-fair-south-east-asia-33315-1.htm
- l
+URL:https://www.eventseye.com/fairs/f-pet-fair-south-east-asia-33315-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NEW YORK VET SHOW — New York\, NY\, USA
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
 UID:f-new-york-vet-show-27245-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant
-  training with clinical programmes for small animal vets\nVenue: Jacob K. 
- Javits Convention Center\nFrequency: once a year\nSource: https://www.even
- tseye.com/fairs/f-new-york-vet-show-27245-1.html
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: Jacob K. 
+ Javits Convention Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-new-york-vet-show-27245-1.html
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-new-york-vet-show-27245-1.html
 END:VEVENT
@@ -1564,10 +1429,10 @@ SUMMARY:MEIN HUND - MANNHEIM — Mannheim\, Germany
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261102
 UID:f-mein-hund-mannheim-25984-1@eventseye.impio-vault
-DESCRIPTION:Dog Show. MEIN HUND - MANNHEIM presents club and services for 
- dogs\, pet grooming salons\, pet care services\, dog food and chew toys\nV
- enue: Maimarkt Mannheim\nFrequency: once a year\nSource: https://www.event
- seye.com/fairs/f-mein-hund-mannheim-25984-1.html
+DESCRIPTION:Dog Show. MEIN HUND - MANNHEIM presents club and services for d
+ ogs\, pet grooming salons\, pet care services\, dog food and chew toys\\nV
+ enue: Maimarkt Mannheim\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-mein-hund-mannheim-25984-1.html
 LOCATION:Mannheim\, Germany
 URL:https://www.eventseye.com/fairs/f-mein-hund-mannheim-25984-1.html
 END:VEVENT
@@ -1576,25 +1441,25 @@ SUMMARY:EXPOPET COLOMBIA - MEDELLÍN — Medellin\, Colombia
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261109
 UID:f-expopet-colombia-medellin-33412-1@eventseye.impio-vault
-DESCRIPTION:Colombian International Pet Show. Discover a wide range of pro
- ducts and services that will improve your pet's quality of life and enjoy 
- activities designed especially for animal lovers\nVenue: Plaza Mayor Medel
- lín Convenciones y Exposiciones\nFrequency: once a year\nSource: https://
- www.eventseye.com/fairs/f-expopet-colombia-medellin-33412-1.html
+DESCRIPTION:Colombian International Pet Show. Discover a wide range of prod
+ ucts and services that will improve your pet's quality of life and enjoy a
+ ctivities designed especially for animal lovers\\nVenue: Plaza Mayor Medel
+ lín Convenciones y Exposiciones\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-expopet-colombia-medellin-33412-1.html
 LOCATION:Medellin\, Colombia
-URL:https://www.eventseye.com/fairs/f-expopet-colombia-medellin-33412-1.ht
- ml
+URL:https://www.eventseye.com/fairs/f-expopet-colombia-medellin-33412-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAUDI PET EXPO — Riyadh\, Saudi Arabia
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261112
 UID:f-saudi-pet-expo-28967-1@eventseye.impio-vault
-DESCRIPTION:Saudi Pet Expo\, is the first and only pet exhibition in the K
- ingdom of Saudi Arabia\, which will be held annually due to the current an
- d prospective promising market for pet supplies and veterinary medicine\nV
- enue: Riyadh International Exhibition Centre\nFrequency: once a year\nSour
- ce: https://www.eventseye.com/fairs/f-saudi-pet-expo-28967-1.html
+DESCRIPTION:Saudi Pet Expo\, is the first and only pet exhibition in the Ki
+ ngdom of Saudi Arabia\, which will be held annually due to the current and
+  prospective promising market for pet supplies and veterinary medicine\\nV
+ enue: Riyadh International Exhibition Centre\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-saudi-pet-expo-28967-1.html
 LOCATION:Riyadh\, Saudi Arabia
 URL:https://www.eventseye.com/fairs/f-saudi-pet-expo-28967-1.html
 END:VEVENT
@@ -1603,9 +1468,9 @@ SUMMARY:EUROTIER HANNOVER — Hannover\, Germany
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261114
 UID:f-eurotier-hannover-803-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Livestock & Poultry Production an
- d Management\nVenue: Deutsche Messe Hannover\nFrequency: every 2 years\nSo
- urce: https://www.eventseye.com/fairs/f-eurotier-hannover-803-1.html
+DESCRIPTION:International Exhibition for Livestock & Poultry Production and
+  Management\\nVenue: Deutsche Messe Hannover\\nFrequency: every 2 years\\n
+ Source: https://www.eventseye.com/fairs/f-eurotier-hannover-803-1.html
 LOCATION:Hannover\, Germany
 URL:https://www.eventseye.com/fairs/f-eurotier-hannover-803-1.html
 END:VEVENT
@@ -1613,27 +1478,26 @@ BEGIN:VEVENT
 SUMMARY:THE ANNUAL FINNISH VETERINARY CONFERENCE — Helsinki\, Finland
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261114
-UID:f-the-annual-finnish-veterinary-conference-9512-1@eventseye.impio-vaul
- t
-DESCRIPTION:Congress organized by the Finnish Veterinary Association. The 
- program includes lectures in working life\, meat & food hygiene\, environm
- ental health\, production animals\, small animals\, horses...\nVenue: Hels
- inki Fair Centre\nFrequency: once a year\nSource: https://www.eventseye.co
- m/fairs/f-the-annual-finnish-veterinary-conference-9512-1.html
+UID:f-the-annual-finnish-veterinary-conference-9512-1@eventseye.impio-vault
+DESCRIPTION:Congress organized by the Finnish Veterinary Association. The p
+ rogram includes lectures in working life\, meat & food hygiene\, environme
+ ntal health\, production animals\, small animals\, horses...\\nVenue: Hels
+ inki Fair Centre\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-the-annual-finnish-veterinary-conference-9512-1.html
 LOCATION:Helsinki\, Finland
-URL:https://www.eventseye.com/fairs/f-the-annual-finnish-veterinary-confer
- ence-9512-1.html
+URL:https://www.eventseye.com/fairs/f-the-annual-finnish-veterinary-confere
+ nce-9512-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZOOEXPO — Riga\, Latvia
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
 UID:f-zooexpo-9265-1@eventseye.impio-vault
-DESCRIPTION:International Pet Industry Fair. International competitions an
- d shows. Pet food. Veterinary medicine. Pet supplies and accessories. Info
- rmation and advice for professionals and enthusiasts\nVenue: Riga Internat
- ional Exhibition Centre\nFrequency: once a year\nSource: https://www.event
- seye.com/fairs/f-zooexpo-9265-1.html
+DESCRIPTION:International Pet Industry Fair. International competitions and
+  shows. Pet food. Veterinary medicine. Pet supplies and accessories. Infor
+ mation and advice for professionals and enthusiasts\\nVenue: Riga Internat
+ ional Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-zooexpo-9265-1.html
 LOCATION:Riga\, Latvia
 URL:https://www.eventseye.com/fairs/f-zooexpo-9265-1.html
 END:VEVENT
@@ -1642,10 +1506,10 @@ SUMMARY:LONDON VET SHOW — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 UID:f-london-vet-show-27246-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant
-  training with clinical programmes for small animal vets\nVenue: ExCeL\nFr
- equency: once a year\nSource: https://www.eventseye.com/fairs/f-london-vet
- -show-27246-1.html
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: ExCeL\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-london-v
+ et-show-27246-1.html
 LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-london-vet-show-27246-1.html
 END:VEVENT
@@ -1654,11 +1518,11 @@ SUMMARY:ANIMAL — Stuttgart\, Germany
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261123
 UID:f-animal-105-1@eventseye.impio-vault
-DESCRIPTION:Discover a fascinating world around your favorite animals at G
- ermany's largest pet fair. A wide variety of animal species\, a colorful r
- ange of accessories and care items\, impressive demonstrations\nVenue: New
-  Stuttgart Trade Fair Centre\nFrequency: once a year\nSource: https://www.
- eventseye.com/fairs/f-animal-105-1.html
+DESCRIPTION:Discover a fascinating world around your favorite animals at Ge
+ rmany's largest pet fair. A wide variety of animal species\, a colorful ra
+ nge of accessories and care items\, impressive demonstrations\\nVenue: New
+  Stuttgart Trade Fair Centre\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-animal-105-1.html
 LOCATION:Stuttgart\, Germany
 URL:https://www.eventseye.com/fairs/f-animal-105-1.html
 END:VEVENT
@@ -1667,10 +1531,10 @@ SUMMARY:ESOTIKA PET SHOW - FERMO — Fermo\, Italy
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
 UID:f-esotika-pet-show-fermo-33502-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nFrequency: once a year\nS
- ource: https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.ht
- ml
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.h
+ tml
 LOCATION:Fermo\, Italy
 URL:https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.html
 END:VEVENT
@@ -1679,11 +1543,11 @@ SUMMARY:POULTRY TECH — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261127
 UID:f-poultry-tech-30200-1@eventseye.impio-vault
-DESCRIPTION:Poultry Industry Fair. Poultry Tech aims to bring together lea
- ding companies\, technical experts and practitioners related to the sector
-  in Poland and the entire Central and Eastern European region\nVenue: Ptak
-  Warsaw Expo\nFrequency: once a year\nSource: https://www.eventseye.com/fa
- irs/f-poultry-tech-30200-1.html
+DESCRIPTION:Poultry Industry Fair. Poultry Tech aims to bring together lead
+ ing companies\, technical experts and practitioners related to the sector 
+ in Poland and the entire Central and Eastern European region\\nVenue: Ptak
+  Warsaw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-poultry-tech-30200-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-poultry-tech-30200-1.html
 END:VEVENT
@@ -1692,11 +1556,11 @@ SUMMARY:JPE - JAKARTA PET EXPO — Jakarta\, Indonesia
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261129
 UID:f-jpe-jakarta-pet-expo-31749-1@eventseye.impio-vault
-DESCRIPTION:The Jakarta Pet Expo (JPE) is a pet industry exhibition that w
- ill display various pet products\, such as food\, medicine\, medical equip
- ment\, and accessories for pet animals from within & outside the country\n
- Venue: Jakarta International Expo (JIExpo)\nFrequency: once a year\nSource
- : https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
+DESCRIPTION:The Jakarta Pet Expo (JPE) is a pet industry exhibition that wi
+ ll display various pet products\, such as food\, medicine\, medical equipm
+ ent\, and accessories for pet animals from within & outside the country\\n
+ Venue: Jakarta International Expo (JIExpo)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
 END:VEVENT
@@ -1705,12 +1569,12 @@ SUMMARY:POULTRY INDIA — Hyderabad\, India
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261128
 UID:f-poultry-india-14122-1@eventseye.impio-vault
-DESCRIPTION:Poultry International Exhibition. Poultry India is a wide foru
- m with valuable information about poultry industry\, feed equipments\, tec
- hnology\, breeders\, Egg farming\, poultry nutrition\, animal health and i
- nternational poultry production\nVenue: Hyderabad International Trade Expo
- sition Centre (HITEX)\nFrequency: once a year\nSource: https://www.eventse
- ye.com/fairs/f-poultry-india-14122-1.html
+DESCRIPTION:Poultry International Exhibition. Poultry India is a wide forum
+  with valuable information about poultry industry\, feed equipments\, tech
+ nology\, breeders\, Egg farming\, poultry nutrition\, animal health and in
+ ternational poultry production\\nVenue: Hyderabad International Trade Expo
+ sition Centre (HITEX)\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-poultry-india-14122-1.html
 LOCATION:Hyderabad\, India
 URL:https://www.eventseye.com/fairs/f-poultry-india-14122-1.html
 END:VEVENT
@@ -1719,11 +1583,11 @@ SUMMARY:PET EXPO & SHOW BOLOGNA — Bologna\, Italy
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
 UID:f-pet-expo-show-bologna-31468-1@eventseye.impio-vault
-DESCRIPTION:A pet event to discover and learn. All categories of pets are 
- represented\, as well as products and services for them. A rich program of
-  demonstrations\, workshops\, educational meetings...\nVenue: Bologna Exhi
- bition Centre\nFrequency: once a year\nSource: https://www.eventseye.com/f
- airs/f-pet-expo-show-bologna-31468-1.html
+DESCRIPTION:A pet event to discover and learn. All categories of pets are r
+ epresented\, as well as products and services for them. A rich program of 
+ demonstrations\, workshops\, educational meetings...\\nVenue: Bologna Exhi
+ bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-pet-expo-show-bologna-31468-1.html
 LOCATION:Bologna\, Italy
 URL:https://www.eventseye.com/fairs/f-pet-expo-show-bologna-31468-1.html
 END:VEVENT
@@ -1732,28 +1596,130 @@ SUMMARY:ESOTIKA PET SHOW - PORDENONE — Pordenone\, Italy
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 UID:f-esotika-pet-show-pordenone-30701-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Re
- ptiles\, fish\, amphibians\, birds\, mammals...\nVenue: Pordenone Fiere\nF
- requency: once a year\nSource: https://www.eventseye.com/fairs/f-esotika-p
- et-show-pordenone-30701-1.html
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Pordenone Fiere\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika
+ -pet-show-pordenone-30701-1.html
 LOCATION:Pordenone\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-pordenone-30701-1.h
- tml
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-pordenone-30701-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KARLSRUHE — Karlsruhe\, 
- Germany
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KARLSRUHE — Karlsruhe\, G
+ ermany
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-UID:f-internationale-rassehunde-ausstellung-karlsruhe-24880-1@eventseye.im
- pio-vault
-DESCRIPTION:German international dog show and competition for pedigree dog
- s. Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the
-  main organization representing the interests of dog owners throughout Ger
- many\nFrequency: once a year\nSource: https://www.eventseye.com/fairs/f-in
- ternationale-rassehunde-ausstellung-karlsruhe-24880-1.html
+UID:f-internationale-rassehunde-ausstellung-karlsruhe-24880-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-karlsruhe-24880-1.html
 LOCATION:Karlsruhe\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellun
- g-karlsruhe-24880-1.html
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -karlsruhe-24880-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO MASCOTAS — Alicante\, Spain
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+UID:f-expo-mascotas-27784-1@eventseye.impio-vault
+DESCRIPTION:Dog and other pets show. EXPO MASCOTAS is designed to find Unde
+ r one roof a whole range of articles\, products\, services and information
+  related to pets\\nVenue: IFA - Fira Alicant\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
+LOCATION:Alicante\, Spain
+URL:https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINNER — Helsinki\, Finland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-winner-13825-1@eventseye.impio-vault
+DESCRIPTION:Finland's biggest Dog Event. Dog Fair Finland offers a great ch
+ ance to get acquainted with different breeds and discuss the choice of bre
+ ed and good dog-ownership with experts in the field\\nVenue: Helsinki Fair
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-winner-13825-1.html
+LOCATION:Helsinki\, Finland
+URL:https://www.eventseye.com/fairs/f-winner-13825-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOOTECHNIA — Thessaloniki\, Greece
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+UID:f-zootechnia-6227-1@eventseye.impio-vault
+DESCRIPTION:International Fair for Livestock and Poultry\, engaging special
+ ized industry firms\, public and private sector stakeholders\, and interes
+ ted professionals from both Greece and beyond\\nVenue: Thessaloniki Intern
+ ational Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www
+ .eventseye.com/fairs/f-zootechnia-6227-1.html
+LOCATION:Thessaloniki\, Greece
+URL:https://www.eventseye.com/fairs/f-zootechnia-6227-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIVE - CONGRESSO INTERNAZIONALE MEDICINA VETERINARIA — Bologna\, 
+ Italy
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270207
+UID:f-sive-congresso-internazionale-medicina-veterinaria-33847-1@eventseye.impio-vault
+DESCRIPTION:A key event for professionals in equine veterinary medicine\, o
+ rganized by the Italian Association of Equine Veterinarians (SIVE). Scient
+ ific sessions focuse on prevention\, diagnosis\, and treatment of major eq
+ uine diseases\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-sive-congresso-internazionale-medicina-veterinaria-33847-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-sive-congresso-internazionale-medicin
+ a-veterinaria-33847-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERMA — Lodz\, Poland
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+UID:f-ferma-23988-1@eventseye.impio-vault
+DESCRIPTION:The most important information exchange platform for breeding a
+ nd breeding cattle\, pigs and poultry in Poland\\nVenue: Expo Lodz\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-ferma-23988-
+ 1.html
+LOCATION:Lodz\, Poland
+URL:https://www.eventseye.com/fairs/f-ferma-23988-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIERAVICOLA — Rimini\, Italy
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270423
+UID:f-fieravicola-28148-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Poultry\, Poultry Products and all 
+ Elements of the Production Chain in Cesena\\nVenue: Rimini Fiera\\nFrequen
+ cy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fieravicola-
+ 28148-1.html
+LOCATION:Rimini\, Italy
+URL:https://www.eventseye.com/fairs/f-fieravicola-28148-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOOMARK INTERNATIONAL — Bologna\, Italy
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-zoomark-international-3750-1@eventseye.impio-vault
+DESCRIPTION:At the heart of Europe\, Zoomark is an essential international 
+ meeting point for leaders in the pet industry\, bringing together all play
+ ers in the production and distribution chain in one location\\nVenue: Bolo
+ gna Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www.eve
+ ntseye.com/fairs/f-zoomark-international-3750-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-zoomark-international-3750-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ILDEX INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270918
+UID:f-ildex-indonesia-17761-1@eventseye.impio-vault
+DESCRIPTION:International Livestock and Dairy Expo. Trade show and conferen
+ ces from animal production and processing to technology\, from agriculture
+  to innovations and from pets to medical and laboratory sectors\\nVenue: I
+ CE - Indonesian Convention Exhibition\\nFrequency: every 2 years\\nSource:
+  https://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
 END:VEVENT
 END:VCALENDAR

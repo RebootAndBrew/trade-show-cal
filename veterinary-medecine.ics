@@ -7,58 +7,6 @@ X-WR-CALDESC:Trade shows: Veterinary Medecine — sourced from EventsEye.co
  m
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ZOOSHOW — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20251213
-DTEND;VALUE=DATE:20251216
-UID:f-zooshow-4012-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of Food\, Goods and Services for Pets\
- \nVenue: ExpoForum Convention and Exhibition Centre\\nFrequency: unknown\\
- nSource: https://www.eventseye.com/fairs/f-zooshow-4012-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-zooshow-4012-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEIPZIG VETERINARY CONGRESS — Leipzig\, Germany
-DTSTART;VALUE=DATE:20260115
-DTEND;VALUE=DATE:20260118
-UID:f-leipzig-veterinary-congress-2796-1@eventseye.impio-vault
-DESCRIPTION:The Leipzig Veterinary Congress is the biggest event for veteri
- nary medicine in the German-speaking area. The congress and the trade fair
-  both focus on species-specific and interdisciplinary topics\\nVenue: Exhi
- bition Centre Leipzig\\nFrequency: every 2 years\\nSource: https://www.eve
- ntseye.com/fairs/f-leipzig-veterinary-congress-2796-1.html
-LOCATION:Leipzig\, Germany
-URL:https://www.eventseye.com/fairs/f-leipzig-veterinary-congress-2796-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANIMAL HEALTH INNOVATION EUROPE — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260305
-UID:f-animal-health-innovation-europe-28490-1@eventseye.impio-vault
-DESCRIPTION:Animal Health Innovation Europe is the sector’s premier inves
- tment forum in Europe showcasing the innovators in animal health and nutri
- tion and connecting those businesses with financial investors and strategi
- c corporate partners\\nVenue: Royal Lancaster\, London\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-animal-health-innovation
- -europe-28490-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-animal-health-innovation-europe-28490
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - GONZAGA — Gonzaga\, Italy
-DTSTART;VALUE=DATE:20260307
-DTEND;VALUE=DATE:20260309
-UID:f-esotika-pet-show-gonzaga-31219-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Fiera Millenaria d
- i Gonzaga\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-esotika-pet-show-gonzaga-31219-1.html
-LOCATION:Gonzaga\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-gonzaga-31219-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VICTAM AND ANIMAL HEALTH AND NUTRITION ASIA — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20260310
 DTEND;VALUE=DATE:20260313
@@ -71,205 +19,6 @@ DESCRIPTION:Trade show dedicated to animal feed and health. Worldwide event
 LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-victam-and-animal-health-and-nutritio
  n-asia-27622-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBERZOO + PROPET — Madrid\, Spain
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260314
-UID:f-iberzoo-propet-14538-1@eventseye.impio-vault
-DESCRIPTION:IBERZOO+PROPET supports progress in the pet sector. Animal care
-  and welfare\, nutrition\, products & accessories\, grooming\, health\, we
- llness\, education\, trends and innovation for pets\\nVenue: Ifema - Parqu
- e Ferial Juan Carlos I\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-iberzoo-propet-14538-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-iberzoo-propet-14538-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATLANTA PET EXPO — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260316
-UID:f-atlanta-pet-expo-23997-1@eventseye.impio-vault
-DESCRIPTION:Pets Fair and Pet Products Exhibition in Atlanta. ATLANTA PET E
- XPO also features pet service providers\, all products for pets\, pet groo
- ming salons\, pet shops\, pet resorts & recreations\, veterinary vaccines\
- , cat & dog food and fun activities for pets\\nVenue: Georgia Internationa
- l Convention Center - GICC\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-atlanta-pet-expo-23997-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-atlanta-pet-expo-23997-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOZOO — Paris\, France
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260316
-UID:f-expozoo-18828-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for professionals of the pet market in France. Part 
- of PARIS ANIMAL SHOW\, the biggest Pet Show in France\\nVenue: Paris Expo 
- Porte de Versailles\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-expozoo-18828-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-expozoo-18828-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANIMAL EXPO — Paris\, France
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260316
-UID:f-animal-expo-106-1@eventseye.impio-vault
-DESCRIPTION:ANIMAL EXPO is the largest pet show in France dedicated to pets
-  and their well-being. Attend canine sports demonstrations\, positive trai
- ning workshops\, and ask questions of experts and enthusiasts...\\nVenue: 
- Paris Expo Porte de Versailles\\nFrequency: twice a year\\nSource: https:/
- /www.eventseye.com/fairs/f-animal-expo-106-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-animal-expo-106-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OFFENBURG — Offenburg\, G
- ermany
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260316
-UID:f-internationale-rassehunde-ausstellung-offenburg-1480-1@eventseye.impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dogs
- . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
- main organization representing the interests of dog owners throughout Germ
- any\\nVenue: Messe Offenburg\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-offenburg-14
- 80-1.html
-LOCATION:Offenburg\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
- -offenburg-1480-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET EKSPO — Riga\, Latvia
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260316
-UID:f-pet-ekspo-6620-1@eventseye.impio-vault
-DESCRIPTION:International Pets and Zoo Industry Exhibition. Pet Food\, Acce
- ssories. Veterinary. Education and Information\\nVenue: Riga International
-  Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-pet-ekspo-6620-1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-pet-ekspo-6620-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET EXPO ROMANIA — Bucharest\, Romania
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260316
-UID:f-pet-expo-romania-19308-1@eventseye.impio-vault
-DESCRIPTION:Pets & veterinary products Expo. Pet Expo Romania is a unique o
- pportunity in Romania for companies in the pet market to showcase products
-  services and get in touch with a large number of potential partner compan
- ies and a huge number of target consumers\\nVenue: Romexpo\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-pet-expo-romania-193
- 08-1.html
-LOCATION:Bucharest\, Romania
-URL:https://www.eventseye.com/fairs/f-pet-expo-romania-19308-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA BEIJING INTERNATIONAL PET SUPPLIES EXHIBITION (CPSE) — Beij
- ing\, China
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260323
-UID:f-china-beijing-international-pet-supplies-exhibition-(cpse)-22657-1@eventseye.impio-vault
-DESCRIPTION:International Pet Industy Exhibition in China. China Beijing In
- ternational Pet Supplies Exhibition (CPSE) also features Pet medical treat
- ment\, Aquarium products\, Franchised outlets\, Pet services\, Pet owner s
- upplies\\nVenue: China International Exhibition Centre (CIEC)\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-china-beijing-int
- ernational-pet-supplies-exhibition-(cpse)-22657-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-china-beijing-international-pet-suppl
- ies-exhibition-(cpse)-22657-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET FAIR BEIJING — Beijing\, China
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260323
-UID:f-pet-fair-beijing-33322-1@eventseye.impio-vault
-DESCRIPTION:The International Pet Industry Trade Hub in Beijing. PET FAIR B
- EIJING provides the global pet industry with a fully business-to-business 
- well beyond the ASEAN region\\nVenue: China International Exhibition Centr
- e (CIEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-pet-fair-beijing-33322-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-pet-fair-beijing-33322-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - FERRARA — Ferrara\, Italy
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260323
-UID:f-esotika-pet-show-ferrara-33957-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Fiera di Ferrara\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotik
- a-pet-show-ferrara-33957-1.html
-LOCATION:Ferrara\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-ferrara-33957-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MY FANTASTIC PETS - UDINE — Udine\, Italy
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260323
-UID:f-my-fantastic-pets-udine-33807-1@eventseye.impio-vault
-DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
- f pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and farm
-  animals)\, as well as a wide range of products and services for animals\\
- nVenue: Udine e Gorizia Fiere\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
-LOCATION:Udine\, Italy
-URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOFISTICAT — Bucharest\, Romania
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260323
-UID:f-sofisticat-27053-1@eventseye.impio-vault
-DESCRIPTION:Spring Bucharest International Cat Show organized by the Feline
-  Association "SofistiCat"\\nVenue: Sala Palatului Cultural Center\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-sofisticat-27
- 053-1.html
-LOCATION:Bucharest\, Romania
-URL:https://www.eventseye.com/fairs/f-sofisticat-27053-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - BUSTIO ARIZO — Busto Arsizio\, Italy
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260330
-UID:f-esotika-pet-show-bustio-arizo-30702-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Malpensa Fiere\\nF
- requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-esotika
- -pet-show-bustio-arizo-30702-1.html
-LOCATION:Busto Arsizio\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-bustio-arizo-30702-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEIN HUND - ROSENHEIM — Rosenheim\, Germany
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260330
-UID:f-mein-hund-rosenheim-26209-1@eventseye.impio-vault
-DESCRIPTION:Dog Show. MEIN HUND - ROSENHEIM presents club and services for 
- dogs\, pet grooming salons\, pet care services\, dog food and chew toys\\n
- Venue: Inntalhalle\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-mein-hund-rosenheim-26209-1.html
-LOCATION:Rosenheim\, Germany
-URL:https://www.eventseye.com/fairs/f-mein-hund-rosenheim-26209-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIER&NATUR IN MV — Rostock\, Germany
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260330
-UID:f-tier-natur-in-mv-18547-1@eventseye.impio-vault
-DESCRIPTION:A meeting place for all pet lovers in the northeast of Germany.
-  It doesn't matter whether it has two\, four\, six\, or eight legs – fea
- thers\, fur\, wings\, or paws. At TIER&NATUR in MV\, all animal and nature
-  lovers will get their money's worth\\nVenue: HanseMesse Rostock\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-tier-natur-in-
- mv-18547-1.html
-LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-tier-natur-in-mv-18547-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PET EXPO — Singapore\, Singapore
@@ -365,6 +114,17 @@ DESCRIPTION:This event in Brno is considered the largest show of livestock
 LOCATION:Brno\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-national-show-of-livestock-and-agricu
  ltural-equipment-23519-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOOSHOW — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+UID:f-zooshow-4012-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair of Food\, Goods and Services for Pets\
+ \nVenue: ExpoForum Convention and Exhibition Centre\\nFrequency: twice a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-zooshow-4012-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-zooshow-4012-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AGROSPRING AGRO ANIMAL SHOW / FRUIT.VEGETABLES.LOGISTICS / GRAIN TE
@@ -1364,6 +1124,19 @@ LOCATION:Ocala\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-ocala-pet-palooza-31540-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANIMAL EXPO — Paris\, France
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-animal-expo-106-1@eventseye.impio-vault
+DESCRIPTION:ANIMAL EXPO is the largest pet show in France dedicated to pets
+  and their well-being. Attend canine sports demonstrations\, positive trai
+ ning workshops\, and ask questions of experts and enthusiasts...\\nVenue: 
+ Parc Floral de Paris\\nFrequency: twice a year\\nSource: https://www.event
+ seye.com/fairs/f-animal-expo-106-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-animal-expo-106-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESOTIKA PET SHOW - PERUGIA — Perugia\, Italy
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -1449,6 +1222,19 @@ DESCRIPTION:Colombian International Pet Show. Discover a wide range of prod
 LOCATION:Medellin\, Colombia
 URL:https://www.eventseye.com/fairs/f-expopet-colombia-medellin-33412-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESOTIKA PET SHOW - BUSTIO ARIZO — Busto Arsizio\, Italy
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-esotika-pet-show-bustio-arizo-30702-1@eventseye.impio-vault
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Malpensa Fiere\\nF
+ requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-esotika
+ -pet-show-bustio-arizo-30702-1.html
+LOCATION:Busto Arsizio\, Italy
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-bustio-arizo-30702-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAUDI PET EXPO — Riyadh\, Saudi Arabia
@@ -1645,6 +1431,20 @@ LOCATION:Helsinki\, Finland
 URL:https://www.eventseye.com/fairs/f-winner-13825-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KASSEL — Kassel\, Germany
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-internationale-rassehunde-ausstellung-kassel-24881-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-kassel-24881-1.html
+LOCATION:Kassel\, Germany
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -kassel-24881-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZOOTECHNIA — Thessaloniki\, Greece
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270201
@@ -1685,6 +1485,61 @@ LOCATION:Lodz\, Poland
 URL:https://www.eventseye.com/fairs/f-ferma-23988-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MEIN HUND - STRAUBING — Straubing\, Germany
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:f-mein-hund-straubing-21132-1@eventseye.impio-vault
+DESCRIPTION:Dog Show. MEIN HUND - STRAUBING features puppies\, all products
+  for pets\, pet grooming salons\, chew toys\, dog food and fun activities 
+ for pets\\nVenue: Messehalle Straubing\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-mein-hund-straubing-21132-1.html
+LOCATION:Straubing\, Germany
+URL:https://www.eventseye.com/fairs/f-mein-hund-straubing-21132-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANIMAL HEALTH INNOVATION EUROPE — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270304
+UID:f-animal-health-innovation-europe-28490-1@eventseye.impio-vault
+DESCRIPTION:Animal Health Innovation Europe is the sector’s premier inves
+ tment forum in Europe showcasing the innovators in animal health and nutri
+ tion and connecting those businesses with financial investors and strategi
+ c corporate partners\\nVenue: Royal Lancaster\, London\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-animal-health-innovation
+ -europe-28490-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-animal-health-innovation-europe-28490
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - OFFENBURG — Offenburg\, G
+ ermany
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+UID:f-internationale-rassehunde-ausstellung-offenburg-1480-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nVenue: Messe Offenburg\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-internationale-rassehunde-ausstellung-offenburg-14
+ 80-1.html
+LOCATION:Offenburg\, Germany
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -offenburg-1480-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PET EKSPO — Riga\, Latvia
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+UID:f-pet-ekspo-6620-1@eventseye.impio-vault
+DESCRIPTION:International Pets and Zoo Industry Exhibition. Pet Food\, Acce
+ ssories. Veterinary. Education and Information\\nVenue: Riga International
+  Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-pet-ekspo-6620-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-pet-ekspo-6620-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIERAVICOLA — Rimini\, Italy
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
@@ -1710,6 +1565,20 @@ LOCATION:Bologna\, Italy
 URL:https://www.eventseye.com/fairs/f-zoomark-international-3750-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TIER&NATUR IN MV — Rostock\, Germany
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+UID:f-tier-natur-in-mv-18547-1@eventseye.impio-vault
+DESCRIPTION:A meeting place for all pet lovers in the northeast of Germany.
+  It doesn't matter whether it has two\, four\, six\, or eight legs – fea
+ thers\, fur\, wings\, or paws. At TIER&NATUR in MV\, all animal and nature
+  lovers will get their money's worth\\nVenue: HanseMesse Rostock\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-tier-natur-in-
+ mv-18547-1.html
+LOCATION:Rostock\, Germany
+URL:https://www.eventseye.com/fairs/f-tier-natur-in-mv-18547-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ILDEX INDONESIA — Jakarta\, Indonesia
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270918
@@ -1721,5 +1590,19 @@ DESCRIPTION:International Livestock and Dairy Expo. Trade show and conferen
   https://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-ildex-indonesia-17761-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEIPZIG VETERINARY CONGRESS — Leipzig\, Germany
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280123
+UID:f-leipzig-veterinary-congress-2796-1@eventseye.impio-vault
+DESCRIPTION:The Leipzig Veterinary Congress is the biggest event for veteri
+ nary medicine in the German-speaking area. The congress and the trade fair
+  both focus on species-specific and interdisciplinary topics\\nVenue: Exhi
+ bition Centre Leipzig\\nFrequency: every 2 years\\nSource: https://www.eve
+ ntseye.com/fairs/f-leipzig-veterinary-congress-2796-1.html
+LOCATION:Leipzig\, Germany
+URL:https://www.eventseye.com/fairs/f-leipzig-veterinary-congress-2796-1.ht
+ ml
 END:VEVENT
 END:VCALENDAR

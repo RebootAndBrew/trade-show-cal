@@ -18,70 +18,6 @@ LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-ophthall-conference-29838-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WARSAW OPTI EXPO - OPTICAL FAIR — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260306
-UID:f-warsaw-opti-expo-optical-fair-26658-1@eventseye.impio-vault
-DESCRIPTION:Opti Warsaw Expo presents the latest products\, technologies an
- d solutions on the optical market\\nVenue: Ptak Warsaw Expo\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-opti-expo-op
- tical-fair-26658-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-opti-expo-optical-fair-26658-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VISION EXPO EAST — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260315
-UID:f-vision-expo-east-18816-1@eventseye.impio-vault
-DESCRIPTION:International Vision Expo East is the pre-eminent fashion and m
- edical eyecare event where eyecare professionals in the Americas gather to
-  experience the energy and international style\\nVenue: Orange County Conv
- ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-vision-expo-east-18816-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-vision-expo-east-18816-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPTA — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260316
-UID:f-opta-2040-1@eventseye.impio-vault
-DESCRIPTION:International Eye Optics\, Optometry and Ophthalmology Fair. OP
- TA is the most important specialised presentation of eye optics and ophtha
- lmology in the Central and Eastern European region\\nVenue: Brno Exhibitio
- n Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-opta-2040-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-opta-2040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LASER PHOTONICS CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260321
-UID:f-laser-photonics-china-8088-1@eventseye.impio-vault
-DESCRIPTION:Asia’s leading trade fair for components\, systems and applic
- ations in the sector for optical technologies\\nVenue: Shanghai New Intern
- ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-laser-photonics-china-8088-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-laser-photonics-china-8088-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:W3 + FAIR WETZLAR — Wetzlar\, Germany
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260320
-UID:f-w3-fair-wetzlar-19624-1@eventseye.impio-vault
-DESCRIPTION:Optics\, electronics and mechanics exhibition. W3+ FAIR attract
- s product developers from precision\, systems engineering\, measurement te
- chnologies\, mechatronics\, microsystems and nanotechnologies\\nVenue: Bud
- erus Arena\, Wetzlar\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-w3-fair-wetzlar-19624-1.html
-LOCATION:Wetzlar\, Germany
-URL:https://www.eventseye.com/fairs/f-w3-fair-wetzlar-19624-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MEDEXPO KYRGYZSTAN — Bishkek\, Kyrgyzstan
 DTSTART;VALUE=DATE:20260331
 DTEND;VALUE=DATE:20260403
@@ -784,6 +720,18 @@ DESCRIPTION:APE is the photonics exhibition for industry players to technic
  otonics-expo-31271-1.html
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-ape-asia-photonics-expo-31271-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASER PHOTONICS CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270311
+UID:f-laser-photonics-china-8088-1@eventseye.impio-vault
+DESCRIPTION:Asia’s leading trade fair for components\, systems and applic
+ ations in the sector for optical technologies\\nVenue: Shanghai New Intern
+ ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-laser-photonics-china-8088-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-laser-photonics-china-8088-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VISION EXPO WEST — Las Vegas\, NV\, USA

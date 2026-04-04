@@ -7,49 +7,6 @@ X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Event
  sEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:SCHOOL AND NURSERY EQUIPMENT EXHIBITION — Poznan\, Poland
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260304
-UID:f-school-and-nursery-equipment-exhibition-13696-1@eventseye.impio-vault
-DESCRIPTION:School and Nursery Equipment Exhibition. An international trade
-  show for stationery\, education\, and training\\nVenue: Poznan Congress C
- enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -school-and-nursery-equipment-exhibition-13696-1.html
-LOCATION:Poznan\, Poland
-URL:https://www.eventseye.com/fairs/f-school-and-nursery-equipment-exhibiti
- on-13696-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
- L — Paris\, France
-DTSTART;VALUE=DATE:20260324
-DTEND;VALUE=DATE:20260327
-UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail-16798-1@eventseye.impio-vault
-DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the entir
- e range of services\, multi-service and multi-technical real estate to non
- -production buyers and Work Environment Directors of companies and communi
- ties\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-productio
- n-et-de-l-environnement-de-travail-16798-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-e
- t-de-l-environnement-de-travail-16798-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCHOOL & OFFICE LIVE CHINA — Ningbo\, China
-DTSTART;VALUE=DATE:20260325
-DTEND;VALUE=DATE:20260328
-UID:f-school-office-live-china-33911-1@eventseye.impio-vault
-DESCRIPTION:China (Ningbo) International Stationery Industry Fair\, coverin
- g the four fields of office\, school\, art and life\, and the whole indust
- rial chain. Ningbo is the global stationery manufacturing and trade center
-  and the stationery capital of China\\nVenue: Ningbo International Confere
- nce & Exhibition Center\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-school-office-live-china-33911-1.html
-LOCATION:Ningbo\, China
-URL:https://www.eventseye.com/fairs/f-school-office-live-china-33911-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260418
@@ -619,6 +576,22 @@ DESCRIPTION:Skrepka Expo – unique largest international multi-thematic Bt
  skrepka-exhibition-32139-1.html
 LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-skrepka-exhibition-32139-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
+ L — Paris\, France
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail-16798-1@eventseye.impio-vault
+DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the entir
+ e range of services\, multi-service and multi-technical real estate to non
+ -production buyers and Work Environment Directors of companies and communi
+ ties\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-productio
+ n-et-de-l-environnement-de-travail-16798-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-e
+ t-de-l-environnement-de-travail-16798-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan

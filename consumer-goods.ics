@@ -6,33 +6,6 @@ X-WR-CALNAME:Consumer Goods
 X-WR-CALDESC:Trade shows: Consumer Goods — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE ROUEN — Rouen\, France
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260407
-UID:f-foire-internationale-de-rouen-4108-1@eventseye.impio-vault
-DESCRIPTION:Rouen International Fair. The international fair of Rouen exhib
- its the products and services divided into 4 universes: Home\, Crafts and 
- Wealth of the World\, Leisure and Well-being\, and Gastronomy\\nVenue: Par
- c des expositions de Rouen\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-foire-internationale-de-rouen-4108-1.html
-LOCATION:Rouen\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-rouen-4108-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETNAM EXPO - HANOI — Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260405
-UID:f-vietnam-expo-hanoi-10455-1@eventseye.impio-vault
-DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
- ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
- represent 20 countries\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-
- 10455-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CAIRO INTERNATIONAL FAIR — Cairo\, Egypt
 DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260406
@@ -110,6 +83,19 @@ DESCRIPTION:Exclusively geared to the market of Private Brands and Outsourc
  bel-25517-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-private-label-25517-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM EXPO - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260412
+UID:f-vietnam-expo-hanoi-10455-1@eventseye.impio-vault
+DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
+ ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
+ represent 20 countries\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-
+ 10455-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ONE OF KIND SHOW & SALE — Toronto\, ON\, Canada
@@ -640,6 +626,35 @@ URL:https://www.eventseye.com/fairs/f-foire-internationale-de-bordeaux-1033
  -1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOIRE D'AGEN — Agen\, France
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260601
@@ -1145,385 +1160,6 @@ URL:https://www.eventseye.com/fairs/f-foire-exposition-de-verdun-22369-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ULTIMATE WOMEN'S SHOW - NEW JERSEY — Edison\, NJ\, USA
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-the-ultimate-women-s-show-new-jersey-25631-1@eventseye.impio-vault
-DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
-  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
- e Experience for women\\nVenue: New Jersey Convention & Exposition Center\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-u
- ltimate-women-s-show-new-jersey-25631-1.html
-LOCATION:Edison\, NJ\, USA
-URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-new-jersey-
- 25631-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLMA — Rosemont\, IL\, USA
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261118
-UID:f-plma-6591-1@eventseye.impio-vault
-DESCRIPTION:International Private Label Industry Conference. A world-class 
- venue where retailers\, manufacturers and industry professionals come toge
- ther for face-to-face interaction\\nVenue: Donald E. Stephens Convention C
- enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -plma-6591-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-plma-6591-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYGIENIX — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261120
-UID:f-hygienix-23242-1@eventseye.impio-vault
-DESCRIPTION:The Premier Event for Absorbent Hygiene & Personal care Markets
- . Hygienix™ is the nexus for the future of absorbent hygiene. Hear indus
- try change agents discuss the latest disruptive innovations\\nVenue: Hyatt
-  Regency Houston\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-hygienix-23242-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-hygienix-23242-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTW - CHINA TRADE WEEK - MOROCCO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-ctw-china-trade-week-morocco-26158-1@eventseye.impio-vault
-DESCRIPTION:China Trade Week - Morocco is an essential opportunity for any 
- business owners\, professional buyers\, wholesalers or import /export orga
- nizations who are seeking new sources for their products and services\\nVe
- nue: Anfa Park\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-ctw-china-trade-week-morocco-26158-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-morocco-26158-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTI MÄSS — Winterthur\, Switzerland
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261123
-UID:f-winti-mass-17840-1@eventseye.impio-vault
-DESCRIPTION:Winterthur Winter Fair. Gastronomy\, Tastings\, Bakery workshop
- s\, live concerts... The Winti Mäss is Winterthur's traditional public fa
- ir and attracts shoppers\, connoisseurs and explorers from the entire regi
- on\\nVenue: Eulachhallen\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-winti-mass-17840-1.html
-LOCATION:Winterthur\, Switzerland
-URL:https://www.eventseye.com/fairs/f-winti-mass-17840-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAMILY & HOME — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261123
-UID:f-family-home-5201-1@eventseye.impio-vault
-DESCRIPTION:Are you a food connoisseur? Do you like to beautify your home? 
- Then Family & Home is the right place for you!\\nVenue: New Stuttgart Trad
- e Fair Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-family-home-5201-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-family-home-5201-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRIVATE LABEL - PRODUCTS & SERVICES TRADE AREA — Istanbul\, Turke
- y
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261129
-UID:f-private-label-products-services-trade-area-32963-1@eventseye.impio-vault
-DESCRIPTION:This event will bring together manufacturers\, suppliers and re
- tailers of private brands around the world\, introducing Turkey’s produc
- tion capacity to global markets\\nVenue: Istanbul Expo Center / Istanbul F
- uar Merkezi / CNR Expo\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-private-label-products-services-trade-area-32963-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-private-label-products-services-trade
- -area-32963-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIPREMIUM - SEOUL INTERNATIONAL SOURCING FAIR — Seoul\, Korea Sou
- th
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261128
-UID:f-sipremium-seoul-international-sourcing-fair-15036-1@eventseye.impio-vault
-DESCRIPTION:Seoul International Sourcing Fair for Premium\, Gift\, Statione
- ry & Homeware. SIPREMIUM is Korea’s premier trade show for gifts\, house
- hold goods and sales promotional items\\nVenue: COEX Exhibition Center\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-sipremiu
- m-seoul-international-sourcing-fair-15036-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-sipremium-seoul-international-sourcin
- g-fair-15036-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS DAYS BRATISLAVA — Bratislava\, Slovakia
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261214
-UID:f-christmas-days-bratislava-3882-1@eventseye.impio-vault
-DESCRIPTION:Consumer Goods Fair. Organized by Incheba Expo Bratislava\, thi
- s fair is a popular event during the pre-Christmas season\, attracting vis
- itors in search of Christmas gifts and decorations...\\nVenue: Bratislava 
- Exhibition Ground\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-christmas-days-bratislava-3882-1.html
-LOCATION:Bratislava\, Slovakia
-URL:https://www.eventseye.com/fairs/f-christmas-days-bratislava-3882-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS FAIR PRAGUE — Prague\, Czech Republic
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-UID:f-christmas-fair-prague-15528-1@eventseye.impio-vault
-DESCRIPTION:Christmas Trade Fair for Gifts\, Décorations and Household Goo
- ds. The fair offers a great Christmas atmosphere and a display of products
-  from domestic and foreign manufacturers and suppliers\\nVenue: PVA Letnan
- y - Prague Exhibition Centre Letnany\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-christmas-fair-prague-15528-1.html
-LOCATION:Prague\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-christmas-fair-prague-15528-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETNAM EXPO - HOCHIMINH CITY — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261206
-UID:f-vietnam-expo-hochiminh-city-31105-1@eventseye.impio-vault
-DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
- ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
- represent 20 countries\\nVenue: Saigon Exhibition & Convention Center - SE
- CC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vi
- etnam-expo-hochiminh-city-31105-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-expo-hochiminh-city-31105-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTW - CHINA TRADE WEEK - SAUDI ARABIA — Dammam\, Saudi Arabia
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261212
-UID:f-ctw-china-trade-week-saudi-arabia-32377-1@eventseye.impio-vault
-DESCRIPTION:China Trade Week - Saudi Arabia is the B2B and B2G exhibition\,
-  connecting industry leaders\, investors\, and entrepreneurs with the dyna
- mic markets of the Middle East\\nVenue: Dhahran International Exhibition C
- entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -ctw-china-trade-week-saudi-arabia-32377-1.html
-LOCATION:Dammam\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-saudi-arabia-323
- 77-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOGLIATTI CHRISTMAS FAIR — Togliatti\, Russia
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261214
-UID:f-togliatti-christmas-fair-7968-1@eventseye.impio-vault
-DESCRIPTION:Togliatti consumer goods exhibition fair. New Year's holiday gi
- fts and accessories\, souvenirs with the symbol of the coming year\, craft
- s\, treats...\\nVenue: Expo Togliatti\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
-LOCATION:Togliatti\, Russia
-URL:https://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS MARKET — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261214
-UID:f-christmas-market-439-1@eventseye.impio-vault
-DESCRIPTION:Consumer Good\, Gifts & Toys Fair. Christmas atmosphere\, inspi
- ration for buying gifts\, and entertainment accompanying program\\nVenue: 
- Brno Exhibition Centre\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-christmas-market-439-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-christmas-market-439-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IGHE VIETNAM - THE VIETNAM INTERNATIONAL GIFTS & HOUSEWARES EXPO 
- — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261213
-UID:f-ighe-vietnam-the-vietnam-international-gifts-housewares-expo-31117-1@eventseye.impio-vault
-DESCRIPTION:Vietnam International Gifts & Housewares Expo. Smart Home Appli
- ances Products\, Kitchen Appliances and Accessories\, Home Furniture\, Div
- erse ranges of Business/Professional Gifts...\\nVenue: Saigon Exhibition &
-  Convention Center - SECC\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-ighe-vietnam-the-vietnam-international-gifts-housewar
- es-expo-31117-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-ighe-vietnam-the-vietnam-internationa
- l-gifts-housewares-expo-31117-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVOGODISNJI VASAR - NEW YEAR’S FAIR — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261231
-UID:f-novogodisnji-vasar-new-year-s-fair-33565-1@eventseye.impio-vault
-DESCRIPTION:The New Year´s Fair\, event of fun and good shopping\, is trad
- itionally organized at the end of each year by the Belgrade Fair. Song\, D
- ance\, Amusement and Shopping\\nVenue: Belgrade Fair Grounds\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-novogodisnji-vasar
- -new-year-s-fair-33565-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-novogodisnji-vasar-new-year-s-fair-33
- 565-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS MARKET SOCHI — Sochi\, Russia
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261228
-UID:f-christmas-market-sochi-27881-1@eventseye.impio-vault
-DESCRIPTION:New Year and Christmas gifts and decorations. Festive packaging
- . Christmas paraphernalia. Toys\, masks\, New Year's costumes. Handicrafts
- . New Year's decoration. Clothes\, Jewelry\, Clocks...\\nVenue: Grand Hote
- l Polyana\, Sochi\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-christmas-market-sochi-27881-1.html
-LOCATION:Sochi\, Russia
-URL:https://www.eventseye.com/fairs/f-christmas-market-sochi-27881-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HONG KONG MEGA SHOWCASE — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261228
-UID:f-hong-kong-mega-showcase-5728-1@eventseye.impio-vault
-DESCRIPTION:Christmas fair in Hong Kong. Home and housewares\, DIY workshop
- s... Beauty and makeup\, healthcare\, jewelry\, toys and accessories...\\n
- Venue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.
- html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MILANO HOME — Milan\, Italy
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270125
-UID:f-milano-home-1736-1@eventseye.impio-vault
-DESCRIPTION:International Home Show. Household and Gift Articles\, Costume 
- Jewelry\, Perfumery and Fancy Items\, Hardware\, "Do It Yourself"\\nVenue:
-  Fiera Milano\, Rho\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-milano-home-1736-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-milano-home-1736-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE AUTUMN FAIR BAHRAIN — Manama\, Bahrain
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270131
-UID:f-the-autumn-fair-bahrain-213-1@eventseye.impio-vault
-DESCRIPTION:Bahrain Consumer Products Fair. Incredible variety of products 
- from all over the world\, Mouthwatering world cuisines\, Special deals and
-  discounts\\nVenue: Exhibition World Bahrain\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-the-autumn-fair-bahrain-213-1.html
-LOCATION:Manama\, Bahrain
-URL:https://www.eventseye.com/fairs/f-the-autumn-fair-bahrain-213-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCOTLAND'S TRADE FAIR — Glasgow\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270127
-UID:f-scotland-s-trade-fair-26781-1@eventseye.impio-vault
-DESCRIPTION:Scotland's Trade Fair. This show offers the very best home acce
- ssories\, giftware\, fashion\, jewellery\, food\, and drink from Scotland 
- and beyond\\nVenue: SEC - Scottich Event Campus\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-scotland-s-trade-fair-26781-1.h
- tml
-LOCATION:Glasgow\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-scotland-s-trade-fair-26781-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHOWCASE - IRELAND'S CREATIVE EXPO — Dublin\, Ireland
-DTSTART;VALUE=DATE:20270124
-DTEND;VALUE=DATE:20270127
-UID:f-showcase-ireland-s-creative-expo-3973-1@eventseye.impio-vault
-DESCRIPTION:Showcase Ireland is the place to discover unique\, design-led f
- ashion and knitwear\, jewellery\, craft\, gift and interiors\, home & gift
- \, wellbeing...… A world of creativity and craftsmanship\\nVenue: Royal 
- Dublin Society\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-showcase-ireland-s-creative-expo-3973-1.html
-LOCATION:Dublin\, Ireland
-URL:https://www.eventseye.com/fairs/f-showcase-ireland-s-creative-expo-3973
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
-DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
-  exciting product lines will include: apparel\, bath & body\, gifts\, home
-  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
- Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
- 2-1.html
-LOCATION:Kalamazoo\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
- w-31612-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIA-PACIFIC SOURCING — Cologne\, Germany
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270312
-UID:f-asia-pacific-sourcing-16759-1@eventseye.impio-vault
-DESCRIPTION:ASIA-PACIFIC SOURCING offers buyers from Europe and America a u
- nique opportunity to access the Asiatic offer and establish valuable busin
- ess contacts to the Far East. Tools and Products for Home and Garden\\nVen
- ue: Exhibition Centre Cologne\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270311
-UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
-DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
- s Industry. Encompassing the entire supply chain of the magnetic material 
- and rare earth industries. From energy conversion\, aerospace\, to the mod
- est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-the-magnetics-show-europe-31716-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBO — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-ibo-5133-1@eventseye.impio-vault
-DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
- , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
- tyle... Meet\, have fun\, marvel at new things\, experience something toge
- ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HERBST MESSE — Dornbirn\, Austria
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260914
@@ -1550,6 +1186,19 @@ DESCRIPTION:Chinese Export Fair in Osaka. Approximately 200 companies join
 LOCATION:Osaka\, Japan
 URL:https://www.eventseye.com/fairs/f-zhejiang-export-fair-fair-osaka-23852
  -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DU MANS — Le Mans\, France
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+UID:f-foire-du-mans-10608-1@eventseye.impio-vault
+DESCRIPTION:Le Mans Fair. Housing\, wines and gastronomy\, ingenious produc
+ ts\, automobiles\, furniture\, public works building spaces and agricultur
+ al equipment... stock up on ideas for your projects\\nVenue: Centre des ex
+ positions du Mans\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-foire-du-mans-10608-1.html
+LOCATION:Le Mans\, France
+URL:https://www.eventseye.com/fairs/f-foire-du-mans-10608-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOIRE DE BÉRÉ - CHÂTEAUBRIANT — Châteaubriant\, France
@@ -2033,5 +1682,369 @@ DESCRIPTION:Trade fair for the whole family. Exhibition sections dedicated
 LOCATION:Klagenfurt\, Austria
 URL:https://www.eventseye.com/fairs/f-familienmesse-frauenmesse-18309-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ULTIMATE WOMEN'S SHOW - NEW JERSEY — Edison\, NJ\, USA
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-the-ultimate-women-s-show-new-jersey-25631-1@eventseye.impio-vault
+DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
+  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
+ e Experience for women\\nVenue: New Jersey Convention & Exposition Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-u
+ ltimate-women-s-show-new-jersey-25631-1.html
+LOCATION:Edison\, NJ\, USA
+URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-new-jersey-
+ 25631-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLMA — Rosemont\, IL\, USA
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261118
+UID:f-plma-6591-1@eventseye.impio-vault
+DESCRIPTION:International Private Label Industry Conference. A world-class 
+ venue where retailers\, manufacturers and industry professionals come toge
+ ther for face-to-face interaction\\nVenue: Donald E. Stephens Convention C
+ enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -plma-6591-1.html
+LOCATION:Rosemont\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-plma-6591-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYGIENIX — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+UID:f-hygienix-23242-1@eventseye.impio-vault
+DESCRIPTION:The Premier Event for Absorbent Hygiene & Personal care Markets
+ . Hygienix™ is the nexus for the future of absorbent hygiene. Hear indus
+ try change agents discuss the latest disruptive innovations\\nVenue: Hyatt
+  Regency Houston\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-hygienix-23242-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-hygienix-23242-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTW - CHINA TRADE WEEK - MOROCCO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-ctw-china-trade-week-morocco-26158-1@eventseye.impio-vault
+DESCRIPTION:China Trade Week - Morocco is an essential opportunity for any 
+ business owners\, professional buyers\, wholesalers or import /export orga
+ nizations who are seeking new sources for their products and services\\nVe
+ nue: Anfa Park\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-ctw-china-trade-week-morocco-26158-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-morocco-26158-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINTI MÄSS — Winterthur\, Switzerland
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261123
+UID:f-winti-mass-17840-1@eventseye.impio-vault
+DESCRIPTION:Winterthur Winter Fair. Gastronomy\, Tastings\, Bakery workshop
+ s\, live concerts... The Winti Mäss is Winterthur's traditional public fa
+ ir and attracts shoppers\, connoisseurs and explorers from the entire regi
+ on\\nVenue: Eulachhallen\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-winti-mass-17840-1.html
+LOCATION:Winterthur\, Switzerland
+URL:https://www.eventseye.com/fairs/f-winti-mass-17840-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAMILY & HOME — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+UID:f-family-home-5201-1@eventseye.impio-vault
+DESCRIPTION:Are you a food connoisseur? Do you like to beautify your home? 
+ Then Family & Home is the right place for you!\\nVenue: New Stuttgart Trad
+ e Fair Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-family-home-5201-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-family-home-5201-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRIVATE LABEL - PRODUCTS & SERVICES TRADE AREA — Istanbul\, Turke
+ y
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261129
+UID:f-private-label-products-services-trade-area-32963-1@eventseye.impio-vault
+DESCRIPTION:This event will bring together manufacturers\, suppliers and re
+ tailers of private brands around the world\, introducing Turkey’s produc
+ tion capacity to global markets\\nVenue: Istanbul Expo Center / Istanbul F
+ uar Merkezi / CNR Expo\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-private-label-products-services-trade-area-32963-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-private-label-products-services-trade
+ -area-32963-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIPREMIUM - SEOUL INTERNATIONAL SOURCING FAIR — Seoul\, Korea Sou
+ th
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+UID:f-sipremium-seoul-international-sourcing-fair-15036-1@eventseye.impio-vault
+DESCRIPTION:Seoul International Sourcing Fair for Premium\, Gift\, Statione
+ ry & Homeware. SIPREMIUM is Korea’s premier trade show for gifts\, house
+ hold goods and sales promotional items\\nVenue: COEX Exhibition Center\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-sipremiu
+ m-seoul-international-sourcing-fair-15036-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-sipremium-seoul-international-sourcin
+ g-fair-15036-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS DAYS BRATISLAVA — Bratislava\, Slovakia
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261214
+UID:f-christmas-days-bratislava-3882-1@eventseye.impio-vault
+DESCRIPTION:Consumer Goods Fair. Organized by Incheba Expo Bratislava\, thi
+ s fair is a popular event during the pre-Christmas season\, attracting vis
+ itors in search of Christmas gifts and decorations...\\nVenue: Bratislava 
+ Exhibition Ground\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-christmas-days-bratislava-3882-1.html
+LOCATION:Bratislava\, Slovakia
+URL:https://www.eventseye.com/fairs/f-christmas-days-bratislava-3882-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS FAIR PRAGUE — Prague\, Czech Republic
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-christmas-fair-prague-15528-1@eventseye.impio-vault
+DESCRIPTION:Christmas Trade Fair for Gifts\, Décorations and Household Goo
+ ds. The fair offers a great Christmas atmosphere and a display of products
+  from domestic and foreign manufacturers and suppliers\\nVenue: PVA Letnan
+ y - Prague Exhibition Centre Letnany\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-christmas-fair-prague-15528-1.html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-christmas-fair-prague-15528-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM EXPO - HOCHIMINH CITY — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+UID:f-vietnam-expo-hochiminh-city-31105-1@eventseye.impio-vault
+DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
+ ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
+ represent 20 countries\\nVenue: Saigon Exhibition & Convention Center - SE
+ CC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vi
+ etnam-expo-hochiminh-city-31105-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-expo-hochiminh-city-31105-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTW - CHINA TRADE WEEK - SAUDI ARABIA — Dammam\, Saudi Arabia
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261212
+UID:f-ctw-china-trade-week-saudi-arabia-32377-1@eventseye.impio-vault
+DESCRIPTION:China Trade Week - Saudi Arabia is the B2B and B2G exhibition\,
+  connecting industry leaders\, investors\, and entrepreneurs with the dyna
+ mic markets of the Middle East\\nVenue: Dhahran International Exhibition C
+ entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -ctw-china-trade-week-saudi-arabia-32377-1.html
+LOCATION:Dammam\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-saudi-arabia-323
+ 77-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOGLIATTI CHRISTMAS FAIR — Togliatti\, Russia
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261214
+UID:f-togliatti-christmas-fair-7968-1@eventseye.impio-vault
+DESCRIPTION:Togliatti consumer goods exhibition fair. New Year's holiday gi
+ fts and accessories\, souvenirs with the symbol of the coming year\, craft
+ s\, treats...\\nVenue: Expo Togliatti\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
+LOCATION:Togliatti\, Russia
+URL:https://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS MARKET — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-christmas-market-439-1@eventseye.impio-vault
+DESCRIPTION:Consumer Good\, Gifts & Toys Fair. Christmas atmosphere\, inspi
+ ration for buying gifts\, and entertainment accompanying program\\nVenue: 
+ Brno Exhibition Centre\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-christmas-market-439-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-christmas-market-439-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IGHE VIETNAM - THE VIETNAM INTERNATIONAL GIFTS & HOUSEWARES EXPO 
+ — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+UID:f-ighe-vietnam-the-vietnam-international-gifts-housewares-expo-31117-1@eventseye.impio-vault
+DESCRIPTION:Vietnam International Gifts & Housewares Expo. Smart Home Appli
+ ances Products\, Kitchen Appliances and Accessories\, Home Furniture\, Div
+ erse ranges of Business/Professional Gifts...\\nVenue: Saigon Exhibition &
+  Convention Center - SECC\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-ighe-vietnam-the-vietnam-international-gifts-housewar
+ es-expo-31117-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-ighe-vietnam-the-vietnam-internationa
+ l-gifts-housewares-expo-31117-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOVOGODISNJI VASAR - NEW YEAR’S FAIR — Belgrade\, Serbia
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261231
+UID:f-novogodisnji-vasar-new-year-s-fair-33565-1@eventseye.impio-vault
+DESCRIPTION:The New Year´s Fair\, event of fun and good shopping\, is trad
+ itionally organized at the end of each year by the Belgrade Fair. Song\, D
+ ance\, Amusement and Shopping\\nVenue: Belgrade Fair Grounds\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-novogodisnji-vasar
+ -new-year-s-fair-33565-1.html
+LOCATION:Belgrade\, Serbia
+URL:https://www.eventseye.com/fairs/f-novogodisnji-vasar-new-year-s-fair-33
+ 565-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS MARKET SOCHI — Sochi\, Russia
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261228
+UID:f-christmas-market-sochi-27881-1@eventseye.impio-vault
+DESCRIPTION:New Year and Christmas gifts and decorations. Festive packaging
+ . Christmas paraphernalia. Toys\, masks\, New Year's costumes. Handicrafts
+ . New Year's decoration. Clothes\, Jewelry\, Clocks...\\nVenue: Grand Hote
+ l Polyana\, Sochi\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-christmas-market-sochi-27881-1.html
+LOCATION:Sochi\, Russia
+URL:https://www.eventseye.com/fairs/f-christmas-market-sochi-27881-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HONG KONG MEGA SHOWCASE — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261228
+UID:f-hong-kong-mega-showcase-5728-1@eventseye.impio-vault
+DESCRIPTION:Christmas fair in Hong Kong. Home and housewares\, DIY workshop
+ s... Beauty and makeup\, healthcare\, jewelry\, toys and accessories...\\n
+ Venue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.
+ html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MILANO HOME — Milan\, Italy
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+UID:f-milano-home-1736-1@eventseye.impio-vault
+DESCRIPTION:International Home Show. Household and Gift Articles\, Costume 
+ Jewelry\, Perfumery and Fancy Items\, Hardware\, "Do It Yourself"\\nVenue:
+  Fiera Milano\, Rho\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-milano-home-1736-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-milano-home-1736-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE AUTUMN FAIR BAHRAIN — Manama\, Bahrain
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270131
+UID:f-the-autumn-fair-bahrain-213-1@eventseye.impio-vault
+DESCRIPTION:Bahrain Consumer Products Fair. Incredible variety of products 
+ from all over the world\, Mouthwatering world cuisines\, Special deals and
+  discounts\\nVenue: Exhibition World Bahrain\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-the-autumn-fair-bahrain-213-1.html
+LOCATION:Manama\, Bahrain
+URL:https://www.eventseye.com/fairs/f-the-autumn-fair-bahrain-213-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCOTLAND'S TRADE FAIR — Glasgow\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270127
+UID:f-scotland-s-trade-fair-26781-1@eventseye.impio-vault
+DESCRIPTION:Scotland's Trade Fair. This show offers the very best home acce
+ ssories\, giftware\, fashion\, jewellery\, food\, and drink from Scotland 
+ and beyond\\nVenue: SEC - Scottich Event Campus\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-scotland-s-trade-fair-26781-1.h
+ tml
+LOCATION:Glasgow\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-scotland-s-trade-fair-26781-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHOWCASE - IRELAND'S CREATIVE EXPO — Dublin\, Ireland
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270127
+UID:f-showcase-ireland-s-creative-expo-3973-1@eventseye.impio-vault
+DESCRIPTION:Showcase Ireland is the place to discover unique\, design-led f
+ ashion and knitwear\, jewellery\, craft\, gift and interiors\, home & gift
+ \, wellbeing...… A world of creativity and craftsmanship\\nVenue: Royal 
+ Dublin Society\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-showcase-ireland-s-creative-expo-3973-1.html
+LOCATION:Dublin\, Ireland
+URL:https://www.eventseye.com/fairs/f-showcase-ireland-s-creative-expo-3973
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
+DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
+  exciting product lines will include: apparel\, bath & body\, gifts\, home
+  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
+ Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
+ 2-1.html
+LOCATION:Kalamazoo\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
+ w-31612-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIA-PACIFIC SOURCING — Cologne\, Germany
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+UID:f-asia-pacific-sourcing-16759-1@eventseye.impio-vault
+DESCRIPTION:ASIA-PACIFIC SOURCING offers buyers from Europe and America a u
+ nique opportunity to access the Asiatic offer and establish valuable busin
+ ess contacts to the Far East. Tools and Products for Home and Garden\\nVen
+ ue: Exhibition Centre Cologne\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
+DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
+ s Industry. Encompassing the entire supply chain of the magnetic material 
+ and rare earth industries. From energy conversion\, aerospace\, to the mod
+ est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-the-magnetics-show-europe-31716-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBO — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-ibo-5133-1@eventseye.impio-vault
+DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
+ , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
+ tyle... Meet\, have fun\, marvel at new things\, experience something toge
+ ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE-EXPOSITION D'ORLÉANS — Orleans\, France
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270412
+UID:f-foire-exposition-d-orleans-22368-1@eventseye.impio-vault
+DESCRIPTION:Orléans Fair & Exhibition. This unmissable event in the Centre
+ -Val de Loire region brings together 250 exhibitors from all over France\,
+  for an original and diversified commercial offer\\nVenue: Parc des exposi
+ tions d'Orléans\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-foire-exposition-d-orleans-22368-1.html
+LOCATION:Orleans\, France
+URL:https://www.eventseye.com/fairs/f-foire-exposition-d-orleans-22368-1.ht
+ ml
 END:VEVENT
 END:VCALENDAR

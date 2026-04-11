@@ -1613,6 +1613,19 @@ LOCATION:Swakopmund\, Namibia
 URL:https://www.eventseye.com/fairs/f-intermodal-africa-12397-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JEC WORLD — Paris\, France
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-jec-world-1638-1@eventseye.impio-vault
+DESCRIPTION:JEC World is a leading International Composites Show\, activati
+ ng a global community from the business\, manufacturing\, research and aca
+ demic worlds and enabling networking for new ideas and creates growth oppo
+ rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE GASKET & SEALS SHOW — Amsterdam\, Netherlands
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270311
@@ -1625,18 +1638,6 @@ DESCRIPTION:Europe’s Showcase Exhibition and Conference for the Gasket an
  fairs/f-the-gasket-seals-show-31717-1.html
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-the-gasket-seals-show-31717-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEYCHELLES MARITIME WEEK — Victoria\, Seychelles
-DTSTART;VALUE=DATE:20280926
-DTEND;VALUE=DATE:20280929
-UID:f-seychelles-maritime-week-31638-1@eventseye.impio-vault
-DESCRIPTION:Seychelles Maritime Week is the largest maritime transport even
- t in the Indian Ocean region taking place this year in Seychelles\\nVenue:
-  Savoy Seychelles Resort & Spa\\nFrequency: every 4 years\\nSource: https:
- //www.eventseye.com/fairs/f-seychelles-maritime-week-31638-1.html
-LOCATION:Victoria\, Seychelles
-URL:https://www.eventseye.com/fairs/f-seychelles-maritime-week-31638-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SEA ASIA — Singapore\, Singapore
@@ -2112,5 +2113,17 @@ DESCRIPTION:International Maritime Conference & Exhibition. During Marintec
  ventseye.com/fairs/f-marintec-china-12697-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-marintec-china-12697-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEYCHELLES MARITIME WEEK — Victoria\, Seychelles
+DTSTART;VALUE=DATE:20280926
+DTEND;VALUE=DATE:20280929
+UID:f-seychelles-maritime-week-31638-1@eventseye.impio-vault
+DESCRIPTION:Seychelles Maritime Week is the largest maritime transport even
+ t in the Indian Ocean region taking place this year in Seychelles\\nVenue:
+  Savoy Seychelles Resort & Spa\\nFrequency: every 4 years\\nSource: https:
+ //www.eventseye.com/fairs/f-seychelles-maritime-week-31638-1.html
+LOCATION:Victoria\, Seychelles
+URL:https://www.eventseye.com/fairs/f-seychelles-maritime-week-31638-1.html
 END:VEVENT
 END:VCALENDAR

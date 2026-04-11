@@ -49,20 +49,6 @@ URL:https://www.eventseye.com/fairs/f-world-petrochemical-conference-19893-
  1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHARM OF LIGHT — Shanghai\, China
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260404
-UID:f-charm-of-light-16755-1@eventseye.impio-vault
-DESCRIPTION:China Lighting Industry Exhibition. With the continuous advance
- ment of technology and the increasing demand for environmental protection 
- and efficiency\, smart lighting provides solutions in a sustainable direct
- ion\\nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-charm-of-light-1675
- 5-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-charm-of-light-16755-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CONNECTING HYDROGEN MENA — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260403
@@ -92,19 +78,6 @@ URL:https://www.eventseye.com/fairs/f-hydropower-congress-central-asia-and-
  caspian-30065-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JAPAN IT WEEK TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20260401
-DTEND;VALUE=DATE:20260404
-UID:f-japan-it-week-tokyo-22062-1@eventseye.impio-vault
-DESCRIPTION:Japan IT Week is a B2B exhibition where the latest IT products 
- and solutions gather in one place. Visit the show to implement new IT solu
- tions and engage with optimal business partners\\nVenue: Tokyo Conference 
- Center - Shinagawa\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-japan-it-week-tokyo-22062-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-japan-it-week-tokyo-22062-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOLARPLAZA SUMMIT ASSET MANAGEMENT NORTH AMERICA — San Diego\, CA
  \, USA
 DTSTART;VALUE=DATE:20260401
@@ -127,8 +100,8 @@ DTEND;VALUE=DATE:20260405
 UID:f-ifs-international-franchise-show-30488-1@eventseye.impio-vault
 DESCRIPTION:IFS is the largest international franchise show in Korea and th
  e best way to expand your business in Korea\\nVenue: COEX Exhibition Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ifs
- -international-franchise-show-30488-1.html
+ r\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-if
+ s-international-franchise-show-30488-1.html
 LOCATION:Seoul\, Korea South
 URL:https://www.eventseye.com/fairs/f-ifs-international-franchise-show-3048
  8-1.html
@@ -176,19 +149,6 @@ URL:https://www.eventseye.com/fairs/f-roads-bridges-and-tunnels-ksa-confere
  nce-32562-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SEAMLESS NORTH AFRICA — Cairo\, Egypt
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260408
-UID:f-seamless-north-africa-31018-1@eventseye.impio-vault
-DESCRIPTION:Seamless is a great meeting place for the brightest and most in
- novative minds across the payments\, fintech\, identity\, banking\, retail
- \, e-commerce\, home delivery and digital marketing industries\\nVenue: EI
- EC (Egypt International Exhibition Center)\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-seamless-north-africa-31018-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-seamless-north-africa-31018-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:E-PAYMENTS INDIA EXPO — Mumbai\, India
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260409
@@ -210,20 +170,6 @@ DESCRIPTION:IBEX INDIA is India’s only comprehensive Trade Fair and Confe
  ex-india-19966-1.html
 LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-ibex-india-19966-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INVEST IN AFRICA SUMMIT — The Hague\, Netherlands
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-UID:f-invest-in-africa-summit-30833-1@eventseye.impio-vault
-DESCRIPTION:Invest in Africa gathers 1000-plus key economic players such as
-  government delegations and policy makers\, high-profile African leaders\,
-  project developers\, investors\, and entrepreneurs. It covers: Agribusine
- ss\, Technology\, Renewable Energy\, Mining...\\nVenue: Leonardo Royal Hot
- el\, The Hague\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-invest-in-africa-summit-30833-1.html
-LOCATION:The Hague\, Netherlands
-URL:https://www.eventseye.com/fairs/f-invest-in-africa-summit-30833-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHARMA QAZAQSTAN & CENTRAL ASIA — Almaty\, Kazakhstan
@@ -281,9 +227,11 @@ SUMMARY:DOCUMATION — Paris\, France
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260410
 UID:f-documation-588-1@eventseye.impio-vault
-DESCRIPTION:Fair dedicated to Electronic Documentation and Information Mana
- gement\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-documation-588-1.html
+DESCRIPTION:A trade show dedicated to electronic documents and information 
+ management. DOCUMATION is the event for professionals in Competitive Intel
+ ligence\, Information\, Knowledge Management\, and Data Intelligence\\nVen
+ ue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-documation-588-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-documation-588-1.html
 END:VEVENT
@@ -299,6 +247,19 @@ DESCRIPTION:Japan IT Week is Japan's leading IT and Digital Transformation
  /www.eventseye.com/fairs/f-japan-it-week-spring-32823-1.html
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-japan-it-week-spring-32823-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAPAN IT WEEK TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260411
+UID:f-japan-it-week-tokyo-22062-1@eventseye.impio-vault
+DESCRIPTION:Japan IT Week is a B2B exhibition where the latest IT products 
+ and solutions gather in one place. Visit the show to implement new IT solu
+ tions and engage with optimal business partners\\nVenue: Tokyo Internation
+ al Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-japan-it-week-tokyo-22062-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-japan-it-week-tokyo-22062-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MADEN TURKEY — Istanbul\, Turkey
@@ -531,6 +492,20 @@ LOCATION:Stuttgart\, Germany
 URL:https://www.eventseye.com/fairs/f-invest-1553-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - MUMBAI — Mumbai\, India
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260419
+UID:f-irex-(international-real-estate-expo)-mumbai-34094-1@eventseye.impio-vault
+DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
+ latform to market real estate to elite clientele and top-pier investors in
+  India\\nVenue: The St. Regis\, Mumbai\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)-mu
+ mbai-34094-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
+ -mumbai-34094-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RE CHINA ASIA EXPO — Zhuhai\, China
 DTSTART;VALUE=DATE:20260418
 DTEND;VALUE=DATE:20260421
@@ -604,6 +579,19 @@ DESCRIPTION:International Workspace Exhibition. As part of the “Salone de
 LOCATION:Milan\, Italy
 URL:https://www.eventseye.com/fairs/f-saloneufficio-workplace3.0-2377-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INVEST IN AFRICAN ENERGY FORUM — Paris\, France
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260424
+UID:f-invest-in-african-energy-forum-31330-1@eventseye.impio-vault
+DESCRIPTION:Invest in African Energy is an exclusive forum designed to fost
+ er collaboration between European investors and African energy markets\\nV
+ enue: Les Salons Hoche\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-invest-in-african-energy-forum-31330-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-invest-in-african-energy-forum-31330-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALÃO IMOBILIÁRIO — Lisbon\, Portugal
@@ -997,19 +985,6 @@ LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-ccw-uk-summit-33871-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INVEST IN AFRICAN ENERGY FORUM — Paris\, France
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260513
-UID:f-invest-in-african-energy-forum-31330-1@eventseye.impio-vault
-DESCRIPTION:Invest in African Energy is an exclusive forum designed to fost
- er collaboration between European investors and African energy markets\\nV
- enue: The Westin Paris - Vendôme\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-invest-in-african-energy-forum-31330-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-invest-in-african-energy-forum-31330-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OMAN DESIGN & BUILD WEEK — Muscat\, Oman
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260514
@@ -1160,6 +1135,21 @@ DESCRIPTION:The "Workspace Projects & Design Solutions Exhibition” is the
  /f-workspace-expo-egypt-30332-1.html
 LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-workspace-expo-egypt-30332-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - SINGAPORE — Singapore\, S
+ ingapore
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260517
+UID:f-irex-(international-real-estate-expo)-singapore-34095-1@eventseye.impio-vault
+DESCRIPTION:Luxury Real Estate Exhibition in Singapore. IREX is an innovati
+ ve platform to market real estate to elite clientele and top-pier investor
+ s in India\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)-sing
+ apore-34095-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
+ -singapore-34095-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PREMIUM REAL ESTATE EXPO — Athens\, Greece
@@ -2457,6 +2447,546 @@ URL:https://www.eventseye.com/fairs/f-digitech-asean-thailand-and-ai-connec
  t-33667-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TFBO - THAILAND FRANCHISE & BUSINESS OPPORTUNITY — Bangkok\, Thai
+ land
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260727
+UID:f-tfbo-thailand-franchise-business-opportunity-28344-1@eventseye.impio-vault
+DESCRIPTION:ASEAN's International Franchise and Business Opportunities Trad
+ e Show\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tfbo-th
+ ailand-franchise-business-opportunity-28344-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-tfbo-thailand-franchise-business-oppo
+ rtunity-28344-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CWFM EXPO PAKISTAN -LAHORE — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+UID:f-cwfm-expo-pakistan-lahore-31551-1@eventseye.impio-vault
+DESCRIPTION:Cleaning\, Waste and Facilities Management (CWFM) exhibition. T
+ he event will delivers a powerful combination of senior decision makers an
+ d purchase influencers from across the Pakistan’s industrial\, commercia
+ l and public sectors\\nVenue: Expo Centre Lahore\\nFrequency: every 2 year
+ s\\nSource: https://www.eventseye.com/fairs/f-cwfm-expo-pakistan-lahore-31
+ 551-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-cwfm-expo-pakistan-lahore-31551-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IRAN OFFICE EXPO (HOFEX - HOMEX) — Tehran\, Iran
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+UID:f-iran-office-expo-(hofex-homex)-33469-1@eventseye.impio-vault
+DESCRIPTION:Iranian international furniture export exhibition\, specializin
+ g in home and office furniture. A great opportunity to meet the best Irani
+ an players in the sector\\nVenue: Tehran Permanent Fairground\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-iran-office-expo-
+ (hofex-homex)-33469-1.html
+LOCATION:Tehran\, Iran
+URL:https://www.eventseye.com/fairs/f-iran-office-expo-(hofex-homex)-33469-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETOFFICE — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260802
+UID:f-vietoffice-31090-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Smart Office Solutions\, Office Eq
+ uipment and Stationery in Vietnam. Modern\, convenient and advanced office
+  products and equipment from popular brands around the world\\nVenue: Saig
+ on Exhibition & Convention Center - SECC\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANCHISING & BUSINESS OPPORTUNITIES EXPO - MELBOURNE — Melbourne
+ \, Australia
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+UID:f-franchising-business-opportunities-expo-melbourne-1093-1@eventseye.impio-vault
+DESCRIPTION:Australian Franchising & Business Opportunities Exhibition. For
+  exhibitors\, the Expo provides the chance to meet face to face with quali
+ ty visitors looking to join a franchise system or jump into a small busine
+ ss of their own\\nVenue: Melbourne Exhibition & Convention Centre\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-franchising-b
+ usiness-opportunities-expo-melbourne-1093-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-franchising-business-opportunities-ex
+ po-melbourne-1093-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MELBOURNE FRANCHISING & BUSINESS OPPORTUNITIES EXPO — Melbourne\,
+  Australia
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+UID:f-melbourne-franchising-business-opportunities-expo-23268-1@eventseye.impio-vault
+DESCRIPTION:Business Investment Expo in Melbourne. Melbourne Franchising & 
+ Business Opportunities Expo is the opportunity to talk face-to-face with l
+ eading franchisors and successful franchisees across a range of business o
+ pportunities\\nVenue: Melbourne Exhibition & Convention Centre\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-melbourne-franch
+ ising-business-opportunities-expo-23268-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-melbourne-franchising-business-opport
+ unities-expo-23268-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:START YOUR OWN BUSINESS EXPO - MELBOURNE — Melbourne\, Australia
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+UID:f-start-your-own-business-expo-melbourne-33500-1@eventseye.impio-vault
+DESCRIPTION:The "Start Your Own Business Expo" is dedied to entrepreneurs a
+ nd everyday Australians who want to work for themselves\, co-located with 
+ the Franchising Expo. Free seminars\, expert advice and over 100 exhibitor
+ s ready to help you become your own boss\\nVenue: Melbourne Exhibition & C
+ onvention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-start-your-own-business-expo-melbourne-33500-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-start-your-own-business-expo-melbourn
+ e-33500-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260806
+UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
+DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
+ cts in the sectors of stationery\, school supplies\, office supplies\, cra
+ fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECOP — Brasilia\, Brazil
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260807
+UID:f-secop-27648-1@eventseye.impio-vault
+DESCRIPTION:National seminar on ICT for public management and private enter
+ prises\\nVenue: Centro de Eventos e Convenções Brasil\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-secop-27648-1.html
+LOCATION:Brasilia\, Brazil
+URL:https://www.eventseye.com/fairs/f-secop-27648-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIGHTING ASIA — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260809
+UID:f-lighting-asia-28172-1@eventseye.impio-vault
+DESCRIPTION:The Lighting Asia aims to facilitate industry for lighting\, el
+ ectrical technology and home and building automation convergence\\nVenue: 
+ Expo Centre Lahore\\nFrequency: twice a year\\nSource: https://www.eventse
+ ye.com/fairs/f-lighting-asia-28172-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-lighting-asia-28172-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDEXPLUS - NEW DELHI — New Delhi\, India
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260810
+UID:f-indexplus-new-delhi-8468-1@eventseye.impio-vault
+DESCRIPTION:INDEXPLUS is a premier trade fair for Furniture\, Interiors & D
+ esign and is the India's largest focused commercial platform on interiors\
+ , architecture\, materials and design\, and brings together the industry b
+ rands and professionals under one roof\\nVenue: IICC (India International 
+ Convention & Expo Centre) - Yashobhoomi Convention Centre\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-indexplus-new-delhi-8
+ 468-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-indexplus-new-delhi-8468-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IDCC - NDONESIA INTERNATIONAL DATA CENTER & CLOUD SUMMIT — Jakart
+ a\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-idcc-ndonesia-international-data-center-cloud-summit-34037-1@eventseye.impio-vault
+DESCRIPTION:The Indonesia Data Center and Cloud Summit & Expo brings togeth
+ er experts and innovators from the cloud computing\, data center\, and tec
+ hnology industries. The event focuses on the rapidly growing digital infra
+ structure in Indonesia\\nVenue: Jakarta International Expo (JIExpo)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-idcc-ndones
+ ia-international-data-center-cloud-summit-34037-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-idcc-ndonesia-international-data-cent
+ er-cloud-summit-34037-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTI CYBER SECURITY EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-inti-cyber-security-expo-34036-1@eventseye.impio-vault
+DESCRIPTION:INTI Cybersecurity is the premier event in Indonesia dedicated 
+ to the convergence of technology\, innovation\, and cybersecurity. Its mis
+ sion is to foster a secure and innovative digital landscape in Indonesia a
+ nd beyond\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-inti-cyber-security-expo
+ -34036-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inti-cyber-security-expo-34036-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE+ MID-ATLANTIC — Philadelphia\, PA\, USA
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260814
+UID:f-re-mid-atlantic-29832-1@eventseye.impio-vault
+DESCRIPTION:RE+ Mid-Atlantic attracts energy professionals from across the 
+ solar and storage markets each year to facilitate business and connections
+ \\nVenue: Pennsylvania Convention Center\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-re-mid-atlantic-29832-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-re-mid-atlantic-29832-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERCOM DENVER — Denver\, CO\, USA
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260820
+UID:f-enercom-denver-20410-1@eventseye.impio-vault
+DESCRIPTION:Conference on Oil & Gas. The Oil & Gas Conference® provides yo
+ u with a unique opportunity to meet and network with institutional investo
+ rs\, research analysts and high net worth investors\\nVenue: Westin Denver
+  Downtown Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-enercom-denver-20410-1.html
+LOCATION:Denver\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-enercom-denver-20410-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIFTS INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+UID:f-gifts-india-24997-1@eventseye.impio-vault
+DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Stationer
+ y\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & Ho
+ me Decor\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-gifts-india-2499
+ 7-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-gifts-india-24997-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRAN SALÓN INMOBILIARIO — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260824
+UID:f-gran-salon-inmobiliario-13771-1@eventseye.impio-vault
+DESCRIPTION:The GRAN SALON INMOBILIARIO is the fair that presents the most 
+ complete offer of new and used projects\, residential\, offices\, hotels\,
+  commercial premises\, national industrial parks...\\nVenue: Corferias - C
+ entro de Convenciones\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BROADBAND COMMUNITIES SUMMIT — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260828
+UID:f-broadband-communities-summit-31169-1@eventseye.impio-vault
+DESCRIPTION:Broadband Communities Summit is the leading event for community
+  leaders\, property owners\, network infrastructure builders and telco ser
+ vice providers to meet and discuss strategies for delivering connectivity 
+ for communities across the US\\nVenue: George R. Brown Convention Center\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-broadb
+ and-communities-summit-31169-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-broadband-communities-summit-31169-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FANYF — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260828
+UID:f-fanyf-26392-1@eventseye.impio-vault
+DESCRIPTION:Andean Fair of Business and Franchise. FANYF in Bogotá allows 
+ you to choose the franchise that best suits your profile and your budget\,
+  train and learn from industry experts\\nVenue: Corferias - Centro de Conv
+ enciones\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-fanyf-26392-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-fanyf-26392-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFRA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+UID:f-ifra-26722-1@eventseye.impio-vault
+DESCRIPTION:Indonesia's International Franchise\, License & Business Concep
+ t Expo & Conference\\nVenue: ICE - Indonesian Convention Exhibition\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ifra-26722-
+ 1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-ifra-26722-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JHEC - JAKARTA HALAL EXPO AND CONFERENCE — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+UID:f-jhec-jakarta-halal-expo-and-conference-33277-1@eventseye.impio-vault
+DESCRIPTION:Alimentation et boissons\, cosmétiques et soins\, tourisme hal
+ al\, industrie de la mode\, médias halal\, finance islamique\, logistique
+  halal\, éducation et formation\, conseil halal\, style de vie halal...\\
+ nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conf
+ erence-33277-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conferenc
+ e-33277-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMMERCIAL INTEGRATOR EXPO — Denver\, CO\, USA
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260905
+UID:f-commercial-integrator-expo-32389-1@eventseye.impio-vault
+DESCRIPTION:Commercial Integrator Expo (CIX) meets a market need among fixe
+ d-installation commercial AV professionals and technology managers. Corpor
+ ate\, higher education\, hospitality\, retail\, and resimercial...\\nVenue
+ : Colorado Convention Center\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-commercial-integrator-expo-32389-1.html
+LOCATION:Denver\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-commercial-integrator-expo-32389-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERSOLAR MEXICO — Mexico City\, Mexico
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260904
+UID:f-intersolar-mexico-28604-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition and Conference for the Solar Industry 
+ in Mexico\, offering industry professionals\, market experts\, and newcome
+ rs the opportunity to network with specialists from the renewable energy m
+ arket in Latin America\\nVenue: Centro Citibanamex\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-intersolar-mexico-28604-1.ht
+ ml
+LOCATION:Mexico City\, Mexico
+URL:https://www.eventseye.com/fairs/f-intersolar-mexico-28604-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISS WORLD ASIA PACIFIC — Singapore\, Singapore
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260904
+UID:f-iss-world-asia-pacific-12005-1@eventseye.impio-vault
+DESCRIPTION:The world's largest gathering of Regional Law Enforcement\, Int
+ elligence and Homeland Security Analysts\, Telecoms as well as Financial C
+ rime Investigators responsible for Cyber Crime Investigation\, Electronic 
+ Surveillance and Intelligence Gathering\\nVenue: Shangri-La Hotel\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-iss-world-asi
+ a-pacific-12005-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-iss-world-asia-pacific-12005-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOZAMBIQUE GAS SUMMIT — Maputo\, Mozambique
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260904
+UID:f-mozambique-gas-summit-27347-1@eventseye.impio-vault
+DESCRIPTION:The Mozambique Gas & Energy Summit & Exhibition gathers key Moz
+ ambican and international government\, ministerial and industry stakeholde
+ rs\, investors\, developers and private sector value chain participants\\n
+ Venue: Centro Internacional de Conferencias Joaquim Chissano\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-mozambique-gas-sum
+ mit-27347-1.html
+LOCATION:Maputo\, Mozambique
+URL:https://www.eventseye.com/fairs/f-mozambique-gas-summit-27347-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEX ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+UID:f-bex-asia-11732-1@eventseye.impio-vault
+DESCRIPTION:BEX Asia is the premier platform for the built environment indu
+ stry that connects solution providers\, distributors and sellers with deci
+ sion makers\, developers\, architects\, interior designers\, landscape arc
+ hitects\, consultants and buyers\\nVenue: Marina Bay Sands\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-bex-asia-11732-1.htm
+ l
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-bex-asia-11732-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OIL AND GAS ASIA — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+UID:f-oil-and-gas-asia-6211-1@eventseye.impio-vault
+DESCRIPTION:Asian Oil\, Gas and Petrochemical Engineering Exhibition. One o
+ f the region’s most influential and successful energy events\\nVenue: Ku
+ ala Lumpur Convention Centre (KLCC)\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-oil-and-gas-asia-6211-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-oil-and-gas-asia-6211-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROPTECH CONNECT - EUROPE — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260911
+UID:f-proptech-connect-europe-33783-1@eventseye.impio-vault
+DESCRIPTION:PROPTECH CONNECT - EUROPE is one of the largest Real Estate Tec
+ h events\, connecting global senior real estate executives\, investors\, o
+ perators\, developers\, owners\, asset managers\, agents and occupiers wit
+ h cutting edge solution providers\\nVenue: InterContinental London Park La
+ ne\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pr
+ optech-connect-europe-33783-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-proptech-connect-europe-33783-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEAMLESS NORTH AFRICA — Cairo\, Egypt
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260904
+UID:f-seamless-north-africa-31018-1@eventseye.impio-vault
+DESCRIPTION:Seamless is a great meeting place for the brightest and most in
+ novative minds across the payments\, fintech\, identity\, banking\, retail
+ \, e-commerce\, home delivery and digital marketing industries\\nVenue: EI
+ EC (Egypt International Exhibition Center)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-seamless-north-africa-31018-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-seamless-north-africa-31018-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FINANCE. CREDIT. INSURANCE AND AUDIT EXPO — Yerevan\, Armenia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-finance.-credit.-insurance-and-audit-expo-32710-1@eventseye.impio-vault
+DESCRIPTION:Specialized exhibition on finance\, credit\, insurance and audi
+ ting in Armenia. An essential platform for presenting the latest trends\, 
+ products\, services and innovations in these areas\\nVenue: Yerevan Expo\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-financ
+ e.-credit.-insurance-and-audit-expo-32710-1.html
+LOCATION:Yerevan\, Armenia
+URL:https://www.eventseye.com/fairs/f-finance.-credit.-insurance-and-audit-
+ expo-32710-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIFF SHANGHAI - CHINA INTERNATIONAL HOME FURNITURE FAIR — Shangha
+ i\, China
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260909
+UID:f-ciff-shanghai-china-international-home-furniture-fair-5994-1@eventseye.impio-vault
+DESCRIPTION:CIFF Shanghai covers the entire industry chain of upstream and 
+ downstream furnishing. Home\, office and commercial furniture\, manufacutu
+ ring equipment\, accessories and home textiles\, outdoor furnishing...\\nV
+ enue: National Exhibition and Convention Center\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-ciff-shanghai-china-internation
+ al-home-furniture-fair-5994-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-ciff-shanghai-china-international-hom
+ e-furniture-fair-5994-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANCHISE EXPO WEST — Los Angeles\, CA\, USA
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+UID:f-franchise-expo-west-12702-1@eventseye.impio-vault
+DESCRIPTION:Premier franchise event in the growing West Coast market. WCFE 
+ provides the perfect opportunity for hundreds of franchise concepts\, repr
+ esenting every industry to meet face-to-face with the region’s most qual
+ ified prospects\\nVenue: Los Angeles Convention Center\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-franchise-expo-west-1270
+ 2-1.html
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-franchise-expo-west-12702-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - DUBAI — Dubai\, UAE - Uni
+ ted Arab Emirates
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+UID:f-irex-(international-real-estate-expo)-dubai-31968-1@eventseye.impio-vault
+DESCRIPTION:Luxury Real Estate Exhibition in Dubai. IREX is an innovative p
+ latform to market real estate to elite clientele and top-pier investors in
+  Dubai\\nVenue: Anantara Downtown Dubai Hotel\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-irex-(international-real-estate-e
+ xpo)-dubai-31968-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
+ -dubai-31968-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIM - ANNUAL INVESTMENT MEETING — Dubai\, UAE - United Arab Emira
+ tes
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260910
+UID:f-aim-annual-investment-meeting-29049-1@eventseye.impio-vault
+DESCRIPTION:Congress dedicated to investments in sustainable innovation for
+  a prosperous future in the United Arab States\\nVenue: Dubai World Trade 
+ Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-aim-annual-investment-meeting-29049-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-aim-annual-investment-meeting-29049-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIM CONGRESS — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260910
+UID:f-aim-congress-33391-1@eventseye.impio-vault
+DESCRIPTION:AIM Congress has established itself as a leading investment pla
+ tform in the Middle East\, which aspires to ignite positive transformation
+  by creating investment opportunities\, upholding solidarity and developin
+ g economic relations among nations\\nVenue: Dubai World Trade Centre (Duba
+ i Exhibition Centre)\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-aim-congress-33391-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-aim-congress-33391-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FURNITURE CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+UID:f-furniture-china-7726-1@eventseye.impio-vault
+DESCRIPTION:'Furniture China' will spotlight the most groundbreaking collec
+ tions\, innovative materials and the defining trends shaping global furnit
+ ure design and manufacturing\\nVenue: Shanghai New International Expo Cent
+ re - SNIEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-furniture-china-7726-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-furniture-china-7726-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPS - INTERNATIONAL PROPERTY SHOW - DUBAI — Dubai\, UAE - United 
+ Arab Emirates
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260910
+UID:f-ips-international-property-show-dubai-24736-1@eventseye.impio-vault
+DESCRIPTION:IPS is the premier property sales event in the Middle East\, un
+ iting real estate professionals and investors worldwide\, uniting key stak
+ eholders in global real estate and investment\\nVenue: Dubai World Trade C
+ entre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-ips-international-property-show-dubai-24736-1.h
+ tml
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-ips-international-property-show-dubai
+ -24736-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIGTECH AFRICA — Tunis\, Tunisia
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260911
+UID:f-bigtech-africa-33147-1@eventseye.impio-vault
+DESCRIPTION:BIGTECH is Africa's digital hub\, an event where startups\, inv
+ estors\, businesses\, public institutions\, and international experts meet
+  to accelerate the continent's technological development\\nVenue: Parc des
+  expositions du Kram\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-bigtech-africa-33147-1.html
+LOCATION:Tunis\, Tunisia
+URL:https://www.eventseye.com/fairs/f-bigtech-africa-33147-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IRAQ OIL & GAS — Baghdad\, Iraq
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260912
+UID:f-iraq-oil-gas-34029-1@eventseye.impio-vault
+DESCRIPTION:International Oil & Gas Exhibition & Conference. The event brin
+ gs together leading companies\, decision-makers\, engineers\, and experts 
+ from across the global oil\, gas\, and energy value chain\\nVenue: Baghdad
+  International Fair Grounds\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-iraq-oil-gas-34029-1.html
+LOCATION:Baghdad\, Iraq
+URL:https://www.eventseye.com/fairs/f-iraq-oil-gas-34029-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SEAMLESS AFRICA — Johannesburg\, South Africa
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260910
@@ -3173,6 +3703,22 @@ LOCATION:Zagreb\, Croatia
 URL:https://www.eventseye.com/fairs/f-inova-11704-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SALON DE L'IMMOBILIER - TOULOUSE-MIDI-PYRÉNÉES — Toulouse\, Fra
+ nce
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-salon-de-l-immobilier-toulouse-midi-pyrenees-10944-1@eventseye.impio-vault
+DESCRIPTION:Toulouse-Midi-Pyrénées Real Estate Expo. Whether it is an inv
+ estment or a first purchase in new or old property\, the Toulouse Real Est
+ ate Show allows you to advance and realize your project\\nVenue: MEETT - P
+ arc des Expositions et Centre de Conventions\\nFrequency: twice a year\\nS
+ ource: https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-mi
+ di-pyrenees-10944-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-midi-p
+ yrenees-10944-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE FRANCHISE EXPO - CALGARY — Calgary\, AB\, Canada
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261005
@@ -3414,6 +3960,32 @@ URL:https://www.eventseye.com/fairs/f-accounting-business-expo-asia-31161-1
  .html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AKTOBENEFTEKHIM — Aktobe\, Kazakhstan
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-aktobeneftekhim-32996-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Equipment and Technologies for the 
+ Oil\, Gas\, and Chemical Industry in Kazakhstan\\nVenue: Konys Sports Pala
+ ce\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ak
+ tobeneftekhim-32996-1.html
+LOCATION:Aktobe\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-aktobeneftekhim-32996-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INVEST IN AFRICA SUMMIT — The Hague\, Netherlands
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+UID:f-invest-in-africa-summit-30833-1@eventseye.impio-vault
+DESCRIPTION:Invest in Africa gathers 1000-plus key economic players such as
+  government delegations and policy makers\, high-profile African leaders\,
+  project developers\, investors\, and entrepreneurs. It covers: Agribusine
+ ss\, Technology\, Renewable Energy\, Mining...\\nVenue: The Hague Marriott
+  Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-invest-in-africa-summit-30833-1.html
+LOCATION:The Hague\, Netherlands
+URL:https://www.eventseye.com/fairs/f-invest-in-africa-summit-30833-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:REBUILD KARABAKH — Baku\, Azerbaijan
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261017
@@ -3574,533 +4146,6 @@ LOCATION:Buenos Aires\, Argentina
 URL:https://www.eventseye.com/fairs/f-argentina-hydrocarbons-30993-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TFBO - THAILAND FRANCHISE & BUSINESS OPPORTUNITY — Bangkok\, Thai
- land
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260727
-UID:f-tfbo-thailand-franchise-business-opportunity-28344-1@eventseye.impio-vault
-DESCRIPTION:ASEAN's International Franchise and Business Opportunities Trad
- e Show\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tfbo-th
- ailand-franchise-business-opportunity-28344-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-tfbo-thailand-franchise-business-oppo
- rtunity-28344-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CWFM EXPO PAKISTAN -LAHORE — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260727
-UID:f-cwfm-expo-pakistan-lahore-31551-1@eventseye.impio-vault
-DESCRIPTION:Cleaning\, Waste and Facilities Management (CWFM) exhibition. T
- he event will delivers a powerful combination of senior decision makers an
- d purchase influencers from across the Pakistan’s industrial\, commercia
- l and public sectors\\nVenue: Expo Centre Lahore\\nFrequency: every 2 year
- s\\nSource: https://www.eventseye.com/fairs/f-cwfm-expo-pakistan-lahore-31
- 551-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-cwfm-expo-pakistan-lahore-31551-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRAN OFFICE EXPO (HOFEX - HOMEX) — Tehran\, Iran
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260803
-UID:f-iran-office-expo-(hofex-homex)-33469-1@eventseye.impio-vault
-DESCRIPTION:Iranian international furniture export exhibition\, specializin
- g in home and office furniture. A great opportunity to meet the best Irani
- an players in the sector\\nVenue: Tehran Permanent Fairground\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-iran-office-expo-
- (hofex-homex)-33469-1.html
-LOCATION:Tehran\, Iran
-URL:https://www.eventseye.com/fairs/f-iran-office-expo-(hofex-homex)-33469-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETOFFICE — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260802
-UID:f-vietoffice-31090-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Smart Office Solutions\, Office Eq
- uipment and Stationery in Vietnam. Modern\, convenient and advanced office
-  products and equipment from popular brands around the world\\nVenue: Saig
- on Exhibition & Convention Center - SECC\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietoffice-31090-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRANCHISING & BUSINESS OPPORTUNITIES EXPO - MELBOURNE — Melbourne
- \, Australia
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260803
-UID:f-franchising-business-opportunities-expo-melbourne-1093-1@eventseye.impio-vault
-DESCRIPTION:Australian Franchising & Business Opportunities Exhibition. For
-  exhibitors\, the Expo provides the chance to meet face to face with quali
- ty visitors looking to join a franchise system or jump into a small busine
- ss of their own\\nVenue: Melbourne Exhibition & Convention Centre\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-franchising-b
- usiness-opportunities-expo-melbourne-1093-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-franchising-business-opportunities-ex
- po-melbourne-1093-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MELBOURNE FRANCHISING & BUSINESS OPPORTUNITIES EXPO — Melbourne\,
-  Australia
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260803
-UID:f-melbourne-franchising-business-opportunities-expo-23268-1@eventseye.impio-vault
-DESCRIPTION:Business Investment Expo in Melbourne. Melbourne Franchising & 
- Business Opportunities Expo is the opportunity to talk face-to-face with l
- eading franchisors and successful franchisees across a range of business o
- pportunities\\nVenue: Melbourne Exhibition & Convention Centre\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-melbourne-franch
- ising-business-opportunities-expo-23268-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-melbourne-franchising-business-opport
- unities-expo-23268-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:START YOUR OWN BUSINESS EXPO - MELBOURNE — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260803
-UID:f-start-your-own-business-expo-melbourne-33500-1@eventseye.impio-vault
-DESCRIPTION:The "Start Your Own Business Expo" is dedied to entrepreneurs a
- nd everyday Australians who want to work for themselves\, co-located with 
- the Franchising Expo. Free seminars\, expert advice and over 100 exhibitor
- s ready to help you become your own boss\\nVenue: Melbourne Exhibition & C
- onvention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-start-your-own-business-expo-melbourne-33500-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-start-your-own-business-expo-melbourn
- e-33500-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260806
-UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
-DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
- cts in the sectors of stationery\, school supplies\, office supplies\, cra
- fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECOP — Brasilia\, Brazil
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260807
-UID:f-secop-27648-1@eventseye.impio-vault
-DESCRIPTION:National seminar on ICT for public management and private enter
- prises\\nVenue: Centro de Eventos e Convenções Brasil\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-secop-27648-1.html
-LOCATION:Brasilia\, Brazil
-URL:https://www.eventseye.com/fairs/f-secop-27648-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIGHTING ASIA — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260809
-UID:f-lighting-asia-28172-1@eventseye.impio-vault
-DESCRIPTION:The Lighting Asia aims to facilitate industry for lighting\, el
- ectrical technology and home and building automation convergence\\nVenue: 
- Expo Centre Lahore\\nFrequency: twice a year\\nSource: https://www.eventse
- ye.com/fairs/f-lighting-asia-28172-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-lighting-asia-28172-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDEXPLUS - NEW DELHI — New Delhi\, India
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260810
-UID:f-indexplus-new-delhi-8468-1@eventseye.impio-vault
-DESCRIPTION:INDEXPLUS is a premier trade fair for Furniture\, Interiors & D
- esign and is the India's largest focused commercial platform on interiors\
- , architecture\, materials and design\, and brings together the industry b
- rands and professionals under one roof\\nVenue: IICC (India International 
- Convention & Expo Centre) - Yashobhoomi Convention Centre\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-indexplus-new-delhi-8
- 468-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-indexplus-new-delhi-8468-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDCC - NDONESIA INTERNATIONAL DATA CENTER & CLOUD SUMMIT — Jakart
- a\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-idcc-ndonesia-international-data-center-cloud-summit-34037-1@eventseye.impio-vault
-DESCRIPTION:The Indonesia Data Center and Cloud Summit & Expo brings togeth
- er experts and innovators from the cloud computing\, data center\, and tec
- hnology industries. The event focuses on the rapidly growing digital infra
- structure in Indonesia\\nVenue: Jakarta International Expo (JIExpo)\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-idcc-ndones
- ia-international-data-center-cloud-summit-34037-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-idcc-ndonesia-international-data-cent
- er-cloud-summit-34037-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTI CYBER SECURITY EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-inti-cyber-security-expo-34036-1@eventseye.impio-vault
-DESCRIPTION:INTI Cybersecurity is the premier event in Indonesia dedicated 
- to the convergence of technology\, innovation\, and cybersecurity. Its mis
- sion is to foster a secure and innovative digital landscape in Indonesia a
- nd beyond\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-inti-cyber-security-expo
- -34036-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inti-cyber-security-expo-34036-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RE+ MID-ATLANTIC — Philadelphia\, PA\, USA
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260814
-UID:f-re-mid-atlantic-29832-1@eventseye.impio-vault
-DESCRIPTION:RE+ Mid-Atlantic attracts energy professionals from across the 
- solar and storage markets each year to facilitate business and connections
- \\nVenue: Pennsylvania Convention Center\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-re-mid-atlantic-29832-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-re-mid-atlantic-29832-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERCOM DENVER — Denver\, CO\, USA
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260820
-UID:f-enercom-denver-20410-1@eventseye.impio-vault
-DESCRIPTION:Conference on Oil & Gas. The Oil & Gas Conference® provides yo
- u with a unique opportunity to meet and network with institutional investo
- rs\, research analysts and high net worth investors\\nVenue: Westin Denver
-  Downtown Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-enercom-denver-20410-1.html
-LOCATION:Denver\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-enercom-denver-20410-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GIFTS INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260823
-UID:f-gifts-india-24997-1@eventseye.impio-vault
-DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Stationer
- y\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & Ho
- me Decor\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-gifts-india-2499
- 7-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-gifts-india-24997-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRAN SALÓN INMOBILIARIO — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260824
-UID:f-gran-salon-inmobiliario-13771-1@eventseye.impio-vault
-DESCRIPTION:The GRAN SALON INMOBILIARIO is the fair that presents the most 
- complete offer of new and used projects\, residential\, offices\, hotels\,
-  commercial premises\, national industrial parks...\\nVenue: Corferias - C
- entro de Convenciones\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BROADBAND COMMUNITIES SUMMIT — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260828
-UID:f-broadband-communities-summit-31169-1@eventseye.impio-vault
-DESCRIPTION:Broadband Communities Summit is the leading event for community
-  leaders\, property owners\, network infrastructure builders and telco ser
- vice providers to meet and discuss strategies for delivering connectivity 
- for communities across the US\\nVenue: George R. Brown Convention Center\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-broadb
- and-communities-summit-31169-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-broadband-communities-summit-31169-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FANYF — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260828
-UID:f-fanyf-26392-1@eventseye.impio-vault
-DESCRIPTION:Andean Fair of Business and Franchise. FANYF in Bogotá allows 
- you to choose the franchise that best suits your profile and your budget\,
-  train and learn from industry experts\\nVenue: Corferias - Centro de Conv
- enciones\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-fanyf-26392-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-fanyf-26392-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IFRA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260831
-UID:f-ifra-26722-1@eventseye.impio-vault
-DESCRIPTION:Indonesia's International Franchise\, License & Business Concep
- t Expo & Conference\\nVenue: ICE - Indonesian Convention Exhibition\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ifra-26722-
- 1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-ifra-26722-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JHEC - JAKARTA HALAL EXPO AND CONFERENCE — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260831
-UID:f-jhec-jakarta-halal-expo-and-conference-33277-1@eventseye.impio-vault
-DESCRIPTION:Alimentation et boissons\, cosmétiques et soins\, tourisme hal
- al\, industrie de la mode\, médias halal\, finance islamique\, logistique
-  halal\, éducation et formation\, conseil halal\, style de vie halal...\\
- nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conf
- erence-33277-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conferenc
- e-33277-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMMERCIAL INTEGRATOR EXPO — Denver\, CO\, USA
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260905
-UID:f-commercial-integrator-expo-32389-1@eventseye.impio-vault
-DESCRIPTION:Commercial Integrator Expo (CIX) meets a market need among fixe
- d-installation commercial AV professionals and technology managers. Corpor
- ate\, higher education\, hospitality\, retail\, and resimercial...\\nVenue
- : Colorado Convention Center\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-commercial-integrator-expo-32389-1.html
-LOCATION:Denver\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-commercial-integrator-expo-32389-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERSOLAR MEXICO — Mexico City\, Mexico
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260904
-UID:f-intersolar-mexico-28604-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition and Conference for the Solar Industry 
- in Mexico\, offering industry professionals\, market experts\, and newcome
- rs the opportunity to network with specialists from the renewable energy m
- arket in Latin America\\nVenue: Centro Citibanamex\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-intersolar-mexico-28604-1.ht
- ml
-LOCATION:Mexico City\, Mexico
-URL:https://www.eventseye.com/fairs/f-intersolar-mexico-28604-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISS WORLD ASIA PACIFIC — Singapore\, Singapore
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260904
-UID:f-iss-world-asia-pacific-12005-1@eventseye.impio-vault
-DESCRIPTION:The world's largest gathering of Regional Law Enforcement\, Int
- elligence and Homeland Security Analysts\, Telecoms as well as Financial C
- rime Investigators responsible for Cyber Crime Investigation\, Electronic 
- Surveillance and Intelligence Gathering\\nVenue: Shangri-La Hotel\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-iss-world-asi
- a-pacific-12005-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-iss-world-asia-pacific-12005-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOZAMBIQUE GAS SUMMIT — Maputo\, Mozambique
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260904
-UID:f-mozambique-gas-summit-27347-1@eventseye.impio-vault
-DESCRIPTION:The Mozambique Gas & Energy Summit & Exhibition gathers key Moz
- ambican and international government\, ministerial and industry stakeholde
- rs\, investors\, developers and private sector value chain participants\\n
- Venue: Centro Internacional de Conferencias Joaquim Chissano\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-mozambique-gas-sum
- mit-27347-1.html
-LOCATION:Maputo\, Mozambique
-URL:https://www.eventseye.com/fairs/f-mozambique-gas-summit-27347-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEX ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260905
-UID:f-bex-asia-11732-1@eventseye.impio-vault
-DESCRIPTION:BEX Asia is the premier platform for the built environment indu
- stry that connects solution providers\, distributors and sellers with deci
- sion makers\, developers\, architects\, interior designers\, landscape arc
- hitects\, consultants and buyers\\nVenue: Marina Bay Sands\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-bex-asia-11732-1.htm
- l
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-bex-asia-11732-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OIL AND GAS ASIA — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260905
-UID:f-oil-and-gas-asia-6211-1@eventseye.impio-vault
-DESCRIPTION:Asian Oil\, Gas and Petrochemical Engineering Exhibition. One o
- f the region’s most influential and successful energy events\\nVenue: Ku
- ala Lumpur Convention Centre (KLCC)\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-oil-and-gas-asia-6211-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-oil-and-gas-asia-6211-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROPTECH CONNECT - EUROPE — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260911
-UID:f-proptech-connect-europe-33783-1@eventseye.impio-vault
-DESCRIPTION:PROPTECH CONNECT - EUROPE is one of the largest Real Estate Tec
- h events\, connecting global senior real estate executives\, investors\, o
- perators\, developers\, owners\, asset managers\, agents and occupiers wit
- h cutting edge solution providers\\nVenue: InterContinental London Park La
- ne\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pr
- optech-connect-europe-33783-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-proptech-connect-europe-33783-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FINANCE. CREDIT. INSURANCE AND AUDIT EXPO — Yerevan\, Armenia
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-UID:f-finance.-credit.-insurance-and-audit-expo-32710-1@eventseye.impio-vault
-DESCRIPTION:Specialized exhibition on finance\, credit\, insurance and audi
- ting in Armenia. An essential platform for presenting the latest trends\, 
- products\, services and innovations in these areas\\nVenue: Yerevan Expo\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-financ
- e.-credit.-insurance-and-audit-expo-32710-1.html
-LOCATION:Yerevan\, Armenia
-URL:https://www.eventseye.com/fairs/f-finance.-credit.-insurance-and-audit-
- expo-32710-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIFF SHANGHAI - CHINA INTERNATIONAL HOME FURNITURE FAIR — Shangha
- i\, China
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260909
-UID:f-ciff-shanghai-china-international-home-furniture-fair-5994-1@eventseye.impio-vault
-DESCRIPTION:CIFF Shanghai covers the entire industry chain of upstream and 
- downstream furnishing. Home\, office and commercial furniture\, manufacutu
- ring equipment\, accessories and home textiles\, outdoor furnishing...\\nV
- enue: National Exhibition and Convention Center\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-ciff-shanghai-china-internation
- al-home-furniture-fair-5994-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-ciff-shanghai-china-international-hom
- e-furniture-fair-5994-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRANCHISE EXPO WEST — Los Angeles\, CA\, USA
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260907
-UID:f-franchise-expo-west-12702-1@eventseye.impio-vault
-DESCRIPTION:Premier franchise event in the growing West Coast market. WCFE 
- provides the perfect opportunity for hundreds of franchise concepts\, repr
- esenting every industry to meet face-to-face with the region’s most qual
- ified prospects\\nVenue: Los Angeles Convention Center\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-franchise-expo-west-1270
- 2-1.html
-LOCATION:Los Angeles\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-franchise-expo-west-12702-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - DUBAI — Dubai\, UAE - Uni
- ted Arab Emirates
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260907
-UID:f-irex-(international-real-estate-expo)-dubai-31968-1@eventseye.impio-vault
-DESCRIPTION:Luxury Real Estate Exhibition in Dubai. IREX is an innovative p
- latform to market real estate to elite clientele and top-pier investors in
-  Dubai\\nVenue: Anantara Downtown Dubai Hotel\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-irex-(international-real-estate-e
- xpo)-dubai-31968-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
- -dubai-31968-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIM - ANNUAL INVESTMENT MEETING — Dubai\, UAE - United Arab Emira
- tes
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260910
-UID:f-aim-annual-investment-meeting-29049-1@eventseye.impio-vault
-DESCRIPTION:Congress dedicated to investments in sustainable innovation for
-  a prosperous future in the United Arab States\\nVenue: Dubai World Trade 
- Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-aim-annual-investment-meeting-29049-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-aim-annual-investment-meeting-29049-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIM CONGRESS — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260910
-UID:f-aim-congress-33391-1@eventseye.impio-vault
-DESCRIPTION:AIM Congress has established itself as a leading investment pla
- tform in the Middle East\, which aspires to ignite positive transformation
-  by creating investment opportunities\, upholding solidarity and developin
- g economic relations among nations\\nVenue: Dubai World Trade Centre (Duba
- i Exhibition Centre)\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-aim-congress-33391-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-aim-congress-33391-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FURNITURE CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260912
-UID:f-furniture-china-7726-1@eventseye.impio-vault
-DESCRIPTION:'Furniture China' will spotlight the most groundbreaking collec
- tions\, innovative materials and the defining trends shaping global furnit
- ure design and manufacturing\\nVenue: Shanghai New International Expo Cent
- re - SNIEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-furniture-china-7726-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-furniture-china-7726-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPS - INTERNATIONAL PROPERTY SHOW - DUBAI — Dubai\, UAE - United 
- Arab Emirates
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260910
-UID:f-ips-international-property-show-dubai-24736-1@eventseye.impio-vault
-DESCRIPTION:IPS is the premier property sales event in the Middle East\, un
- iting real estate professionals and investors worldwide\, uniting key stak
- eholders in global real estate and investment\\nVenue: Dubai World Trade C
- entre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-ips-international-property-show-dubai-24736-1.h
- tml
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-ips-international-property-show-dubai
- -24736-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIGTECH AFRICA — Tunis\, Tunisia
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260911
-UID:f-bigtech-africa-33147-1@eventseye.impio-vault
-DESCRIPTION:BIGTECH is Africa's digital hub\, an event where startups\, inv
- estors\, businesses\, public institutions\, and international experts meet
-  to accelerate the continent's technological development\\nVenue: Parc des
-  expositions du Kram\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-bigtech-africa-33147-1.html
-LOCATION:Tunis\, Tunisia
-URL:https://www.eventseye.com/fairs/f-bigtech-africa-33147-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRAQ OIL & GAS — Baghdad\, Iraq
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260912
-UID:f-iraq-oil-gas-34029-1@eventseye.impio-vault
-DESCRIPTION:International Oil & Gas Exhibition & Conference. The event brin
- gs together leading companies\, decision-makers\, engineers\, and experts 
- from across the global oil\, gas\, and energy value chain\\nVenue: Baghdad
-  International Fair Grounds\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-iraq-oil-gas-34029-1.html
-LOCATION:Baghdad\, Iraq
-URL:https://www.eventseye.com/fairs/f-iraq-oil-gas-34029-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ATCE - SPE ANNUAL TECHNICAL CONFERENCE AND EXHIBITION — Houston\,
   TX\, USA
 DTSTART;VALUE=DATE:20261021
@@ -4206,6 +4251,21 @@ DESCRIPTION:Maden-Tek – Mining Industry Technology Days is Ankara's first
  -tek-mining-tech-33981-1.html
 LOCATION:Ankara\, Turkey
 URL:https://www.eventseye.com/fairs/f-maden-tek-mining-tech-33981-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - NEW DELHI — New Delhi\, I
+ ndia
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+UID:f-irex-(international-real-estate-expo)-new-delhi-22486-1@eventseye.impio-vault
+DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
+ latform to market real estate to elite clientele and top-pier investors in
+  India\\nVenue: Le Meridien - New Delhi\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)-n
+ ew-delhi-22486-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
+ -new-delhi-22486-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DKM KONZEPTE & LÖSUNGEN — Dortmund\, Germany
@@ -5179,6 +5239,21 @@ URL:https://www.eventseye.com/fairs/f-salon-maison-neuve-de-la-rochelle-298
  22-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIO CEO & INVESTOR CONFERENCE — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270218
+UID:f-bio-ceo-investor-conference-3527-1@eventseye.impio-vault
+DESCRIPTION:Biotechnology's Annual Investor Forum. Don't miss one of the la
+ rgest investor conferences in our industry where institutional investors\,
+  industry analysts\, and senior executives are shaping the future investme
+ nt landscape of biotechnology\\nVenue: Miami Beach Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-bio-ceo-in
+ vestor-conference-3527-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-bio-ceo-investor-conference-3527-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WORLD WATER-TECH INNOVATION SUMMIT — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270225
@@ -5236,6 +5311,19 @@ URL:https://www.eventseye.com/fairs/f-solar-storage-live-thailand-31151-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PDAC CONVENTION — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270311
+UID:f-pdac-convention-12687-1@eventseye.impio-vault
+DESCRIPTION:PDAC\, the World’s Premier Mineral Exploration & Mining Conve
+ ntion is the leading event for people\, companies and organizations connec
+ ted to mineral exploration\\nVenue: Metro Toronto Convention Centre\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-pdac-conven
+ tion-12687-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-pdac-convention-12687-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FASTIGHETSMÄSSAN STOCKHOLM — Stockholm\, Sweden
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270312
@@ -5262,227 +5350,6 @@ DESCRIPTION:International Franchise Exhibition. Franchise Expo Paris is the
  eventseye.com/fairs/f-franchise-expo-paris-1090-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-franchise-expo-paris-1090-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIPIM — Cannes\, France
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270320
-UID:f-mipim-8438-1@eventseye.impio-vault
-DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
-  market\, brings together players from all international property sectors 
- - office\, residential\, retail\, healthcare\, sport\, logistics & industr
- ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
-LOCATION:Cannes\, France
-URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUROPROPRE + EUROSERVICES EXPO — Paris\, France
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-europropre-euroservices-expo-20973-1@eventseye.impio-vault
-DESCRIPTION:The leading European trade show for hygiene\, cleaning\, and mu
- lti-services dedicated to businesses\, industries\, and local authorities.
-  Manufacturers and service providers share best practices that are shaping
-  the future of professional cleaning\\nVenue: Paris Expo Porte de Versaill
- es\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
- europropre-euroservices-expo-20973-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-europropre-euroservices-expo-20973-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
- L — Paris\, France
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail-16798-1@eventseye.impio-vault
-DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the entir
- e range of services\, multi-service and multi-technical real estate to non
- -production buyers and Work Environment Directors of companies and communi
- ties\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-productio
- n-et-de-l-environnement-de-travail-16798-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-e
- t-de-l-environnement-de-travail-16798-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORKSPACE EXPO — Paris\, France
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-workspace-expo-16793-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of general services and purchases for office fitting
- s and equipment dedicated to companies and communities. WORKSPACE EXPO is 
- a national exhibition dedicated to furniture and the layout of workspaces\
- \nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-workspace-expo-16793-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-workspace-expo-16793-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FINNCLEAN — Tampere\, Finland
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270319
-UID:f-finnclean-11848-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for the Cleaning Industry. The most si
- gnificant cleaning industry trade fair in the Nordic region displays lates
- t innovations and solutions in the cleaning\, care\, restaurant and proper
- ty industries\\nVenue: Tampere Exhibition and Sports Centre\\nFrequency: e
- very 2 years\\nSource: https://www.eventseye.com/fairs/f-finnclean-11848-1
- .html
-LOCATION:Tampere\, Finland
-URL:https://www.eventseye.com/fairs/f-finnclean-11848-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PIA AFRICA - PENSION FUNDS AND ALTERNATIVE INVESTMENTS AFRICA — F
- lic-en-Flac\, Mauritius
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270319
-UID:f-pia-africa-pension-funds-and-alternative-investments-africa-26599-1@eventseye.impio-vault
-DESCRIPTION:Forum dedicated to Pension Funds and Alternative Investments in
-  Africa\, gathering Key decision-makers from leading African and internati
- onal pension funds and investment industry experts and professionals\\nVen
- ue: Hilton Mauritius Resort & Spa\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-pia-africa-pension-funds-and-alternative-inve
- stments-africa-26599-1.html
-LOCATION:Flic-en-Flac\, Mauritius
-URL:https://www.eventseye.com/fairs/f-pia-africa-pension-funds-and-alternat
- ive-investments-africa-26599-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORKSAFE ANTWERP — Antwerp\, Belgium
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270319
-UID:f-worksafe-antwerp-31863-1@eventseye.impio-vault
-DESCRIPTION:The largest meeting point for safety coordinators & facility ma
- nagers in Belgium. Health\, (fire) safety\, well-being at work: 80 experts
- \, a full day of professional conferences\, demonstrations and networking\
- \nVenue: Bouwcentrum Antwerpen - Antwerp Expo\\nFrequency: every 2 years\\
- nSource: https://www.eventseye.com/fairs/f-worksafe-antwerp-31863-1.html
-LOCATION:Antwerp\, Belgium
-URL:https://www.eventseye.com/fairs/f-worksafe-antwerp-31863-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RE+ TEXAS — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270326
-UID:f-re-texas-28991-1@eventseye.impio-vault
-DESCRIPTION:RE+ Texas attracts energy professionals from across the solar a
- nd storage markets each year to facilitate business and connections\\nVenu
- e: George R. Brown Convention Center\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-re-texas-28991-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-re-texas-28991-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD SMART ENERGY WEEK - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270327
-UID:f-world-smart-energy-week-tokyo-17323-1@eventseye.impio-vault
-DESCRIPTION:WORLD SMART ENERGY WEEK gathers a full range of renewable energ
- y technologies such as hydrogen and fuel cells\, solar power\, rechargeabl
- e batteries\, smart grids\, wind power\, biomass\, zero-emission thermal p
- ower generation\, etc.\\nVenue: Tokyo International Exhibition Center (Tok
- yo Big Sight)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-world-smart-energy-week-tokyo-17323-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-world-smart-energy-week-tokyo-17323-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOMIN — Santiago\, Chile
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270425
-UID:f-expomin-895-1@eventseye.impio-vault
-DESCRIPTION:EXPOMIN is the largest Mining Industry Expo in Latin America. I
- t is consolidated as a space that promotes the transfer of knowledge\, exp
- eriences and the offer of Technologies that contribute to Innovation & Pro
- ductivity of Mining Process\\nVenue: Espacio Riesco\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-expomin-895-1.html
-LOCATION:Santiago\, Chile
-URL:https://www.eventseye.com/fairs/f-expomin-895-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GITEX AI SERBIA — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270528
-UID:f-gitex-ai-serbia-33929-1@eventseye.impio-vault
-DESCRIPTION:GITEX AI SERBIA brings together Europe’s AI pioneers\, enterp
- rise leaders\, frontier startups\, investors and policymakers to shape the
-  future of AI at scale. A launchpad for next-gen solutions\, global invest
- ments\, and bold collaborations\\nVenue: Belgrade Fair Grounds\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-gitex-ai-serbia-
- 33929-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-gitex-ai-serbia-33929-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270724
-UID:f-office-service-expo-nagoya-28657-1@eventseye.impio-vault
-DESCRIPTION:Japanese office services fair. All products and services for ba
- ck office will be exhibited at OFFICE SERVICE EXPO - NAGOYA\\nVenue: Nagoy
- a International Exhibition Hall (Port Messe Nagoya)\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-office-service-expo-nagoya-
- 28657-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28657-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CMS CLEANING. MANAGEMENT. SERVICES — Berlin\, Germany
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270925
-UID:f-cms-cleaning.-management.-services-461-1@eventseye.impio-vault
-DESCRIPTION:Cleaning & Management et Services International Trade Fair and 
- Congress\\nVenue: Berlin ExpoCenter Airport\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-cms-cleaning.-management.-service
- s-461-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-cms-cleaning.-management.-services-46
- 1-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OTC BRAZIL CONFERENCE — Rio de Janeiro\, Brazil
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271022
-UID:f-otc-brazil-conference-12679-1@eventseye.impio-vault
-DESCRIPTION:OTC Brazil Conference gather offshore professionals from many c
- ountries around the world to share ideas and innovations\, discuss\, debat
- e\, and build consensus around the most pressing topics facing the energy 
- sector\\nVenue: ExpoMag Convention Center\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
-LOCATION:Rio de Janeiro\, Brazil
-URL:https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIM SENEGAL — Dakar\, Senegal
-DTSTART;VALUE=DATE:20271102
-DTEND;VALUE=DATE:20271105
-UID:f-sim-senegal-17273-1@eventseye.impio-vault
-DESCRIPTION:Senegalese Mining Conference & Exhibition. Network with West Af
- rica’s Mining Industry Leaders at the region’s largest Mining Event\\n
- Venue: CICAD - Centre International de Conférences Abdou Diouf\\nFrequenc
- y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-sim-senegal-1
- 7273-1.html
-LOCATION:Dakar\, Senegal
-URL:https://www.eventseye.com/fairs/f-sim-senegal-17273-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAIL LIVE! — Madrid\, Spain
-DTSTART;VALUE=DATE:20271124
-DTEND;VALUE=DATE:20271127
-UID:f-rail-live!-31156-1@eventseye.impio-vault
-DESCRIPTION:Rail Live! is a must attend conference & exhibition for operato
- rs\, infrastructure managers\, rolling stock manufacturers and their suppl
- iers\, academia and government seeking to make rail the go-to mode of tran
- sport on a global scale\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFre
- quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-rail-liv
- e!-31156-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-rail-live!-31156-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OSEA - OFFSHORE ENERGY WEEK — Singapore\, Singapore
@@ -5957,5 +5824,277 @@ DESCRIPTION:RE+ RE+ Hawaii attracts energy professionals from across the so
  : https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
 LOCATION:Honolulu\, HI\, USA
 URL:https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIPIM — Cannes\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+UID:f-mipim-8438-1@eventseye.impio-vault
+DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
+  market\, brings together players from all international property sectors 
+ - office\, residential\, retail\, healthcare\, sport\, logistics & industr
+ ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
+LOCATION:Cannes\, France
+URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUROPROPRE + EUROSERVICES EXPO — Paris\, France
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-europropre-euroservices-expo-20973-1@eventseye.impio-vault
+DESCRIPTION:The leading European trade show for hygiene\, cleaning\, and mu
+ lti-services dedicated to businesses\, industries\, and local authorities.
+  Manufacturers and service providers share best practices that are shaping
+  the future of professional cleaning\\nVenue: Paris Expo Porte de Versaill
+ es\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
+ europropre-euroservices-expo-20973-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-europropre-euroservices-expo-20973-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
+ L — Paris\, France
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-le-salon-des-achats-hors-production-et-de-l-environnement-de-travail-16798-1@eventseye.impio-vault
+DESCRIPTION:Work Environment Purchasing Fair. This meeting offers the entir
+ e range of services\, multi-service and multi-technical real estate to non
+ -production buyers and Work Environment Directors of companies and communi
+ ties\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-productio
+ n-et-de-l-environnement-de-travail-16798-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-des-achats-hors-production-e
+ t-de-l-environnement-de-travail-16798-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR & STORAGE LIVE - AFRICA — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-solar-storage-live-africa-31141-1@eventseye.impio-vault
+DESCRIPTION:Solar & Storage Live is Africa’s largest renewable energy exh
+ ibition that celebrates the technologies at the forefront of the transitio
+ n to a greener\, smarter\, more decentralised energy system\\nVenue: Galla
+ gher Convention Centre\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-solar-storage-live-africa-31141-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-solar-storage-live-africa-31141-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE SOLAR SHOW AFRICA — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-the-solar-show-africa-19119-1@eventseye.impio-vault
+DESCRIPTION:Solar Power Industry Trade Show. Technology\, Investment\, Deve
+ lopment – Accelerating Africa’s Sustainable Energy Future\\nVenue: Gal
+ lagher Convention Centre\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-the-solar-show-africa-19119-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-the-solar-show-africa-19119-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKSPACE EXPO — Paris\, France
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-workspace-expo-16793-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of general services and purchases for office fitting
+ s and equipment dedicated to companies and communities. WORKSPACE EXPO is 
+ a national exhibition dedicated to furniture and the layout of workspaces\
+ \nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-workspace-expo-16793-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-workspace-expo-16793-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FINNCLEAN — Tampere\, Finland
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-finnclean-11848-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for the Cleaning Industry. The most si
+ gnificant cleaning industry trade fair in the Nordic region displays lates
+ t innovations and solutions in the cleaning\, care\, restaurant and proper
+ ty industries\\nVenue: Tampere Exhibition and Sports Centre\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-finnclean-11848-1
+ .html
+LOCATION:Tampere\, Finland
+URL:https://www.eventseye.com/fairs/f-finnclean-11848-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PIA AFRICA - PENSION FUNDS AND ALTERNATIVE INVESTMENTS AFRICA — F
+ lic-en-Flac\, Mauritius
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-pia-africa-pension-funds-and-alternative-investments-africa-26599-1@eventseye.impio-vault
+DESCRIPTION:Forum dedicated to Pension Funds and Alternative Investments in
+  Africa\, gathering Key decision-makers from leading African and internati
+ onal pension funds and investment industry experts and professionals\\nVen
+ ue: Hilton Mauritius Resort & Spa\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-pia-africa-pension-funds-and-alternative-inve
+ stments-africa-26599-1.html
+LOCATION:Flic-en-Flac\, Mauritius
+URL:https://www.eventseye.com/fairs/f-pia-africa-pension-funds-and-alternat
+ ive-investments-africa-26599-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKSAFE ANTWERP — Antwerp\, Belgium
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-worksafe-antwerp-31863-1@eventseye.impio-vault
+DESCRIPTION:The largest meeting point for safety coordinators & facility ma
+ nagers in Belgium. Health\, (fire) safety\, well-being at work: 80 experts
+ \, a full day of professional conferences\, demonstrations and networking\
+ \nVenue: Bouwcentrum Antwerpen - Antwerp Expo\\nFrequency: every 2 years\\
+ nSource: https://www.eventseye.com/fairs/f-worksafe-antwerp-31863-1.html
+LOCATION:Antwerp\, Belgium
+URL:https://www.eventseye.com/fairs/f-worksafe-antwerp-31863-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE+ TEXAS — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270326
+UID:f-re-texas-28991-1@eventseye.impio-vault
+DESCRIPTION:RE+ Texas attracts energy professionals from across the solar a
+ nd storage markets each year to facilitate business and connections\\nVenu
+ e: George R. Brown Convention Center\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-re-texas-28991-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-re-texas-28991-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD SMART ENERGY WEEK - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270327
+UID:f-world-smart-energy-week-tokyo-17323-1@eventseye.impio-vault
+DESCRIPTION:WORLD SMART ENERGY WEEK gathers a full range of renewable energ
+ y technologies such as hydrogen and fuel cells\, solar power\, rechargeabl
+ e batteries\, smart grids\, wind power\, biomass\, zero-emission thermal p
+ ower generation\, etc.\\nVenue: Tokyo International Exhibition Center (Tok
+ yo Big Sight)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-world-smart-energy-week-tokyo-17323-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-world-smart-energy-week-tokyo-17323-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHARM OF LIGHT — Shanghai\, China
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270403
+UID:f-charm-of-light-16755-1@eventseye.impio-vault
+DESCRIPTION:China Lighting Industry Exhibition. With the continuous advance
+ ment of technology and the increasing demand for environmental protection 
+ and efficiency\, smart lighting provides solutions in a sustainable direct
+ ion\\nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-charm-of-light-1675
+ 5-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-charm-of-light-16755-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIO EUROPE SPRING — Lyon\, France
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270408
+UID:f-bio-europe-spring-9724-1@eventseye.impio-vault
+DESCRIPTION:Forum to promote Business Development between Pharmaceutical\, 
+ Financial and Biotechnology Companies\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-bio-europe-spring-9724-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-bio-europe-spring-9724-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOMIN — Santiago\, Chile
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270425
+UID:f-expomin-895-1@eventseye.impio-vault
+DESCRIPTION:EXPOMIN is the largest Mining Industry Expo in Latin America. I
+ t is consolidated as a space that promotes the transfer of knowledge\, exp
+ eriences and the offer of Technologies that contribute to Innovation & Pro
+ ductivity of Mining Process\\nVenue: Espacio Riesco\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-expomin-895-1.html
+LOCATION:Santiago\, Chile
+URL:https://www.eventseye.com/fairs/f-expomin-895-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GITEX AI SERBIA — Belgrade\, Serbia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+UID:f-gitex-ai-serbia-33929-1@eventseye.impio-vault
+DESCRIPTION:GITEX AI SERBIA brings together Europe’s AI pioneers\, enterp
+ rise leaders\, frontier startups\, investors and policymakers to shape the
+  future of AI at scale. A launchpad for next-gen solutions\, global invest
+ ments\, and bold collaborations\\nVenue: Belgrade Fair Grounds\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-gitex-ai-serbia-
+ 33929-1.html
+LOCATION:Belgrade\, Serbia
+URL:https://www.eventseye.com/fairs/f-gitex-ai-serbia-33929-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270724
+UID:f-office-service-expo-nagoya-28657-1@eventseye.impio-vault
+DESCRIPTION:Japanese office services fair. All products and services for ba
+ ck office will be exhibited at OFFICE SERVICE EXPO - NAGOYA\\nVenue: Nagoy
+ a International Exhibition Hall (Port Messe Nagoya)\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-office-service-expo-nagoya-
+ 28657-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28657-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMS CLEANING. MANAGEMENT. SERVICES — Berlin\, Germany
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270925
+UID:f-cms-cleaning.-management.-services-461-1@eventseye.impio-vault
+DESCRIPTION:Cleaning & Management et Services International Trade Fair and 
+ Congress\\nVenue: Berlin ExpoCenter Airport\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-cms-cleaning.-management.-service
+ s-461-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-cms-cleaning.-management.-services-46
+ 1-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTC BRAZIL CONFERENCE — Rio de Janeiro\, Brazil
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+UID:f-otc-brazil-conference-12679-1@eventseye.impio-vault
+DESCRIPTION:OTC Brazil Conference gather offshore professionals from many c
+ ountries around the world to share ideas and innovations\, discuss\, debat
+ e\, and build consensus around the most pressing topics facing the energy 
+ sector\\nVenue: ExpoMag Convention Center\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIM SENEGAL — Dakar\, Senegal
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271105
+UID:f-sim-senegal-17273-1@eventseye.impio-vault
+DESCRIPTION:Senegalese Mining Conference & Exhibition. Network with West Af
+ rica’s Mining Industry Leaders at the region’s largest Mining Event\\n
+ Venue: CICAD - Centre International de Conférences Abdou Diouf\\nFrequenc
+ y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-sim-senegal-1
+ 7273-1.html
+LOCATION:Dakar\, Senegal
+URL:https://www.eventseye.com/fairs/f-sim-senegal-17273-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAIL LIVE! — Madrid\, Spain
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271127
+UID:f-rail-live!-31156-1@eventseye.impio-vault
+DESCRIPTION:Rail Live! is a must attend conference & exhibition for operato
+ rs\, infrastructure managers\, rolling stock manufacturers and their suppl
+ iers\, academia and government seeking to make rail the go-to mode of tran
+ sport on a global scale\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFre
+ quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-rail-liv
+ e!-31156-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-rail-live!-31156-1.html
 END:VEVENT
 END:VCALENDAR

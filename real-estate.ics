@@ -762,6 +762,20 @@ URL:https://www.eventseye.com/fairs/f-ireis-international-real-estate-inves
  tment-show-7562-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VIETBUILD EXHIBITION - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260929
+UID:f-vietbuild-exhibition-hanoi-33814-1@eventseye.impio-vault
+DESCRIPTION:VIETBUILD is the traditional festival and the big event to brin
+ g the full impression of Construction – Real Estate – Building Materia
+ ls – Interior & Exterior decoration to take place in Viet Nam\\nVenue: I
+ .C.E. Hanoi (Cung Van Hoa)\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-vietbuild-exhibition-hanoi-33814-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietbuild-exhibition-hanoi-33814-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROBAU — Rostock\, Germany
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
@@ -1115,6 +1129,83 @@ DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
 LOCATION:New Delhi\, India
 URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -new-delhi-22486-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTIGHETSMÄSSAN STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-fastighetsmassan-stockholm-31900-1@eventseye.impio-vault
+DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
+ smässan is an opportunity to quickly establish valuable contacts with pro
+ perty owners for apartments buildings\, office buildings\, commercial buil
+ dings\, shopping malls\, industrial properties\\nVenue: Kista Mässan\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
+ etsmassan-stockholm-31900-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-fastighetsmassan-stockholm-31900-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIPIM — Cannes\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+UID:f-mipim-8438-1@eventseye.impio-vault
+DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
+  market\, brings together players from all international property sectors 
+ - office\, residential\, retail\, healthcare\, sport\, logistics & industr
+ ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
+LOCATION:Cannes\, France
+URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEUES BAUEN — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-neues-bauen-23666-1@eventseye.impio-vault
+DESCRIPTION:German real estate and energy saving exhibition. New constructi
+ on\, renovation\, expansion. Preserve value\, insulate\, save energy. Anti
+ -burglary protection and security. Find the right craftsmen on site\\nVenu
+ e: Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-neues-bauen-23666-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-neues-bauen-23666-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAUMESSE NRW — Dortmund\, Germany
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+UID:f-baumesse-nrw-8537-1@eventseye.impio-vault
+DESCRIPTION:Combinated Building and Real Estate Exhibition. Eco Building\, 
+ Real Estate and Vacation Properties\\nVenue: Exhibition Centre Dortmund\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baumess
+ e-nrw-8537-1.html
+LOCATION:Dortmund\, Germany
+URL:https://www.eventseye.com/fairs/f-baumesse-nrw-8537-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270723
+UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWISSBAU — Basel\, Switzerland
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280123
+UID:f-swissbau-2618-1@eventseye.impio-vault
+DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
+ lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
+ Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
+ bau-2618-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - KAZAKHSTAN — Astana\, Kazakhstan
@@ -1555,82 +1646,5 @@ DESCRIPTION:Nepal Housing and Investment Expo. In parallel with Nepal Build
 LOCATION:Kathmandu\, Nepal
 URL:https://www.eventseye.com/fairs/f-nepal-housing-and-investment-expo-300
  31-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTIGHETSMÄSSAN STOCKHOLM — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270312
-UID:f-fastighetsmassan-stockholm-31900-1@eventseye.impio-vault
-DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
- smässan is an opportunity to quickly establish valuable contacts with pro
- perty owners for apartments buildings\, office buildings\, commercial buil
- dings\, shopping malls\, industrial properties\\nVenue: Kista Mässan\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
- etsmassan-stockholm-31900-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-fastighetsmassan-stockholm-31900-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIPIM — Cannes\, France
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270320
-UID:f-mipim-8438-1@eventseye.impio-vault
-DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
-  market\, brings together players from all international property sectors 
- - office\, residential\, retail\, healthcare\, sport\, logistics & industr
- ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
-LOCATION:Cannes\, France
-URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEUES BAUEN — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-neues-bauen-23666-1@eventseye.impio-vault
-DESCRIPTION:German real estate and energy saving exhibition. New constructi
- on\, renovation\, expansion. Preserve value\, insulate\, save energy. Anti
- -burglary protection and security. Find the right craftsmen on site\\nVenu
- e: Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-neues-bauen-23666-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-neues-bauen-23666-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAUMESSE NRW — Dortmund\, Germany
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270412
-UID:f-baumesse-nrw-8537-1@eventseye.impio-vault
-DESCRIPTION:Combinated Building and Real Estate Exhibition. Eco Building\, 
- Real Estate and Vacation Properties\\nVenue: Exhibition Centre Dortmund\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baumess
- e-nrw-8537-1.html
-LOCATION:Dortmund\, Germany
-URL:https://www.eventseye.com/fairs/f-baumesse-nrw-8537-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270723
-UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SWISSBAU — Basel\, Switzerland
-DTSTART;VALUE=DATE:20280118
-DTEND;VALUE=DATE:20280123
-UID:f-swissbau-2618-1@eventseye.impio-vault
-DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
- lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
- Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
- bau-2618-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
 END:VEVENT
 END:VCALENDAR

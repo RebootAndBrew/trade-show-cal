@@ -89,20 +89,6 @@ URL:https://www.eventseye.com/fairs/f-expo-habitation-de-montreal-15814-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOSCOW INTERNATIONAL PROPERTY SHOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260412
-UID:f-moscow-international-property-show-7106-1@eventseye.impio-vault
-DESCRIPTION:International Real Estate Exhibition. The main concept of the e
- xhibition is to present opportunities for buying real estate and investmen
- ts abroad\\nVenue: T-Modul Exhibition Hall (Tishinka exhibition centre)\\n
- Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-moscow
- -international-property-show-7106-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-moscow-international-property-show-71
- 06-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SIIMEA - SALON DE L’INVESTISSEMENT\, DE L’IMMOBILIER ET DES ÉN
  ERGIES POUR L’AFRIQUE — Paris\, France
 DTSTART;VALUE=DATE:20260410
@@ -143,6 +129,20 @@ DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
 LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -mumbai-34094-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOSCOW INTERNATIONAL PROPERTY SHOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260419
+UID:f-moscow-international-property-show-7106-1@eventseye.impio-vault
+DESCRIPTION:International Real Estate Exhibition. The main concept of the e
+ xhibition is to present opportunities for buying real estate and investmen
+ ts abroad\\nVenue: T-Modul Exhibition Hall (Tishinka exhibition centre)\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-moscow
+ -international-property-show-7106-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-moscow-international-property-show-71
+ 06-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SENIOR GÖTEBORG — Gothenburg\, Sweden
@@ -197,21 +197,6 @@ LOCATION:Toronto\, ON\, Canada
 URL:https://www.eventseye.com/fairs/f-springfest-17432-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - WARSAW — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260426
-UID:f-united-property-invest-show-poland-warsaw-32352-1@eventseye.impio-vault
-DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
- \, making safe deals and networking. It gives the opportunity to discuss w
- ith professionals the issues of buying/renting real estate abroad\, to get
-  adviced on mortgages\, taxes investments...\\nVenue: Radisson Blu Sobiesk
- i Warsaw\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
- united-property-invest-show-poland-warsaw-32352-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-wa
- rsaw-32352-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - KRAKOW — Krakow\, Poland
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260430
@@ -252,6 +237,21 @@ DESCRIPTION:Overseas Real-estate exhibition. Informative seminars and hundr
 LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-a-place-in-the-sun-live-london-19505-
  1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - LATVIA - RIGA — Riga\, Latvia
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+UID:f-united-property-invest-show-latvia-riga-34132-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Grand Hotel Kempinsk
+ i Riga\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-united-property-invest-show-latvia-riga-34132-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-latvia-ri
+ ga-34132-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OMAN DESIGN & BUILD WEEK — Muscat\, Oman
@@ -335,6 +335,22 @@ DESCRIPTION:Madrid International Real Estate Fair. Spain’s most influenti
   year\\nSource: https://www.eventseye.com/fairs/f-sima-expo-25190-1.html
 LOCATION:Madrid\, Spain
 URL:https://www.eventseye.com/fairs/f-sima-expo-25190-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - LITHUANIA - VILNIUS — Vilnius\, L
+ ithuania
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+UID:f-united-property-invest-show-lithuania-vilnius-34133-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Best Western Vilnius
+ \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-united-p
+ roperty-invest-show-lithuania-vilnius-34133-1.html
+LOCATION:Vilnius\, Lithuania
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-lithuania
+ -vilnius-34133-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXPO DESARROLLO INMOBILIARIO - THE REAL ESTATE SHOW — Mexico City
@@ -455,6 +471,37 @@ LOCATION:Tunis\, Tunisia
 URL:https://www.eventseye.com/fairs/f-pro-immo-29244-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - KAZAKHSTAN - ALMATY — Almaty\, Ka
+ zakhstan
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260615
+UID:f-united-property-invest-show-kazakhstan-almaty-34126-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Intercontinental Alm
+ aty\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-u
+ nited-property-invest-show-kazakhstan-almaty-34126-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-kazakhsta
+ n-almaty-34126-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - AZERBAIJAN — Baku\, Azerbaijan
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260621
+UID:f-united-property-invest-show-azerbaijan-32873-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Radisson Hotel\, Bak
+ u\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-uni
+ ted-property-invest-show-azerbaijan-32873-1.html
+LOCATION:Baku\, Azerbaijan
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-azerbaija
+ n-32873-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BATEV — Buenos Aires\, Argentina
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260628
@@ -562,6 +609,95 @@ DESCRIPTION:Asia's Leading Show for Building & Housing Industries. JAPAN BU
  2-1.html
 LOCATION:Osaka\, Japan
 URL:https://www.eventseye.com/fairs/f-japan-build-osaka-30632-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTIGHETSMÄSSAN STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-fastighetsmassan-stockholm-31900-1@eventseye.impio-vault
+DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
+ smässan is an opportunity to quickly establish valuable contacts with pro
+ perty owners for apartments buildings\, office buildings\, commercial buil
+ dings\, shopping malls\, industrial properties\\nVenue: Kista Mässan\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
+ etsmassan-stockholm-31900-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-fastighetsmassan-stockholm-31900-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIPIM — Cannes\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+UID:f-mipim-8438-1@eventseye.impio-vault
+DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
+  market\, brings together players from all international property sectors 
+ - office\, residential\, retail\, healthcare\, sport\, logistics & industr
+ ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
+LOCATION:Cannes\, France
+URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEUES BAUEN — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-neues-bauen-23666-1@eventseye.impio-vault
+DESCRIPTION:German real estate and energy saving exhibition. New constructi
+ on\, renovation\, expansion. Preserve value\, insulate\, save energy. Anti
+ -burglary protection and security. Find the right craftsmen on site\\nVenu
+ e: Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-neues-bauen-23666-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-neues-bauen-23666-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILDING FAIRS BRNO — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270404
+UID:f-building-fairs-brno-23521-1@eventseye.impio-vault
+DESCRIPTION:Building Fair. All aspects of housing and house constructions\,
+  building management services\, technical solutions and equipment\\nVenue:
+  Brno Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-building-fairs-brno-23521-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-building-fairs-brno-23521-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAUMESSE NRW — Dortmund\, Germany
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+UID:f-baumesse-nrw-8537-1@eventseye.impio-vault
+DESCRIPTION:Combinated Building and Real Estate Exhibition. Eco Building\, 
+ Real Estate and Vacation Properties\\nVenue: Exhibition Centre Dortmund\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baumess
+ e-nrw-8537-1.html
+LOCATION:Dortmund\, Germany
+URL:https://www.eventseye.com/fairs/f-baumesse-nrw-8537-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270723
+UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWISSBAU — Basel\, Switzerland
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280123
+UID:f-swissbau-2618-1@eventseye.impio-vault
+DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
+ lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
+ Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
+ bau-2618-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEX ASIA — Singapore\, Singapore
@@ -860,6 +996,34 @@ URL:https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-midi-p
  yrenees-10944-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - WARSAW — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261004
+UID:f-united-property-invest-show-poland-warsaw-32352-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Radisson Blu Sobiesk
+ i Warsaw\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
+ united-property-invest-show-poland-warsaw-32352-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-wa
+ rsaw-32352-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIVING - BREST — Brest\, France
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+UID:f-viving-brest-32558-1@eventseye.impio-vault
+DESCRIPTION:Brest Home Fair. Construction\, renovation\, promotion\, financ
+ ing\, opening & closing\, insulation\, energy production\, heating & air c
+ onditioning\, decoration & furnishing\, kitchen & bath\, household art\, e
+ xteriors\, DIY\\nVenue: Parc des expositions Penfeld\\nFrequency: twice a 
+ year\\nSource: https://www.eventseye.com/fairs/f-viving-brest-32558-1.html
+LOCATION:Brest\, France
+URL:https://www.eventseye.com/fairs/f-viving-brest-32558-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CITYSCAPE QATAR — Doha\, Qatar
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261007
@@ -994,6 +1158,22 @@ URL:https://www.eventseye.com/fairs/f-salon-immobilier-de-biarritz-26716-1.
  html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - CZECH REPUBLIC - PRAGUE — Prague\
+ , Czech Republic
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+UID:f-united-property-invest-show-czech-republic-prague-34127-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Hotel International\
+ , Prague\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
+ united-property-invest-show-czech-republic-prague-34127-1.html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-czech-rep
+ ublic-prague-34127-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VIVING - LANNION — Lannion\, France
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261012
@@ -1116,6 +1296,18 @@ LOCATION:Calgary\, AB\, Canada
 URL:https://www.eventseye.com/fairs/f-buildex-calgary-8791-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BATIMONS — Mons\, Belgium
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261027
+UID:f-batimons-8877-1@eventseye.impio-vault
+DESCRIPTION:Building and Home Decoration Fair. Discover a wide choice of co
+ mpanies that will realize your projects in the best conditions\\nVenue: Lo
+ tto Mons Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-batimons-8877-1.html
+LOCATION:Mons\, Belgium
+URL:https://www.eventseye.com/fairs/f-batimons-8877-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - NEW DELHI — New Delhi\, I
  ndia
 DTSTART;VALUE=DATE:20261023
@@ -1131,96 +1323,20 @@ URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -new-delhi-22486-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FASTIGHETSMÄSSAN STOCKHOLM — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270312
-UID:f-fastighetsmassan-stockholm-31900-1@eventseye.impio-vault
-DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
- smässan is an opportunity to quickly establish valuable contacts with pro
- perty owners for apartments buildings\, office buildings\, commercial buil
- dings\, shopping malls\, industrial properties\\nVenue: Kista Mässan\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
- etsmassan-stockholm-31900-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-fastighetsmassan-stockholm-31900-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIPIM — Cannes\, France
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270320
-UID:f-mipim-8438-1@eventseye.impio-vault
-DESCRIPTION:International Real Estate Event. MIPIM\, the world’s property
-  market\, brings together players from all international property sectors 
- - office\, residential\, retail\, healthcare\, sport\, logistics & industr
- ial\\nVenue: Palais des Festivals de Cannes\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-mipim-8438-1.html
-LOCATION:Cannes\, France
-URL:https://www.eventseye.com/fairs/f-mipim-8438-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEUES BAUEN — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-neues-bauen-23666-1@eventseye.impio-vault
-DESCRIPTION:German real estate and energy saving exhibition. New constructi
- on\, renovation\, expansion. Preserve value\, insulate\, save energy. Anti
- -burglary protection and security. Find the right craftsmen on site\\nVenu
- e: Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-neues-bauen-23666-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-neues-bauen-23666-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAUMESSE NRW — Dortmund\, Germany
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270412
-UID:f-baumesse-nrw-8537-1@eventseye.impio-vault
-DESCRIPTION:Combinated Building and Real Estate Exhibition. Eco Building\, 
- Real Estate and Vacation Properties\\nVenue: Exhibition Centre Dortmund\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baumess
- e-nrw-8537-1.html
-LOCATION:Dortmund\, Germany
-URL:https://www.eventseye.com/fairs/f-baumesse-nrw-8537-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270723
-UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SWISSBAU — Basel\, Switzerland
-DTSTART;VALUE=DATE:20280118
-DTEND;VALUE=DATE:20280123
-UID:f-swissbau-2618-1@eventseye.impio-vault
-DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
- lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
- Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
- bau-2618-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - KAZAKHSTAN — Astana\, Kazakhstan
+SUMMARY:UNITED PROPERTY & INVEST SHOW - KAZAKHSTAN - ASTANA — Astana\, Ka
+ zakhstan
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261031
-UID:f-united-property-invest-show-kazakhstan-32351-1@eventseye.impio-vault
+UID:f-united-property-invest-show-kazakhstan-astana-32351-1@eventseye.impio-vault
 DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
  \, making safe deals and networking. It gives the opportunity to discuss w
  ith professionals the issues of buying/renting real estate abroad\, to get
   adviced on mortgages\, taxes investments...\\nVenue: Qaz Expo Congress\\n
  Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-united-
- property-invest-show-kazakhstan-32351-1.html
+ property-invest-show-kazakhstan-astana-32351-1.html
 LOCATION:Astana\, Kazakhstan
 URL:https://www.eventseye.com/fairs/f-united-property-invest-show-kazakhsta
- n-32351-1.html
+ n-astana-32351-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALON DE L'HABITAT ET DE L'IMMOBILIER DE MORLAIX — Morlaix\, Fran

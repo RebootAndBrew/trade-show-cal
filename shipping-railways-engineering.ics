@@ -526,19 +526,6 @@ URL:https://www.eventseye.com/fairs/f-csi-cruise-ship-interiors-americas-32
  783-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EUROPEAN MOBILITY EXPO — Paris\, France
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260612
-UID:f-european-mobility-expo-16988-1@eventseye.impio-vault
-DESCRIPTION:European Mobility Exhibition. The major European professional e
- xhibition for all key players in public transport and sustainable transpor
- t solutions\\nVenue: Paris Expo Porte de Versailles\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-european-mobility-expo-16
- 988-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-european-mobility-expo-16988-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MIDDLE EAST RAIL — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260611
@@ -549,6 +536,18 @@ DESCRIPTION:The largest and most established transport event in the Middle
  eye.com/fairs/f-middle-east-rail-13620-1.html
 LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-middle-east-rail-13620-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBCO — Paris\, France
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+UID:f-mobco-16988-1@eventseye.impio-vault
+DESCRIPTION:European Mobility Exhibition. The major European professional e
+ xhibition for all key players in public transport and sustainable transpor
+ t solutions\\nVenue: Paris Expo Porte de Versailles\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-mobco-16988-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-mobco-16988-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SEAWORK — Southampton\, UK - United Kingdom
@@ -646,6 +645,562 @@ DESCRIPTION:Specialized Maritime\, Offshore and Shipbuilding event in Phili
 LOCATION:Manila\, Philippines
 URL:https://www.eventseye.com/fairs/f-marine-philippines-offshore-philippin
  es-19728-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIMOX - VIETNAM MARINE & OFFSHORE EXPO — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-vimox-vietnam-marine-offshore-expo-19726-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Maritime Technologies\, Shipbuildin
+ g Equipment & Supporting Industries\\nVenue: The Adora Center\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-vimox-vietnam-mar
+ ine-offshore-expo-19726-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vimox-vietnam-marine-offshore-expo-19
+ 726-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHIPTEC CHINA — Dalian\, China
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-shiptec-china-18362-1@eventseye.impio-vault
+DESCRIPTION:International Shipbuilding\, Marine Equipment & Offshore Engine
+ ering Exhibition in China\\nVenue: Dalian World Expo Center\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-shiptec-china-183
+ 62-1.html
+LOCATION:Dalian\, China
+URL:https://www.eventseye.com/fairs/f-shiptec-china-18362-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIET CARGO EXPO - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-viet-cargo-expo-hanoi-31822-1@eventseye.impio-vault
+DESCRIPTION:Viet Cargo Expo stands alone as the premier gathering in the AS
+ EAN\, uniting the entirety of the cargo and logistics community—from air
+  and ocean to road\, warehousing\, ground handling\, supply chain\, techno
+ logy\, and more—all in one place\\nVenue: NECC - National Exhibition Con
+ struction Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEEPWATER OPERATIONS — Galveston\, TX\, USA
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-deepwater-operations-9769-1@eventseye.impio-vault
+DESCRIPTION:DEEPWATER OPERATIONS features an extensive technical program an
+ d a shared exhibition hall covering design\, engineering\, construction\, 
+ transportation\, installation\, and modification of topside structures\, p
+ latforms and hulls\\nVenue: Galveston Island Convention Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-deepwater-operat
+ ions-9769-1.html
+LOCATION:Galveston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-deepwater-operations-9769-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EURONAVAL — Paris\, France
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+UID:f-euronaval-787-1@eventseye.impio-vault
+DESCRIPTION:International Naval Defence & Maritime Exhibition & Conference.
+  EURONAVAL is the international trade show applying high technology to nav
+ al defence and maritime security and safety\\nVenue: Paris Nord Villepinte
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-eu
+ ronaval-787-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-euronaval-787-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IAPH WORLD PORTS CONFERENCE — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+UID:f-iaph-world-ports-conference-17704-1@eventseye.impio-vault
+DESCRIPTION:A world class conference to reunite global port leaders with th
+ eir counterparts in shipping\, policymaking\, financing and technology\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-iaph-wor
+ ld-ports-conference-17704-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-iaph-world-ports-conference-17704-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BISFE - BUSAN INTERNATIONAL SEAFOOD & FISHERIES EXPO — Busan\, Ko
+ rea South
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261107
+UID:f-bisfe-busan-international-seafood-fisheries-expo-17237-1@eventseye.impio-vault
+DESCRIPTION:Busan International Seafood & Fisheries Expo. Frozen/Refrigerat
+ ed Products\, Salted Products\, Processed Seaweed\, Health Food\, Processi
+ ng Machines\, Aquaculture Equipment\, Boats/Equipment\, Fishing Gear/Net/B
+ uoy\, Packaging Equipments & Materials...\\nVenue: Bexco (Busan Exhibition
+  & Convention Center)\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-bisfe-busan-international-seafood-fisheries-expo-17237-1.
+ html
+LOCATION:Busan\, Korea South
+URL:https://www.eventseye.com/fairs/f-bisfe-busan-international-seafood-fis
+ heries-expo-17237-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMPOSITES SPAIN — Madrid\, Spain
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+UID:f-composites-spain-27261-1@eventseye.impio-vault
+DESCRIPTION:Composites Engineering is the only trade fair in Spain dedicate
+ d to composites and their applications. Discover the latest products and i
+ nnovations in composite and advanced materials\, raw materials\, design\, 
+ processing\, and their applications\\nVenue: Ifema - Parque Ferial Juan Ca
+ rlos I\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-composites-spain-27261-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-composites-spain-27261-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIRE RESISTANCE IN PLASTICS — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+UID:f-fire-resistance-in-plastics-11018-1@eventseye.impio-vault
+DESCRIPTION:Conference dedicated to Technical developments and trends in Fi
+ re Resistance in Plastics\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-fire-resistance-in-plastics-11018-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-fire-resistance-in-plastics-11018-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIDEC — Celje\, Slovenia
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+UID:f-sidec-32324-1@eventseye.impio-vault
+DESCRIPTION:Slovenian International Defence Industry Exhibition and Confere
+ nce. The event will provide a comprehensive outline of key innovations and
+  solutions that open up new dimensions and progress for the defence indust
+ ry\\nVenue: Fairground Celje\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-sidec-32324-1.html
+LOCATION:Celje\, Slovenia
+URL:https://www.eventseye.com/fairs/f-sidec-32324-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE MARITIME STANDARD AWARDS — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+UID:f-the-maritime-standard-awards-22024-1@eventseye.impio-vault
+DESCRIPTION:Maritime Awards for the Middle East and Indian Subcontinent. Th
+ e Maritime Standard Awards recognises the achievements of the Shipping and
+  Maritime Industries' outstanding performers and celebrates and rewards th
+ eir successes in 24 Award categories\\nVenue: Atlantis\, The Palm\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-the-maritime-
+ standard-awards-22024-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-the-maritime-standard-awards-22024-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOC CONTAINER SUPPLY CHAIN ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+UID:f-toc-container-supply-chain-asia-16293-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and Conference for Shipping\, Ports and Terminal Ind
+ ustries. TOC Asia gathers the global and Asia-Pacific région maritime log
+ istics industries\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-toc-container-supply-chain-asia-162
+ 93-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-toc-container-supply-chain-asia-16293
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MALAYSIA INTERNATIONAL MARITIME EXPO (MIMEX) — Kuala Lumpur\, Mal
+ aysia
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261119
+UID:f-malaysia-international-maritime-expo-(mimex)-23023-1@eventseye.impio-vault
+DESCRIPTION:MIMEX - Malaysia International Marine Expo - is encompassing al
+ l aspects of ship building\, ship repairs\, shipping\, maritime engineerin
+ g\, offshore engineering & technology\, dredging equipment and ports & log
+ istics\\nVenue: Kuala Lumpur Convention Centre (KLCC)\\nFrequency: every 2
+  years\\nSource: https://www.eventseye.com/fairs/f-malaysia-international-
+ maritime-expo-(mimex)-23023-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-malaysia-international-maritime-expo-
+ (mimex)-23023-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:METSTRADE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+UID:f-metstrade-23782-1@eventseye.impio-vault
+DESCRIPTION:The METSTRADE Show\, most influential event\, brings together l
+ eisure marine professionals from over 135 countries to connect\, collabora
+ te and drive commerce across boatbuilding and marine technology\\nVenue: R
+ AI International Exhibition and Congress Centre\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-metstrade-23782-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-metstrade-23782-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO MARINE — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+UID:f-indo-marine-16730-1@eventseye.impio-vault
+DESCRIPTION:Indonesia's Marine and Port Technology\, Shipping Logistics and
+  Security Industry Expo & Forum\\nVenue: Jakarta International Expo (JIExp
+ o)\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
+ indo-marine-16730-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-marine-16730-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACIFIC MARINE EXPO — Seattle\, WA\, USA
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+UID:f-pacific-marine-expo-1010-1@eventseye.impio-vault
+DESCRIPTION:West Coast Trade Show for the Commercial Fishing\, Seafood Proc
+ essing & Workboat Markets. Thousands of commercial mariners from across th
+ e West Coast and Alaska gather in Seattle in search of the latest tech\, g
+ ear\, and education\\nVenue: Lumen Field Event Center\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-pacific-marine-expo-1010-
+ 1.html
+LOCATION:Seattle\, WA\, USA
+URL:https://www.eventseye.com/fairs/f-pacific-marine-expo-1010-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUSRAIL PLUS — Brisbane\, Australia
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261126
+UID:f-ausrail-plus-17470-1@eventseye.impio-vault
+DESCRIPTION:Australia's rail industry's show and conference. AusRail provid
+ es a decent platform for knowledge sharing & networking with world's leadi
+ ng industry figures\, rail manufacturers & operator. 60 rail experts\, 100
+ + exhibitors\, new products & services + more\\nVenue: Brisbane Convention
+  & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-ausrail-plus-17470-1.html
+LOCATION:Brisbane\, Australia
+URL:https://www.eventseye.com/fairs/f-ausrail-plus-17470-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VEHICLE & TRANSPORTATION TECHNOLOGY INNOVATION MEETINGS — Torino\
+ , Italy
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261126
+UID:f-vehicle-transportation-technology-innovation-meetings-30736-1@eventseye.impio-vault
+DESCRIPTION:Matchmaking Forum for automotive\, vehicle and mobility technol
+ ogy innovation\\nVenue: Lingotto Fiere\\nFrequency: every 2 years\\nSource
+ : https://www.eventseye.com/fairs/f-vehicle-transportation-technology-inno
+ vation-meetings-30736-1.html
+LOCATION:Torino\, Italy
+URL:https://www.eventseye.com/fairs/f-vehicle-transportation-technology-inn
+ ovation-meetings-30736-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSEA - OFFSHORE ENERGY WEEK — Singapore\, Singapore
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-osea-offshore-energy-week-33470-1@eventseye.impio-vault
+DESCRIPTION:OSEA promises a holistic week that sets the compass towards a z
+ ero-carbon horizon\, unveiling groundbreaking new energies\, and outlining
+  pioneering technologies for the offshore sector’s pivotal role in decar
+ bonization\\nVenue: Marina Bay Sands\\nFrequency: every 2 years\\nSource: 
+ https://www.eventseye.com/fairs/f-osea-offshore-energy-week-33470-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-osea-offshore-energy-week-33470-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPONAVAL — Valparaiso\, Chile
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-exponaval-902-1@eventseye.impio-vault
+DESCRIPTION:International Naval & Maritime Exhibition and Congress for Lati
+ n America\\nVenue: Valparaiso Terminal de Pasajeros\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-exponaval-902-1.html
+LOCATION:Valparaiso\, Chile
+URL:https://www.eventseye.com/fairs/f-exponaval-902-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROPULSION & FUTURE FUELS CONFERENCE — Hamburg\, Germany
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-propulsion-future-fuels-conference-17702-1@eventseye.impio-vault
+DESCRIPTION:The longest-running technical conference in the maritime sector
+ \, providing senior executives with a meeting place to learn\, discuss\, a
+ nd share knowledge of the latest developments in efficient propulsion tech
+ nology and low flashpoint\, low carbon fuels\\nVenue: Empire Riverside Hot
+ el\, Hamburg\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-propulsion-future-fuels-conference-17702-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-propulsion-future-fuels-conference-17
+ 702-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSI - CRUISE SHIP INTERIORS - EUROPE — Hamburg\, Germany
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+UID:f-csi-cruise-ship-interiors-europe-32784-1@eventseye.impio-vault
+DESCRIPTION:Cruise Ship Interiors Design Expo Europe is a gateway for the c
+ ruise interiors supply chain to meet with the most esteemed cruise lines\,
+  designers\, and shipyards\\nVenue: Hamburg Messe und Congress\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-csi-cruise-ship-
+ interiors-europe-32784-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-csi-cruise-ship-interiors-europe-3278
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL WORKBOAT SHOW — New Orleans\, LA\, USA
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+UID:f-international-workboat-show-4344-1@eventseye.impio-vault
+DESCRIPTION:International Commercial Marine Trade Show in North America. In
+ ternational Workboat Show exhibitors will meet face-to-face with buyers fr
+ om fleet owners to independent vessel owner / operators\, boatbuilders and
+  engineers\\nVenue: Ernest N. Morial Convention Center\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-international-workboat-s
+ how-4344-1.html
+LOCATION:New Orleans\, LA\, USA
+URL:https://www.eventseye.com/fairs/f-international-workboat-show-4344-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEATRADE MARITIME QATAR — Doha\, Qatar
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+UID:f-seatrade-maritime-qatar-32922-1@eventseye.impio-vault
+DESCRIPTION:Seatrade Maritime brings together leading maritime professional
+ s from across the Middle East for three days of conference\, networking an
+ d a comprehensive exhibition\\nVenue: Sheraton Hotel - Doha\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-seatrade-maritime
+ -qatar-32922-1.html
+LOCATION:Doha\, Qatar
+URL:https://www.eventseye.com/fairs/f-seatrade-maritime-qatar-32922-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
+ — Shanghai\, China
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261212
+UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
+ ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
+ , rail security technology & equipment\, rail transportation power & new e
+ nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
+ ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
+ xhibition-31545-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
+ sit-technology-exhibition-31545-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INMEX CHINA — Guangzhou\, China
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+UID:f-inmex-china-10006-1@eventseye.impio-vault
+DESCRIPTION:International Maritime Expo. INMEX China is an important platfo
+ rm for the maritime industry featuring Ship building\, Ship Repairs\, Mari
+ ne Services and Engineering\, Offshore Engineering\, Ports and Port develo
+ pment\\nVenue: Poly World Trade Expo Center\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-inmex-china-10006-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-inmex-china-10006-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONGRÈS ATEC ITS FRANCE\, LES RENCONTRES DE LA MOBILITÉ INTELLIGE
+ NTE — Montrouge\, France
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270121
+UID:f-congres-atec-its-france-les-rencontres-de-la-mobilite-intelligente-21422-1@eventseye.impio-vault
+DESCRIPTION:Congress and expo bringing together the actors of intelligent m
+ obility\\nVenue: Le Beffroi de Montrouge\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontres
+ -de-la-mobilite-intelligente-21422-1.html
+LOCATION:Montrouge\, France
+URL:https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontre
+ s-de-la-mobilite-intelligente-21422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EASTERN CANADIAN FISHERIES EXPO — Yarmouth\, NS\, Canada
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270124
+UID:f-eastern-canadian-fisheries-expo-12231-1@eventseye.impio-vault
+DESCRIPTION:The Eastern Canadian Fisheries Expo brings together the key buy
+ ers from across the region. Meet current and new customers face to face. O
+ nboard and onshore fishing and harvesting equipment\, Fish processing & tr
+ ansportation\, Vessel design & construction...\\nVenue: Yarmouth Mariners 
+ Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
+ s/f-eastern-canadian-fisheries-expo-12231-1.html
+LOCATION:Yarmouth\, NS\, Canada
+URL:https://www.eventseye.com/fairs/f-eastern-canadian-fisheries-expo-12231
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BREAKBULK MIDDLE EAST — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270204
+UID:f-breakbulk-middle-east-28719-1@eventseye.impio-vault
+DESCRIPTION:International Trade Show for Maritime Transport of Non-Containe
+ rized Goods (Breakbulk) and "Project Cargo" (transportation of large\, hea
+ vy-duty\, high value\, or complex pieces of equipment)\\nVenue: Dubai Worl
+ d Trade Centre (Dubai Exhibition Centre)\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-breakbulk-middle-east-28719-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-breakbulk-middle-east-28719-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBSEA TIEBACK FORUM — San Antonio\, TX\, USA
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+UID:f-subsea-tieback-forum-3690-1@eventseye.impio-vault
+DESCRIPTION:Subsea Tieback Forum & Exhibition is the industry's premier eve
+ nt for learning\, networking and engaging with the leaders and influencers
+  on the forefront of subsea technology and advancement\\nVenue: Henry B. G
+ onzalez Convention Center\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-subsea-tieback-forum-3690-1.html
+LOCATION:San Antonio\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-subsea-tieback-forum-3690-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERMODAL AFRICA — Swakopmund\, Namibia
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270226
+UID:f-intermodal-africa-12397-1@eventseye.impio-vault
+DESCRIPTION:Intermodal Africa is the largest Ports\, Shipping and Logistics
+  Exhibition and Conference event on the African continent\\nFrequency: unk
+ nown\\nSource: https://www.eventseye.com/fairs/f-intermodal-africa-12397-1
+ .html
+LOCATION:Swakopmund\, Namibia
+URL:https://www.eventseye.com/fairs/f-intermodal-africa-12397-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEC WORLD — Paris\, France
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-jec-world-1638-1@eventseye.impio-vault
+DESCRIPTION:JEC World is a leading International Composites Show\, activati
+ ng a global community from the business\, manufacturing\, research and aca
+ demic worlds and enabling networking for new ideas and creates growth oppo
+ rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE GASKET & SEALS SHOW — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-the-gasket-seals-show-31717-1@eventseye.impio-vault
+DESCRIPTION:Europe’s Showcase Exhibition and Conference for the Gasket an
+ d Seals Value Chains.. From automotive engines to industrial machinery\, t
+ he show delves into the crucial role that gaskets and seals play in keepin
+ g the world running smoothly\\nVenue: RAI International Exhibition and Con
+ gress Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-the-gasket-seals-show-31717-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-the-gasket-seals-show-31717-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEA ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-sea-asia-27283-1@eventseye.impio-vault
+DESCRIPTION:Asia's anchor maritime and offshore event. With dedicated show 
+ floor zones for technology and decarbonisation\, Sea Asia will keep pace w
+ ith new developments as the industry pivots towards the future\\nVenue: Ma
+ rina Bay Sands\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-sea-asia-27283-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-sea-asia-27283-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEA-ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-sea-asia-13254-1@eventseye.impio-vault
+DESCRIPTION:Global Maritime and Shipping Industry World Exhibition. Sea Asi
+ a attracts over 14\, 000 participants including CEOs\, presidents\, decisi
+ on-makers & maritime professionals from diverse sectors of the global ship
+ ping industry\\nVenue: Marina Bay Sands\\nFrequency: every 2 years\\nSourc
+ e: https://www.eventseye.com/fairs/f-sea-asia-13254-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-sea-asia-13254-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA MARITIME BEIJING — Beijing\, China
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+UID:f-china-maritime-beijing-18369-1@eventseye.impio-vault
+DESCRIPTION:International Offshore Engineering Technology & Equipment Exhib
+ ition. CHINA MARITIME BEIJING will showcase from Offshore Platforms\, Ship
+  Building\, Repairing\, Conversion & Recycling to Work Boats\, Port Logist
+ ics & Cargo Handling Systems\, Oil Tankers...\\nVenue: New China Internati
+ onal Exhibition Center\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-china-maritime-beijing-18369-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-china-maritime-beijing-18369-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTURE PORT BILBAO — Bilbao\, Spain
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-future-port-bilbao-25046-1@eventseye.impio-vault
+DESCRIPTION:Ports congress that includes an Exhibition Area\, Conference Pr
+ ogramme\, Meetings with international port authorities with expansion proj
+ ects and Networking\\nVenue: Bilbao Exhibition Centre\\nFrequency: every 2
+  years\\nSource: https://www.eventseye.com/fairs/f-future-port-bilbao-2504
+ 6-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-future-port-bilbao-25046-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MARINE ENERGEY WEEK — Bilbao\, Spain
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-marine-energey-week-25047-1@eventseye.impio-vault
+DESCRIPTION:Renewable Marine Energy congress that includes an Exhibition Ar
+ ea\\nVenue: Bilbao Exhibition Centre\\nFrequency: every 2 years\\nSource: 
+ https://www.eventseye.com/fairs/f-marine-energey-week-25047-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-marine-energey-week-25047-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SINAVAL — Bilbao\, Spain
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-sinaval-2496-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Shipbuilding\, Ports\, Fishing and 
+ Ocean Energies\\nVenue: Bilbao Exhibition Centre\\nFrequency: every 2 year
+ s\\nSource: https://www.eventseye.com/fairs/f-sinaval-2496-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-sinaval-2496-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WBX - WORLD BREAKBULK EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270319
+UID:f-wbx-world-breakbulk-expo-31564-1@eventseye.impio-vault
+DESCRIPTION:WBX - World Breakbulk Expo is an international exhibition of th
+ e logistics & transportation industry\, focusing on the theme of project c
+ argo and traditional breakbulk. The conferences will provide focused\, reg
+ ional project planning & transportation cases\\nVenue: Shanghai World Expo
+  Exhibition & Convention Center\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-wbx-world-breakbulk-expo-31564-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-wbx-world-breakbulk-expo-31564-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EURASIA RAIL — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270327
+UID:f-eurasia-rail-17177-1@eventseye.impio-vault
+DESCRIPTION:EURASIA RAIL hosts hundreds of exhibitors and visitors\, is the
+  main networking and business event for the Turkish rolling stock sector\,
+  featuring innovative engineering\, products and services from both the pu
+ blic and private sectors\\nVenue: Istanbul Expo Center / Istanbul Fuar Mer
+ kezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye
+ .com/fairs/f-eurasia-rail-17177-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-eurasia-rail-17177-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NAVAL DEFENSE PHILIPPINES — Manila\, Philippines
@@ -1200,513 +1755,6 @@ LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-turkcomposite-33281-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIMOX - VIETNAM MARINE & OFFSHORE EXPO — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-vimox-vietnam-marine-offshore-expo-19726-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Maritime Technologies\, Shipbuildin
- g Equipment & Supporting Industries\\nVenue: The Adora Center\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-vimox-vietnam-mar
- ine-offshore-expo-19726-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vimox-vietnam-marine-offshore-expo-19
- 726-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHIPTEC CHINA — Dalian\, China
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-shiptec-china-18362-1@eventseye.impio-vault
-DESCRIPTION:International Shipbuilding\, Marine Equipment & Offshore Engine
- ering Exhibition in China\\nVenue: Dalian World Expo Center\\nFrequency: e
- very 2 years\\nSource: https://www.eventseye.com/fairs/f-shiptec-china-183
- 62-1.html
-LOCATION:Dalian\, China
-URL:https://www.eventseye.com/fairs/f-shiptec-china-18362-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIET CARGO EXPO - HANOI — Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-viet-cargo-expo-hanoi-31822-1@eventseye.impio-vault
-DESCRIPTION:Viet Cargo Expo stands alone as the premier gathering in the AS
- EAN\, uniting the entirety of the cargo and logistics community—from air
-  and ocean to road\, warehousing\, ground handling\, supply chain\, techno
- logy\, and more—all in one place\\nVenue: NECC - National Exhibition Con
- struction Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEEPWATER OPERATIONS — Galveston\, TX\, USA
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-deepwater-operations-9769-1@eventseye.impio-vault
-DESCRIPTION:DEEPWATER OPERATIONS features an extensive technical program an
- d a shared exhibition hall covering design\, engineering\, construction\, 
- transportation\, installation\, and modification of topside structures\, p
- latforms and hulls\\nVenue: Galveston Island Convention Center\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-deepwater-operat
- ions-9769-1.html
-LOCATION:Galveston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-deepwater-operations-9769-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EURONAVAL — Paris\, France
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261107
-UID:f-euronaval-787-1@eventseye.impio-vault
-DESCRIPTION:International Naval Defence & Maritime Exhibition & Conference.
-  EURONAVAL is the international trade show applying high technology to nav
- al defence and maritime security and safety\\nVenue: Paris Nord Villepinte
- \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-eu
- ronaval-787-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-euronaval-787-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IAPH WORLD PORTS CONFERENCE — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261107
-UID:f-iaph-world-ports-conference-17704-1@eventseye.impio-vault
-DESCRIPTION:A world class conference to reunite global port leaders with th
- eir counterparts in shipping\, policymaking\, financing and technology\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-iaph-wor
- ld-ports-conference-17704-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-iaph-world-ports-conference-17704-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BISFE - BUSAN INTERNATIONAL SEAFOOD & FISHERIES EXPO — Busan\, Ko
- rea South
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261107
-UID:f-bisfe-busan-international-seafood-fisheries-expo-17237-1@eventseye.impio-vault
-DESCRIPTION:Busan International Seafood & Fisheries Expo. Frozen/Refrigerat
- ed Products\, Salted Products\, Processed Seaweed\, Health Food\, Processi
- ng Machines\, Aquaculture Equipment\, Boats/Equipment\, Fishing Gear/Net/B
- uoy\, Packaging Equipments & Materials...\\nVenue: Bexco (Busan Exhibition
-  & Convention Center)\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-bisfe-busan-international-seafood-fisheries-expo-17237-1.
- html
-LOCATION:Busan\, Korea South
-URL:https://www.eventseye.com/fairs/f-bisfe-busan-international-seafood-fis
- heries-expo-17237-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMPOSITES SPAIN — Madrid\, Spain
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261106
-UID:f-composites-spain-27261-1@eventseye.impio-vault
-DESCRIPTION:Composites Engineering is the only trade fair in Spain dedicate
- d to composites and their applications. Discover the latest products and i
- nnovations in composite and advanced materials\, raw materials\, design\, 
- processing\, and their applications\\nVenue: Ifema - Parque Ferial Juan Ca
- rlos I\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-composites-spain-27261-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-composites-spain-27261-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIRE RESISTANCE IN PLASTICS — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261112
-UID:f-fire-resistance-in-plastics-11018-1@eventseye.impio-vault
-DESCRIPTION:Conference dedicated to Technical developments and trends in Fi
- re Resistance in Plastics\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-fire-resistance-in-plastics-11018-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-fire-resistance-in-plastics-11018-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIDEC — Celje\, Slovenia
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261113
-UID:f-sidec-32324-1@eventseye.impio-vault
-DESCRIPTION:Slovenian International Defence Industry Exhibition and Confere
- nce. The event will provide a comprehensive outline of key innovations and
-  solutions that open up new dimensions and progress for the defence indust
- ry\\nVenue: Fairground Celje\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-sidec-32324-1.html
-LOCATION:Celje\, Slovenia
-URL:https://www.eventseye.com/fairs/f-sidec-32324-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE MARITIME STANDARD AWARDS — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-UID:f-the-maritime-standard-awards-22024-1@eventseye.impio-vault
-DESCRIPTION:Maritime Awards for the Middle East and Indian Subcontinent. Th
- e Maritime Standard Awards recognises the achievements of the Shipping and
-  Maritime Industries' outstanding performers and celebrates and rewards th
- eir successes in 24 Award categories\\nVenue: Atlantis\, The Palm\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-the-maritime-
- standard-awards-22024-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-the-maritime-standard-awards-22024-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOC CONTAINER SUPPLY CHAIN ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261112
-UID:f-toc-container-supply-chain-asia-16293-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and Conference for Shipping\, Ports and Terminal Ind
- ustries. TOC Asia gathers the global and Asia-Pacific région maritime log
- istics industries\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-toc-container-supply-chain-asia-162
- 93-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-toc-container-supply-chain-asia-16293
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MALAYSIA INTERNATIONAL MARITIME EXPO (MIMEX) — Kuala Lumpur\, Mal
- aysia
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261119
-UID:f-malaysia-international-maritime-expo-(mimex)-23023-1@eventseye.impio-vault
-DESCRIPTION:MIMEX - Malaysia International Marine Expo - is encompassing al
- l aspects of ship building\, ship repairs\, shipping\, maritime engineerin
- g\, offshore engineering & technology\, dredging equipment and ports & log
- istics\\nVenue: Kuala Lumpur Convention Centre (KLCC)\\nFrequency: every 2
-  years\\nSource: https://www.eventseye.com/fairs/f-malaysia-international-
- maritime-expo-(mimex)-23023-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-malaysia-international-maritime-expo-
- (mimex)-23023-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:METSTRADE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261120
-UID:f-metstrade-23782-1@eventseye.impio-vault
-DESCRIPTION:The METSTRADE Show\, most influential event\, brings together l
- eisure marine professionals from over 135 countries to connect\, collabora
- te and drive commerce across boatbuilding and marine technology\\nVenue: R
- AI International Exhibition and Congress Centre\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-metstrade-23782-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-metstrade-23782-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDO MARINE — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261122
-UID:f-indo-marine-16730-1@eventseye.impio-vault
-DESCRIPTION:Indonesia's Marine and Port Technology\, Shipping Logistics and
-  Security Industry Expo & Forum\\nVenue: Jakarta International Expo (JIExp
- o)\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
- indo-marine-16730-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indo-marine-16730-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACIFIC MARINE EXPO — Seattle\, WA\, USA
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261122
-UID:f-pacific-marine-expo-1010-1@eventseye.impio-vault
-DESCRIPTION:West Coast Trade Show for the Commercial Fishing\, Seafood Proc
- essing & Workboat Markets. Thousands of commercial mariners from across th
- e West Coast and Alaska gather in Seattle in search of the latest tech\, g
- ear\, and education\\nVenue: Lumen Field Event Center\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-pacific-marine-expo-1010-
- 1.html
-LOCATION:Seattle\, WA\, USA
-URL:https://www.eventseye.com/fairs/f-pacific-marine-expo-1010-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUSRAIL PLUS — Brisbane\, Australia
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261126
-UID:f-ausrail-plus-17470-1@eventseye.impio-vault
-DESCRIPTION:Australia's rail industry's show and conference. AusRail provid
- es a decent platform for knowledge sharing & networking with world's leadi
- ng industry figures\, rail manufacturers & operator. 60 rail experts\, 100
- + exhibitors\, new products & services + more\\nVenue: Brisbane Convention
-  & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-ausrail-plus-17470-1.html
-LOCATION:Brisbane\, Australia
-URL:https://www.eventseye.com/fairs/f-ausrail-plus-17470-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VEHICLE & TRANSPORTATION TECHNOLOGY INNOVATION MEETINGS — Torino\
- , Italy
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261126
-UID:f-vehicle-transportation-technology-innovation-meetings-30736-1@eventseye.impio-vault
-DESCRIPTION:Matchmaking Forum for automotive\, vehicle and mobility technol
- ogy innovation\\nVenue: Lingotto Fiere\\nFrequency: every 2 years\\nSource
- : https://www.eventseye.com/fairs/f-vehicle-transportation-technology-inno
- vation-meetings-30736-1.html
-LOCATION:Torino\, Italy
-URL:https://www.eventseye.com/fairs/f-vehicle-transportation-technology-inn
- ovation-meetings-30736-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OSEA - OFFSHORE ENERGY WEEK — Singapore\, Singapore
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-osea-offshore-energy-week-33470-1@eventseye.impio-vault
-DESCRIPTION:OSEA promises a holistic week that sets the compass towards a z
- ero-carbon horizon\, unveiling groundbreaking new energies\, and outlining
-  pioneering technologies for the offshore sector’s pivotal role in decar
- bonization\\nVenue: Marina Bay Sands\\nFrequency: every 2 years\\nSource: 
- https://www.eventseye.com/fairs/f-osea-offshore-energy-week-33470-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-osea-offshore-energy-week-33470-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPONAVAL — Valparaiso\, Chile
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-exponaval-902-1@eventseye.impio-vault
-DESCRIPTION:International Naval & Maritime Exhibition and Congress for Lati
- n America\\nVenue: Valparaiso Terminal de Pasajeros\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-exponaval-902-1.html
-LOCATION:Valparaiso\, Chile
-URL:https://www.eventseye.com/fairs/f-exponaval-902-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROPULSION & FUTURE FUELS CONFERENCE — Hamburg\, Germany
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-propulsion-future-fuels-conference-17702-1@eventseye.impio-vault
-DESCRIPTION:The longest-running technical conference in the maritime sector
- \, providing senior executives with a meeting place to learn\, discuss\, a
- nd share knowledge of the latest developments in efficient propulsion tech
- nology and low flashpoint\, low carbon fuels\\nVenue: Empire Riverside Hot
- el\, Hamburg\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-propulsion-future-fuels-conference-17702-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-propulsion-future-fuels-conference-17
- 702-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSI - CRUISE SHIP INTERIORS - EUROPE — Hamburg\, Germany
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261204
-UID:f-csi-cruise-ship-interiors-europe-32784-1@eventseye.impio-vault
-DESCRIPTION:Cruise Ship Interiors Design Expo Europe is a gateway for the c
- ruise interiors supply chain to meet with the most esteemed cruise lines\,
-  designers\, and shipyards\\nVenue: Hamburg Messe und Congress\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-csi-cruise-ship-
- interiors-europe-32784-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-csi-cruise-ship-interiors-europe-3278
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL WORKBOAT SHOW — New Orleans\, LA\, USA
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261205
-UID:f-international-workboat-show-4344-1@eventseye.impio-vault
-DESCRIPTION:International Commercial Marine Trade Show in North America. In
- ternational Workboat Show exhibitors will meet face-to-face with buyers fr
- om fleet owners to independent vessel owner / operators\, boatbuilders and
-  engineers\\nVenue: Ernest N. Morial Convention Center\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-international-workboat-s
- how-4344-1.html
-LOCATION:New Orleans\, LA\, USA
-URL:https://www.eventseye.com/fairs/f-international-workboat-show-4344-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEATRADE MARITIME QATAR — Doha\, Qatar
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261210
-UID:f-seatrade-maritime-qatar-32922-1@eventseye.impio-vault
-DESCRIPTION:Seatrade Maritime brings together leading maritime professional
- s from across the Middle East for three days of conference\, networking an
- d a comprehensive exhibition\\nVenue: Sheraton Hotel - Doha\\nFrequency: e
- very 2 years\\nSource: https://www.eventseye.com/fairs/f-seatrade-maritime
- -qatar-32922-1.html
-LOCATION:Doha\, Qatar
-URL:https://www.eventseye.com/fairs/f-seatrade-maritime-qatar-32922-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
- — Shanghai\, China
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261212
-UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
- ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
- , rail security technology & equipment\, rail transportation power & new e
- nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
- ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
- xhibition-31545-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
- sit-technology-exhibition-31545-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INMEX CHINA — Guangzhou\, China
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261213
-UID:f-inmex-china-10006-1@eventseye.impio-vault
-DESCRIPTION:International Maritime Expo. INMEX China is an important platfo
- rm for the maritime industry featuring Ship building\, Ship Repairs\, Mari
- ne Services and Engineering\, Offshore Engineering\, Ports and Port develo
- pment\\nVenue: Poly World Trade Expo Center\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-inmex-china-10006-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-inmex-china-10006-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONGRÈS ATEC ITS FRANCE\, LES RENCONTRES DE LA MOBILITÉ INTELLIGE
- NTE — Montrouge\, France
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270121
-UID:f-congres-atec-its-france-les-rencontres-de-la-mobilite-intelligente-21422-1@eventseye.impio-vault
-DESCRIPTION:Congress and expo bringing together the actors of intelligent m
- obility\\nVenue: Le Beffroi de Montrouge\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontres
- -de-la-mobilite-intelligente-21422-1.html
-LOCATION:Montrouge\, France
-URL:https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontre
- s-de-la-mobilite-intelligente-21422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EASTERN CANADIAN FISHERIES EXPO — Yarmouth\, NS\, Canada
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270124
-UID:f-eastern-canadian-fisheries-expo-12231-1@eventseye.impio-vault
-DESCRIPTION:The Eastern Canadian Fisheries Expo brings together the key buy
- ers from across the region. Meet current and new customers face to face. O
- nboard and onshore fishing and harvesting equipment\, Fish processing & tr
- ansportation\, Vessel design & construction...\\nVenue: Yarmouth Mariners 
- Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
- s/f-eastern-canadian-fisheries-expo-12231-1.html
-LOCATION:Yarmouth\, NS\, Canada
-URL:https://www.eventseye.com/fairs/f-eastern-canadian-fisheries-expo-12231
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BREAKBULK MIDDLE EAST — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270204
-UID:f-breakbulk-middle-east-28719-1@eventseye.impio-vault
-DESCRIPTION:International Trade Show for Maritime Transport of Non-Containe
- rized Goods (Breakbulk) and "Project Cargo" (transportation of large\, hea
- vy-duty\, high value\, or complex pieces of equipment)\\nVenue: Dubai Worl
- d Trade Centre (Dubai Exhibition Centre)\\nFrequency: every 2 years\\nSour
- ce: https://www.eventseye.com/fairs/f-breakbulk-middle-east-28719-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-breakbulk-middle-east-28719-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBSEA TIEBACK FORUM — San Antonio\, TX\, USA
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270219
-UID:f-subsea-tieback-forum-3690-1@eventseye.impio-vault
-DESCRIPTION:Subsea Tieback Forum & Exhibition is the industry's premier eve
- nt for learning\, networking and engaging with the leaders and influencers
-  on the forefront of subsea technology and advancement\\nVenue: Henry B. G
- onzalez Convention Center\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-subsea-tieback-forum-3690-1.html
-LOCATION:San Antonio\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-subsea-tieback-forum-3690-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERMODAL AFRICA — Swakopmund\, Namibia
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270226
-UID:f-intermodal-africa-12397-1@eventseye.impio-vault
-DESCRIPTION:Intermodal Africa is the largest Ports\, Shipping and Logistics
-  Exhibition and Conference event on the African continent\\nFrequency: unk
- nown\\nSource: https://www.eventseye.com/fairs/f-intermodal-africa-12397-1
- .html
-LOCATION:Swakopmund\, Namibia
-URL:https://www.eventseye.com/fairs/f-intermodal-africa-12397-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEC WORLD — Paris\, France
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-jec-world-1638-1@eventseye.impio-vault
-DESCRIPTION:JEC World is a leading International Composites Show\, activati
- ng a global community from the business\, manufacturing\, research and aca
- demic worlds and enabling networking for new ideas and creates growth oppo
- rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE GASKET & SEALS SHOW — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270311
-UID:f-the-gasket-seals-show-31717-1@eventseye.impio-vault
-DESCRIPTION:Europe’s Showcase Exhibition and Conference for the Gasket an
- d Seals Value Chains.. From automotive engines to industrial machinery\, t
- he show delves into the crucial role that gaskets and seals play in keepin
- g the world running smoothly\\nVenue: RAI International Exhibition and Con
- gress Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-the-gasket-seals-show-31717-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-the-gasket-seals-show-31717-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEA ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-sea-asia-27283-1@eventseye.impio-vault
-DESCRIPTION:Asia's anchor maritime and offshore event. With dedicated show 
- floor zones for technology and decarbonisation\, Sea Asia will keep pace w
- ith new developments as the industry pivots towards the future\\nVenue: Ma
- rina Bay Sands\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-sea-asia-27283-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-sea-asia-27283-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEA-ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-sea-asia-13254-1@eventseye.impio-vault
-DESCRIPTION:Global Maritime and Shipping Industry World Exhibition. Sea Asi
- a attracts over 14\, 000 participants including CEOs\, presidents\, decisi
- on-makers & maritime professionals from diverse sectors of the global ship
- ping industry\\nVenue: Marina Bay Sands\\nFrequency: every 2 years\\nSourc
- e: https://www.eventseye.com/fairs/f-sea-asia-13254-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-sea-asia-13254-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WBX - WORLD BREAKBULK EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270319
-UID:f-wbx-world-breakbulk-expo-31564-1@eventseye.impio-vault
-DESCRIPTION:WBX - World Breakbulk Expo is an international exhibition of th
- e logistics & transportation industry\, focusing on the theme of project c
- argo and traditional breakbulk. The conferences will provide focused\, reg
- ional project planning & transportation cases\\nVenue: Shanghai World Expo
-  Exhibition & Convention Center\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-wbx-world-breakbulk-expo-31564-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-wbx-world-breakbulk-expo-31564-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EURASIA RAIL — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270327
-UID:f-eurasia-rail-17177-1@eventseye.impio-vault
-DESCRIPTION:EURASIA RAIL hosts hundreds of exhibitors and visitors\, is the
-  main networking and business event for the Turkish rolling stock sector\,
-  featuring innovative engineering\, products and services from both the pu
- blic and private sectors\\nVenue: Istanbul Expo Center / Istanbul Fuar Mer
- kezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye
- .com/fairs/f-eurasia-rail-17177-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-eurasia-rail-17177-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OCEAN BUSINESS — Southampton\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270409
@@ -1721,6 +1769,35 @@ LOCATION:Southampton\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-ocean-business-14892-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RAIL INDUSTRY SUMMIT MOROCCO — El Jadida\, Morocco
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270415
+UID:f-rail-industry-summit-morocco-32475-1@eventseye.impio-vault
+DESCRIPTION:Business conventions\, exhibitions\, and conferences for the ra
+ ilway industry and infrastructure. The Moroccan railway industry has posit
+ ioned itself as a key player in the African railway sector\\nVenue: Parc d
+ 'Exposition Mohammed VI\\nFrequency: every 2 years\\nSource: https://www.e
+ ventseye.com/fairs/f-rail-industry-summit-morocco-32475-1.html
+LOCATION:El Jadida\, Morocco
+URL:https://www.eventseye.com/fairs/f-rail-industry-summit-morocco-32475-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEATRADE MARITIME LOGISTICS MIDDLE EAST — Dubai\, UAE - United Ar
+ ab Emirates
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+UID:f-seatrade-maritime-logistics-middle-east-14874-1@eventseye.impio-vault
+DESCRIPTION:Seatrade Maritime brings together leading maritime professional
+ s from across the Middle East for three days of conference\, networking an
+ d a comprehensive exhibition\\nVenue: Dubai World Trade Centre (Dubai Exhi
+ bition Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-seatrade-maritime-logistics-middle-east-14874-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-seatrade-maritime-logistics-middle-ea
+ st-14874-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IMDEX ASIA — Singapore\, Singapore
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270508
@@ -1732,21 +1809,6 @@ DESCRIPTION:International Maritime Defense Exhibition & Conference. As Asia
  ww.eventseye.com/fairs/f-imdex-asia-9820-1.html
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-imdex-asia-9820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEATRADE MARITIME LOGISTICS MIDDLE EAST — Dubai\, UAE - United Ar
- ab Emirates
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-seatrade-maritime-logistics-middle-east-14874-1@eventseye.impio-vault
-DESCRIPTION:Seatrade Maritime brings together leading maritime professional
- s from across the Middle East for three days of conference\, networking an
- d a comprehensive exhibition\\nVenue: Dubai World Trade Centre (Dubai Exhi
- bition Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-seatrade-maritime-logistics-middle-east-14874-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-seatrade-maritime-logistics-middle-ea
- st-14874-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MADEX KOREA — Busan\, Korea South
@@ -1773,6 +1835,20 @@ DESCRIPTION:Maritime Industry International Show. Nor-Shipping will gather
  html
 LOCATION:Lillestrøm\, Norway
 URL:https://www.eventseye.com/fairs/f-nor-shipping-6944-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WIND FOR GOODS — Saint-Nazaire\, France
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270618
+UID:f-wind-for-goods-29382-1@eventseye.impio-vault
+DESCRIPTION:Event dedicated to wind-powered maritime transport. It is the c
+ hance to discover solutions and innovations that contribute to the decarbo
+ nisation of freight transport\, and to discuss the key challenges of this 
+ sector which aims to preserve the environment\\nVenue: Base de sous-marins
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-wi
+ nd-for-goods-29382-1.html
+LOCATION:Saint-Nazaire\, France
+URL:https://www.eventseye.com/fairs/f-wind-for-goods-29382-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIFER — Lille\, France
@@ -2083,6 +2159,20 @@ DESCRIPTION:North Atlantic Fish and Workboat show. The North Atlantic Fish
 LOCATION:St. John's\, NF\, Canada
 URL:https://www.eventseye.com/fairs/f-north-atlantic-fish-workboat-show-122
  08-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEFENSE & SECURITY — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271112
+UID:f-defense-security-4293-1@eventseye.impio-vault
+DESCRIPTION:Tri-Service Asian Defense & Security Exhibition\, Conference an
+ d Networking Event. For 20 years\, Defense & Security has been an importan
+ t biennial as ASEAN's Leading Tri-Service defence and internal security ev
+ ent\, in Bangkok\, Thailand\\nVenue: Impact Exhibition & Convention Center
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-de
+ fense-security-4293-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-defense-security-4293-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PIMEC - PAKISTAN INTERNATIONAL MARITIME EXPO & CONFERENCE — Karac

@@ -7,33 +7,6 @@ X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Event
  sEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260418
-UID:f-oceans-fairs-32060-1@eventseye.impio-vault
-DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wit
- h manufacturers and wholesalers of thousands of products. Beauty\, Toys\, 
- School\, Electric Car & Motorcycle\, Machinery...\\nVenue: International C
- enter Tijuana\\nFrequency: 3 times a year\\nSource: https://www.eventseye.
- com/fairs/f-oceans-fairs-32060-1.html
-LOCATION:Tijuana\, Mexico
-URL:https://www.eventseye.com/fairs/f-oceans-fairs-32060-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESIGNED GIFTIONERY TAIPEI — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260420
-UID:f-designed-giftionery-taipei-4298-1@eventseye.impio-vault
-DESCRIPTION:Taipei International Gift & Stationery Spring Show. Elevate you
- r brand in a world of exceptional gifts\, stationery\, and home décor\, a
- nd unlock a lifestyle that embraces uniqueness and style\\nVenue: Taipei W
- orld Trade Center (TWTC)\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-designed-giftionery-taipei-4298-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-designed-giftionery-taipei-4298-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BJKSE (BEIJING INTERNATIONAL PRESCHOOL TOOLS & KINDERGARTEN SUPPLIE
   EXHIBITION) — Beijing\, China
 DTSTART;VALUE=DATE:20260509
@@ -254,6 +227,19 @@ DESCRIPTION:Trade fair with Nordic interior design\, gifts\, delicacies\, c
  902-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-formex-16902-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260829
+UID:f-oceans-fairs-32060-1@eventseye.impio-vault
+DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wit
+ h manufacturers and wholesalers of thousands of products. Beauty\, Toys\, 
+ School\, Electric Car & Motorcycle\, Machinery...\\nVenue: International C
+ enter Tijuana\\nFrequency: 3 times a year\\nSource: https://www.eventseye.
+ com/fairs/f-oceans-fairs-32060-1.html
+LOCATION:Tijuana\, Mexico
+URL:https://www.eventseye.com/fairs/f-oceans-fairs-32060-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CADEAUX LEIPZIG — Leipzig\, Germany

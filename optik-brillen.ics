@@ -556,6 +556,19 @@ LOCATION:Dortmund\, Germany
 URL:https://www.eventseye.com/fairs/f-interlook-8538-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PCSI — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270122
+UID:f-pcsi-2093-1@eventseye.impio-vault
+DESCRIPTION:The annual PCSI conference is devoted to achieving a fundamenta
+ l understanding of the physical\, chemical\, biological\, structural\, opt
+ ical\, magnetic\, and electrical properties of surfaces and interfaces\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-pcsi-209
+ 3-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-pcsi-2093-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OPTI — Munich\, Germany
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270201

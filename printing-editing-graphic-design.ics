@@ -1358,6 +1358,20 @@ LOCATION:Almaty\, Kazakhstan
 URL:https://www.eventseye.com/fairs/f-qazpack-33419-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:THE BIG 4 SHOW — Damascus\, Syria
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+UID:f-the-big-4-show-34028-1@eventseye.impio-vault
+DESCRIPTION:The Big 4 Show brings together four specialized industrial exhi
+ bitions under one roof\, creating the largest industrial trade platform in
+  Syria. Covering machinery and automation\, plastics and rubber\, chemical
+ s\, and print and packaging\\nVenue: Damascus International Fairground\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-big-
+ 4-show-34028-1.html
+LOCATION:Damascus\, Syria
+URL:https://www.eventseye.com/fairs/f-the-big-4-show-34028-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PAPER MIDDLE EAST - SAUDI ARABIA — Jeddah\, Saudi Arabia
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261119
@@ -1590,18 +1604,6 @@ DESCRIPTION:International Exhibition and Conference for Converting and Adva
  f-convertech-japan-14506-1.html
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-convertech-japan-14506-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C!PRINT MADRID — Madrid\, Spain
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-c!print-madrid-24237-1@eventseye.impio-vault
-DESCRIPTION:C!Print Madrid is the event dedicated to printing\, visual comm
- unication and personalization professionals\\nVenue: Ifema - Parque Ferial
-  Juan Carlos I\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-c!print-madrid-24237-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-c!print-madrid-24237-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PACK EXPO SOUTHEAST — Atlanta\, GA\, USA
@@ -1898,6 +1900,19 @@ LOCATION:Brussels\, Belgium
 URL:https://www.eventseye.com/fairs/f-empack-brussels-11836-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANDINA-PACK — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271113
+UID:f-andina-pack-13768-1@eventseye.impio-vault
+DESCRIPTION:Transformation\, processing and packaging exhibition for the fo
+ od and beverage industry\, the pharmaceutical and cosmetic industry in Sou
+ th America\\nVenue: Corferias - Centro de Convenciones\\nFrequency: every 
+ 2 years\\nSource: https://www.eventseye.com/fairs/f-andina-pack-13768-1.ht
+ ml
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-andina-pack-13768-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LABELEXPO ASIA — Shanghai\, China
 DTSTART;VALUE=DATE:20271130
 DTEND;VALUE=DATE:20271204
@@ -1946,6 +1961,18 @@ DESCRIPTION:The international print industry meets at drupa\, the world's l
   4 years\\nSource: https://www.eventseye.com/fairs/f-drupa-603-1.html
 LOCATION:Dusseldorf\, Germany
 URL:https://www.eventseye.com/fairs/f-drupa-603-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C!PRINT MADRID — Madrid\, Spain
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-c!print-madrid-24237-1@eventseye.impio-vault
+DESCRIPTION:C!Print Madrid is the event dedicated to printing\, visual comm
+ unication and personalization professionals\\nVenue: Ifema - Parque Ferial
+  Juan Carlos I\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-c!print-madrid-24237-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-c!print-madrid-24237-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSI — Cologne\, Germany

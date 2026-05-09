@@ -45,20 +45,6 @@ LOCATION:Suwon\, Korea South
 URL:https://www.eventseye.com/fairs/f-cobe-baby-fair-suwon-28102-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COBE BABY FAIR - SEOUL - COEX — Seoul\, Korea South
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260504
-UID:f-cobe-baby-fair-seoul-coex-28103-1@eventseye.impio-vault
-DESCRIPTION:Korean Exhibition for maternity\, parenting and education. Prov
- iding pregnancy\, childbirth\, and childcare information for expectant mot
- hers\, fathers\, and new parents\\nVenue: COEX Exhibition Center\\nFrequen
- cy: twice a year\\nSource: https://www.eventseye.com/fairs/f-cobe-baby-fai
- r-seoul-coex-28103-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-cobe-baby-fair-seoul-coex-28103-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A2 INTERNATIONAL EDUCATION FAIRS - TUNIS — Tunis\, Tunisia
 DTSTART;VALUE=DATE:20260502
 DTEND;VALUE=DATE:20260503
@@ -176,10 +162,11 @@ SUMMARY:LEARNTEC — Karlsruhe\, Germany
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260508
 UID:f-learntec-25027-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair and Convention for Digital Learning 
- – School\, University\, Corporate\\nVenue: Messe Karlsruhe\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-learntec-25027-1.h
- tml
+DESCRIPTION:LEARNTEC is one of the Europe’s leading trade show and conven
+ tion for digital education in schools\, higher education and the workplace
+ . The meeting place for everyone rethinking learning\\nVenue: Messe Karlsr
+ uhe\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-l
+ earntec-25027-1.html
 LOCATION:Karlsruhe\, Germany
 URL:https://www.eventseye.com/fairs/f-learntec-25027-1.html
 END:VEVENT
@@ -195,20 +182,6 @@ DESCRIPTION:Human Resource Congress. CHRO (Chief Human Resources Officer) S
  \nSource: https://www.eventseye.com/fairs/f-new-york-chro-15622-1.html
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-new-york-chro-15622-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMART CITY ASIA — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260509
-UID:f-smart-city-asia-28206-1@eventseye.impio-vault
-DESCRIPTION:The only Expo Platform in Vietnam specialized in Smart City –
-  Accompanied with Government Leaders. It consists of six main features: sm
- art energy\, smart traffic\, smart governance\, smart learning\, smart eco
- nomy\, and smart life\\nVenue: Saigon Exhibition & Convention Center - SEC
- C\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sma
- rt-city-asia-28206-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-smart-city-asia-28206-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A2 INTERNATIONAL EDUCATION FAIRS - MARRAKECH — Marrakech\, Morocc
@@ -358,6 +331,21 @@ DESCRIPTION:Career fair for students\, graduates and young professionals wi
 LOCATION:Stuttgart\, Germany
 URL:https://www.eventseye.com/fairs/f-absolventenkongress-stuttgart-18581-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATSA INDEPENDENT LIVING - SYDNEY — Sydney\, Australia
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260515
+UID:f-atsa-independent-living-sydney-25850-1@eventseye.impio-vault
+DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
+ ucts and services in assistive technology\, mobility solutions\, pressure 
+ care\, employment support\, accessible recreation/holiday ideas\, modified
+  motor vehicles and a lot more\\nVenue: Sydney Showground - Olympic Park\\
+ nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-atsa
+ -independent-living-sydney-25850-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-atsa-independent-living-sydney-25850-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUSTRALIA CHRO — Sydney\, Australia
@@ -580,6 +568,21 @@ LOCATION:Raipur\, India
 URL:https://www.eventseye.com/fairs/f-admissions-fair-raipur-29937-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ATSA INDEPENDENT LIVING - BRISBANE — Brisbane\, Australia
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260522
+UID:f-atsa-independent-living-brisbane-25851-1@eventseye.impio-vault
+DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
+ ucts and services in assistive technology\, mobility solutions\, pressure 
+ care\, employment support\, accessible recreation/holiday ideas\, modified
+  motor vehicles and a lot more\\nVenue: Royal International Convention Cen
+ tre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -atsa-independent-living-brisbane-25851-1.html
+LOCATION:Brisbane\, Australia
+URL:https://www.eventseye.com/fairs/f-atsa-independent-living-brisbane-2585
+ 1-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ABSOLVENTENKONGRESS HAMBURG — Hamburg\, Germany
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
@@ -648,369 +651,6 @@ DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
  l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CBME CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260718
-UID:f-cbme-china-22502-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Children Baby and Maternity Products Ind
- ustry Expo. A platform exhibiting all kinds of products of baby and child 
- sector as well as bringing buyers\, manufacturers and distributors togethe
- r\\nVenue: National Exhibition and Convention Center\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-cbme-china-22502-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-cbme-china-22502-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HONG KONG BOOK FAIR — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260722
-UID:f-hong-kong-book-fair-7859-1@eventseye.impio-vault
-DESCRIPTION:Hong Kong Book Fair features Books and Publications\, Children'
- s and Teen's Books\, Religious Books\, e-Books & e-Learning Resources\, Au
- dio Visual Learning Aids\, Educational Software\, Multimedia Products\, St
- ationery and Printed Products\\nVenue: Hong Kong Convention & Exhibition C
- entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -hong-kong-book-fair-7859-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hong-kong-book-fair-7859-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WELD COUNTY FAIR — Greeley\, CO\, USA
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260728
-UID:f-weld-county-fair-22577-1@eventseye.impio-vault
-DESCRIPTION:Weld County Fair gives the youth and adults of Weld County an o
- pportunity to exhibit their skills in a wide variety of areas including ag
- riculture\, livestock\, natural resources\, engineering\, consumer & famil
- y\, fine arts\, horticulture & family living\\nVenue: Weld County Fairgrou
- nds\, Greeley\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-weld-county-fair-22577-1.html
-LOCATION:Greeley\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-weld-county-fair-22577-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PERL SKILLSWEST CAREERS & EMPLOYMENT EXPO — Perth\, Australia
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260726
-UID:f-perl-skillswest-careers-employment-expo-30696-1@eventseye.impio-vault
-DESCRIPTION:Perth's largest Careers & Employment Event. The Expo will host 
- over 160 organisations and employers with career opportunities for all age
- s\\nVenue: Perth Convention Exhibition Centre\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-perl-skillswest-careers-employmen
- t-expo-30696-1.html
-LOCATION:Perth\, Australia
-URL:https://www.eventseye.com/fairs/f-perl-skillswest-careers-employment-ex
- po-30696-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SKILLSWEST CAREERS EXPO — Perth\, Australia
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260726
-UID:f-skillswest-careers-expo-22754-1@eventseye.impio-vault
-DESCRIPTION:Skills West Expo is Western Australia’s leading\, largest and
-  most attended careers event that enables visitors to explore real job opp
- ortunities\, tertiary and VET course options\, find traineeships\, apprent
- iceships and plan new career pathways\\nVenue: Perth Convention Exhibition
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-skillswest-careers-expo-22754-1.html
-LOCATION:Perth\, Australia
-URL:https://www.eventseye.com/fairs/f-skillswest-careers-expo-22754-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEMPFOREST — Bertrix\, Belgium
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260730
-UID:f-dempforest-22535-1@eventseye.impio-vault
-DESCRIPTION:The great forestry demonstration event in Western Europe. The s
- ite of approximately 120 ha is exceptional for on-site activities and demo
- nstrations in real conditions\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-dempforest-22535-1.html
-LOCATION:Bertrix\, Belgium
-URL:https://www.eventseye.com/fairs/f-dempforest-22535-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDUGATE EG - CAIRO — Cairo\, Egypt
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260731
-UID:f-edugate-eg-cairo-33490-1@eventseye.impio-vault
-DESCRIPTION:Edugate is dedicated to enhancing higher education and skills d
- evelopment across the Middle East and North Africa by organizing comprehen
- sive fairs\, offering expert consultancies\, and providing innovative trai
- ning programs\\nVenue: EIEC (Egypt International Exhibition Center)\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-edugate-eg-
- cairo-33490-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-edugate-eg-cairo-33490-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEETS IRAQ — Erbil\, Iraq
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260803
-UID:f-meets-iraq-29369-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and Conference for Middle East Education\, Technolog
- y & Students in Iraq\\nVenue: Erbil International Fairground\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-meets-iraq-29369-1
- .html
-LOCATION:Erbil\, Iraq
-URL:https://www.eventseye.com/fairs/f-meets-iraq-29369-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260806
-UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
-DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
- cts in the sectors of stationery\, school supplies\, office supplies\, cra
- fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCIENCE ALIVE — Adelaide\, Australia
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260810
-UID:f-science-alive-34063-1@eventseye.impio-vault
-DESCRIPTION:With a diverse range of exhibitors and interactive displays\, S
- cience Alive! offers a fantastic opportunity for people of all ages to eng
- age with science in an entertaining and meaningful way\\nVenue: Adelaide S
- howground\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-science-alive-34063-1.html
-LOCATION:Adelaide\, Australia
-URL:https://www.eventseye.com/fairs/f-science-alive-34063-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FESTIVAL DE CHÂTEAUROUX - DARC — Châteauroux\, France
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260822
-UID:f-festival-de-chateauroux-darc-33290-1@eventseye.impio-vault
-DESCRIPTION:The world-renowned Châteauroux - DARC Festival-Stage combines 
- a dance workshop\, led by renowned professionals\, with concerts for all a
- udiences. Four levels: introductory\, beginner\, intermediate\, and profes
- sional\\nVenue: Équinoxe - Scène nationale de Châteauroux\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-festival-de-chatea
- uroux-darc-33290-1.html
-LOCATION:Châteauroux\, France
-URL:https://www.eventseye.com/fairs/f-festival-de-chateauroux-darc-33290-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTI DIGITAL TALENT AND EDUCATION EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-inti-digital-talent-and-education-expo-34035-1@eventseye.impio-vault
-DESCRIPTION:At the INTI Education Expo\, the future of learning is brought 
- to life through AI-driven educational platforms\, immersive virtual classr
- ooms\, and adaptive learning technologies\\nVenue: Jakarta International E
- xpo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-inti-digital-talent-and-education-expo-34035-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inti-digital-talent-and-education-exp
- o-34035-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDU PLUS SHOW — Seoul\, Korea South
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260815
-UID:f-edu-plus-show-28096-1@eventseye.impio-vault
-DESCRIPTION:Korea International Children Education & Product Expo. Networki
- ng and Knowledge sharing platform by exhibitions\, international conferenc
- es\, teacher training workshops...\\nVenue: COEX Exhibition Center\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-edu-plus-sho
- w-28096-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-edu-plus-show-28096-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KIDS EXPO TURMENISTAN — Ashgabat\, Turkmenistan
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260823
-UID:f-kids-expo-turmenistan-32735-1@eventseye.impio-vault
-DESCRIPTION:Children's products and entertainment industry Turmenistan's Fa
- ir. Products for newborns\, Goods for school\, Education and training\, To
- ys and developmental aids\, Health and safety for children\, Children's li
- terature\, Sports and physical development...\\nVenue: CCI Turkmenistan Bu
- ilding\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-kids-expo-turmenistan-32735-1.html
-LOCATION:Ashgabat\, Turkmenistan
-URL:https://www.eventseye.com/fairs/f-kids-expo-turmenistan-32735-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHILDHOOD + CHILDREN'S FASHION — Almaty\, Kazakhstan
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260823
-UID:f-childhood-children-s-fashion-20824-1@eventseye.impio-vault
-DESCRIPTION:The exhibitions 'Childhood' and 'Children's Fashion' are a uniq
- ue platform in the Republic of Kazakhstan\, dedied to children products an
- d fashion. The best opportunity to find new partners in the Central Asian 
- region\\nVenue: Atakent International Exhibition Centre\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-childhood-children-s-fa
- shion-20824-1.html
-LOCATION:Almaty\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-childhood-children-s-fashion-20824-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDUTECHNIA — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260829
-UID:f-edutechnia-26853-1@eventseye.impio-vault
-DESCRIPTION:Edutechnia is an exhibition platform specialized in solutions a
- nd technologies for education and knowledge transfer\\nVenue: Corferias - 
- Centro de Convenciones\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-edutechnia-26853-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-edutechnia-26853-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOAD UP NORTH — Boden\, Sweden
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260830
-UID:f-load-up-north-29425-1@eventseye.impio-vault
-DESCRIPTION:International fair for construction machinery\, road constructi
- on\, transport and recruitment\, as well as soil and forestry\, but also s
- ervice and aftermarket\\nVenue: Boden Energi Arena\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-load-up-north-29425-1.html
-LOCATION:Boden\, Sweden
-URL:https://www.eventseye.com/fairs/f-load-up-north-29425-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JHEC - JAKARTA HALAL EXPO AND CONFERENCE — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260831
-UID:f-jhec-jakarta-halal-expo-and-conference-33277-1@eventseye.impio-vault
-DESCRIPTION:Alimentation et boissons\, cosmétiques et soins\, tourisme hal
- al\, industrie de la mode\, médias halal\, finance islamique\, logistique
-  halal\, éducation et formation\, conseil halal\, style de vie halal...\\
- nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conf
- erence-33277-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conferenc
- e-33277-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SYDNEY CAREERS & EMPLOYMENT EXPO — Sydney\, Australia
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260830
-UID:f-sydney-careers-employment-expo-30698-1@eventseye.impio-vault
-DESCRIPTION:Sydney's largest Careers & Employment Event. The Expo will host
-  over 120 organisations and employers with career opportunities for all ag
- es\\nVenue: Sydney Showground - Olympic Park\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-sydney-careers-employment-expo-306
- 98-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-sydney-careers-employment-expo-30698-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE EDUCATION SHOW - MELBOURNE — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260905
-UID:f-the-education-show-melbourne-26004-1@eventseye.impio-vault
-DESCRIPTION:Australian Education Show. Visit and discover the latest resour
- ces\, products and services for your classroom\, school and career\\nVenue
- : Melbourne Exhibition & Convention Centre\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-the-education-show-melbourne-26004-1
- .html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-the-education-show-melbourne-26004-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD OF CHILDHOOD — Yerevan\, Armenia
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-UID:f-world-of-childhood-10243-1@eventseye.impio-vault
-DESCRIPTION:International exhibition in Yerevan specializing in goods and s
- ervices for children. It covers essential aspects of children's life\, dev
- elopment and education\\nVenue: Karen Demirchyan Complex\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-world-of-childhood-102
- 43-1.html
-LOCATION:Yerevan\, Armenia
-URL:https://www.eventseye.com/fairs/f-world-of-childhood-10243-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-UID:f-access-mba-tokyo-26554-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: The Tokyo ED
- ITION\, Toranomon\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-access-mba-tokyo-26554-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-access-mba-tokyo-26554-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - SEOUL — Seoul\, Korea South
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-UID:f-access-mba-seoul-23655-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Novotel Seou
- l Ambassador Gangnam\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-access-mba-seoul-23655-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-access-mba-seoul-23655-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - BEIJING — Beijing\, China
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-UID:f-access-masters-beijing-30925-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nVenue: The St. Regis\, Beijing
- \\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-acc
- ess-masters-beijing-30925-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-access-masters-beijing-30925-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - BEIJING — Beijing\, China
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-UID:f-access-mba-beijing-15781-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: The St. Regi
- s\, Beijing\\nFrequency: twice a year\\nSource: https://www.eventseye.com/
- fairs/f-access-mba-beijing-15781-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-access-mba-beijing-15781-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - SHANGHAI — Shanghai\, China
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-UID:f-access-masters-shanghai-30926-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nVenue: DoubleTree by Hilton Sh
- anghai - Pudong\\nFrequency: twice a year\\nSource: https://www.eventseye.
- com/fairs/f-access-masters-shanghai-30926-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-access-masters-shanghai-30926-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - DENVER — Denver\, CO\, USA
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-UID:f-access-mba-denver-33076-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Westin Denve
- r Downtown Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-access-mba-denver-33076-1.html
-LOCATION:Denver\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-access-mba-denver-33076-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BRISBANE CAREERS & EMPLOYMENT EXPO — Brisbane\, Australia
@@ -1593,6 +1233,369 @@ DESCRIPTION:The Campus Safety Conference brings together security\, public
  seye.com/fairs/f-campus-safety-conference-32393-1.html
 LOCATION:National Harbor\, MD\, USA
 URL:https://www.eventseye.com/fairs/f-campus-safety-conference-32393-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CBME CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260718
+UID:f-cbme-china-22502-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Children Baby and Maternity Products Ind
+ ustry Expo. A platform exhibiting all kinds of products of baby and child 
+ sector as well as bringing buyers\, manufacturers and distributors togethe
+ r\\nVenue: National Exhibition and Convention Center\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-cbme-china-22502-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-cbme-china-22502-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HONG KONG BOOK FAIR — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260722
+UID:f-hong-kong-book-fair-7859-1@eventseye.impio-vault
+DESCRIPTION:Hong Kong Book Fair features Books and Publications\, Children'
+ s and Teen's Books\, Religious Books\, e-Books & e-Learning Resources\, Au
+ dio Visual Learning Aids\, Educational Software\, Multimedia Products\, St
+ ationery and Printed Products\\nVenue: Hong Kong Convention & Exhibition C
+ entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -hong-kong-book-fair-7859-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-book-fair-7859-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WELD COUNTY FAIR — Greeley\, CO\, USA
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260728
+UID:f-weld-county-fair-22577-1@eventseye.impio-vault
+DESCRIPTION:Weld County Fair gives the youth and adults of Weld County an o
+ pportunity to exhibit their skills in a wide variety of areas including ag
+ riculture\, livestock\, natural resources\, engineering\, consumer & famil
+ y\, fine arts\, horticulture & family living\\nVenue: Weld County Fairgrou
+ nds\, Greeley\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-weld-county-fair-22577-1.html
+LOCATION:Greeley\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-weld-county-fair-22577-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERL SKILLSWEST CAREERS & EMPLOYMENT EXPO — Perth\, Australia
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+UID:f-perl-skillswest-careers-employment-expo-30696-1@eventseye.impio-vault
+DESCRIPTION:Perth's largest Careers & Employment Event. The Expo will host 
+ over 160 organisations and employers with career opportunities for all age
+ s\\nVenue: Perth Convention Exhibition Centre\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-perl-skillswest-careers-employmen
+ t-expo-30696-1.html
+LOCATION:Perth\, Australia
+URL:https://www.eventseye.com/fairs/f-perl-skillswest-careers-employment-ex
+ po-30696-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SKILLSWEST CAREERS EXPO — Perth\, Australia
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+UID:f-skillswest-careers-expo-22754-1@eventseye.impio-vault
+DESCRIPTION:Skills West Expo is Western Australia’s leading\, largest and
+  most attended careers event that enables visitors to explore real job opp
+ ortunities\, tertiary and VET course options\, find traineeships\, apprent
+ iceships and plan new career pathways\\nVenue: Perth Convention Exhibition
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-skillswest-careers-expo-22754-1.html
+LOCATION:Perth\, Australia
+URL:https://www.eventseye.com/fairs/f-skillswest-careers-expo-22754-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEMPFOREST — Bertrix\, Belgium
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260730
+UID:f-dempforest-22535-1@eventseye.impio-vault
+DESCRIPTION:The great forestry demonstration event in Western Europe. The s
+ ite of approximately 120 ha is exceptional for on-site activities and demo
+ nstrations in real conditions\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-dempforest-22535-1.html
+LOCATION:Bertrix\, Belgium
+URL:https://www.eventseye.com/fairs/f-dempforest-22535-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDUGATE EG - CAIRO — Cairo\, Egypt
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260731
+UID:f-edugate-eg-cairo-33490-1@eventseye.impio-vault
+DESCRIPTION:Edugate is dedicated to enhancing higher education and skills d
+ evelopment across the Middle East and North Africa by organizing comprehen
+ sive fairs\, offering expert consultancies\, and providing innovative trai
+ ning programs\\nVenue: EIEC (Egypt International Exhibition Center)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-edugate-eg-
+ cairo-33490-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-edugate-eg-cairo-33490-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEETS IRAQ — Erbil\, Iraq
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260803
+UID:f-meets-iraq-29369-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and Conference for Middle East Education\, Technolog
+ y & Students in Iraq\\nVenue: Erbil International Fairground\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-meets-iraq-29369-1
+ .html
+LOCATION:Erbil\, Iraq
+URL:https://www.eventseye.com/fairs/f-meets-iraq-29369-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260806
+UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
+DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
+ cts in the sectors of stationery\, school supplies\, office supplies\, cra
+ fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCIENCE ALIVE — Adelaide\, Australia
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260810
+UID:f-science-alive-34063-1@eventseye.impio-vault
+DESCRIPTION:With a diverse range of exhibitors and interactive displays\, S
+ cience Alive! offers a fantastic opportunity for people of all ages to eng
+ age with science in an entertaining and meaningful way\\nVenue: Adelaide S
+ howground\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-science-alive-34063-1.html
+LOCATION:Adelaide\, Australia
+URL:https://www.eventseye.com/fairs/f-science-alive-34063-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL DE CHÂTEAUROUX - DARC — Châteauroux\, France
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260822
+UID:f-festival-de-chateauroux-darc-33290-1@eventseye.impio-vault
+DESCRIPTION:The world-renowned Châteauroux - DARC Festival-Stage combines 
+ a dance workshop\, led by renowned professionals\, with concerts for all a
+ udiences. Four levels: introductory\, beginner\, intermediate\, and profes
+ sional\\nVenue: Équinoxe - Scène nationale de Châteauroux\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-festival-de-chatea
+ uroux-darc-33290-1.html
+LOCATION:Châteauroux\, France
+URL:https://www.eventseye.com/fairs/f-festival-de-chateauroux-darc-33290-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTI DIGITAL TALENT AND EDUCATION EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-inti-digital-talent-and-education-expo-34035-1@eventseye.impio-vault
+DESCRIPTION:At the INTI Education Expo\, the future of learning is brought 
+ to life through AI-driven educational platforms\, immersive virtual classr
+ ooms\, and adaptive learning technologies\\nVenue: Jakarta International E
+ xpo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-inti-digital-talent-and-education-expo-34035-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inti-digital-talent-and-education-exp
+ o-34035-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDU PLUS SHOW — Seoul\, Korea South
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260815
+UID:f-edu-plus-show-28096-1@eventseye.impio-vault
+DESCRIPTION:Korea International Children Education & Product Expo. Networki
+ ng and Knowledge sharing platform by exhibitions\, international conferenc
+ es\, teacher training workshops...\\nVenue: COEX Exhibition Center\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-edu-plus-sho
+ w-28096-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-edu-plus-show-28096-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KIDS EXPO TURMENISTAN — Ashgabat\, Turkmenistan
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+UID:f-kids-expo-turmenistan-32735-1@eventseye.impio-vault
+DESCRIPTION:Children's products and entertainment industry Turmenistan's Fa
+ ir. Products for newborns\, Goods for school\, Education and training\, To
+ ys and developmental aids\, Health and safety for children\, Children's li
+ terature\, Sports and physical development...\\nVenue: CCI Turkmenistan Bu
+ ilding\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-kids-expo-turmenistan-32735-1.html
+LOCATION:Ashgabat\, Turkmenistan
+URL:https://www.eventseye.com/fairs/f-kids-expo-turmenistan-32735-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHILDHOOD + CHILDREN'S FASHION — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260823
+UID:f-childhood-children-s-fashion-20824-1@eventseye.impio-vault
+DESCRIPTION:The exhibitions 'Childhood' and 'Children's Fashion' are a uniq
+ ue platform in the Republic of Kazakhstan\, dedied to children products an
+ d fashion. The best opportunity to find new partners in the Central Asian 
+ region\\nVenue: Atakent International Exhibition Centre\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-childhood-children-s-fa
+ shion-20824-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-childhood-children-s-fashion-20824-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDUTECHNIA — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260829
+UID:f-edutechnia-26853-1@eventseye.impio-vault
+DESCRIPTION:Edutechnia is an exhibition platform specialized in solutions a
+ nd technologies for education and knowledge transfer\\nVenue: Corferias - 
+ Centro de Convenciones\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-edutechnia-26853-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-edutechnia-26853-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOAD UP NORTH — Boden\, Sweden
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+UID:f-load-up-north-29425-1@eventseye.impio-vault
+DESCRIPTION:International fair for construction machinery\, road constructi
+ on\, transport and recruitment\, as well as soil and forestry\, but also s
+ ervice and aftermarket\\nVenue: Boden Energi Arena\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-load-up-north-29425-1.html
+LOCATION:Boden\, Sweden
+URL:https://www.eventseye.com/fairs/f-load-up-north-29425-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JHEC - JAKARTA HALAL EXPO AND CONFERENCE — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260831
+UID:f-jhec-jakarta-halal-expo-and-conference-33277-1@eventseye.impio-vault
+DESCRIPTION:Alimentation et boissons\, cosmétiques et soins\, tourisme hal
+ al\, industrie de la mode\, médias halal\, finance islamique\, logistique
+  halal\, éducation et formation\, conseil halal\, style de vie halal...\\
+ nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conf
+ erence-33277-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-jhec-jakarta-halal-expo-and-conferenc
+ e-33277-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SYDNEY CAREERS & EMPLOYMENT EXPO — Sydney\, Australia
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260830
+UID:f-sydney-careers-employment-expo-30698-1@eventseye.impio-vault
+DESCRIPTION:Sydney's largest Careers & Employment Event. The Expo will host
+  over 120 organisations and employers with career opportunities for all ag
+ es\\nVenue: Sydney Showground - Olympic Park\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-sydney-careers-employment-expo-306
+ 98-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-sydney-careers-employment-expo-30698-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE EDUCATION SHOW - MELBOURNE — Melbourne\, Australia
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260905
+UID:f-the-education-show-melbourne-26004-1@eventseye.impio-vault
+DESCRIPTION:Australian Education Show. Visit and discover the latest resour
+ ces\, products and services for your classroom\, school and career\\nVenue
+ : Melbourne Exhibition & Convention Centre\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-the-education-show-melbourne-26004-1
+ .html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-the-education-show-melbourne-26004-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD OF CHILDHOOD — Yerevan\, Armenia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-world-of-childhood-10243-1@eventseye.impio-vault
+DESCRIPTION:International exhibition in Yerevan specializing in goods and s
+ ervices for children. It covers essential aspects of children's life\, dev
+ elopment and education\\nVenue: Karen Demirchyan Complex\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-world-of-childhood-102
+ 43-1.html
+LOCATION:Yerevan\, Armenia
+URL:https://www.eventseye.com/fairs/f-world-of-childhood-10243-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+UID:f-access-mba-tokyo-26554-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: The Tokyo ED
+ ITION\, Toranomon\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-access-mba-tokyo-26554-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-access-mba-tokyo-26554-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - SEOUL — Seoul\, Korea South
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+UID:f-access-mba-seoul-23655-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Novotel Seou
+ l Ambassador Gangnam\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-access-mba-seoul-23655-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-access-mba-seoul-23655-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MASTERS - BEIJING — Beijing\, China
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+UID:f-access-masters-beijing-30925-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nVenue: The St. Regis\, Beijing
+ \\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-acc
+ ess-masters-beijing-30925-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-access-masters-beijing-30925-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - BEIJING — Beijing\, China
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+UID:f-access-mba-beijing-15781-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: The St. Regi
+ s\, Beijing\\nFrequency: twice a year\\nSource: https://www.eventseye.com/
+ fairs/f-access-mba-beijing-15781-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-access-mba-beijing-15781-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MASTERS - SHANGHAI — Shanghai\, China
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+UID:f-access-masters-shanghai-30926-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nVenue: DoubleTree by Hilton Sh
+ anghai - Pudong\\nFrequency: twice a year\\nSource: https://www.eventseye.
+ com/fairs/f-access-masters-shanghai-30926-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-access-masters-shanghai-30926-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - DENVER — Denver\, CO\, USA
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+UID:f-access-mba-denver-33076-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Westin Denve
+ r Downtown Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-access-mba-denver-33076-1.html
+LOCATION:Denver\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-access-mba-denver-33076-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ACCESS MBA - SHANGHAI — Shanghai\, China
@@ -2258,30 +2261,442 @@ LOCATION:Wels\, Austria
 URL:https://www.eventseye.com/fairs/f-jugend-beruf-32550-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ACCESS MBA - PHILADELPHIA — Philadelphia\, PA\, USA
+SUMMARY:THE WORLDVIEW EDUCATION FAIR - UGANDA — Kampala\, Uganda
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-UID:f-access-mba-philadelphia-33078-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: W Philadelph
- ia\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ac
- cess-mba-philadelphia-33078-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-access-mba-philadelphia-33078-1.html
+UID:f-the-worldview-education-fair-uganda-34145-1@eventseye.impio-vault
+DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
+ ns/ Universities to recruit and give admission to prospective internationa
+ l students from Uganda\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-the-worldview-education-fair-uganda-34145-1.html
+LOCATION:Kampala\, Uganda
+URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-uganda-3
+ 4145-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IL SALONE DELLO STUDENTE - CARRARA — Carrara\, Italy
-DTSTART;VALUE=DATE:20261001
+SUMMARY:ACCESS MASTERS - PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-UID:f-il-salone-dello-studente-carrara-30296-1@eventseye.impio-vault
-DESCRIPTION:Carrara Student's Exhibition. A unique opportunity to meet and 
+UID:f-access-masters-paris-21436-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nVenue: Paris Marriott Rive Gau
+ che Hotel & Conference Center\\nFrequency: twice a year\\nSource: https://
+ www.eventseye.com/fairs/f-access-masters-paris-21436-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-access-masters-paris-21436-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOR KIDS — Prague\, Czech Republic
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-for-kids-14240-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair of Children’s Needs. FOR KIDS runs concurrently wi
+ th a sales exhibition of modelling and creative work\, a fair for interact
+ ive entertainment & video games and a fair of cosmetics\, hairdressing\, n
+ ail design and foot care\\nVenue: PVA Letnany - Prague Exhibition Centre L
+ etnany\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs
+ /f-for-kids-14240-1.html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-for-kids-14240-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - NEW YORK — New York\, NY\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-access-mba-new-york-22847-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: The Westin N
+ ew York at Times Square\\nFrequency: twice a year\\nSource: https://www.ev
+ entseye.com/fairs/f-access-mba-new-york-22847-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-access-mba-new-york-22847-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WORLDVIEW EDUCATION FAIR - KENYA — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-the-worldview-education-fair-kenya-30770-1@eventseye.impio-vault
+DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
+ ns/ Universities to recruit and give admission to prospective internationa
+ l students from Kenya\\nVenue: Fairmont The Norfolk\, Nairobi\\nFrequency:
+  twice a year\\nSource: https://www.eventseye.com/fairs/f-the-worldview-ed
+ ucation-fair-kenya-30770-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-kenya-30
+ 770-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - BOSTON — Boston\, MA\, USA
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+UID:f-access-mba-boston-27234-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nFrequency: twice a 
+ year\\nSource: https://www.eventseye.com/fairs/f-access-mba-boston-27234-1
+ .html
+LOCATION:Boston\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-access-mba-boston-27234-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAUDEAMUS BRATISLAVA — Bratislava\, Slovakia
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-gaudeamus-bratislava-31624-1@eventseye.impio-vault
+DESCRIPTION:Exhibition dedicated to European Higher Education and Lifelong 
+ Learning. Schools from both Slovakia and Czechia\\nVenue: Bratislava Exhib
+ ition Ground\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-gaudeamus-bratislava-31624-1.html
+LOCATION:Bratislava\, Slovakia
+URL:https://www.eventseye.com/fairs/f-gaudeamus-bratislava-31624-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IL SALONE DELLO STUDENTE - CATANIA — Catania\, Italy
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-il-salone-dello-studente-catania-20584-1@eventseye.impio-vault
+DESCRIPTION:Catania Student's Exhibition. A unique opportunity to meet and 
  learn about all the post-graduate opportunities\, in Italy and abroad\\nVe
- nue: CarraraFiere\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-il-salone-dello-studente-carrara-30296-1.html
-LOCATION:Carrara\, Italy
-URL:https://www.eventseye.com/fairs/f-il-salone-dello-studente-carrara-3029
- 6-1.html
+ nue: Le Ciminiere\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-il-salone-dello-studente-catania-20584-1.html
+LOCATION:Catania\, Italy
+URL:https://www.eventseye.com/fairs/f-il-salone-dello-studente-catania-2058
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON INTERNATIONAL DES MASTERS - AGADIR — Agadir\, Morocco
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-salon-international-des-masters-agadir-33743-1@eventseye.impio-vault
+DESCRIPTION:The International Masters Fair sheds light on Masters\, Grande 
+ École Programs (PGE)\, and MBAs abroad. Discover study opportunities in v
+ arious countries with specialists who have in-depth knowledge of each univ
+ ersity system\\nVenue: Zephyr Agadir\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-salon-international-des-masters-agadir-337
+ 43-1.html
+LOCATION:Agadir\, Morocco
+URL:https://www.eventseye.com/fairs/f-salon-international-des-masters-agadi
+ r-33743-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WORLDVIEW EDUCATION FAIR - BOSWANA — Gaborone\, Botswana
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+UID:f-the-worldview-education-fair-boswana-32583-1@eventseye.impio-vault
+DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
+ ns/ Universities to recruit and give admission to prospective internationa
+ l students from Boswana\\nFrequency: twice a year\\nSource: https://www.ev
+ entseye.com/fairs/f-the-worldview-education-fair-boswana-32583-1.html
+LOCATION:Gaborone\, Botswana
+URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-boswana-
+ 32583-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD OF LEARNING CONFERENCE & EXHIBITION — Birmingham\, UK - Uni
+ ted Kingdom
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-world-of-learning-conference-exhibition-14203-1@eventseye.impio-vault
+DESCRIPTION:Event for all aspects of Learning and Development. World of Lea
+ rning Conference & Exhibition is the essential event for all senior learni
+ ng decision-makers and buyers\\nVenue: National Exhibition Centre\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-world-of-lear
+ ning-conference-exhibition-14203-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-world-of-learning-conference-exhibiti
+ on-14203-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON EDUC — Marche-en-Famenne\, Belgium
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+UID:f-salon-educ-7687-1@eventseye.impio-vault
+DESCRIPTION:Salon Éduc is the largest educational platform in French-speak
+ ing Belgium. It brings together education professionals. Meetings\, sharin
+ g\, workshops\, training\, conferences...\\nVenue: Wallonie Expo\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-educ-768
+ 7-1.html
+LOCATION:Marche-en-Famenne\, Belgium
+URL:https://www.eventseye.com/fairs/f-salon-educ-7687-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON RH SUISSE — Lausanne\, Switzerland
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:f-salon-rh-suisse-22403-1@eventseye.impio-vault
+DESCRIPTION:The Salon RH Suisse is THE place to be for HR professionals and
+  offers an extensive overview of innovative products and services in the H
+ R sector\\nVenue: Palais de Beaulieu\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-salon-rh-suisse-22403-1.html
+LOCATION:Lausanne\, Switzerland
+URL:https://www.eventseye.com/fairs/f-salon-rh-suisse-22403-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMART CITY ASIA — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+UID:f-smart-city-asia-28206-1@eventseye.impio-vault
+DESCRIPTION:The only Expo Platform in Vietnam specialized in Smart City –
+  Accompanied with Government Leaders. It consists of six main features: sm
+ art energy\, smart traffic\, smart governance\, smart learning\, smart eco
+ nomy\, and smart life\\nVenue: Vietnam Exhibition and Fair Centre (VEFAC)\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-smart
+ -city-asia-28206-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-smart-city-asia-28206-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - BUENOS AIRES — Buenos Aires\, Argentina
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:f-access-mba-buenos-aires-26553-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Hilton Bueno
+ s Aires\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
+ s/f-access-mba-buenos-aires-26553-1.html
+LOCATION:Buenos Aires\, Argentina
+URL:https://www.eventseye.com/fairs/f-access-mba-buenos-aires-26553-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - CHICAGO — Chicago\, IL\, USA
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:f-access-mba-chicago-30273-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Sheraton Gra
+ nd\, Chicago\\nFrequency: twice a year\\nSource: https://www.eventseye.com
+ /fairs/f-access-mba-chicago-30273-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-access-mba-chicago-30273-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOBFACTORY — Rostock\, Germany
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+UID:f-jobfactory-16662-1@eventseye.impio-vault
+DESCRIPTION:Training and career fair. At JOBFACTORY\, find out about the di
+ fferent training and study opportunities and find the jobs and offers that
+  suit you\\nVenue: HanseMesse Rostock\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-jobfactory-16662-1.html
+LOCATION:Rostock\, Germany
+URL:https://www.eventseye.com/fairs/f-jobfactory-16662-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MASTERS - SAO PAULO — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:f-access-masters-sao-paulo-30940-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nVenue: Renaissance São Paulo 
+ Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/
+ f-access-masters-sao-paulo-30940-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-access-masters-sao-paulo-30940-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - CASABLANCA — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:f-access-mba-casablanca-24655-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organized around the world\\nVenue: Four Seasons
+  Hotel Casablanca\\nFrequency: twice a year\\nSource: https://www.eventsey
+ e.com/fairs/f-access-mba-casablanca-24655-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-access-mba-casablanca-24655-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - MUNICH — Munich\, Germany
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:f-access-mba-munich-22849-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Hilton Munch
+ en City\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
+ s/f-access-mba-munich-22849-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-access-mba-munich-22849-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WORLDVIEW EDUCATION FAIR - SOUTH AFRICA - JOHANNESBURG — Joha
+ nnesburg\, South Africa
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+UID:f-the-worldview-education-fair-south-africa-johannesburg-30772-1@eventseye.impio-vault
+DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
+ ns/ Universities to recruit and give admission to prospective internationa
+ l students from South Africa\\nVenue: Southern Sun Sandton\\nFrequency: tw
+ ice a year\\nSource: https://www.eventseye.com/fairs/f-the-worldview-educa
+ tion-fair-south-africa-johannesburg-30772-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-south-af
+ rica-johannesburg-30772-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - SÃO PAULO — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+UID:f-access-mba-sao-paulo-14531-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Renaissance 
+ São Paulo Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye
+ .com/fairs/f-access-mba-sao-paulo-14531-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-access-mba-sao-paulo-14531-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MASTERS - LAGOS — Lagos\, Nigeria
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:f-access-masters-lagos-30931-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nFrequency: twice a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-access-masters-lagos-30931-1.html
+LOCATION:Lagos\, Nigeria
+URL:https://www.eventseye.com/fairs/f-access-masters-lagos-30931-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - LAGOS — Lagos\, Nigeria
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:f-access-mba-lagos-20371-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: InterContine
+ ntal Hotel Lagos\\nFrequency: twice a year\\nSource: https://www.eventseye
+ .com/fairs/f-access-mba-lagos-20371-1.html
+LOCATION:Lagos\, Nigeria
+URL:https://www.eventseye.com/fairs/f-access-mba-lagos-20371-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDUTRAC OMAN — Muscat\, Oman
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261015
+UID:f-edutrac-oman-23809-1@eventseye.impio-vault
+DESCRIPTION:A Platform for the Continuous Advancement of Education\, Career
+  and Training in Oman\\nVenue: Oman Convention & Exhibition Centre\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-edutrac-oman
+ -23809-1.html
+LOCATION:Muscat\, Oman
+URL:https://www.eventseye.com/fairs/f-edutrac-oman-23809-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON DES MICRO-ENTREPRISES — Paris\, France
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261014
+UID:f-le-salon-des-micro-entreprises-10644-1@eventseye.impio-vault
+DESCRIPTION:Meeting for independents\, franchise candidates\, creators and 
+ managers of VSEs\\nVenue: Palais des Congrès de Paris Porte Maillot\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-d
+ es-micro-entreprises-10644-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-des-micro-entreprises-10644-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VEF GLOBAL EDUCATION FAIR –IZMIR — Izmir\, Turkey
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:f-vef-global-education-fair-izmir-34100-1@eventseye.impio-vault
+DESCRIPTION:The VEF Global Education Fair is a multi-city education event t
+ aking place across Turkey\, connecting international education institution
+ s with prospective students and education professionals\\nVenue: Ege Palas
+  Business Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.
+ com/fairs/f-vef-global-education-fair-izmir-34100-1.html
+LOCATION:Izmir\, Turkey
+URL:https://www.eventseye.com/fairs/f-vef-global-education-fair-izmir-34100
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MASTERS - ACCRA — Accra\, Ghana
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-access-masters-accra-30930-1@eventseye.impio-vault
+DESCRIPTION:Access Masters events introduce you to admissions representativ
+ es of top Masters programmes from around the world. Find out more about gr
+ aduate studies in Business\, Management\, Marketing\, Finance... during pe
+ rsonalised meetings and small group talks\\nVenue: Accra Marriott Hotel\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-access
+ -masters-accra-30930-1.html
+LOCATION:Accra\, Ghana
+URL:https://www.eventseye.com/fairs/f-access-masters-accra-30930-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - ACCRA — Accra\, Ghana
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-access-mba-accra-23653-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Accra Marrio
+ tt Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fai
+ rs/f-access-mba-accra-23653-1.html
+LOCATION:Accra\, Ghana
+URL:https://www.eventseye.com/fairs/f-access-mba-accra-23653-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - SANTIAGO — Santiago\, Chile
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-access-mba-santiago-17866-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: Renaissance 
+ Santiago Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.c
+ om/fairs/f-access-mba-santiago-17866-1.html
+LOCATION:Santiago\, Chile
+URL:https://www.eventseye.com/fairs/f-access-mba-santiago-17866-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONGRÈS PETITE ENFANCE - COLMAR — Colmar\, France
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-congres-petite-enfance-colmar-31490-1@eventseye.impio-vault
+DESCRIPTION:Professional congress for staff in early childhood care structu
+ res. Conferences\, workshops\, meetings with exhibitors\\nVenue: Parc des 
+ Expositions de Colmar\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-congres-petite-enfance-colmar-31490-1.html
+LOCATION:Colmar\, France
+URL:https://www.eventseye.com/fairs/f-congres-petite-enfance-colmar-31490-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE WORLDVIEW EDUCATION FAIR - ZIMBABWE — Harare\, Zimbabwe
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-the-worldview-education-fair-zimbabwe-31628-1@eventseye.impio-vault
+DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
+ ns/ Universities to recruit and give admission to prospective internationa
+ l students from Zimbabwe\\nFrequency: twice a year\\nSource: https://www.e
+ ventseye.com/fairs/f-the-worldview-education-fair-zimbabwe-31628-1.html
+LOCATION:Harare\, Zimbabwe
+URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-zimbabwe
+ -31628-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOP DRH - LYON — Lyon\, France
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+UID:f-top-drh-lyon-34011-1@eventseye.impio-vault
+DESCRIPTION:Meeting of Directors and Managers of Human Resources and Servic
+ e Providers. Two days combining residential one-to-one business meetings\,
+  thematic workshops\, working groups\, business lunches and a gala dinner\
+ \nVenue: InterContinental Lyon - Hotel Dieu\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-top-drh-lyon-34011-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-top-drh-lyon-34011-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HRSE - HR SUMMIT & EXPO — Dubai\, UAE - United Arab Emirates
@@ -2309,6 +2724,32 @@ DESCRIPTION:The VEF Global Education Fair is a multi-city education event t
 LOCATION:Ankara\, Turkey
 URL:https://www.eventseye.com/fairs/f-vef-global-education-fair-ankara-3410
  2-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCESS MBA - PHILADELPHIA — Philadelphia\, PA\, USA
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+UID:f-access-mba-philadelphia-33078-1@eventseye.impio-vault
+DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
+  better inform prospective students of existing MBA opportunities. ACCESS 
+ MBA is a series of events organised around the world\\nVenue: W Philadelph
+ ia\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ac
+ cess-mba-philadelphia-33078-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-access-mba-philadelphia-33078-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IL SALONE DELLO STUDENTE - CARRARA — Carrara\, Italy
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+UID:f-il-salone-dello-studente-carrara-30296-1@eventseye.impio-vault
+DESCRIPTION:Carrara Student's Exhibition. A unique opportunity to meet and 
+ learn about all the post-graduate opportunities\, in Italy and abroad\\nVe
+ nue: CarraraFiere\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-il-salone-dello-studente-carrara-30296-1.html
+LOCATION:Carrara\, Italy
+URL:https://www.eventseye.com/fairs/f-il-salone-dello-studente-carrara-3029
+ 6-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ACCESS MASTERS - JOHANNESBURG — Johannesburg\, South Africa
@@ -2930,430 +3371,6 @@ DESCRIPTION:The ITCS is a tech conference\, festival & IT job fair in one.
  urce: https://www.eventseye.com/fairs/f-itcs-munchen-28960-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-itcs-munchen-28960-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE WORLDVIEW EDUCATION FAIR - UGANDA — Kampala\, Uganda
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-UID:f-the-worldview-education-fair-uganda-34145-1@eventseye.impio-vault
-DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
- ns/ Universities to recruit and give admission to prospective internationa
- l students from Uganda\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-the-worldview-education-fair-uganda-34145-1.html
-LOCATION:Kampala\, Uganda
-URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-uganda-3
- 4145-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-UID:f-access-masters-paris-21436-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nVenue: Paris Marriott Rive Gau
- che Hotel & Conference Center\\nFrequency: twice a year\\nSource: https://
- www.eventseye.com/fairs/f-access-masters-paris-21436-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-access-masters-paris-21436-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOR KIDS — Prague\, Czech Republic
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-for-kids-14240-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair of Children’s Needs. FOR KIDS runs concurrently wi
- th a sales exhibition of modelling and creative work\, a fair for interact
- ive entertainment & video games and a fair of cosmetics\, hairdressing\, n
- ail design and foot care\\nVenue: PVA Letnany - Prague Exhibition Centre L
- etnany\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs
- /f-for-kids-14240-1.html
-LOCATION:Prague\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-for-kids-14240-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - NEW YORK — New York\, NY\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-UID:f-access-mba-new-york-22847-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: The Westin N
- ew York at Times Square\\nFrequency: twice a year\\nSource: https://www.ev
- entseye.com/fairs/f-access-mba-new-york-22847-1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-access-mba-new-york-22847-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE WORLDVIEW EDUCATION FAIR - KENYA — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-UID:f-the-worldview-education-fair-kenya-30770-1@eventseye.impio-vault
-DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
- ns/ Universities to recruit and give admission to prospective internationa
- l students from Kenya\\nVenue: Fairmont The Norfolk\, Nairobi\\nFrequency:
-  twice a year\\nSource: https://www.eventseye.com/fairs/f-the-worldview-ed
- ucation-fair-kenya-30770-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-kenya-30
- 770-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - BOSTON — Boston\, MA\, USA
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-UID:f-access-mba-boston-27234-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nFrequency: twice a 
- year\\nSource: https://www.eventseye.com/fairs/f-access-mba-boston-27234-1
- .html
-LOCATION:Boston\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-access-mba-boston-27234-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAUDEAMUS BRATISLAVA — Bratislava\, Slovakia
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-gaudeamus-bratislava-31624-1@eventseye.impio-vault
-DESCRIPTION:Exhibition dedicated to European Higher Education and Lifelong 
- Learning. Schools from both Slovakia and Czechia\\nVenue: Bratislava Exhib
- ition Ground\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-gaudeamus-bratislava-31624-1.html
-LOCATION:Bratislava\, Slovakia
-URL:https://www.eventseye.com/fairs/f-gaudeamus-bratislava-31624-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IL SALONE DELLO STUDENTE - CATANIA — Catania\, Italy
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-il-salone-dello-studente-catania-20584-1@eventseye.impio-vault
-DESCRIPTION:Catania Student's Exhibition. A unique opportunity to meet and 
- learn about all the post-graduate opportunities\, in Italy and abroad\\nVe
- nue: Le Ciminiere\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-il-salone-dello-studente-catania-20584-1.html
-LOCATION:Catania\, Italy
-URL:https://www.eventseye.com/fairs/f-il-salone-dello-studente-catania-2058
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON INTERNATIONAL DES MASTERS - AGADIR — Agadir\, Morocco
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-salon-international-des-masters-agadir-33743-1@eventseye.impio-vault
-DESCRIPTION:The International Masters Fair sheds light on Masters\, Grande 
- École Programs (PGE)\, and MBAs abroad. Discover study opportunities in v
- arious countries with specialists who have in-depth knowledge of each univ
- ersity system\\nVenue: Zephyr Agadir\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-salon-international-des-masters-agadir-337
- 43-1.html
-LOCATION:Agadir\, Morocco
-URL:https://www.eventseye.com/fairs/f-salon-international-des-masters-agadi
- r-33743-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE WORLDVIEW EDUCATION FAIR - BOSWANA — Gaborone\, Botswana
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-UID:f-the-worldview-education-fair-boswana-32583-1@eventseye.impio-vault
-DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
- ns/ Universities to recruit and give admission to prospective internationa
- l students from Boswana\\nFrequency: twice a year\\nSource: https://www.ev
- entseye.com/fairs/f-the-worldview-education-fair-boswana-32583-1.html
-LOCATION:Gaborone\, Botswana
-URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-boswana-
- 32583-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD OF LEARNING CONFERENCE & EXHIBITION — Birmingham\, UK - Uni
- ted Kingdom
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-world-of-learning-conference-exhibition-14203-1@eventseye.impio-vault
-DESCRIPTION:Event for all aspects of Learning and Development. World of Lea
- rning Conference & Exhibition is the essential event for all senior learni
- ng decision-makers and buyers\\nVenue: National Exhibition Centre\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-world-of-lear
- ning-conference-exhibition-14203-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-world-of-learning-conference-exhibiti
- on-14203-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON EDUC — Marche-en-Famenne\, Belgium
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-UID:f-salon-educ-7687-1@eventseye.impio-vault
-DESCRIPTION:Salon Éduc is the largest educational platform in French-speak
- ing Belgium. It brings together education professionals. Meetings\, sharin
- g\, workshops\, training\, conferences...\\nVenue: Wallonie Expo\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-educ-768
- 7-1.html
-LOCATION:Marche-en-Famenne\, Belgium
-URL:https://www.eventseye.com/fairs/f-salon-educ-7687-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON RH SUISSE — Lausanne\, Switzerland
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261009
-UID:f-salon-rh-suisse-22403-1@eventseye.impio-vault
-DESCRIPTION:The Salon RH Suisse is THE place to be for HR professionals and
-  offers an extensive overview of innovative products and services in the H
- R sector\\nVenue: Palais de Beaulieu\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-salon-rh-suisse-22403-1.html
-LOCATION:Lausanne\, Switzerland
-URL:https://www.eventseye.com/fairs/f-salon-rh-suisse-22403-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - BUENOS AIRES — Buenos Aires\, Argentina
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-UID:f-access-mba-buenos-aires-26553-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Hilton Bueno
- s Aires\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
- s/f-access-mba-buenos-aires-26553-1.html
-LOCATION:Buenos Aires\, Argentina
-URL:https://www.eventseye.com/fairs/f-access-mba-buenos-aires-26553-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - CHICAGO — Chicago\, IL\, USA
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-UID:f-access-mba-chicago-30273-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Sheraton Gra
- nd\, Chicago\\nFrequency: twice a year\\nSource: https://www.eventseye.com
- /fairs/f-access-mba-chicago-30273-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-access-mba-chicago-30273-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOBFACTORY — Rostock\, Germany
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-UID:f-jobfactory-16662-1@eventseye.impio-vault
-DESCRIPTION:Training and career fair. At JOBFACTORY\, find out about the di
- fferent training and study opportunities and find the jobs and offers that
-  suit you\\nVenue: HanseMesse Rostock\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-jobfactory-16662-1.html
-LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-jobfactory-16662-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - SAO PAULO — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-UID:f-access-masters-sao-paulo-30940-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nVenue: Renaissance São Paulo 
- Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/
- f-access-masters-sao-paulo-30940-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-access-masters-sao-paulo-30940-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - CASABLANCA — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-UID:f-access-mba-casablanca-24655-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organized around the world\\nVenue: Four Seasons
-  Hotel Casablanca\\nFrequency: twice a year\\nSource: https://www.eventsey
- e.com/fairs/f-access-mba-casablanca-24655-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-access-mba-casablanca-24655-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - MUNICH — Munich\, Germany
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-UID:f-access-mba-munich-22849-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Hilton Munch
- en City\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
- s/f-access-mba-munich-22849-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-access-mba-munich-22849-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE WORLDVIEW EDUCATION FAIR - SOUTH AFRICA - JOHANNESBURG — Joha
- nnesburg\, South Africa
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-UID:f-the-worldview-education-fair-south-africa-johannesburg-30772-1@eventseye.impio-vault
-DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
- ns/ Universities to recruit and give admission to prospective internationa
- l students from South Africa\\nVenue: Southern Sun Sandton\\nFrequency: tw
- ice a year\\nSource: https://www.eventseye.com/fairs/f-the-worldview-educa
- tion-fair-south-africa-johannesburg-30772-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-south-af
- rica-johannesburg-30772-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - SÃO PAULO — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-UID:f-access-mba-sao-paulo-14531-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Renaissance 
- São Paulo Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye
- .com/fairs/f-access-mba-sao-paulo-14531-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-access-mba-sao-paulo-14531-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - LAGOS — Lagos\, Nigeria
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-UID:f-access-masters-lagos-30931-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nFrequency: twice a year\\nSour
- ce: https://www.eventseye.com/fairs/f-access-masters-lagos-30931-1.html
-LOCATION:Lagos\, Nigeria
-URL:https://www.eventseye.com/fairs/f-access-masters-lagos-30931-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - LAGOS — Lagos\, Nigeria
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-UID:f-access-mba-lagos-20371-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: InterContine
- ntal Hotel Lagos\\nFrequency: twice a year\\nSource: https://www.eventseye
- .com/fairs/f-access-mba-lagos-20371-1.html
-LOCATION:Lagos\, Nigeria
-URL:https://www.eventseye.com/fairs/f-access-mba-lagos-20371-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDUTRAC OMAN — Muscat\, Oman
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261015
-UID:f-edutrac-oman-23809-1@eventseye.impio-vault
-DESCRIPTION:A Platform for the Continuous Advancement of Education\, Career
-  and Training in Oman\\nVenue: Oman Convention & Exhibition Centre\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-edutrac-oman
- -23809-1.html
-LOCATION:Muscat\, Oman
-URL:https://www.eventseye.com/fairs/f-edutrac-oman-23809-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON DES MICRO-ENTREPRISES — Paris\, France
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261014
-UID:f-le-salon-des-micro-entreprises-10644-1@eventseye.impio-vault
-DESCRIPTION:Meeting for independents\, franchise candidates\, creators and 
- managers of VSEs\\nVenue: Palais des Congrès de Paris Porte Maillot\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-d
- es-micro-entreprises-10644-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-des-micro-entreprises-10644-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VEF GLOBAL EDUCATION FAIR –IZMIR — Izmir\, Turkey
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-UID:f-vef-global-education-fair-izmir-34100-1@eventseye.impio-vault
-DESCRIPTION:The VEF Global Education Fair is a multi-city education event t
- aking place across Turkey\, connecting international education institution
- s with prospective students and education professionals\\nVenue: Ege Palas
-  Business Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.
- com/fairs/f-vef-global-education-fair-izmir-34100-1.html
-LOCATION:Izmir\, Turkey
-URL:https://www.eventseye.com/fairs/f-vef-global-education-fair-izmir-34100
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MASTERS - ACCRA — Accra\, Ghana
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-UID:f-access-masters-accra-30930-1@eventseye.impio-vault
-DESCRIPTION:Access Masters events introduce you to admissions representativ
- es of top Masters programmes from around the world. Find out more about gr
- aduate studies in Business\, Management\, Marketing\, Finance... during pe
- rsonalised meetings and small group talks\\nVenue: Accra Marriott Hotel\\n
- Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-access
- -masters-accra-30930-1.html
-LOCATION:Accra\, Ghana
-URL:https://www.eventseye.com/fairs/f-access-masters-accra-30930-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - ACCRA — Accra\, Ghana
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-UID:f-access-mba-accra-23653-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Accra Marrio
- tt Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fai
- rs/f-access-mba-accra-23653-1.html
-LOCATION:Accra\, Ghana
-URL:https://www.eventseye.com/fairs/f-access-mba-accra-23653-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCESS MBA - SANTIAGO — Santiago\, Chile
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-UID:f-access-mba-santiago-17866-1@eventseye.impio-vault
-DESCRIPTION:ACCESS MBA is a communication campaign specifically designed to
-  better inform prospective students of existing MBA opportunities. ACCESS 
- MBA is a series of events organised around the world\\nVenue: Renaissance 
- Santiago Hotel\\nFrequency: twice a year\\nSource: https://www.eventseye.c
- om/fairs/f-access-mba-santiago-17866-1.html
-LOCATION:Santiago\, Chile
-URL:https://www.eventseye.com/fairs/f-access-mba-santiago-17866-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONGRÈS PETITE ENFANCE - COLMAR — Colmar\, France
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-UID:f-congres-petite-enfance-colmar-31490-1@eventseye.impio-vault
-DESCRIPTION:Professional congress for staff in early childhood care structu
- res. Conferences\, workshops\, meetings with exhibitors\\nVenue: Parc des 
- Expositions de Colmar\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-congres-petite-enfance-colmar-31490-1.html
-LOCATION:Colmar\, France
-URL:https://www.eventseye.com/fairs/f-congres-petite-enfance-colmar-31490-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE WORLDVIEW EDUCATION FAIR - ZIMBABWE — Harare\, Zimbabwe
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-UID:f-the-worldview-education-fair-zimbabwe-31628-1@eventseye.impio-vault
-DESCRIPTION:The Worldview Education Fair is dedicated to helping institutio
- ns/ Universities to recruit and give admission to prospective internationa
- l students from Zimbabwe\\nFrequency: twice a year\\nSource: https://www.e
- ventseye.com/fairs/f-the-worldview-education-fair-zimbabwe-31628-1.html
-LOCATION:Harare\, Zimbabwe
-URL:https://www.eventseye.com/fairs/f-the-worldview-education-fair-zimbabwe
- -31628-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOP DRH - LYON — Lyon\, France
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261015
-UID:f-top-drh-lyon-34011-1@eventseye.impio-vault
-DESCRIPTION:Meeting of Directors and Managers of Human Resources and Servic
- e Providers. Two days combining residential one-to-one business meetings\,
-  thematic workshops\, working groups\, business lunches and a gala dinner\
- \nVenue: InterContinental Lyon - Hotel Dieu\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-top-drh-lyon-34011-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-top-drh-lyon-34011-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LEARNING — Las Vegas\, NV\, USA
@@ -4807,6 +4824,21 @@ LOCATION:Riga\, Latvia
 URL:https://www.eventseye.com/fairs/f-kids-expo-riga-10563-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ESTUDIA - SALÓ DE L'ENSENYAMENT — Barcelona\, Spain
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270315
+UID:f-estudia-salo-de-l-ensenyament-2317-1@eventseye.impio-vault
+DESCRIPTION:Educational and professional guidance fair. Helping students di
+ scover the best options for their future. 224+ exhibitors (universities\, 
+ professional training centers\, languages\, educational services...)\\nVen
+ ue: Fira de Barcelona - Recinto Montjuïc\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-estudia-salo-de-l-ensenyament-2317-1.
+ html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-estudia-salo-de-l-ensenyament-2317-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IL SALONE DELLO STUDENTE - SALERNO — Salerno\, Italy
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270313
@@ -4941,6 +4973,19 @@ LOCATION:Offenburg\, Germany
 URL:https://www.eventseye.com/fairs/f-berufsinfomesse-13872-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GHEDEX MUSCAT — Muscat\, Oman
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270415
+UID:f-ghedex-muscat-6353-1@eventseye.impio-vault
+DESCRIPTION:Gulf Higher Education Exhibition. The event is expected to rece
+ ive over 20\, 000 visitors\, including students\, parents\, and education 
+ professionals\\nVenue: Oman Convention & Exhibition Centre\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-ghedex-muscat-6353-1
+ .html
+LOCATION:Muscat\, Oman
+URL:https://www.eventseye.com/fairs/f-ghedex-muscat-6353-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BASELEDUCA EXPO — Basel\, Switzerland
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
@@ -5046,6 +5091,21 @@ DESCRIPTION:ZUKUNFT PERSONAL Süd in Stuttgart is the largest HR event in s
  personal-sud-31300-1.html
 LOCATION:Stuttgart\, Germany
 URL:https://www.eventseye.com/fairs/f-zukunft-personal-sud-31300-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATSA INDEPENDENT LIVING - PERTH — Perth\, Australia
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-atsa-independent-living-perth-25439-1@eventseye.impio-vault
+DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
+ ucts and services in assistive technology\, mobility solutions\, pressure 
+ care\, employment support\, accessible recreation/holiday ideas\, modified
+  motor vehicles and a lot more\\nVenue: Claremont Showground\\nFrequency: 
+ every 2 years\\nSource: https://www.eventseye.com/fairs/f-atsa-independent
+ -living-perth-25439-1.html
+LOCATION:Perth\, Australia
+URL:https://www.eventseye.com/fairs/f-atsa-independent-living-perth-25439-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:E-LEARNING EXPO — Paris\, France

@@ -6,21 +6,6 @@ X-WR-CALNAME:Real Estate
 X-WR-CALDESC:Trade shows: Real Estate — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - KRAKOW — Krakow\, Poland
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260430
-UID:f-united-property-invest-show-poland-krakow-33518-1@eventseye.impio-vault
-DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
- \, making safe deals and networking. It gives the opportunity to discuss w
- ith professionals the issues of buying/renting real estate abroad\, to get
-  adviced on mortgages\, taxes investments...\\nVenue: Holiday Inn Krakow C
- ity Centre\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
- f-united-property-invest-show-poland-krakow-33518-1.html
-LOCATION:Krakow\, Poland
-URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-kr
- akow-33518-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:APEX - AMERICA PROPERTY EXHIBITION — Rosemont\, IL\, USA
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
@@ -768,6 +753,21 @@ DESCRIPTION:International real estate and investments exhibition. EXPO REAL
  s/f-expo-real-844-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-expo-real-844-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - KRAKOW — Krakow\, Poland
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-united-property-invest-show-poland-krakow-33518-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Holiday Inn Krakow C
+ ity Centre\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
+ f-united-property-invest-show-poland-krakow-33518-1.html
+LOCATION:Krakow\, Poland
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-kr
+ akow-33518-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOME EXPO — Luxembourg\, Luxembourg
@@ -1552,6 +1552,19 @@ DESCRIPTION:German real estate and energy saving exhibition. New constructi
  //www.eventseye.com/fairs/f-neues-bauen-23666-1.html
 LOCATION:Friedrichshafen\, Germany
 URL:https://www.eventseye.com/fairs/f-neues-bauen-23666-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BATIMEX — Annaba\, Algeria
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270328
+UID:f-batimex-33683-1@eventseye.impio-vault
+DESCRIPTION:Algerian Building and Development Exhibition. BATIMEX is a gate
+ way to the latest advancements and new technologies in the building sector
+ . A wide range of conferences\\nVenue: Hôtel Sheraton Annaba\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-batimex-33683-1.h
+ tml
+LOCATION:Annaba\, Algeria
+URL:https://www.eventseye.com/fairs/f-batimex-33683-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BUILDING FAIRS BRNO — Brno\, Czech Republic

@@ -171,20 +171,6 @@ LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-ai-sec-summit-34050-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:APEX - AMERICA PROPERTY EXHIBITION — Rosemont\, IL\, USA
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260510
-UID:f-apex-america-property-exhibition-32370-1@eventseye.impio-vault
-DESCRIPTION:America Property Expo. APEX offers an interactive platform for 
- both local and international market players in the real estate community\,
-  showcasing industry-leading brands\, properties\, and services to a globa
- l audience\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-apex-america-property-exhibition-32370-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-apex-america-property-exhibition-3237
- 0-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FRANCHISE AND LICENSE INDONESIA EXPO - JAKARTA — Jakarta\, Indone
  sia
 DTSTART;VALUE=DATE:20260507
@@ -209,8 +195,8 @@ DESCRIPTION:Business Trade Show. Small Business Expo brings together thousa
  nds of business owners and decision-makers to network\, attend business cr
  itical workshops\, build new business relationships and shop from vendors 
  that provide unique products & services\\nVenue: Jacob K. Javits Conventio
- n Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-small-business-expo-new-york-21148-1.html
+ n Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fai
+ rs/f-small-business-expo-new-york-21148-1.html
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-small-business-expo-new-york-21148-1.
  html
@@ -565,6 +551,20 @@ DESCRIPTION:Energimässan is a trade fair and congress dedicated to the ene
  energimassan-31880-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-energimassan-31880-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE+ PORTUGAL — Porto\, Portugal
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+UID:f-re-portugal-33438-1@eventseye.impio-vault
+DESCRIPTION:During this one day event\, industry leaders embarke on an impa
+ ctful journey through the solar and energy storage markets of Portugal. Pa
+ rticipants discover new business opportunities and collaborations that fue
+ l growth across the Iberian Peninsula\\nVenue: Edificio da Alfândega\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-re-portug
+ al-33438-1.html
+LOCATION:Porto\, Portugal
+URL:https://www.eventseye.com/fairs/f-re-portugal-33438-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RENEWABLE ENERGY REVENUES SUMMIT — London\, UK - United Kingdom
@@ -1714,9 +1714,9 @@ DTEND;VALUE=DATE:20260711
 UID:f-lightexpo-africa-kenya-20044-1@eventseye.impio-vault
 DESCRIPTION:LIGHTEXPO KENYA is the largest business trade event for the lig
  hting market in East Africa. LIGHTEXPO provides an exclusive window to mee
- ting high-level buyers with-in the African Industry\\nVenue: Kenyatta Inte
- rnational Conference Center\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-lightexpo-africa-kenya-20044-1.html
+ ting high-level buyers with-in the African Industry\\nVenue: The Carnivore
+  Grounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-lightexpo-africa-kenya-20044-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-lightexpo-africa-kenya-20044-1.html
 END:VEVENT
@@ -1727,9 +1727,9 @@ DTEND;VALUE=DATE:20260711
 UID:f-minexpo-africa-kenya-22738-1@eventseye.impio-vault
 DESCRIPTION:MINEXPO KENYA is the only international mining exhibition in th
  e region that presents the widest range of the latest technology in the mi
- ning & processing of minerals industry\\nVenue: Kenyatta International Con
- ference Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-minexpo-africa-kenya-22738-1.html
+ ning & processing of minerals industry\\nVenue: The Carnivore Grounds\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-minexpo-a
+ frica-kenya-22738-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-minexpo-africa-kenya-22738-1.html
 END:VEVENT
@@ -1790,6 +1790,20 @@ DESCRIPTION:The EV Charging Infrastructure Summit North America convenes to
 LOCATION:Chicago\, IL\, USA
 URL:https://www.eventseye.com/fairs/f-ev-charging-infrastructure-summit-nor
  th-america-32109-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IME XINJIANG — Ürümqi\, China
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260719
+UID:f-ime-xinjiang-22974-1@eventseye.impio-vault
+DESCRIPTION:China Xinjiang International Mining Expo. IME Xinjiang will fea
+ ture Machinery & equipment manufacturers showcasing Exploration & Mining\,
+  Processing\, Smelting and Conveying equipments\, Safety & maintenance equ
+ ipment\, Mining trucks & special vehicles\\nVenue: Xinjiang International 
+ Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
+LOCATION:Ürümqi\, China
+URL:https://www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QME - QUEENSLAND MINING & ENGINEERING EXHIBITION — Mackay\, Austr
@@ -2914,6 +2928,20 @@ URL:https://www.eventseye.com/fairs/f-solar-storage-live-europe-uk-birmingh
  am-31146-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:APEX - AMERICA PROPERTY EXHIBITION — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260926
+UID:f-apex-america-property-exhibition-32370-1@eventseye.impio-vault
+DESCRIPTION:America Property Expo. APEX offers an interactive platform for 
+ both local and international market players in the real estate community\,
+  showcasing industry-leading brands\, properties\, and services to a globa
+ l audience\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-apex-america-property-exhibition-32370-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-apex-america-property-exhibition-3237
+ 0-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BIRO-EXPO — Belgrade\, Serbia
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260927
@@ -3173,6 +3201,507 @@ DESCRIPTION:Business Trade Show. Small Business Expo brings together thousa
 LOCATION:Pasadena\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-small-business-expo-los-angeles-21145
  -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INOVA — Zagreb\, Croatia
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+UID:f-inova-11704-1@eventseye.impio-vault
+DESCRIPTION:Croatian Salon of Innovations with International Participation.
+  INOVA CROATIA is a platform that will incorporate good data for inventors
+ \, entrepreneurs and people who are interested in new products & invention
+ s\\nVenue: Zagreb Fair\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-inova-11704-1.html
+LOCATION:Zagreb\, Croatia
+URL:https://www.eventseye.com/fairs/f-inova-11704-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DE L'IMMOBILIER - TOULOUSE-MIDI-PYRÉNÉES — Toulouse\, Fra
+ nce
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-salon-de-l-immobilier-toulouse-midi-pyrenees-10944-1@eventseye.impio-vault
+DESCRIPTION:Toulouse-Midi-Pyrénées Real Estate Expo. Whether it is an inv
+ estment or a first purchase in new or old property\, the Toulouse Real Est
+ ate Show allows you to advance and realize your project\\nVenue: MEETT - P
+ arc des Expositions et Centre de Conventions\\nFrequency: twice a year\\nS
+ ource: https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-mi
+ di-pyrenees-10944-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-midi-p
+ yrenees-10944-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - WARSAW — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261004
+UID:f-united-property-invest-show-poland-warsaw-32352-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Radisson Blu Sobiesk
+ i Warsaw\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
+ united-property-invest-show-poland-warsaw-32352-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-wa
+ rsaw-32352-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - CALGARY — Calgary\, AB\, Canada
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-the-franchise-expo-calgary-17614-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Stampede Park - Big 4 Building\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-calgar
+ y-17614-1.html
+LOCATION:Calgary\, AB\, Canada
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-calgary-17614-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - PHILADELPHIA — Philadelphia\, PA\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-the-franchise-expo-philadelphia-18566-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Pennsylvania Convention Center\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-philad
+ elphia-18566-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-philadelphia-18566
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CITYSCAPE QATAR — Doha\, Qatar
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261007
+UID:f-cityscape-qatar-17431-1@eventseye.impio-vault
+DESCRIPTION:Qatar's leading real estate event\, Cityscape Qatar\, brings to
+ gether thousands of industry professionals\, homebuyers\, and investors to
+  explore opportunities\, trends\, and insights in the real estate industry
+ \\nVenue: Doha Exhibition & Convention Center\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-cityscape-qatar-17431-1.html
+LOCATION:Doha\, Qatar
+URL:https://www.eventseye.com/fairs/f-cityscape-qatar-17431-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO REAL — Munich\, Germany
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+UID:f-expo-real-844-1@eventseye.impio-vault
+DESCRIPTION:International real estate and investments exhibition. EXPO REAL
+  offers the ideal platform for a constructive and forward-looking exchange
+  for all stakeholders in the real estate sector\\nVenue: Fairground Messe 
+ München\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-expo-real-844-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-expo-real-844-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE COIN CONFERENCE — Budapest\, Hungary
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+UID:f-the-coin-conference-18268-1@eventseye.impio-vault
+DESCRIPTION:The focus of the Coin Conference is on circulating coins. Cover
+ ing Design\, Security\, Cost-effective Production\, Distribution and Manag
+ ement in Circulation\\nFrequency: every 2 years\\nSource: https://www.even
+ tseye.com/fairs/f-the-coin-conference-18268-1.html
+LOCATION:Budapest\, Hungary
+URL:https://www.eventseye.com/fairs/f-the-coin-conference-18268-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARDS PAYMENT & IDENTIFICATION — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-cards-payment-identification-16132-1@eventseye.impio-vault
+DESCRIPTION:Cards\, Payment\, Systems & Identification Expo. Part of Future
+ com (the most important Event of the Telecom and IT Sectors in Latin Ameri
+ ca)\\nVenue: São Paulo Expo Exhibition & Convention Center\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-cards-payment-ident
+ ification-16132-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-cards-payment-identification-16132-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRÉVENTICA LYON — Lyon\, France
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-preventica-lyon-10547-1@eventseye.impio-vault
+DESCRIPTION:Congress and exhibition for the prevention of occupational risk
+ s\, health\, safety and quality of life at work... which are also levers o
+ f performance\\nVenue: Eurexpo\\nFrequency: every 2 years\\nSource: https:
+ //www.eventseye.com/fairs/f-preventica-lyon-10547-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-preventica-lyon-10547-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
+DESCRIPTION:American conference focused on photoelectric cell technologies 
+ and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
+ ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ pv-celltech-usa-32892-1.html
+LOCATION:San Francisco\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIGF - SAINT PETERSBURG INTERNATIONAL GAS FORUM — St. Petersburg
+ \, Russia
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261010
+UID:f-spigf-saint-petersburg-international-gas-forum-23811-1@eventseye.impio-vault
+DESCRIPTION:Saint Petersburg International Gas Forum. The issues discussed 
+ on the Forum are devoted to the development of the Russian gas market and 
+ global trends in the development of the gas industry\\nVenue: ExpoForum Co
+ nvention and Exhibition Centre\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-spigf-saint-petersburg-international-gas-forum-2
+ 3811-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-spigf-saint-petersburg-international-
+ gas-forum-23811-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - KRAKOW — Krakow\, Poland
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-united-property-invest-show-poland-krakow-33518-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Holiday Inn Krakow C
+ ity Centre\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
+ f-united-property-invest-show-poland-krakow-33518-1.html
+LOCATION:Krakow\, Poland
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-kr
+ akow-33518-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LITHIUM IN THE SOUTH AMERICAN REGION — San Fernando del Valle de 
+ Catamarca.\, Argentina
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:f-lithium-in-the-south-american-region-31741-1@eventseye.impio-vault
+DESCRIPTION:The event covers all aspects of the lithium industry\, providin
+ g participants with detailed insights into productive projects\, price and
+  market trends\, the political-economic landscape\, global situations\, va
+ lue addition\, technological advancements...\\nVenue: Predio Ferial Campo 
+ Las Heras\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-lithium-in-the-south-american-region-31741-1.html
+LOCATION:San Fernando del Valle de Catamarca.\, Argentina
+URL:https://www.eventseye.com/fairs/f-lithium-in-the-south-american-region-
+ 31741-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINDERGY INDIA — Chennai\, India
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+UID:f-windergy-india-26985-1@eventseye.impio-vault
+DESCRIPTION:WINDENERGY INDIA provides a vibrant platform to meet\, interact
+  and engage with policymakers\, regulatory authorities\, international and
+  domestic technology\, solutions and service providers from the wind power
+  industry\\nVenue: Chennai Trade Centre\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-windergy-india-26985-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-windergy-india-26985-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORUM FRANCHISE - LYON — Lyon\, France
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:f-forum-franchise-lyon-20210-1@eventseye.impio-vault
+DESCRIPTION:THE 'FORUM FRANCHISE' is primarily aimed at franchises\, organi
+ zed retail brands and experts in the field of franchising. All sectors are
+  represented\\nVenue: LDLC Arena\, Lyon\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-forum-franchise-lyon-20210-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-forum-franchise-lyon-20210-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOME EXPO — Luxembourg\, Luxembourg
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+UID:f-home-expo-32742-1@eventseye.impio-vault
+DESCRIPTION:Luxembourg trade fair dedicated to decoration\, furnishing and 
+ design. But also purchasing\, renting\, advice and financing\\nVenue: Parc
+  des Expositions Luxexpo Kirchberg\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-home-expo-32742-1.html
+LOCATION:Luxembourg\, Luxembourg
+URL:https://www.eventseye.com/fairs/f-home-expo-32742-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON SOLUCUP - LILLE — Lille\, France
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:f-salon-solucup-lille-32739-1@eventseye.impio-vault
+DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
+ p\, committed to improving the comfort and security of collective housing\
+ \nVenue: Lille Grand Palais\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
+LOCATION:Lille\, France
+URL:https://www.eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOSCOW INTERNATIONAL INVESTMENT SHOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+UID:f-moscow-international-investment-show-11141-1@eventseye.impio-vault
+DESCRIPTION:Russia's Specialized International Investment show. The main co
+ ncept of the exhibition is to present opportunities for buying real estate
+  and investments abroad\\nVenue: T-Modul Exhibition Hall (Tishinka exhibit
+ ion centre)\\nFrequency: twice a year\\nSource: https://www.eventseye.com/
+ fairs/f-moscow-international-investment-show-11141-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-moscow-international-investment-show-
+ 11141-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON IMMOBILIER DE BIARRITZ — Biarritz\, France
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:f-salon-immobilier-de-biarritz-26716-1@eventseye.impio-vault
+DESCRIPTION:Biarritz Real Estate Fair. Meet promoters\, builders of single-
+ family homes\, real estate agencies\, brokers\, insurers\, asset managers\
+ , life annuities...\\nVenue: Halle d'Iraty\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-salon-immobilier-de-biarritz-26716-1
+ .html
+LOCATION:Biarritz\, France
+URL:https://www.eventseye.com/fairs/f-salon-immobilier-de-biarritz-26716-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - CZECH REPUBLIC - PRAGUE — Prague\
+ , Czech Republic
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+UID:f-united-property-invest-show-czech-republic-prague-34127-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Hotel International\
+ , Prague\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
+ united-property-invest-show-czech-republic-prague-34127-1.html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-czech-rep
+ ublic-prague-34127-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPC ENERGY CONGRESS — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261016
+UID:f-wpc-energy-congress-7701-1@eventseye.impio-vault
+DESCRIPTION:The WPC Energy Congress provides a neutral and inclusive platfo
+ rm to debate and define realistic\, workable paths to a net zero future. T
+ he event brings together thought leaders from across the global energy ind
+ ustry\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequ
+ ency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-wpc-energy
+ -congress-7701-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-wpc-energy-congress-7701-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON DES MICRO-ENTREPRISES — Paris\, France
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261014
+UID:f-le-salon-des-micro-entreprises-10644-1@eventseye.impio-vault
+DESCRIPTION:Meeting for independents\, franchise candidates\, creators and 
+ managers of VSEs\\nVenue: Palais des Congrès de Paris Porte Maillot\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-d
+ es-micro-entreprises-10644-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-des-micro-entreprises-10644-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCOUNTING BUSINESS EXPO - ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+UID:f-accounting-business-expo-asia-31161-1@eventseye.impio-vault
+DESCRIPTION:Asia’s Premier Exhibition and Conference for the Fast Changin
+ g World of Accounting\, Business\, Finance and Money\\nVenue: Marina Bay S
+ ands\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ accounting-business-expo-asia-31161-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-accounting-business-expo-asia-31161-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AKTOBENEFTEKHIM — Aktobe\, Kazakhstan
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-aktobeneftekhim-32996-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Equipment and Technologies for the 
+ Oil\, Gas\, and Chemical Industry in Kazakhstan\\nVenue: Konys Sports Pala
+ ce\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ak
+ tobeneftekhim-32996-1.html
+LOCATION:Aktobe\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-aktobeneftekhim-32996-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INVEST IN AFRICA SUMMIT — The Hague\, Netherlands
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+UID:f-invest-in-africa-summit-30833-1@eventseye.impio-vault
+DESCRIPTION:Invest in Africa gathers 1000-plus key economic players such as
+  government delegations and policy makers\, high-profile African leaders\,
+  project developers\, investors\, and entrepreneurs. It covers: Agribusine
+ ss\, Technology\, Renewable Energy\, Mining...\\nVenue: The Hague Marriott
+  Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-invest-in-africa-summit-30833-1.html
+LOCATION:The Hague\, Netherlands
+URL:https://www.eventseye.com/fairs/f-invest-in-africa-summit-30833-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REBUILD KARABAKH — Baku\, Azerbaijan
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-rebuild-karabakh-32052-1@eventseye.impio-vault
+DESCRIPTION:Azerbaijan International Restoration\, Reconstruction and Devel
+ opment of Karabakh Exhibition\\nVenue: Baku Expo Center\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-rebuild-karabakh-32052-
+ 1.html
+LOCATION:Baku\, Azerbaijan
+URL:https://www.eventseye.com/fairs/f-rebuild-karabakh-32052-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSF-REMAXWORLD — Zhuhai\, China
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+UID:f-csf-remaxworld-27049-1@eventseye.impio-vault
+DESCRIPTION:Leading trading platform for stationery\, office supply and cul
+ tural products in the Asian-Pacific region\\nVenue: Zhuhai International C
+ onvention & Exhibition Center\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RCPIE — Beirut\, Lebanon
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+UID:f-rcpie-33343-1@eventseye.impio-vault
+DESCRIPTION:RCPIE is the Premier Real Estate\, Residency\, Citizenship Inve
+ stment Expo in Lebanon. This Expo and seminars will attract industry profe
+ ssionals\, targeting Lebanese & MENA Ultra High Net Worth Individuals seek
+ ing second homes and citizenship by investment\\nVenue: Phoenicia InterCon
+ tinental Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-rcpie-33343-1.html
+LOCATION:Beirut\, Lebanon
+URL:https://www.eventseye.com/fairs/f-rcpie-33343-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMAXWORLD EXPO — Zhuhai\, China
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261018
+UID:f-remaxworld-expo-22336-1@eventseye.impio-vault
+DESCRIPTION:RemaxWorld Expo is the largest trade show for the office equipm
+ ent and consumables industry\\nVenue: Zhuhai International Convention & Ex
+ hibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-remaxworld-expo-22336-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-remaxworld-expo-22336-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - ABBOTSFORD — Abbotsford\, BC\, Canada
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:f-the-franchise-expo-abbotsford-34152-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Tradex\\nFrequency: unknown\\nSource: https://www.e
+ ventseye.com/fairs/f-the-franchise-expo-abbotsford-34152-1.html
+LOCATION:Abbotsford\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-abbotsford-34152-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - TAMPA — Tampa\, FL\, USA
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:f-the-franchise-expo-tampa-17636-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Tampa Convention Center\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-the-franchise-expo-tampa-17636-1
+ .html
+LOCATION:Tampa\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-tampa-17636-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MONEY 20/20 USA — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261022
+UID:f-money-20-20-usa-22494-1@eventseye.impio-vault
+DESCRIPTION:Money20/20 is the largest global event focused on payments and 
+ financial services innovation for connected commerce at the intersection o
+ f mobile\, retail\, marketing services\, data and technology\\nVenue: The 
+ Venetian Resort and Hotel\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-money-20-20-usa-22494-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-money-20-20-usa-22494-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
+DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
+ nd exhibition of the renewable energy and storage industry in Canada. A gl
+ obal platform to amplify conversations\, explore emerging technologies and
+  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
+ rmation-canada-29835-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
+ 35-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIAN STATIONERY SHOW — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261030
+UID:f-asian-stationery-show-26651-1@eventseye.impio-vault
+DESCRIPTION:Asian Stationery Show has become the key showcase and sourcing 
+ hub for Asian stationery and office supplies in Hong Kong\\nVenue: Hong Ko
+ ng Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POL ECO SYSTEM — Poznan\, Poland
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-pol-eco-system-22742-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair of Technologies and Products for Susta
+ inable Development & Municipal Services in Poland\\nVenue: Poznan Congress
+  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-pol-eco-system-22742-1.html
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-pol-eco-system-22742-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REFRIGERATION & HVAC TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-refrigeration-hvac-taiwan-32761-1@eventseye.impio-vault
+DESCRIPTION:The International Refrigeration\, Heating\, Ventilation and Air
+  Conditioning (RHVAC) Green Energy Technology Exhibition brings the latest
+  equipment\, technology\, and products to the market. And aims to create b
+ usiness opportunities with enterprises worldwide\\nVenue: Taipei Nangang E
+ xhibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-refrigeration-hvac-taiwan-32761-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-refrigeration-hvac-taiwan-32761-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOLAR & STORAGE LIVE - SOUTH AFRICA - CAPE TOWN — Cape Town\, Sou
@@ -4218,507 +4747,6 @@ LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-orgatec-india-33463-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INOVA — Zagreb\, Croatia
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261004
-UID:f-inova-11704-1@eventseye.impio-vault
-DESCRIPTION:Croatian Salon of Innovations with International Participation.
-  INOVA CROATIA is a platform that will incorporate good data for inventors
- \, entrepreneurs and people who are interested in new products & invention
- s\\nVenue: Zagreb Fair\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-inova-11704-1.html
-LOCATION:Zagreb\, Croatia
-URL:https://www.eventseye.com/fairs/f-inova-11704-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DE L'IMMOBILIER - TOULOUSE-MIDI-PYRÉNÉES — Toulouse\, Fra
- nce
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-salon-de-l-immobilier-toulouse-midi-pyrenees-10944-1@eventseye.impio-vault
-DESCRIPTION:Toulouse-Midi-Pyrénées Real Estate Expo. Whether it is an inv
- estment or a first purchase in new or old property\, the Toulouse Real Est
- ate Show allows you to advance and realize your project\\nVenue: MEETT - P
- arc des Expositions et Centre de Conventions\\nFrequency: twice a year\\nS
- ource: https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-mi
- di-pyrenees-10944-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-salon-de-l-immobilier-toulouse-midi-p
- yrenees-10944-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - WARSAW — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261004
-UID:f-united-property-invest-show-poland-warsaw-32352-1@eventseye.impio-vault
-DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
- \, making safe deals and networking. It gives the opportunity to discuss w
- ith professionals the issues of buying/renting real estate abroad\, to get
-  adviced on mortgages\, taxes investments...\\nVenue: Radisson Blu Sobiesk
- i Warsaw\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
- united-property-invest-show-poland-warsaw-32352-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-wa
- rsaw-32352-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE FRANCHISE EXPO - CALGARY — Calgary\, AB\, Canada
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-the-franchise-expo-calgary-17614-1@eventseye.impio-vault
-DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
- RANCHISE EXPO showcases the fastest growing franchises & business opportun
- ities with thousands of potential franchisees & business partners eager re
- ady to invest\\nVenue: Stampede Park - Big 4 Building\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-calgar
- y-17614-1.html
-LOCATION:Calgary\, AB\, Canada
-URL:https://www.eventseye.com/fairs/f-the-franchise-expo-calgary-17614-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE FRANCHISE EXPO - PHILADELPHIA — Philadelphia\, PA\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-the-franchise-expo-philadelphia-18566-1@eventseye.impio-vault
-DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
- RANCHISE EXPO showcases the fastest growing franchises & business opportun
- ities with thousands of potential franchisees & business partners eager re
- ady to invest\\nVenue: Pennsylvania Convention Center\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-philad
- elphia-18566-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-the-franchise-expo-philadelphia-18566
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CITYSCAPE QATAR — Doha\, Qatar
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261007
-UID:f-cityscape-qatar-17431-1@eventseye.impio-vault
-DESCRIPTION:Qatar's leading real estate event\, Cityscape Qatar\, brings to
- gether thousands of industry professionals\, homebuyers\, and investors to
-  explore opportunities\, trends\, and insights in the real estate industry
- \\nVenue: Doha Exhibition & Convention Center\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-cityscape-qatar-17431-1.html
-LOCATION:Doha\, Qatar
-URL:https://www.eventseye.com/fairs/f-cityscape-qatar-17431-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO REAL — Munich\, Germany
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261008
-UID:f-expo-real-844-1@eventseye.impio-vault
-DESCRIPTION:International real estate and investments exhibition. EXPO REAL
-  offers the ideal platform for a constructive and forward-looking exchange
-  for all stakeholders in the real estate sector\\nVenue: Fairground Messe 
- München\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-expo-real-844-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-expo-real-844-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE COIN CONFERENCE — Budapest\, Hungary
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261008
-UID:f-the-coin-conference-18268-1@eventseye.impio-vault
-DESCRIPTION:The focus of the Coin Conference is on circulating coins. Cover
- ing Design\, Security\, Cost-effective Production\, Distribution and Manag
- ement in Circulation\\nFrequency: every 2 years\\nSource: https://www.even
- tseye.com/fairs/f-the-coin-conference-18268-1.html
-LOCATION:Budapest\, Hungary
-URL:https://www.eventseye.com/fairs/f-the-coin-conference-18268-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARDS PAYMENT & IDENTIFICATION — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-cards-payment-identification-16132-1@eventseye.impio-vault
-DESCRIPTION:Cards\, Payment\, Systems & Identification Expo. Part of Future
- com (the most important Event of the Telecom and IT Sectors in Latin Ameri
- ca)\\nVenue: São Paulo Expo Exhibition & Convention Center\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-cards-payment-ident
- ification-16132-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-cards-payment-identification-16132-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRÉVENTICA LYON — Lyon\, France
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-preventica-lyon-10547-1@eventseye.impio-vault
-DESCRIPTION:Congress and exhibition for the prevention of occupational risk
- s\, health\, safety and quality of life at work... which are also levers o
- f performance\\nVenue: Eurexpo\\nFrequency: every 2 years\\nSource: https:
- //www.eventseye.com/fairs/f-preventica-lyon-10547-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-preventica-lyon-10547-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
-DESCRIPTION:American conference focused on photoelectric cell technologies 
- and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
- ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- pv-celltech-usa-32892-1.html
-LOCATION:San Francisco\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIGF - SAINT PETERSBURG INTERNATIONAL GAS FORUM — St. Petersburg
- \, Russia
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261010
-UID:f-spigf-saint-petersburg-international-gas-forum-23811-1@eventseye.impio-vault
-DESCRIPTION:Saint Petersburg International Gas Forum. The issues discussed 
- on the Forum are devoted to the development of the Russian gas market and 
- global trends in the development of the gas industry\\nVenue: ExpoForum Co
- nvention and Exhibition Centre\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-spigf-saint-petersburg-international-gas-forum-2
- 3811-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-spigf-saint-petersburg-international-
- gas-forum-23811-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - KRAKOW — Krakow\, Poland
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-united-property-invest-show-poland-krakow-33518-1@eventseye.impio-vault
-DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
- \, making safe deals and networking. It gives the opportunity to discuss w
- ith professionals the issues of buying/renting real estate abroad\, to get
-  adviced on mortgages\, taxes investments...\\nVenue: Holiday Inn Krakow C
- ity Centre\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
- f-united-property-invest-show-poland-krakow-33518-1.html
-LOCATION:Krakow\, Poland
-URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-kr
- akow-33518-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LITHIUM IN THE SOUTH AMERICAN REGION — San Fernando del Valle de 
- Catamarca.\, Argentina
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261009
-UID:f-lithium-in-the-south-american-region-31741-1@eventseye.impio-vault
-DESCRIPTION:The event covers all aspects of the lithium industry\, providin
- g participants with detailed insights into productive projects\, price and
-  market trends\, the political-economic landscape\, global situations\, va
- lue addition\, technological advancements...\\nVenue: Predio Ferial Campo 
- Las Heras\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-lithium-in-the-south-american-region-31741-1.html
-LOCATION:San Fernando del Valle de Catamarca.\, Argentina
-URL:https://www.eventseye.com/fairs/f-lithium-in-the-south-american-region-
- 31741-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINDERGY INDIA — Chennai\, India
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261010
-UID:f-windergy-india-26985-1@eventseye.impio-vault
-DESCRIPTION:WINDENERGY INDIA provides a vibrant platform to meet\, interact
-  and engage with policymakers\, regulatory authorities\, international and
-  domestic technology\, solutions and service providers from the wind power
-  industry\\nVenue: Chennai Trade Centre\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-windergy-india-26985-1.html
-LOCATION:Chennai\, India
-URL:https://www.eventseye.com/fairs/f-windergy-india-26985-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FORUM FRANCHISE - LYON — Lyon\, France
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-UID:f-forum-franchise-lyon-20210-1@eventseye.impio-vault
-DESCRIPTION:THE 'FORUM FRANCHISE' is primarily aimed at franchises\, organi
- zed retail brands and experts in the field of franchising. All sectors are
-  represented\\nVenue: LDLC Arena\, Lyon\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-forum-franchise-lyon-20210-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-forum-franchise-lyon-20210-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOME EXPO — Luxembourg\, Luxembourg
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261012
-UID:f-home-expo-32742-1@eventseye.impio-vault
-DESCRIPTION:Luxembourg trade fair dedicated to decoration\, furnishing and 
- design. But also purchasing\, renting\, advice and financing\\nVenue: Parc
-  des Expositions Luxexpo Kirchberg\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-home-expo-32742-1.html
-LOCATION:Luxembourg\, Luxembourg
-URL:https://www.eventseye.com/fairs/f-home-expo-32742-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON SOLUCUP - LILLE — Lille\, France
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-UID:f-salon-solucup-lille-32739-1@eventseye.impio-vault
-DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
- p\, committed to improving the comfort and security of collective housing\
- \nVenue: Lille Grand Palais\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
-LOCATION:Lille\, France
-URL:https://www.eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOSCOW INTERNATIONAL INVESTMENT SHOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-UID:f-moscow-international-investment-show-11141-1@eventseye.impio-vault
-DESCRIPTION:Russia's Specialized International Investment show. The main co
- ncept of the exhibition is to present opportunities for buying real estate
-  and investments abroad\\nVenue: T-Modul Exhibition Hall (Tishinka exhibit
- ion centre)\\nFrequency: twice a year\\nSource: https://www.eventseye.com/
- fairs/f-moscow-international-investment-show-11141-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-moscow-international-investment-show-
- 11141-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON IMMOBILIER DE BIARRITZ — Biarritz\, France
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-UID:f-salon-immobilier-de-biarritz-26716-1@eventseye.impio-vault
-DESCRIPTION:Biarritz Real Estate Fair. Meet promoters\, builders of single-
- family homes\, real estate agencies\, brokers\, insurers\, asset managers\
- , life annuities...\\nVenue: Halle d'Iraty\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-salon-immobilier-de-biarritz-26716-1
- .html
-LOCATION:Biarritz\, France
-URL:https://www.eventseye.com/fairs/f-salon-immobilier-de-biarritz-26716-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UNITED PROPERTY & INVEST SHOW - CZECH REPUBLIC - PRAGUE — Prague\
- , Czech Republic
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-UID:f-united-property-invest-show-czech-republic-prague-34127-1@eventseye.impio-vault
-DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
- \, making safe deals and networking. It gives the opportunity to discuss w
- ith professionals the issues of buying/renting real estate abroad\, to get
-  adviced on mortgages\, taxes investments...\\nVenue: Hotel International\
- , Prague\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
- united-property-invest-show-czech-republic-prague-34127-1.html
-LOCATION:Prague\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-united-property-invest-show-czech-rep
- ublic-prague-34127-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WPC ENERGY CONGRESS — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261016
-UID:f-wpc-energy-congress-7701-1@eventseye.impio-vault
-DESCRIPTION:The WPC Energy Congress provides a neutral and inclusive platfo
- rm to debate and define realistic\, workable paths to a net zero future. T
- he event brings together thought leaders from across the global energy ind
- ustry\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequ
- ency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-wpc-energy
- -congress-7701-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-wpc-energy-congress-7701-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON DES MICRO-ENTREPRISES — Paris\, France
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261014
-UID:f-le-salon-des-micro-entreprises-10644-1@eventseye.impio-vault
-DESCRIPTION:Meeting for independents\, franchise candidates\, creators and 
- managers of VSEs\\nVenue: Palais des Congrès de Paris Porte Maillot\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-d
- es-micro-entreprises-10644-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-des-micro-entreprises-10644-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACCOUNTING BUSINESS EXPO - ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261015
-UID:f-accounting-business-expo-asia-31161-1@eventseye.impio-vault
-DESCRIPTION:Asia’s Premier Exhibition and Conference for the Fast Changin
- g World of Accounting\, Business\, Finance and Money\\nVenue: Marina Bay S
- ands\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- accounting-business-expo-asia-31161-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-accounting-business-expo-asia-31161-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AKTOBENEFTEKHIM — Aktobe\, Kazakhstan
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-aktobeneftekhim-32996-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Equipment and Technologies for the 
- Oil\, Gas\, and Chemical Industry in Kazakhstan\\nVenue: Konys Sports Pala
- ce\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ak
- tobeneftekhim-32996-1.html
-LOCATION:Aktobe\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-aktobeneftekhim-32996-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INVEST IN AFRICA SUMMIT — The Hague\, Netherlands
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-UID:f-invest-in-africa-summit-30833-1@eventseye.impio-vault
-DESCRIPTION:Invest in Africa gathers 1000-plus key economic players such as
-  government delegations and policy makers\, high-profile African leaders\,
-  project developers\, investors\, and entrepreneurs. It covers: Agribusine
- ss\, Technology\, Renewable Energy\, Mining...\\nVenue: The Hague Marriott
-  Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-invest-in-africa-summit-30833-1.html
-LOCATION:The Hague\, Netherlands
-URL:https://www.eventseye.com/fairs/f-invest-in-africa-summit-30833-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REBUILD KARABAKH — Baku\, Azerbaijan
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-rebuild-karabakh-32052-1@eventseye.impio-vault
-DESCRIPTION:Azerbaijan International Restoration\, Reconstruction and Devel
- opment of Karabakh Exhibition\\nVenue: Baku Expo Center\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-rebuild-karabakh-32052-
- 1.html
-LOCATION:Baku\, Azerbaijan
-URL:https://www.eventseye.com/fairs/f-rebuild-karabakh-32052-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSF-REMAXWORLD — Zhuhai\, China
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261018
-UID:f-csf-remaxworld-27049-1@eventseye.impio-vault
-DESCRIPTION:Leading trading platform for stationery\, office supply and cul
- tural products in the Asian-Pacific region\\nVenue: Zhuhai International C
- onvention & Exhibition Center\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
-LOCATION:Zhuhai\, China
-URL:https://www.eventseye.com/fairs/f-csf-remaxworld-27049-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RCPIE — Beirut\, Lebanon
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261018
-UID:f-rcpie-33343-1@eventseye.impio-vault
-DESCRIPTION:RCPIE is the Premier Real Estate\, Residency\, Citizenship Inve
- stment Expo in Lebanon. This Expo and seminars will attract industry profe
- ssionals\, targeting Lebanese & MENA Ultra High Net Worth Individuals seek
- ing second homes and citizenship by investment\\nVenue: Phoenicia InterCon
- tinental Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-rcpie-33343-1.html
-LOCATION:Beirut\, Lebanon
-URL:https://www.eventseye.com/fairs/f-rcpie-33343-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REMAXWORLD EXPO — Zhuhai\, China
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261018
-UID:f-remaxworld-expo-22336-1@eventseye.impio-vault
-DESCRIPTION:RemaxWorld Expo is the largest trade show for the office equipm
- ent and consumables industry\\nVenue: Zhuhai International Convention & Ex
- hibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-remaxworld-expo-22336-1.html
-LOCATION:Zhuhai\, China
-URL:https://www.eventseye.com/fairs/f-remaxworld-expo-22336-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE FRANCHISE EXPO - ABBOTSFORD — Abbotsford\, BC\, Canada
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-UID:f-the-franchise-expo-abbotsford-34152-1@eventseye.impio-vault
-DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
- RANCHISE EXPO showcases the fastest growing franchises & business opportun
- ities with thousands of potential franchisees & business partners eager re
- ady to invest\\nVenue: Tradex\\nFrequency: unknown\\nSource: https://www.e
- ventseye.com/fairs/f-the-franchise-expo-abbotsford-34152-1.html
-LOCATION:Abbotsford\, BC\, Canada
-URL:https://www.eventseye.com/fairs/f-the-franchise-expo-abbotsford-34152-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE FRANCHISE EXPO - TAMPA — Tampa\, FL\, USA
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-UID:f-the-franchise-expo-tampa-17636-1@eventseye.impio-vault
-DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
- RANCHISE EXPO showcases the fastest growing franchises & business opportun
- ities with thousands of potential franchisees & business partners eager re
- ady to invest\\nVenue: Tampa Convention Center\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-the-franchise-expo-tampa-17636-1
- .html
-LOCATION:Tampa\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-the-franchise-expo-tampa-17636-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MONEY 20/20 USA — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261022
-UID:f-money-20-20-usa-22494-1@eventseye.impio-vault
-DESCRIPTION:Money20/20 is the largest global event focused on payments and 
- financial services innovation for connected commerce at the intersection o
- f mobile\, retail\, marketing services\, data and technology\\nVenue: The 
- Venetian Resort and Hotel\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-money-20-20-usa-22494-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-money-20-20-usa-22494-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
-DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
- nd exhibition of the renewable energy and storage industry in Canada. A gl
- obal platform to amplify conversations\, explore emerging technologies and
-  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
- rmation-canada-29835-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
- 35-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIAN STATIONERY SHOW — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261030
-UID:f-asian-stationery-show-26651-1@eventseye.impio-vault
-DESCRIPTION:Asian Stationery Show has become the key showcase and sourcing 
- hub for Asian stationery and office supplies in Hong Kong\\nVenue: Hong Ko
- ng Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-asian-stationery-show-26651-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POL ECO SYSTEM — Poznan\, Poland
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-pol-eco-system-22742-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of Technologies and Products for Susta
- inable Development & Municipal Services in Poland\\nVenue: Poznan Congress
-  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-pol-eco-system-22742-1.html
-LOCATION:Poznan\, Poland
-URL:https://www.eventseye.com/fairs/f-pol-eco-system-22742-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REFRIGERATION & HVAC TAIWAN — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-refrigeration-hvac-taiwan-32761-1@eventseye.impio-vault
-DESCRIPTION:The International Refrigeration\, Heating\, Ventilation and Air
-  Conditioning (RHVAC) Green Energy Technology Exhibition brings the latest
-  equipment\, technology\, and products to the market. And aims to create b
- usiness opportunities with enterprises worldwide\\nVenue: Taipei Nangang E
- xhibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-refrigeration-hvac-taiwan-32761-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-refrigeration-hvac-taiwan-32761-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - UZBEKISTAN — Tashkent\, Uzbekista
  n
 DTSTART;VALUE=DATE:20261120
@@ -5595,6 +5623,20 @@ LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-workspace-expo-16793-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CIPE — Beijing\, China
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+UID:f-cipe-9469-1@eventseye.impio-vault
+DESCRIPTION:China International Exhibition on Equipment of Pipeline and Oil
+  & Gas Storage and Transportation. CIPE is a great platform for connection
+  of business\, showcasing of advanced technology\, collision and integrati
+ on of new ideas\\nVenue: New China International Exhibition Center\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-cipe-9469-1.
+ html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-cipe-9469-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FINNCLEAN — Tampere\, Finland
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270319
@@ -5690,6 +5732,20 @@ DESCRIPTION:The Istanbul International Franchise Exhibition aims of bringin
  xpo-31037-1.html
 LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-franchise-istanbul-expo-31037-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHOOL & OFFICE LIVE CHINA — Ningbo\, China
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+UID:f-school-office-live-china-33911-1@eventseye.impio-vault
+DESCRIPTION:China (Ningbo) International Stationery Industry Fair\, coverin
+ g the four fields of office\, school\, art and life\, and the whole indust
+ rial chain. Ningbo is the global stationery manufacturing and trade center
+  and the stationery capital of China\\nVenue: Ningbo International Confere
+ nce & Exhibition Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-school-office-live-china-33911-1.html
+LOCATION:Ningbo\, China
+URL:https://www.eventseye.com/fairs/f-school-office-live-china-33911-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHARM OF LIGHT — Shanghai\, China

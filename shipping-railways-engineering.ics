@@ -282,9 +282,9 @@ UID:f-irs-international-railway-summit-22661-1@eventseye.impio-vault
 DESCRIPTION:International Railway Summit is a meeting of the world’s key 
  rail sector buyers and carefully selected technical experts. Buyers’ pro
  ject requirements are matched with experts’ solutions\, which leads to 2
- 5-minute one-to-one consultation meetings\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-irs-international-railway-summit-2266
- 1-1.html
+ 5-minute one-to-one consultation meetings\\nVenue: Millennium Gloucester H
+ otel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ irs-international-railway-summit-22661-1.html
 LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-irs-international-railway-summit-2266
  1-1.html
@@ -1960,6 +1960,19 @@ DESCRIPTION:Europe’s Showcase Exhibition and Conference for the Gasket an
  fairs/f-the-gasket-seals-show-31717-1.html
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-the-gasket-seals-show-31717-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMPOSITE-EXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-composite-expo-22556-1@eventseye.impio-vault
+DESCRIPTION:International Specialized Exhibition on raw materials\, equipme
+ nt and technologies for composites' producing. A platform for development 
+ and introduction of composite technologies and materials in different bran
+ ches of industry\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-composite-expo-22556-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-composite-expo-22556-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SEA ASIA — Singapore\, Singapore

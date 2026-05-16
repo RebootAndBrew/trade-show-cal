@@ -7,6 +7,20 @@ X-WR-CALDESC:Trade shows: Electronics - Electrotechnics — sourced from Ev
  entsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
+SUMMARY:AUTOMATION EXPO SOUTH — Chennai\, India
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260315
+UID:f-automation-expo-south-32213-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition & Conference dedicated to Process Auto
+ mation\, Instrumentation & Controls\, Factory Automation\, Robotics\, Powe
+ r Plant Automation\, Drives Automation\, Bus & Wireless Technology\, Build
+ ing Automation\, Hydraulics & Pneumatics...\\nVenue: Chennai Trade Centre\
+ \nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-aut
+ omation-expo-south-32213-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-automation-expo-south-32213-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AUTOMOTIVE TESTING EXPO KOREA — Seoul\, Korea South
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260321
@@ -279,10 +293,12 @@ SUMMARY:OPTATEC — Frankfurt\, Germany
 DTSTART;VALUE=DATE:20260505
 DTEND;VALUE=DATE:20260508
 UID:f-optatec-2041-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Optics and Optoelectronics. Applic
- ations and Technology\\nVenue: Exhibition Centre Frankfurt\\nFrequency: ev
- ery 2 years\\nSource: https://www.eventseye.com/fairs/f-optatec-2041-1.htm
- l
+DESCRIPTION:OPTATEC presents a wide range products for the development and 
+ production as well as industrial application of optical components\, optom
+ echanics\, optoelectronics\, fibre optics\, optical fibres\, laser compone
+ nts and manufacturing systems\\nVenue: Exhibition Centre Frankfurt\\nFrequ
+ ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-optatec-20
+ 41-1.html
 LOCATION:Frankfurt\, Germany
 URL:https://www.eventseye.com/fairs/f-optatec-2041-1.html
 END:VEVENT
@@ -869,6 +885,19 @@ DESCRIPTION:Asian International Metal Working\, Machine Tool\, CAD/CAM\, Me
  h-malaysia-8079-1.html
 LOCATION:Kuala Lumpur\, Malaysia
 URL:https://www.eventseye.com/fairs/f-metaltech-malaysia-8079-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMALAB EXPO - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260523
+UID:f-pharmalab-expo-tokyo-21073-1@eventseye.impio-vault
+DESCRIPTION:PharmaLab Expo is an Asia's leading exhibition for drug discove
+ ry and pharma R&D technologies\, Life Science & Biotechnology Exhibition\\
+ nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-pharmalab-expo-
+ tokyo-21073-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-pharmalab-expo-tokyo-21073-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CEI - INDIA CONSUMER ELECTRONICS AND HOME APPLIANCES EXHIBITION —
@@ -2014,6 +2043,22 @@ URL:https://www.eventseye.com/fairs/f-vimaf-vietnam-international-machinery
  -fair-binh-duong-30512-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHINA BRAND FAIR - CENTRAL AND EASTERN EUROPE — Budapest\, Hungar
+ y
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-china-brand-fair-central-and-eastern-europe-34229-1@eventseye.impio-vault
+DESCRIPTION:China Brand Fair in Central and Eastern Europe. Electronics & H
+ ome Appliances\, Office Supplies\, Food & Beverages\, Hotel Supplies\, Pac
+ kaging Machinery\, Textiles & Apparel\, Automotive & Parts\, Electrical Eq
+ uipment\, Home & Bathroom Products\, Building...\\nVenue: Budapest Fair Ce
+ ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ china-brand-fair-central-and-eastern-europe-34229-1.html
+LOCATION:Budapest\, Hungary
+URL:https://www.eventseye.com/fairs/f-china-brand-fair-central-and-eastern-
+ europe-34229-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EVS — Long Beach\, CA\, USA
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260625
@@ -2310,9 +2355,9 @@ DTEND;VALUE=DATE:20260711
 UID:f-lightexpo-africa-kenya-20044-1@eventseye.impio-vault
 DESCRIPTION:LIGHTEXPO KENYA is the largest business trade event for the lig
  hting market in East Africa. LIGHTEXPO provides an exclusive window to mee
- ting high-level buyers with-in the African Industry\\nVenue: Kenyatta Inte
- rnational Conference Center\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-lightexpo-africa-kenya-20044-1.html
+ ting high-level buyers with-in the African Industry\\nVenue: The Carnivore
+  Grounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-lightexpo-africa-kenya-20044-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-lightexpo-africa-kenya-20044-1.html
 END:VEVENT
@@ -2639,9 +2684,8 @@ UID:f-power-energy-africa-kenya-19099-1@eventseye.impio-vault
 DESCRIPTION:International Power and Energy Exhibition in Kenya. The event s
  howcases products and services to the industry's largest gathering of qual
  ified decision-makers\, buyers\, service provider\, importers and distribu
- tors\\nVenue: Kenyatta International Conference Center\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-power-energy-africa-keny
- a-19099-1.html
+ tors\\nVenue: The Carnivore Grounds\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-power-energy-africa-kenya-19099-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-power-energy-africa-kenya-19099-1.htm
  l
@@ -4370,6 +4414,670 @@ URL:https://www.eventseye.com/fairs/f-alihankinta-subcontracting-fair-finla
  nd-29690-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TOOLEX — Katowice\, Poland
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+UID:f-toolex-17293-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Machine Tools\, Tools and Processing Tech
+ nology. Metal Processing\, Tools\, Robotics & Automation\, Industrial Metr
+ ology\, Pneumatics & Hydraulics\, Software...\\nVenue: Katowice Internatio
+ nal Fair\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-toolex-17293-1.html
+LOCATION:Katowice\, Poland
+URL:https://www.eventseye.com/fairs/f-toolex-17293-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BELARUSIAN INDUSTRIAL AND INNOVATION FORUM — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-belarusian-industrial-and-innovation-forum-21491-1@eventseye.impio-vault
+DESCRIPTION:Belarusian Industrial Forum. A prestigious international showca
+ se of achievements in the field of advanced technologies. It is a synergy 
+ of six mutually complementary industry exhibitions under a single brand\\n
+ Venue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-forum
+ -21491-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-
+ forum-21491-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLEANROOM EXHIBITION — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-cleanroom-exhibition-21008-1@eventseye.impio-vault
+DESCRIPTION:Salon de la maintenance\, des technologies et équipements pour
+  salles blanches. For special industrial plants\, medical facilities\, Res
+ earch & Development departments... which require very hygienic and extreme
+ ly sterile spaces\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention & Exhibi
+ tion Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
+ m/fairs/f-cleanroom-exhibition-21008-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-cleanroom-exhibition-21008-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRIC ASIA — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-electric-asia-28950-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Power\, Power Generation and Power 
+ Transmission Equipment\, Technologies & Supplies\\nVenue: Bangkok Internat
+ ional Trade & Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-electric-asia-28950-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-electric-asia-28950-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELMÄSSAN STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-elmassan-stockholm-31887-1@eventseye.impio-vault
+DESCRIPTION:Electricity and lighting industry swedish expo. A meeting place
+  that unites thousands of electricians\, installers\, consultants\, projec
+ t managers & other decision-makers with suppliers in installation\, lighti
+ ng\, renewable energy\, and fiber\\nVenue: Kista Mässan\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-elmassan-stockholm-318
+ 87-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-elmassan-stockholm-31887-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOOD LONG LIFE JAPAN — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-food-long-life-japan-30560-1@eventseye.impio-vault
+DESCRIPTION:The "Food Long Life" Fair feature. Shelf life technologies that
+  helps prolong and maintain food taste and quality longer\\nVenue: Tokyo I
+ nternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-food-long-life-japan-30560-1.h
+ tml
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-food-long-life-japan-30560-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUANGZHOU SOURCING FAIR — Guangzhou\, China
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261018
+UID:f-guangzhou-sourcing-fair-31652-1@eventseye.impio-vault
+DESCRIPTION:Guangzhou Sourcing Fair: Houseware & Hardware will create a hig
+ h-quality trade platform for 600 exhibitors and 30\, 000 sourcing professi
+ onals in hardware & houseware industry\, helping Chinese enterprises expan
+ d overseas markets\\nVenue: Poly World Trade Expo Center\\nFrequency: twic
+ e a year\\nSource: https://www.eventseye.com/fairs/f-guangzhou-sourcing-fa
+ ir-31652-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-guangzhou-sourcing-fair-31652-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYDRO — Bologna\, Italy
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-hydro-8474-1@eventseye.impio-vault
+DESCRIPTION:Hydro Power & Dams Industry International Conference. A forum f
+ or exchange views on the most topical issues for the hydropower profession
+  and to learn from each other’s experience\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-hydro-8474-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-hydro-8474-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINTENANCE KRAKOW — Krakow\, Poland
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-maintenance-krakow-23761-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Suppliers of Maintenance Products and Services. 
+ Maintenance Krakow provides a comprehensive platform where exhibitors can 
+ keep visitors abreast of the latest innovations and trends\, to jointly de
+ vise solutions and do business\\nVenue: Expo Krakow\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-maintenance-krakow-23761-1.
+ html
+LOCATION:Krakow\, Poland
+URL:https://www.eventseye.com/fairs/f-maintenance-krakow-23761-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBILITY LIVE AUSTRALIA — Sydney\, Australia
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-mobility-live-australia-31188-1@eventseye.impio-vault
+DESCRIPTION:The Australia's most important mobility event\, where disruptiv
+ e technology and innovation drive much needed change\\nVenue: ICC Sydney -
+  International Convention Centre Sydney\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWEREX ASIA — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-powerex-asia-28949-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Power\, Power Generation and Power 
+ Transmission Equipment\, Technologies & Supplies\\nVenue: Bangkok Internat
+ ional Trade & Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-powerex-asia-28949-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-powerex-asia-28949-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:READYSTOCK — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-readystock-29549-1@eventseye.impio-vault
+DESCRIPTION:Readystock is an international\, multi-industry fair of ready-t
+ o-sell products fro. various industries. Among them\, e.g. household appli
+ ances\, decorations\, gifts\, toys\, tools\, cosmetics\, chemicals\, groce
+ ries\, office\, school and advertising articles\\nVenue: PGE Narodowy Stad
+ ium\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-r
+ eadystock-29549-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-readystock-29549-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECHINNOPROM — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-techinnoprom-23935-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Industrial Technologies and Innovat
+ ions in Biał oś lórus. TechInnoProm aims to promote innovative industri
+ al equipment\, products\, and technologies from domestic and international
+  companies to the market\\nVenue: Football Manege Sport Complex\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-techinnoprom-23
+ 935-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-techinnoprom-23935-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL SOURCES LIFESTYLE — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261022
+UID:f-global-sources-lifestyle-13209-1@eventseye.impio-vault
+DESCRIPTION:Fair Showcasing customized\, high-quality\, technologically adv
+ anced\, and sustainable lifestyle products\, covering outdoor & sports pro
+ ducts\, pet supplies\, beauty & personal care\, and gift items\\nVenue: As
+ iaWorld - Expo\\nFrequency: twice a year\\nSource: https://www.eventseye.c
+ om/fairs/f-global-sources-lifestyle-13209-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-global-sources-lifestyle-13209-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL SOURCES MOBILE ELECTRONICS — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261022
+UID:f-global-sources-mobile-electronics-14724-1@eventseye.impio-vault
+DESCRIPTION:Fair showcasing innovative and branded designs in mobile device
+ s\, smart wearables\, charging products\, smart energy\, and mobile access
+ ories\\nVenue: AsiaWorld - Expo\\nFrequency: twice a year\\nSource: https:
+ //www.eventseye.com/fairs/f-global-sources-mobile-electronics-14724-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-global-sources-mobile-electronics-147
+ 24-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACTUATORS & ENGINES — Moscow\, Russia
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-actuators-engines-7766-1@eventseye.impio-vault
+DESCRIPTION:International specialized exhibition of actuators\, engines\, a
+ uxiliary equipment and materials\\nVenue: Crocus-Expo IEC\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-actuators-engines-776
+ 6-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-actuators-engines-7766-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEROSPACE TESTING RUSSIA / INDUSTRIAL TESTING & CONTROL — Moscow\
+ , Russia
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-aerospace-testing-russia-industrial-testing-control-19453-1@eventseye.impio-vault
+DESCRIPTION:Russian international Exhibition of Testing and Measuring Equip
+ ment. Effectively showcase your products and receive orders directly at th
+ e exhibition\, Conduct an analysis of potential demand for new development
+ s\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-aerospace-testing-russia-industrial-testing-control-
+ 19453-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-aerospace-testing-russia-industrial-t
+ esting-control-19453-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
+DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
+ nd exhibition of the renewable energy and storage industry in Canada. A gl
+ obal platform to amplify conversations\, explore emerging technologies and
+  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
+ rmation-canada-29835-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
+ 35-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NDT RUSSIA — Moscow\, Russia
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-ndt-russia-4232-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of equipment for non-destructive testi
+ ng and technical diagnostics\\nVenue: Crocus-Expo IEC\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-ndt-russia-4232-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-ndt-russia-4232-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TESTING & CONTROL — Moscow\, Russia
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-testing-control-15194-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Testing and Measuring Equipment Tes
+ ting & Control\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-testing-control-15194-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-testing-control-15194-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLEANROOM TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-cleanroom-taiwan-34217-1@eventseye.impio-vault
+DESCRIPTION:Taiwan Cleanroom international trade show. Connect with procure
+ ment decision-makers from semiconductor\, biotech\, medical device\, food 
+ processing\, and data center sectors\\nVenue: Taipei Nangang Exhibition Ce
+ nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ cleanroom-taiwan-34217-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-cleanroom-taiwan-34217-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENGINEERING TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-engineering-taiwan-34216-1@eventseye.impio-vault
+DESCRIPTION:'Engineering Taiwan' is a B2B trade exhibition for precision en
+ gineering\, industrial automation\, mechanical components\, power distribu
+ tion\, and testing/measurement\\nVenue: Taipei Nangang Exhibition Center\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-engine
+ ering-taiwan-34216-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-engineering-taiwan-34216-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEGASHOW HONG KONG PART 1 — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+UID:f-megashow-hong-kong-part-1-27202-1@eventseye.impio-vault
+DESCRIPTION:Asian Toys & Baby Products Show - Asian Housewares & Kitchen Sh
+ ow - Asian Sporting Goods Show - Asian Festive\, Christmas & Seasonal Show
+ \\nVenue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-megashow-hong-kong-part-1-27
+ 202-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-megashow-hong-kong-part-1-27202-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSSIAN INDUSTRIALIST — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-russian-industrialist-4025-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of Machine Tools\, Mechanical Engineering\, Instrume
+ nts and Technologies\\nVenue: ExpoForum Convention and Exhibition Centre\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-russia
+ n-industrialist-4025-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-russian-industrialist-4025-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHENZHEN INTERNATIONAL GIFT AND HOME FAIR - AUTUMN — Shenzhen\, C
+ hina
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+UID:f-shenzhen-international-gift-and-home-fair-autumn-30492-1@eventseye.impio-vault
+DESCRIPTION:China (Shenzhen) International Gifts\, Handicrafts\, Watches & 
+ Houseware Fair. Over 5\, 000 exhibitors with more than 1\, 000\, 000 premi
+ um brand gift and homeware products are expected on-site\\nVenue: Shenzhen
+  World Exhibition & Convention Center\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-shenzhen-international-gift-and-home-fair
+ -autumn-30492-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-shenzhen-international-gift-and-home-
+ fair-autumn-30492-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBCON TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-subcon-taiwan-34214-1@eventseye.impio-vault
+DESCRIPTION:Subcon Taiwan is a capabilities show. Every exhibitor sells man
+ ufacturing capacity: precision machining\, electronics assembly\, smart ma
+ nufacturing services\, vertical industry solutions...\\nVenue: Taipei Nang
+ ang Exhibition Center\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-subcon-taiwan-34214-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-subcon-taiwan-34214-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAITRONICS - TAIPEI INTERNATIONAL ELECTRONICS SHOW — Taipei\, Tai
+ wan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-taitronics-taipei-international-electronics-show-2631-1@eventseye.impio-vault
+DESCRIPTION:Taipei International Electronics Show. Electronics Components &
+  Parts\, Meters & Instruments\, Industrial Process & Automation Equipment\
+ , Consumer Products & Automotive Electronics\, Next-G Communication Tech\,
+  Green Power...\\nVenue: Taipei Nangang Exhibition Center\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-taitronics-taipei-int
+ ernational-electronics-show-2631-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taitronics-taipei-international-elect
+ ronics-show-2631-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIWAN INDUSTRY WEEK — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-taiwan-industry-week-32759-1@eventseye.impio-vault
+DESCRIPTION:TAIWAN INDUSTRY WEEK includes 4 key international exhibitions. 
+ - THS (Taiwan Hardware Industry)\n- IMT (Taiwan Metal Technology)\n- T-SAF
+ E (Taiwan Occupational Safety)\n- HVAC (Taiwan RHVAC Industry)\\nVenue: Ta
+ ipei Nangang Exhibition Center\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-taiwan-industry-week-32759-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taiwan-industry-week-32759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TPCA SHOW — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-tpca-show-22223-1@eventseye.impio-vault
+DESCRIPTION:PCB industry Expo. TPCA Show exhibitors from the entire supply 
+ chain\, presenting products from raw materials & chemicals to processing &
+  testing equipment including electronic assembly\, IC packaging\, thermal 
+ management\, green technology & new products\\nVenue: Taipei Nangang Exhib
+ ition Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-tpca-show-22223-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-tpca-show-22223-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UZENERGYEXPO — Tashkent\, Uzbekistan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-uzenergyexpo-16836-1@eventseye.impio-vault
+DESCRIPTION:International Specialized Exhibition for Power Engineering\, En
+ ergy Saving Technologies & Electrical Engineering\\nVenue: Uzexpocentre\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-uzenerg
+ yexpo-16836-1.html
+LOCATION:Tashkent\, Uzbekistan
+URL:https://www.eventseye.com/fairs/f-uzenergyexpo-16836-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERGETIKA — Belgrade\, Serbia
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-energetika-8913-1@eventseye.impio-vault
+DESCRIPTION:International Energy Fair. Electric Power Production in Hydroel
+ ectric and Thermoelectric Power Plants\, Cogeneration\, Electric Power Tra
+ nsmission and Distribution Network\, Electric Power System Management...\\
+ nVenue: Belgrade Fair Grounds\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-energetika-8913-1.html
+LOCATION:Belgrade\, Serbia
+URL:https://www.eventseye.com/fairs/f-energetika-8913-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUROPEAN GRAPHENE FORUM — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-european-graphene-forum-22779-1@eventseye.impio-vault
+DESCRIPTION:Conference on graphene and it's applications. The European Grap
+ hene Forum will cover the latest technology developments\, applications\, 
+ commercialization progress\, end user requirements and challenges for Grap
+ hene and 2D Materials\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-european-graphene-forum-22779-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-european-graphene-forum-22779-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBILE SOLUTIONS EXPO (MOBIX AUTUMN) — Chiba\, Japan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-mobile-solutions-expo-(mobix-autumn)-25151-1@eventseye.impio-vault
+DESCRIPTION:International Mobile Solutions Trade Expo. Mobile Solutions Exp
+ o (MOBIX) showcases GPS services\, Smartphones\, Mobiles\, Terminals\, Tab
+ letPCs\, Handy Terminals\, Peripheral Devices\, Mobile Software\, Middlewa
+ re\, Mobile Applications Development\\nVenue: Makuhari Messe - Nippon Conv
+ ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-mobile-solutions-expo-(mobix-autumn)-25151-1.html
+LOCATION:Chiba\, Japan
+URL:https://www.eventseye.com/fairs/f-mobile-solutions-expo-(mobix-autumn)-
+ 25151-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NANOMED — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-nanomed-29003-1@eventseye.impio-vault
+DESCRIPTION:NanoMedicine and Nanobiotechnology International Conference & E
+ xhibition\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-nanomed-29003-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-nanomed-29003-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWEREXPO ALMATY — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-powerexpo-almaty-3941-1@eventseye.impio-vault
+DESCRIPTION:Kazakhstan International Energy\, Electrical Equipment and Mach
+ ine Building Exhibition\\nVenue: Atakent International Exhibition Centre\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-powere
+ xpo-almaty-3941-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-powerexpo-almaty-3941-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QA&TEST — Bilbao\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-qa-test-22681-1@eventseye.impio-vault
+DESCRIPTION:QA&TEST is the International Conference on Testing and Software
+  Quality in Embedded Systems in Bilbao\\nVenue: Palacio de Congresos Euska
+ lduna\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -qa-test-22681-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-qa-test-22681-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENSORS — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-sensors-29005-1@eventseye.impio-vault
+DESCRIPTION:Sensors and sensing technology Technologies International Confe
+ rence\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -sensors-29005-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-sensors-29005-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW HOME KITCHEN — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+UID:f-warsaw-home-kitchen-29988-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair of Kitchen Equipment. 'Warsaw Home Kit
+ chen' was created for those who are looking for beautiful kitchen equipmen
+ t and also for practical solutions. Both classic and modern kitchen furnit
+ ure\, innovative systems\, accessories...\\nVenue: Ptak Warsaw Expo\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-home
+ -kitchen-29988-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-home-kitchen-29988-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW HOME LIGHT — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+UID:f-warsaw-home-light-29989-1@eventseye.impio-vault
+DESCRIPTION:Warsaw International Lighting Trade Fair. Light can have a real
+  impact on our well-being. It can radically change the perception of an in
+ terior composition\, give it a specific soul and complete the perfect arra
+ ngement\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-warsaw-home-light-29989-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-home-light-29989-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GILF - GUZHEN INTERNATIONAL LIGHTING FAIR — Zhongshan\, China
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+UID:f-gilf-guzhen-international-lighting-fair-23884-1@eventseye.impio-vault
+DESCRIPTION:International LED Lighting\, Decorative Lighting and Industrial
+  Lighting Fair in China. The show presents the latest technologies\, produ
+ cts and ideas from around the world to boost the development of the lighti
+ ng industry\\nVenue: Guzhen Convention and Exhibition Center\\nFrequency: 
+ twice a year\\nSource: https://www.eventseye.com/fairs/f-gilf-guzhen-inter
+ national-lighting-fair-23884-1.html
+LOCATION:Zhongshan\, China
+URL:https://www.eventseye.com/fairs/f-gilf-guzhen-international-lighting-fa
+ ir-23884-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOMEDEC - INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+UID:f-homedec-indonesia-26631-1@eventseye.impio-vault
+DESCRIPTION:Indonesian Home Design & Interior Exhibition. HOMEDEC is an ann
+ ual home show that has become a one stop home solution\, a source of ideas
+ \, inspiration\, latest trends and references for thousands of home owners
+ \\nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-homedec-indonesia-26631-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-homedec-indonesia-26631-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA CHEM — Mumbai\, India
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+UID:f-india-chem-6057-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition & Conference on Chemicals\, Petro-Chem
+ icals and Plastics\, Pharmaceuticals\, Technologies\, Process Plant Machin
+ ery\, Control & Automation Systems Machinery\, Control & Automation System
+ s\\nVenue: NESCO Center\\nFrequency: every 2 years\\nSource: https://www.e
+ ventseye.com/fairs/f-india-chem-6057-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-india-chem-6057-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BATTERY SHOW - INDIA — Noida\, India
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+UID:f-the-battery-show-india-30647-1@eventseye.impio-vault
+DESCRIPTION:Meet manufacturers\, suppliers\, engineers\, thought leaders an
+ d purchasers for a conference and trade fair focused on the latest develop
+ ments in the advanced battery and automotive industries\\nVenue: India Exp
+ o Centre & Mart\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-the-battery-show-india-30647-1.html
+LOCATION:Noida\, India
+URL:https://www.eventseye.com/fairs/f-the-battery-show-india-30647-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARABLAB EXPO — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261029
+UID:f-arablab-expo-11049-1@eventseye.impio-vault
+DESCRIPTION:Middle East & Africa Expo for the Global Laboratory and Instrum
+ entation Industry\\nVenue: Dubai World Trade Centre (Dubai Exhibition Cent
+ re)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-a
+ rablab-expo-11049-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-arablab-expo-11049-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
+DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
+ s innovation hub covering Automotive\, Electronics\, Display and New Mater
+ ials. These shows connect across key industries in the world of advanced m
+ anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
+ onnected-shows-a-mega-feast-of-innovation-32051-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
+ ovation-32051-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMATION & TESTING NORD EST — Vicenza\, Italy
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automation-testing-nord-est-33365-1@eventseye.impio-vault
+DESCRIPTION:A&T is dedicated to entrepreneurs\, managers\, technicians and 
+ researchers from companies in northwestern Italy. Automation & Mechatronic
+ s\, Electronics & Electromechanics\, Household Appliances\, Air conditioni
+ ng & Refrigeration...\\nVenue: Fiera di Vicenza\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-automation-testing-nord-est-333
+ 65-1.html
+LOCATION:Vicenza\, Italy
+URL:https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE TESTING EXPO - NORTH AMERICA — Novi\, MI\, USA
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automotive-testing-expo-north-america-5032-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Automotive Test & Evaluation. At A
+ utomotive Testing Expo you can see the very latest technologies & services
+  that are designed to ensure that the highest standards are met in terms o
+ f product quality\, reliability and safety\\nVenue: Suburban Collection Sh
+ owplace\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-automotive-testing-expo-north-america-5032-1.html
+LOCATION:Novi\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-automotive-testing-expo-north-america
+ -5032-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEM 2D MAT — Valencia\, Spain
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-chem-2d-mat-26373-1@eventseye.impio-vault
+DESCRIPTION:The International conference Chem2Dmat covers all areas related
+  to 2D materials' chemistry spanning their synthesis as well as their func
+ tionalization\, using covalent and non-covalent approaches. Composites\, f
+ oams and coatings\, membranes...\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
+LOCATION:Valencia\, Spain
+URL:https://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C-TOUCH & DISPLAY SHENZHEN — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-c-touch-display-shenzhen-23815-1@eventseye.impio-vault
+DESCRIPTION:C-TOUCH & DISPLAY SHENZHEN is the globally exhibition for the t
+ ouchscreen industry and mobile phone manufacturing chains. Focusing on tou
+ ch technology\, it encompasses the top products and innovative technologie
+ s along every link of the industrial chain\\nVenue: Shenzhen World Exhibit
+ ion & Convention Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERGY EXPO — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+UID:f-energy-expo-708-1@eventseye.impio-vault
+DESCRIPTION:Energy sources\, Consumption Meters and Regulators\, Energy-Sav
+ ing Technologies and Equipment\\nVenue: Football Manege Sport Complex\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-energy-ex
+ po-708-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-energy-expo-708-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MICRONORA — Besancon\, France
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20261003
@@ -4880,618 +5588,6 @@ DESCRIPTION:Fair of the partners of the industry of the Great South. SIANE
  f-siane-18535-1.html
 LOCATION:Toulouse\, France
 URL:https://www.eventseye.com/fairs/f-siane-18535-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOOLEX — Katowice\, Poland
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:f-toolex-17293-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Machine Tools\, Tools and Processing Tech
- nology. Metal Processing\, Tools\, Robotics & Automation\, Industrial Metr
- ology\, Pneumatics & Hydraulics\, Software...\\nVenue: Katowice Internatio
- nal Fair\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-toolex-17293-1.html
-LOCATION:Katowice\, Poland
-URL:https://www.eventseye.com/fairs/f-toolex-17293-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BELARUSIAN INDUSTRIAL AND INNOVATION FORUM — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-belarusian-industrial-and-innovation-forum-21491-1@eventseye.impio-vault
-DESCRIPTION:Belarusian Industrial Forum. A prestigious international showca
- se of achievements in the field of advanced technologies. It is a synergy 
- of six mutually complementary industry exhibitions under a single brand\\n
- Venue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-forum
- -21491-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-
- forum-21491-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CLEANROOM EXHIBITION — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-cleanroom-exhibition-21008-1@eventseye.impio-vault
-DESCRIPTION:Salon de la maintenance\, des technologies et équipements pour
-  salles blanches. For special industrial plants\, medical facilities\, Res
- earch & Development departments... which require very hygienic and extreme
- ly sterile spaces\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention & Exhibi
- tion Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
- m/fairs/f-cleanroom-exhibition-21008-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-cleanroom-exhibition-21008-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRIC ASIA — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-electric-asia-28950-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Power\, Power Generation and Power 
- Transmission Equipment\, Technologies & Supplies\\nVenue: Bangkok Internat
- ional Trade & Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-electric-asia-28950-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-electric-asia-28950-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELMÄSSAN STOCKHOLM — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-elmassan-stockholm-31887-1@eventseye.impio-vault
-DESCRIPTION:Electricity and lighting industry swedish expo. A meeting place
-  that unites thousands of electricians\, installers\, consultants\, projec
- t managers & other decision-makers with suppliers in installation\, lighti
- ng\, renewable energy\, and fiber\\nVenue: Kista Mässan\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-elmassan-stockholm-318
- 87-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-elmassan-stockholm-31887-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOOD LONG LIFE JAPAN — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-food-long-life-japan-30560-1@eventseye.impio-vault
-DESCRIPTION:The "Food Long Life" Fair feature. Shelf life technologies that
-  helps prolong and maintain food taste and quality longer\\nVenue: Tokyo I
- nternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-food-long-life-japan-30560-1.h
- tml
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-food-long-life-japan-30560-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUANGZHOU SOURCING FAIR — Guangzhou\, China
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261018
-UID:f-guangzhou-sourcing-fair-31652-1@eventseye.impio-vault
-DESCRIPTION:Guangzhou Sourcing Fair: Houseware & Hardware will create a hig
- h-quality trade platform for 600 exhibitors and 30\, 000 sourcing professi
- onals in hardware & houseware industry\, helping Chinese enterprises expan
- d overseas markets\\nVenue: Poly World Trade Expo Center\\nFrequency: twic
- e a year\\nSource: https://www.eventseye.com/fairs/f-guangzhou-sourcing-fa
- ir-31652-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-guangzhou-sourcing-fair-31652-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYDRO — Bologna\, Italy
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-hydro-8474-1@eventseye.impio-vault
-DESCRIPTION:Hydro Power & Dams Industry International Conference. A forum f
- or exchange views on the most topical issues for the hydropower profession
-  and to learn from each other’s experience\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-hydro-8474-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-hydro-8474-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINTENANCE KRAKOW — Krakow\, Poland
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-maintenance-krakow-23761-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Suppliers of Maintenance Products and Services. 
- Maintenance Krakow provides a comprehensive platform where exhibitors can 
- keep visitors abreast of the latest innovations and trends\, to jointly de
- vise solutions and do business\\nVenue: Expo Krakow\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-maintenance-krakow-23761-1.
- html
-LOCATION:Krakow\, Poland
-URL:https://www.eventseye.com/fairs/f-maintenance-krakow-23761-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOBILITY LIVE AUSTRALIA — Sydney\, Australia
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-mobility-live-australia-31188-1@eventseye.impio-vault
-DESCRIPTION:The Australia's most important mobility event\, where disruptiv
- e technology and innovation drive much needed change\\nVenue: ICC Sydney -
-  International Convention Centre Sydney\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWEREX ASIA — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-powerex-asia-28949-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Power\, Power Generation and Power 
- Transmission Equipment\, Technologies & Supplies\\nVenue: Bangkok Internat
- ional Trade & Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-powerex-asia-28949-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-powerex-asia-28949-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:READYSTOCK — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-readystock-29549-1@eventseye.impio-vault
-DESCRIPTION:Readystock is an international\, multi-industry fair of ready-t
- o-sell products fro. various industries. Among them\, e.g. household appli
- ances\, decorations\, gifts\, toys\, tools\, cosmetics\, chemicals\, groce
- ries\, office\, school and advertising articles\\nVenue: PGE Narodowy Stad
- ium\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-r
- eadystock-29549-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-readystock-29549-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECHINNOPROM — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-techinnoprom-23935-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Industrial Technologies and Innovat
- ions in Biał oś lórus. TechInnoProm aims to promote innovative industri
- al equipment\, products\, and technologies from domestic and international
-  companies to the market\\nVenue: Football Manege Sport Complex\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-techinnoprom-23
- 935-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-techinnoprom-23935-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLOBAL SOURCES LIFESTYLE — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261022
-UID:f-global-sources-lifestyle-13209-1@eventseye.impio-vault
-DESCRIPTION:Fair Showcasing customized\, high-quality\, technologically adv
- anced\, and sustainable lifestyle products\, covering outdoor & sports pro
- ducts\, pet supplies\, beauty & personal care\, and gift items\\nVenue: As
- iaWorld - Expo\\nFrequency: twice a year\\nSource: https://www.eventseye.c
- om/fairs/f-global-sources-lifestyle-13209-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-global-sources-lifestyle-13209-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLOBAL SOURCES MOBILE ELECTRONICS — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261022
-UID:f-global-sources-mobile-electronics-14724-1@eventseye.impio-vault
-DESCRIPTION:Fair showcasing innovative and branded designs in mobile device
- s\, smart wearables\, charging products\, smart energy\, and mobile access
- ories\\nVenue: AsiaWorld - Expo\\nFrequency: twice a year\\nSource: https:
- //www.eventseye.com/fairs/f-global-sources-mobile-electronics-14724-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-global-sources-mobile-electronics-147
- 24-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACTUATORS & ENGINES — Moscow\, Russia
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-actuators-engines-7766-1@eventseye.impio-vault
-DESCRIPTION:International specialized exhibition of actuators\, engines\, a
- uxiliary equipment and materials\\nVenue: Crocus-Expo IEC\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-actuators-engines-776
- 6-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-actuators-engines-7766-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AEROSPACE TESTING RUSSIA / INDUSTRIAL TESTING & CONTROL — Moscow\
- , Russia
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-aerospace-testing-russia-industrial-testing-control-19453-1@eventseye.impio-vault
-DESCRIPTION:Russian international Exhibition of Testing and Measuring Equip
- ment. Effectively showcase your products and receive orders directly at th
- e exhibition\, Conduct an analysis of potential demand for new development
- s\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-aerospace-testing-russia-industrial-testing-control-
- 19453-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-aerospace-testing-russia-industrial-t
- esting-control-19453-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
-DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
- nd exhibition of the renewable energy and storage industry in Canada. A gl
- obal platform to amplify conversations\, explore emerging technologies and
-  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
- rmation-canada-29835-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
- 35-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NDT RUSSIA — Moscow\, Russia
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-ndt-russia-4232-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of equipment for non-destructive testi
- ng and technical diagnostics\\nVenue: Crocus-Expo IEC\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-ndt-russia-4232-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-ndt-russia-4232-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TESTING & CONTROL — Moscow\, Russia
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-testing-control-15194-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Testing and Measuring Equipment Tes
- ting & Control\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-testing-control-15194-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-testing-control-15194-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEGASHOW HONG KONG PART 1 — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261024
-UID:f-megashow-hong-kong-part-1-27202-1@eventseye.impio-vault
-DESCRIPTION:Asian Toys & Baby Products Show - Asian Housewares & Kitchen Sh
- ow - Asian Sporting Goods Show - Asian Festive\, Christmas & Seasonal Show
- \\nVenue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-megashow-hong-kong-part-1-27
- 202-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-megashow-hong-kong-part-1-27202-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RUSSIAN INDUSTRIALIST — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-russian-industrialist-4025-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of Machine Tools\, Mechanical Engineering\, Instrume
- nts and Technologies\\nVenue: ExpoForum Convention and Exhibition Centre\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-russia
- n-industrialist-4025-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-russian-industrialist-4025-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHENZHEN INTERNATIONAL GIFT AND HOME FAIR - AUTUMN — Shenzhen\, C
- hina
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261024
-UID:f-shenzhen-international-gift-and-home-fair-autumn-30492-1@eventseye.impio-vault
-DESCRIPTION:China (Shenzhen) International Gifts\, Handicrafts\, Watches & 
- Houseware Fair. Over 5\, 000 exhibitors with more than 1\, 000\, 000 premi
- um brand gift and homeware products are expected on-site\\nVenue: Shenzhen
-  World Exhibition & Convention Center\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-shenzhen-international-gift-and-home-fair
- -autumn-30492-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-shenzhen-international-gift-and-home-
- fair-autumn-30492-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAITRONICS - TAIPEI INTERNATIONAL ELECTRONICS SHOW — Taipei\, Tai
- wan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-taitronics-taipei-international-electronics-show-2631-1@eventseye.impio-vault
-DESCRIPTION:Taipei International Electronics Show. Electronics Components &
-  Parts\, Meters & Instruments\, Industrial Process & Automation Equipment\
- , Consumer Products & Automotive Electronics\, Next-G Communication Tech\,
-  Green Power...\\nVenue: Taipei Nangang Exhibition Center\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-taitronics-taipei-int
- ernational-electronics-show-2631-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taitronics-taipei-international-elect
- ronics-show-2631-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TPCA SHOW — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-tpca-show-22223-1@eventseye.impio-vault
-DESCRIPTION:PCB industry Expo. TPCA Show exhibitors from the entire supply 
- chain\, presenting products from raw materials & chemicals to processing &
-  testing equipment including electronic assembly\, IC packaging\, thermal 
- management\, green technology & new products\\nVenue: Taipei Nangang Exhib
- ition Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-tpca-show-22223-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-tpca-show-22223-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UZENERGYEXPO — Tashkent\, Uzbekistan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-uzenergyexpo-16836-1@eventseye.impio-vault
-DESCRIPTION:International Specialized Exhibition for Power Engineering\, En
- ergy Saving Technologies & Electrical Engineering\\nVenue: Uzexpocentre\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-uzenerg
- yexpo-16836-1.html
-LOCATION:Tashkent\, Uzbekistan
-URL:https://www.eventseye.com/fairs/f-uzenergyexpo-16836-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERGETIKA — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-energetika-8913-1@eventseye.impio-vault
-DESCRIPTION:International Energy Fair. Electric Power Production in Hydroel
- ectric and Thermoelectric Power Plants\, Cogeneration\, Electric Power Tra
- nsmission and Distribution Network\, Electric Power System Management...\\
- nVenue: Belgrade Fair Grounds\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-energetika-8913-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-energetika-8913-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUROPEAN GRAPHENE FORUM — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-european-graphene-forum-22779-1@eventseye.impio-vault
-DESCRIPTION:Conference on graphene and it's applications. The European Grap
- hene Forum will cover the latest technology developments\, applications\, 
- commercialization progress\, end user requirements and challenges for Grap
- hene and 2D Materials\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-european-graphene-forum-22779-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-european-graphene-forum-22779-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOBILE SOLUTIONS EXPO (MOBIX AUTUMN) — Chiba\, Japan
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-mobile-solutions-expo-(mobix-autumn)-25151-1@eventseye.impio-vault
-DESCRIPTION:International Mobile Solutions Trade Expo. Mobile Solutions Exp
- o (MOBIX) showcases GPS services\, Smartphones\, Mobiles\, Terminals\, Tab
- letPCs\, Handy Terminals\, Peripheral Devices\, Mobile Software\, Middlewa
- re\, Mobile Applications Development\\nVenue: Makuhari Messe - Nippon Conv
- ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-mobile-solutions-expo-(mobix-autumn)-25151-1.html
-LOCATION:Chiba\, Japan
-URL:https://www.eventseye.com/fairs/f-mobile-solutions-expo-(mobix-autumn)-
- 25151-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NANOMED — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-nanomed-29003-1@eventseye.impio-vault
-DESCRIPTION:NanoMedicine and Nanobiotechnology International Conference & E
- xhibition\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-nanomed-29003-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-nanomed-29003-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWEREXPO ALMATY — Almaty\, Kazakhstan
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-powerexpo-almaty-3941-1@eventseye.impio-vault
-DESCRIPTION:Kazakhstan International Energy\, Electrical Equipment and Mach
- ine Building Exhibition\\nVenue: Atakent International Exhibition Centre\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-powere
- xpo-almaty-3941-1.html
-LOCATION:Almaty\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-powerexpo-almaty-3941-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QA&TEST — Bilbao\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-qa-test-22681-1@eventseye.impio-vault
-DESCRIPTION:QA&TEST is the International Conference on Testing and Software
-  Quality in Embedded Systems in Bilbao\\nVenue: Palacio de Congresos Euska
- lduna\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -qa-test-22681-1.html
-LOCATION:Bilbao\, Spain
-URL:https://www.eventseye.com/fairs/f-qa-test-22681-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SENSORS — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-sensors-29005-1@eventseye.impio-vault
-DESCRIPTION:Sensors and sensing technology Technologies International Confe
- rence\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -sensors-29005-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-sensors-29005-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW HOME KITCHEN — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261025
-UID:f-warsaw-home-kitchen-29988-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of Kitchen Equipment. 'Warsaw Home Kit
- chen' was created for those who are looking for beautiful kitchen equipmen
- t and also for practical solutions. Both classic and modern kitchen furnit
- ure\, innovative systems\, accessories...\\nVenue: Ptak Warsaw Expo\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-home
- -kitchen-29988-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-home-kitchen-29988-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW HOME LIGHT — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261025
-UID:f-warsaw-home-light-29989-1@eventseye.impio-vault
-DESCRIPTION:Warsaw International Lighting Trade Fair. Light can have a real
-  impact on our well-being. It can radically change the perception of an in
- terior composition\, give it a specific soul and complete the perfect arra
- ngement\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-warsaw-home-light-29989-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-home-light-29989-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GILF - GUZHEN INTERNATIONAL LIGHTING FAIR — Zhongshan\, China
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-UID:f-gilf-guzhen-international-lighting-fair-23884-1@eventseye.impio-vault
-DESCRIPTION:International LED Lighting\, Decorative Lighting and Industrial
-  Lighting Fair in China. The show presents the latest technologies\, produ
- cts and ideas from around the world to boost the development of the lighti
- ng industry\\nVenue: Guzhen Convention and Exhibition Center\\nFrequency: 
- twice a year\\nSource: https://www.eventseye.com/fairs/f-gilf-guzhen-inter
- national-lighting-fair-23884-1.html
-LOCATION:Zhongshan\, China
-URL:https://www.eventseye.com/fairs/f-gilf-guzhen-international-lighting-fa
- ir-23884-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOMEDEC - INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-UID:f-homedec-indonesia-26631-1@eventseye.impio-vault
-DESCRIPTION:Indonesian Home Design & Interior Exhibition. HOMEDEC is an ann
- ual home show that has become a one stop home solution\, a source of ideas
- \, inspiration\, latest trends and references for thousands of home owners
- \\nVenue: ICE - Indonesian Convention Exhibition\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-homedec-indonesia-26631-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-homedec-indonesia-26631-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA CHEM — Mumbai\, India
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-UID:f-india-chem-6057-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition & Conference on Chemicals\, Petro-Chem
- icals and Plastics\, Pharmaceuticals\, Technologies\, Process Plant Machin
- ery\, Control & Automation Systems Machinery\, Control & Automation System
- s\\nVenue: NESCO Center\\nFrequency: every 2 years\\nSource: https://www.e
- ventseye.com/fairs/f-india-chem-6057-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-india-chem-6057-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE BATTERY SHOW - INDIA — Noida\, India
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-UID:f-the-battery-show-india-30647-1@eventseye.impio-vault
-DESCRIPTION:Meet manufacturers\, suppliers\, engineers\, thought leaders an
- d purchasers for a conference and trade fair focused on the latest develop
- ments in the advanced battery and automotive industries\\nVenue: India Exp
- o Centre & Mart\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-the-battery-show-india-30647-1.html
-LOCATION:Noida\, India
-URL:https://www.eventseye.com/fairs/f-the-battery-show-india-30647-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARABLAB EXPO — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261029
-UID:f-arablab-expo-11049-1@eventseye.impio-vault
-DESCRIPTION:Middle East & Africa Expo for the Global Laboratory and Instrum
- entation Industry\\nVenue: Dubai World Trade Centre (Dubai Exhibition Cent
- re)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-a
- rablab-expo-11049-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-arablab-expo-11049-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
-DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
- s innovation hub covering Automotive\, Electronics\, Display and New Mater
- ials. These shows connect across key industries in the world of advanced m
- anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
- onnected-shows-a-mega-feast-of-innovation-32051-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
- ovation-32051-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMATION & TESTING NORD EST — Vicenza\, Italy
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automation-testing-nord-est-33365-1@eventseye.impio-vault
-DESCRIPTION:A&T is dedicated to entrepreneurs\, managers\, technicians and 
- researchers from companies in northwestern Italy. Automation & Mechatronic
- s\, Electronics & Electromechanics\, Household Appliances\, Air conditioni
- ng & Refrigeration...\\nVenue: Fiera di Vicenza\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-automation-testing-nord-est-333
- 65-1.html
-LOCATION:Vicenza\, Italy
-URL:https://www.eventseye.com/fairs/f-automation-testing-nord-est-33365-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE TESTING EXPO - NORTH AMERICA — Novi\, MI\, USA
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automotive-testing-expo-north-america-5032-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Automotive Test & Evaluation. At A
- utomotive Testing Expo you can see the very latest technologies & services
-  that are designed to ensure that the highest standards are met in terms o
- f product quality\, reliability and safety\\nVenue: Suburban Collection Sh
- owplace\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-automotive-testing-expo-north-america-5032-1.html
-LOCATION:Novi\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-automotive-testing-expo-north-america
- -5032-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEM 2D MAT — Valencia\, Spain
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-chem-2d-mat-26373-1@eventseye.impio-vault
-DESCRIPTION:The International conference Chem2Dmat covers all areas related
-  to 2D materials' chemistry spanning their synthesis as well as their func
- tionalization\, using covalent and non-covalent approaches. Composites\, f
- oams and coatings\, membranes...\\nFrequency: every 2 years\\nSource: http
- s://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
-LOCATION:Valencia\, Spain
-URL:https://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C-TOUCH & DISPLAY SHENZHEN — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-c-touch-display-shenzhen-23815-1@eventseye.impio-vault
-DESCRIPTION:C-TOUCH & DISPLAY SHENZHEN is the globally exhibition for the t
- ouchscreen industry and mobile phone manufacturing chains. Focusing on tou
- ch technology\, it encompasses the top products and innovative technologie
- s along every link of the industrial chain\\nVenue: Shenzhen World Exhibit
- ion & Convention Center\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERGY EXPO — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261031
-UID:f-energy-expo-708-1@eventseye.impio-vault
-DESCRIPTION:Energy sources\, Consumption Meters and Regulators\, Energy-Sav
- ing Technologies and Equipment\\nVenue: Football Manege Sport Complex\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-energy-ex
- po-708-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-energy-expo-708-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HONG KONG INTERNATIONAL LIGHTING FAIR — Hong Kong\, Hong Kong
@@ -6774,6 +6870,22 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-light-tech-expo-33703-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MICROGRID GLOBAL INNOVATION FORUM - NORTH AMERICA — Chicago\, IL\
+ , USA
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+UID:f-microgrid-global-innovation-forum-north-america-29568-1@eventseye.impio-vault
+DESCRIPTION:The Forum brings together thought leaders\, utilities\, energy 
+ providers\, project managers... for focused networking & information shari
+ ng concerning the latest technological developments\, design and implement
+ ation of hybrid renewable energy microgrids\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-microgrid-global-innovation-forum-n
+ orth-america-29568-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-microgrid-global-innovation-forum-nor
+ th-america-29568-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHOTONICS EXPO POLAND — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261204
@@ -7179,6 +7291,409 @@ LOCATION:Scottsdale\, AZ\, USA
 URL:https://www.eventseye.com/fairs/f-aero-engines-america-30676-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CABEX — Moscow\, Russia
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-cabex-7623-1@eventseye.impio-vault
+DESCRIPTION:International specialized exhibition of cables\, wires\, fasten
+ ing hardware\, and installation technology. CABEX brings together leading 
+ manufacturers and suppliers of cable and wire products\, equipment\, and m
+ aterials for their production\\nVenue: Timiryazev Engineering Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-cabex-7623
+ -1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-cabex-7623-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
+DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
+ nd dam owners are searching for new and innovative ways to inspect\, maint
+ ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
+ ml
+LOCATION:Palm Springs\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELTEFA — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-eltefa-690-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for electrical and electronic engineering in Souther
+ n Germany. Eltefa connects industries\, technologies\, solutions and appli
+ cations\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every 2 year
+ s\\nSource: https://www.eventseye.com/fairs/f-eltefa-690-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-eltefa-690-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOPEC — Munich\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-lopec-18952-1@eventseye.impio-vault
+DESCRIPTION:LOPEC (Large-area\, Organic & Printed Electronics Convention) i
+ s the world's leading exhibition and conference for Flexible and Printed E
+ lectronics. The leading players from application to research from all cont
+ inents meet in Munich\\nVenue: ICM - International Congress Centre Munich\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-lopec
+ -18952-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-lopec-18952-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAX — Tel Aviv\, Israel
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-rax-2256-1@eventseye.impio-vault
+DESCRIPTION:International Trade fair in Israel for Electrical Engineering\,
+  Control\, Instrumentation\, Automation\, Pneumatics\, Energy & Energy Eff
+ iciency\, Ventilation Systems and Lighting Systems\\nVenue: TLV Convention
+  Center - Tel Aviv Fairgrounds\\nFrequency: every 2 years\\nSource: https:
+ //www.eventseye.com/fairs/f-rax-2256-1.html
+LOCATION:Tel Aviv\, Israel
+URL:https://www.eventseye.com/fairs/f-rax-2256-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIMEX - AUTOMATION WORLD — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270306
+UID:f-aimex-automation-world-8071-1@eventseye.impio-vault
+DESCRIPTION:Korea International Automation Instrumentation & Control System
+  Exhibition\\nVenue: COEX Exhibition Center\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-aimex-automation-world-8071-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-aimex-automation-world-8071-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APE - ASIA PHOTONICS EXPO — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270306
+UID:f-ape-asia-photonics-expo-31271-1@eventseye.impio-vault
+DESCRIPTION:APE is the photonics exhibition for industry players to technic
+ al communication\, networking\, product sourcing. It showcases the latest 
+ products & technologies in optical communication\, precision optics\, lase
+ r\, infrared\, sensor\, display fields...\\nVenue: Marina Bay Sands\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ape-asia-ph
+ otonics-expo-31271-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-ape-asia-photonics-expo-31271-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELETTRONICA ITALIA — Bologna\, Italy
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270306
+UID:f-elettronica-italia-32863-1@eventseye.impio-vault
+DESCRIPTION:ELETTRONICA ITALIA is the event dedicated to all the novelties 
+ in the electronics supply chain and aims to present the latest innovations
+  and technologies in the sector to the Italian and international public\\n
+ Venue: Bologna Exhibition Centre\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-elettronica-italia-32863-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-elettronica-italia-32863-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENEX — Kielce\, Poland
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-enex-8832-1@eventseye.impio-vault
+DESCRIPTION:International Power Industry Fair. Generating\, Transmission an
+ d Distribution of Energy\; Machines and Plant for Power and Electrical Pow
+ er Industry\, Construction for Power Industry\, Power Equipment Operation 
+ and modernization...\\nVenue: Kielce Fairground\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-enex-8832-1.html
+LOCATION:Kielce\, Poland
+URL:https://www.eventseye.com/fairs/f-enex-8832-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MRO SOUTH ASIA SUMMIT — New Delhi\, India
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-mro-south-asia-summit-31752-1@eventseye.impio-vault
+DESCRIPTION:With countries like India\, Sri Lanka\, Bangladesh\, Nepal and 
+ Bhutan at the forefront\, South Asia has become a dynamic hub for MRO (Mai
+ ntenance\, Repair and Operations)services\, catering to b oth domestic and
+  international markets\\nVenue: IICC (India International Convention & Exp
+ o Centre) - Yashobhoomi Convention Centre\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-mro-south-asia-summit-31752-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-mro-south-asia-summit-31752-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MRO XPO INDIA — New Delhi\, India
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-mro-xpo-india-31751-1@eventseye.impio-vault
+DESCRIPTION:Explore Innovative MRO (Maintenance\, Repair and Operations) In
+ dia's Ecosystem. Immerse yourself in the transformation of India’s aeros
+ pace landscape. Participate in India’s dynamic evolution firsthand\\nVen
+ ue: IICC (India International Convention & Expo Centre) - Yashobhoomi Conv
+ ention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-mro-xpo-india-31751-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-mro-xpo-india-31751-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR & STORAGE LIVE - THAILAND — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270306
+UID:f-solar-storage-live-thailand-31151-1@eventseye.impio-vault
+DESCRIPTION:Exhibiton & Congress dedicated to Solar PV\, Storage\, and Comp
+ limentary Systems. The forum brings key stakeholders within the energy val
+ ue chain together with the innovators & disruptors to showcase their techn
+ ology service solutions\\nVenue: Bangkok International Trade & Exhibition 
+ Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-solar-storage-live-thailand-31151-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-solar-storage-live-thailand-31151-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RICHMOND HOME + GARDEN SHOW — Richmond\, VA\, USA
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+UID:f-richmond-home-garden-show-28312-1@eventseye.impio-vault
+DESCRIPTION:Richmond\, VA Home & Garden Show. Innovative Products and Hundr
+ eds of Experts all Under One Roof\\nVenue: Richmond Raceway Complex\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-richmond-ho
+ me-garden-show-28312-1.html
+LOCATION:Richmond\, VA\, USA
+URL:https://www.eventseye.com/fairs/f-richmond-home-garden-show-28312-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LASER PHOTONICS CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270311
+UID:f-laser-photonics-china-8088-1@eventseye.impio-vault
+DESCRIPTION:Asia’s leading trade fair for components\, systems and applic
+ ations in the sector for optical technologies\\nVenue: Shanghai New Intern
+ ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-laser-photonics-china-8088-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-laser-photonics-china-8088-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERGY STORAGE AUSTRALIA — Sydney\, Australia
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-energy-storage-australia-32814-1@eventseye.impio-vault
+DESCRIPTION:Australia’s Renewable Capacity Congress through Energy Storag
+ e\, bringing bringing together the experts to signpost the next chapter in
+  energy storage in Australia\\nVenue: Sheraton Grand Sydney Hyde Park\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-energy-st
+ orage-australia-32814-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-energy-storage-australia-32814-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SILICONE EXPO EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-silicone-expo-europe-31713-1@eventseye.impio-vault
+DESCRIPTION:Trade Show bridging Ideas\, Materials\, and Possibilities for t
+ he Silicone Industry. The event will draws attendees from a wide range of 
+ end user groups\, fostering connections and innovation within the silicone
+  industry\\nVenue: RAI International Exhibition and Congress Centre\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-silicone-ex
+ po-europe-31713-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-silicone-expo-europe-31713-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
+DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
+ s Industry. Encompassing the entire supply chain of the magnetic material 
+ and rare earth industries. From energy conversion\, aerospace\, to the mod
+ est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-the-magnetics-show-europe-31716-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTELLIGENT ASIA THAILAND — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270313
+UID:f-intelligent-asia-thailand-33144-1@eventseye.impio-vault
+DESCRIPTION:Covering PCB manufacturing and industrial automation\, Intellig
+ ent Asia Thailand serves as the premier platform for professionals to expl
+ ore the electronics supply chain\\nVenue: Bangkok International Trade & Ex
+ hibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-intelligent-asia-thailand-33144-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-intelligent-asia-thailand-33144-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERBATTERY & SMART GRID WEEK — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270313
+UID:f-interbattery-smart-grid-week-21055-1@eventseye.impio-vault
+DESCRIPTION:INTERBATTERY is one of the world's leading battery business pla
+ tform\, bringing together the latest technologies & innovations in the bat
+ tery industry\, where battery experts and leaders from around the world sh
+ are the latest technologies\, trends & visions\\nVenue: COEX Exhibition Ce
+ nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ interbattery-smart-grid-week-21055-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-interbattery-smart-grid-week-21055-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:W3 + FAIR WETZLAR — Wetzlar\, Germany
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-w3-fair-wetzlar-19624-1@eventseye.impio-vault
+DESCRIPTION:Optics\, electronics and mechanics exhibition. W3+ FAIR attract
+ s product developers from precision\, systems engineering\, measurement te
+ chnologies\, mechatronics\, microsystems and nanotechnologies\\nVenue: Bud
+ erus Arena\, Wetzlar\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-w3-fair-wetzlar-19624-1.html
+LOCATION:Wetzlar\, Germany
+URL:https://www.eventseye.com/fairs/f-w3-fair-wetzlar-19624-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE NATIONAL HOME SHOW (MONTREAL) — Montreal\, QC\, Canada
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+UID:f-the-national-home-show-(montreal)-28311-1@eventseye.impio-vault
+DESCRIPTION:Montreal National Home Show. You'll find it all in the Virtual 
+ Showroom\, from flooring to roofing and everything in-between. Search for 
+ Home and Garden experts for all your projects\\nVenue: Palais des Congrès
+  de Montréal\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-the-national-home-show-(montreal)-28311-1.html
+LOCATION:Montreal\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-the-national-home-show-(montreal)-283
+ 11-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONGRES INTERNATIONAL DE METROLOGIE — Lyon\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+UID:f-congres-international-de-metrologie-503-1@eventseye.impio-vault
+DESCRIPTION:International Metrology Congress\, bringing together all the te
+ chnological references in the Measurement and Metrology sector\\nVenue: Eu
+ rexpo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs
+ /f-congres-international-de-metrologie-503-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-congres-international-de-metrologie-5
+ 03-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIGHTFAIR INTERNATIONAL — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+UID:f-lightfair-international-6379-1@eventseye.impio-vault
+DESCRIPTION:International Trade Show and Conference devoted to Architectura
+ l and Commercial Lighting\\nVenue: Las Vegas Convention Center\\nFrequency
+ : every 2 years\\nSource: https://www.eventseye.com/fairs/f-lightfair-inte
+ rnational-6379-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-lightfair-international-6379-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMPER — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-amper-7117-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair of Electrotechnics\, Electronics\, Aut
+ omation\, Communication\, Lighting\, and Security Technologies\\nVenue: Br
+ no Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-amper-7117-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-amper-7117-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMBEDDED WORLD — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-embedded-world-694-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and Congress dedicated to Embedded Systems. The Embe
+ dded World Exhibition & Conference facilitates direct interaction with a l
+ arge number of experts and qualified suppliers from all over the world\\nV
+ enue: Exhibition Centre Nuremberg\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-embedded-world-694-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-embedded-world-694-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRIND - TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-grind-tech-expo-33696-1@eventseye.impio-vault
+DESCRIPTION:Grind-Tech Expo is a trade fair dedicated to grinding technolog
+ ies in the metal\, glass\, ceramics\, and automotive industries. Precision
+  machining machines & equipment\, grinding tools & accessories\, measureme
+ nt systems. Work efficiency & safety\\nVenue: Ptak Warsaw Expo\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-grind-tech-expo-
+ 33696-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-grind-tech-expo-33696-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MRO GUANGZHOU — Guangzhou\, China
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-mro-guangzhou-30726-1@eventseye.impio-vault
+DESCRIPTION:China's B2B exhibition and conferences for aerospace MRO (Maint
+ enance\, Repair and Operations) industry\\nVenue: GADD - Guangzhou Aerotro
+ polis Development District\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-mro-guangzhou-30726-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-mro-guangzhou-30726-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR & STORAGE LIVE - AFRICA — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-solar-storage-live-africa-31141-1@eventseye.impio-vault
+DESCRIPTION:Solar & Storage Live is Africa’s largest renewable energy exh
+ ibition that celebrates the technologies at the forefront of the transitio
+ n to a greener\, smarter\, more decentralised energy system\\nVenue: Galla
+ gher Convention Centre\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-solar-storage-live-africa-31141-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-solar-storage-live-africa-31141-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR & STORAGE LIVE AFRICA — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-solar-storage-live-africa-14785-1@eventseye.impio-vault
+DESCRIPTION:Solar & Storage Live Africa is Africa’s largest renewable ene
+ rgy exhibition that celebrates the technologies at the forefront of the tr
+ ansition to a greener\, smarter\, more decentralised energy system\\nVenue
+ : Gallagher Convention Centre\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-solar-storage-live-africa-14785-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-solar-storage-live-africa-14785-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARHC - ASEAN RHVAC & CLEANROOM INDUSTRY EXPO — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+UID:f-arhc-asean-rhvac-cleanroom-industry-expo-33216-1@eventseye.impio-vault
+DESCRIPTION:Asean Air-Conditioning\, Heating\, Refrigeration & Cleanroom In
+ dustry Expo. Future Air Quality and Environmental Protection\, Energy-Savi
+ ng Technologies and Green Solutions\, Cleanroom Standards and Innovations.
+ ..\\nVenue: Impact Exhibition & Convention Center\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-arhc-asean-rhvac-cleanroom-in
+ dustry-expo-33216-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-arhc-asean-rhvac-cleanroom-industry-e
+ xpo-33216-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VERKOSTO - ELECTRICITY NETWORKS — Tampere\, Finland
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270122
@@ -7566,6 +8081,20 @@ URL:https://www.eventseye.com/fairs/f-spie-advanced-lithography-10610-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DPES SIGN & LED EXPO CHINA — Guangzhou\, China
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270228
+UID:f-dpes-sign-led-expo-china-25496-1@eventseye.impio-vault
+DESCRIPTION:DPES Sign & LED Expo China shows a complete production of matur
+ e advertising system\, including all kinds of high-end brand products such
+  as UV flatbed\, inkjet\, digital printer\, engraving equipment\, signage\
+ , LED light source...\\nVenue: China Import and Export Fair Complex Area B
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-dpes
+ -sign-led-expo-china-25496-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-dpes-sign-led-expo-china-25496-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:B.C. HOME + GARDEN SHOW — Vancouver\, BC\, Canada
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270301
@@ -7590,383 +8119,6 @@ DESCRIPTION:Technical Program and Exhibition for all Scientists who utilize
  l
 LOCATION:San Diego\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-pittcon-2130-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CABEX — Moscow\, Russia
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-cabex-7623-1@eventseye.impio-vault
-DESCRIPTION:International specialized exhibition of cables\, wires\, fasten
- ing hardware\, and installation technology. CABEX brings together leading 
- manufacturers and suppliers of cable and wire products\, equipment\, and m
- aterials for their production\\nVenue: Timiryazev Engineering Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-cabex-7623
- -1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-cabex-7623-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
-DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
- nd dam owners are searching for new and innovative ways to inspect\, maint
- ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
- ml
-LOCATION:Palm Springs\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELTEFA — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-eltefa-690-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for electrical and electronic engineering in Souther
- n Germany. Eltefa connects industries\, technologies\, solutions and appli
- cations\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every 2 year
- s\\nSource: https://www.eventseye.com/fairs/f-eltefa-690-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-eltefa-690-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOPEC — Munich\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-lopec-18952-1@eventseye.impio-vault
-DESCRIPTION:LOPEC (Large-area\, Organic & Printed Electronics Convention) i
- s the world's leading exhibition and conference for Flexible and Printed E
- lectronics. The leading players from application to research from all cont
- inents meet in Munich\\nVenue: ICM - International Congress Centre Munich\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-lopec
- -18952-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-lopec-18952-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAX — Tel Aviv\, Israel
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-rax-2256-1@eventseye.impio-vault
-DESCRIPTION:International Trade fair in Israel for Electrical Engineering\,
-  Control\, Instrumentation\, Automation\, Pneumatics\, Energy & Energy Eff
- iciency\, Ventilation Systems and Lighting Systems\\nVenue: TLV Convention
-  Center - Tel Aviv Fairgrounds\\nFrequency: every 2 years\\nSource: https:
- //www.eventseye.com/fairs/f-rax-2256-1.html
-LOCATION:Tel Aviv\, Israel
-URL:https://www.eventseye.com/fairs/f-rax-2256-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIMEX - AUTOMATION WORLD — Seoul\, Korea South
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270306
-UID:f-aimex-automation-world-8071-1@eventseye.impio-vault
-DESCRIPTION:Korea International Automation Instrumentation & Control System
-  Exhibition\\nVenue: COEX Exhibition Center\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-aimex-automation-world-8071-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-aimex-automation-world-8071-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APE - ASIA PHOTONICS EXPO — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270306
-UID:f-ape-asia-photonics-expo-31271-1@eventseye.impio-vault
-DESCRIPTION:APE is the photonics exhibition for industry players to technic
- al communication\, networking\, product sourcing. It showcases the latest 
- products & technologies in optical communication\, precision optics\, lase
- r\, infrared\, sensor\, display fields...\\nVenue: Marina Bay Sands\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ape-asia-ph
- otonics-expo-31271-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-ape-asia-photonics-expo-31271-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELETTRONICA ITALIA — Bologna\, Italy
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270306
-UID:f-elettronica-italia-32863-1@eventseye.impio-vault
-DESCRIPTION:ELETTRONICA ITALIA is the event dedicated to all the novelties 
- in the electronics supply chain and aims to present the latest innovations
-  and technologies in the sector to the Italian and international public\\n
- Venue: Bologna Exhibition Centre\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-elettronica-italia-32863-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-elettronica-italia-32863-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENEX — Kielce\, Poland
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-enex-8832-1@eventseye.impio-vault
-DESCRIPTION:International Power Industry Fair. Generating\, Transmission an
- d Distribution of Energy\; Machines and Plant for Power and Electrical Pow
- er Industry\, Construction for Power Industry\, Power Equipment Operation 
- and modernization...\\nVenue: Kielce Fairground\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-enex-8832-1.html
-LOCATION:Kielce\, Poland
-URL:https://www.eventseye.com/fairs/f-enex-8832-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MRO SOUTH ASIA SUMMIT — New Delhi\, India
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-mro-south-asia-summit-31752-1@eventseye.impio-vault
-DESCRIPTION:With countries like India\, Sri Lanka\, Bangladesh\, Nepal and 
- Bhutan at the forefront\, South Asia has become a dynamic hub for MRO (Mai
- ntenance\, Repair and Operations)services\, catering to b oth domestic and
-  international markets\\nVenue: IICC (India International Convention & Exp
- o Centre) - Yashobhoomi Convention Centre\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-mro-south-asia-summit-31752-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-mro-south-asia-summit-31752-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MRO XPO INDIA — New Delhi\, India
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-mro-xpo-india-31751-1@eventseye.impio-vault
-DESCRIPTION:Explore Innovative MRO (Maintenance\, Repair and Operations) In
- dia's Ecosystem. Immerse yourself in the transformation of India’s aeros
- pace landscape. Participate in India’s dynamic evolution firsthand\\nVen
- ue: IICC (India International Convention & Expo Centre) - Yashobhoomi Conv
- ention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-mro-xpo-india-31751-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-mro-xpo-india-31751-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLAR & STORAGE LIVE - THAILAND — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270306
-UID:f-solar-storage-live-thailand-31151-1@eventseye.impio-vault
-DESCRIPTION:Exhibiton & Congress dedicated to Solar PV\, Storage\, and Comp
- limentary Systems. The forum brings key stakeholders within the energy val
- ue chain together with the innovators & disruptors to showcase their techn
- ology service solutions\\nVenue: Bangkok International Trade & Exhibition 
- Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-solar-storage-live-thailand-31151-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-solar-storage-live-thailand-31151-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RICHMOND HOME + GARDEN SHOW — Richmond\, VA\, USA
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270308
-UID:f-richmond-home-garden-show-28312-1@eventseye.impio-vault
-DESCRIPTION:Richmond\, VA Home & Garden Show. Innovative Products and Hundr
- eds of Experts all Under One Roof\\nVenue: Richmond Raceway Complex\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-richmond-ho
- me-garden-show-28312-1.html
-LOCATION:Richmond\, VA\, USA
-URL:https://www.eventseye.com/fairs/f-richmond-home-garden-show-28312-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LASER PHOTONICS CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270311
-UID:f-laser-photonics-china-8088-1@eventseye.impio-vault
-DESCRIPTION:Asia’s leading trade fair for components\, systems and applic
- ations in the sector for optical technologies\\nVenue: Shanghai New Intern
- ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-laser-photonics-china-8088-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-laser-photonics-china-8088-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SILICONE EXPO EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270311
-UID:f-silicone-expo-europe-31713-1@eventseye.impio-vault
-DESCRIPTION:Trade Show bridging Ideas\, Materials\, and Possibilities for t
- he Silicone Industry. The event will draws attendees from a wide range of 
- end user groups\, fostering connections and innovation within the silicone
-  industry\\nVenue: RAI International Exhibition and Congress Centre\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-silicone-ex
- po-europe-31713-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-silicone-expo-europe-31713-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270311
-UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
-DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
- s Industry. Encompassing the entire supply chain of the magnetic material 
- and rare earth industries. From energy conversion\, aerospace\, to the mod
- est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-the-magnetics-show-europe-31716-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTELLIGENT ASIA THAILAND — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270313
-UID:f-intelligent-asia-thailand-33144-1@eventseye.impio-vault
-DESCRIPTION:Covering PCB manufacturing and industrial automation\, Intellig
- ent Asia Thailand serves as the premier platform for professionals to expl
- ore the electronics supply chain\\nVenue: Bangkok International Trade & Ex
- hibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-intelligent-asia-thailand-33144-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-intelligent-asia-thailand-33144-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERBATTERY & SMART GRID WEEK — Seoul\, Korea South
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270313
-UID:f-interbattery-smart-grid-week-21055-1@eventseye.impio-vault
-DESCRIPTION:INTERBATTERY is one of the world's leading battery business pla
- tform\, bringing together the latest technologies & innovations in the bat
- tery industry\, where battery experts and leaders from around the world sh
- are the latest technologies\, trends & visions\\nVenue: COEX Exhibition Ce
- nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- interbattery-smart-grid-week-21055-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-interbattery-smart-grid-week-21055-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:W3 + FAIR WETZLAR — Wetzlar\, Germany
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270312
-UID:f-w3-fair-wetzlar-19624-1@eventseye.impio-vault
-DESCRIPTION:Optics\, electronics and mechanics exhibition. W3+ FAIR attract
- s product developers from precision\, systems engineering\, measurement te
- chnologies\, mechatronics\, microsystems and nanotechnologies\\nVenue: Bud
- erus Arena\, Wetzlar\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-w3-fair-wetzlar-19624-1.html
-LOCATION:Wetzlar\, Germany
-URL:https://www.eventseye.com/fairs/f-w3-fair-wetzlar-19624-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE NATIONAL HOME SHOW (MONTREAL) — Montreal\, QC\, Canada
-DTSTART;VALUE=DATE:20270311
-DTEND;VALUE=DATE:20270315
-UID:f-the-national-home-show-(montreal)-28311-1@eventseye.impio-vault
-DESCRIPTION:Montreal National Home Show. You'll find it all in the Virtual 
- Showroom\, from flooring to roofing and everything in-between. Search for 
- Home and Garden experts for all your projects\\nVenue: Palais des Congrès
-  de Montréal\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-the-national-home-show-(montreal)-28311-1.html
-LOCATION:Montreal\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-the-national-home-show-(montreal)-283
- 11-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIGHTFAIR INTERNATIONAL — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270319
-UID:f-lightfair-international-6379-1@eventseye.impio-vault
-DESCRIPTION:International Trade Show and Conference devoted to Architectura
- l and Commercial Lighting\\nVenue: Las Vegas Convention Center\\nFrequency
- : every 2 years\\nSource: https://www.eventseye.com/fairs/f-lightfair-inte
- rnational-6379-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-lightfair-international-6379-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMPER — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-amper-7117-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of Electrotechnics\, Electronics\, Aut
- omation\, Communication\, Lighting\, and Security Technologies\\nVenue: Br
- no Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-amper-7117-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-amper-7117-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EMBEDDED WORLD — Nuremberg\, Germany
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-embedded-world-694-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and Congress dedicated to Embedded Systems. The Embe
- dded World Exhibition & Conference facilitates direct interaction with a l
- arge number of experts and qualified suppliers from all over the world\\nV
- enue: Exhibition Centre Nuremberg\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-embedded-world-694-1.html
-LOCATION:Nuremberg\, Germany
-URL:https://www.eventseye.com/fairs/f-embedded-world-694-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRIND - TECH EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-grind-tech-expo-33696-1@eventseye.impio-vault
-DESCRIPTION:Grind-Tech Expo is a trade fair dedicated to grinding technolog
- ies in the metal\, glass\, ceramics\, and automotive industries. Precision
-  machining machines & equipment\, grinding tools & accessories\, measureme
- nt systems. Work efficiency & safety\\nVenue: Ptak Warsaw Expo\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-grind-tech-expo-
- 33696-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-grind-tech-expo-33696-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MRO GUANGZHOU — Guangzhou\, China
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-mro-guangzhou-30726-1@eventseye.impio-vault
-DESCRIPTION:China's B2B exhibition and conferences for aerospace MRO (Maint
- enance\, Repair and Operations) industry\\nVenue: GADD - Guangzhou Aerotro
- polis Development District\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-mro-guangzhou-30726-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-mro-guangzhou-30726-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLAR & STORAGE LIVE - AFRICA — Johannesburg\, South Africa
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-solar-storage-live-africa-31141-1@eventseye.impio-vault
-DESCRIPTION:Solar & Storage Live is Africa’s largest renewable energy exh
- ibition that celebrates the technologies at the forefront of the transitio
- n to a greener\, smarter\, more decentralised energy system\\nVenue: Galla
- gher Convention Centre\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-solar-storage-live-africa-31141-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-solar-storage-live-africa-31141-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLAR & STORAGE LIVE AFRICA — Johannesburg\, South Africa
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270319
-UID:f-solar-storage-live-africa-14785-1@eventseye.impio-vault
-DESCRIPTION:Solar & Storage Live Africa is Africa’s largest renewable ene
- rgy exhibition that celebrates the technologies at the forefront of the tr
- ansition to a greener\, smarter\, more decentralised energy system\\nVenue
- : Gallagher Convention Centre\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-solar-storage-live-africa-14785-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-solar-storage-live-africa-14785-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARHC - ASEAN RHVAC & CLEANROOM INDUSTRY EXPO — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270320
-UID:f-arhc-asean-rhvac-cleanroom-industry-expo-33216-1@eventseye.impio-vault
-DESCRIPTION:Asean Air-Conditioning\, Heating\, Refrigeration & Cleanroom In
- dustry Expo. Future Air Quality and Environmental Protection\, Energy-Savi
- ng Technologies and Green Solutions\, Cleanroom Standards and Innovations.
- ..\\nVenue: Impact Exhibition & Convention Center\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-arhc-asean-rhvac-cleanroom-in
- dustry-expo-33216-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-arhc-asean-rhvac-cleanroom-industry-e
- xpo-33216-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COILTECH DEUTSCHLAND — Augsburg\, Germany
@@ -8460,6 +8612,18 @@ LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-expoelectronica-835-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EXPOPOWER — Poznan\, Poland
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270415
+UID:f-expopower-12457-1@eventseye.impio-vault
+DESCRIPTION:International Power Industry Fair - the latest power engineerin
+ g and electro technology solutions\\nVenue: Poznan Congress Center\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-expopower-12
+ 457-1.html
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-expopower-12457-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PNEUMATICS WARSAW — Warsaw\, Poland
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
@@ -8625,6 +8789,19 @@ DESCRIPTION:Solar Power Mexico is the first exhibition and conference speci
  ar-storage-mexico-28989-1.html
 LOCATION:Guadalajara\, Mexico
 URL:https://www.eventseye.com/fairs/f-solar-storage-mexico-28989-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANALITIKA EXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-analitika-expo-21938-1@eventseye.impio-vault
+DESCRIPTION:Eurasia’s leading exhibition for Analytical Chemistry\, Labor
+ atory Technologies\, and Chemical Reagents. Analitika Expo is the leading 
+ laboratory and analytical technologies exhibition in Russia and the CIS\\n
+ Venue: Crocus-Expo IEC\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-analitika-expo-21938-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-analitika-expo-21938-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A-TESTEX / ANALITIKA — Moscow\, Russia
@@ -8813,6 +8990,22 @@ DESCRIPTION:Trade show of Equipment for Radio Hams\, Transmitters and Trans
  rce: https://www.eventseye.com/fairs/f-radioamatore-tech-expo-11671-1.html
 LOCATION:Pordenone\, Italy
 URL:https://www.eventseye.com/fairs/f-radioamatore-tech-expo-11671-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA (SHENZHEN) INTERNATIONAL GIFTS\, HANDICRAFTS\, WATCHES & HOUS
+ EWARE FAIR - SPRING — Shenzhen\, China
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270429
+UID:f-china-(shenzhen)-international-gifts-handicrafts-watches-houseware-fair-spring-20031-1@eventseye.impio-vault
+DESCRIPTION:China (Shenzhen) International Gifts\, Handicrafts\, Watches & 
+ Houseware Fair. Over 5\, 000 exhibitors with more than 1\, 000\, 000 premi
+ um brand gift and homeware products are expected on-site\\nVenue: Shenzhen
+  World Exhibition & Convention Center\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-hand
+ icrafts-watches-houseware-fair-spring-20031-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-
+ handicrafts-watches-houseware-fair-spring-20031-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CONTROL — Stuttgart\, Germany

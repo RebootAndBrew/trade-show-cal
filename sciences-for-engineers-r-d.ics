@@ -479,6 +479,20 @@ LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-asia-ccus-network-32050-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIOPHARMA EXPO - TOKYO — Chiba\, Japan
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260523
+UID:f-biopharma-expo-tokyo-24727-1@eventseye.impio-vault
+DESCRIPTION:BioPharma Expo is Japan's largest exhibition for biopharmaceuti
+ cal R&D and manufacturing technologies. The exhibition covers R&D\, manufa
+ cturing\, engineering technologies and contract manufacturing (CDMO/CMO)\\
+ nVenue: Makuhari Messe - Nippon Convention Center\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-biopharma-expo-tokyo-24727-1.
+ html
+LOCATION:Chiba\, Japan
+URL:https://www.eventseye.com/fairs/f-biopharma-expo-tokyo-24727-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLASSMAN LATIN AMERICA — Mexico City\, Mexico
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260522
@@ -530,6 +544,19 @@ DESCRIPTION:ITS Canada defines Intelligent Transportation Systems (ITS) as
 LOCATION:Edmonton\, AB\, Canada
 URL:https://www.eventseye.com/fairs/f-its-canada-annual-conference-16987-1.
  html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMALAB EXPO - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260523
+UID:f-pharmalab-expo-tokyo-21073-1@eventseye.impio-vault
+DESCRIPTION:PharmaLab Expo is an Asia's leading exhibition for drug discove
+ ry and pharma R&D technologies\, Life Science & Biotechnology Exhibition\\
+ nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-pharmalab-expo-
+ tokyo-21073-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-pharmalab-expo-tokyo-21073-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOLAR + STORAGE ASIA — Bangkok\, Thailand
@@ -2436,6 +2463,45 @@ LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-european-microwave-week-792-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANNUAL PHARMA PRICING\, REIMBURSEMENT & MARKET ACCESS — Philadelp
+ hia\, PA\, USA
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-annual-pharma-pricing-reimbursement-market-access-33414-1@eventseye.impio-vault
+DESCRIPTION:Annual Pharma Pricing\, Reimbursement & Market Access Congress.
+  Gain insights from experts\, researchers\, and professionals on the lates
+ t pharma advancements\\nVenue: Embassy Suites by Hilton Philadelphia Airpo
+ rt\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-an
+ nual-pharma-pricing-reimbursement-market-access-33414-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-annual-pharma-pricing-reimbursement-m
+ arket-access-33414-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIODATA WORLD CONGRESS — Basel\, Switzerland
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-biodata-world-congress-22653-1@eventseye.impio-vault
+DESCRIPTION:BioData Conference. BioData World Congress is the leading pharm
+ a event for decision makers working in drug discovery and development from
+  across Europe\\nVenue: Basel Fairground\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-biodata-world-congress-22653-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-biodata-world-congress-22653-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIOTECHX EUROPE — Basel\, Switzerland
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-biotechx-europe-31177-1@eventseye.impio-vault
+DESCRIPTION:Leading Digital Transformation Event for Precision Medicine in 
+ Europe. Data\, AI\, Precision\, Innovation\, For Pharma\, Healthcare & Par
+ tners\\nVenue: Basel Fairground\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-biotechx-europe-31177-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-biotechx-europe-31177-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHARMA FORUM EMEA — Lisbon\, Portugal
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261105
@@ -3014,43 +3080,445 @@ LOCATION:Toulouse\, France
 URL:https://www.eventseye.com/fairs/f-aeromart-toulouse-3502-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ANNUAL PHARMA PRICING\, REIMBURSEMENT & MARKET ACCESS — Philadelp
- hia\, PA\, USA
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-annual-pharma-pricing-reimbursement-market-access-33414-1@eventseye.impio-vault
-DESCRIPTION:Annual Pharma Pricing\, Reimbursement & Market Access Congress.
-  Gain insights from experts\, researchers\, and professionals on the lates
- t pharma advancements\\nVenue: Embassy Suites by Hilton Philadelphia Airpo
- rt\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-an
- nual-pharma-pricing-reimbursement-market-access-33414-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-annual-pharma-pricing-reimbursement-m
- arket-access-33414-1.html
+SUMMARY:MICROGRID GLOBAL INNOVATION FORUM - NORTH AMERICA — Chicago\, IL\
+ , USA
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261203
+UID:f-microgrid-global-innovation-forum-north-america-29568-1@eventseye.impio-vault
+DESCRIPTION:The Forum brings together thought leaders\, utilities\, energy 
+ providers\, project managers... for focused networking & information shari
+ ng concerning the latest technological developments\, design and implement
+ ation of hybrid renewable energy microgrids\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-microgrid-global-innovation-forum-n
+ orth-america-29568-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-microgrid-global-innovation-forum-nor
+ th-america-29568-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BIODATA WORLD CONGRESS — Basel\, Switzerland
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-biodata-world-congress-22653-1@eventseye.impio-vault
-DESCRIPTION:BioData Conference. BioData World Congress is the leading pharm
- a event for decision makers working in drug discovery and development from
-  across Europe\\nVenue: Basel Fairground\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-biodata-world-congress-22653-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-biodata-world-congress-22653-1.html
+SUMMARY:PROPULSION & FUTURE FUELS CONFERENCE — Hamburg\, Germany
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-propulsion-future-fuels-conference-17702-1@eventseye.impio-vault
+DESCRIPTION:The longest-running technical conference in the maritime sector
+ \, providing senior executives with a meeting place to learn\, discuss\, a
+ nd share knowledge of the latest developments in efficient propulsion tech
+ nology and low flashpoint\, low carbon fuels\\nVenue: Empire Riverside Hot
+ el\, Hamburg\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-propulsion-future-fuels-conference-17702-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-propulsion-future-fuels-conference-17
+ 702-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BIOTECHX EUROPE — Basel\, Switzerland
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-biotechx-europe-31177-1@eventseye.impio-vault
-DESCRIPTION:Leading Digital Transformation Event for Precision Medicine in 
- Europe. Data\, AI\, Precision\, Innovation\, For Pharma\, Healthcare & Par
- tners\\nVenue: Basel Fairground\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-biotechx-europe-31177-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-biotechx-europe-31177-1.html
+SUMMARY:SIGGRAPH ASIA — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261205
+UID:f-siggraph-asia-20391-1@eventseye.impio-vault
+DESCRIPTION:ACM SIGGRAPH Conference & Exhibition on Computer Graphics & Int
+ eractive Techniques in Asia\\nVenue: Kuala Lumpur Convention Centre (KLCC)
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sigg
+ raph-asia-20391-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-siggraph-asia-20391-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMERICAN AEROSPACE & DEFENSE SUMMIT — Glendale\, AZ\, USA
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+UID:f-american-aerospace-defense-summit-22774-1@eventseye.impio-vault
+DESCRIPTION:Conference dedicated to Manufacturing and R&D in American Aeros
+ pace and Defense. Senior leaders from top Aerospace and Defense organizati
+ ons will gather to explore the industry’s most pressing challenges and t
+ ransformative opportunities\\nVenue: Renaissance Phoenix Glezndale Hotel &
+  Spa\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ american-aerospace-defense-summit-22774-1.html
+LOCATION:Glendale\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-american-aerospace-defense-summit-227
+ 74-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GITEX GLOBAL — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+UID:f-gitex-global-14354-1@eventseye.impio-vault
+DESCRIPTION:International Trade Show for the ICT Industry. GITEX GLOBAL is 
+ one of World'S largest Tech\, AI & Startup Show\nSHOW\\nVenue: Dubai World
+  Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-gitex-global-14354-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-gitex-global-14354-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WIND TURBINE BLADE MANUFACTURE — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+UID:f-wind-turbine-blade-manufacture-28358-1@eventseye.impio-vault
+DESCRIPTION:Global conference on MW wind blade design\, composites\, manufa
+ cturing and performance\\nVenue: InterContinental Düsseldorf\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-wind-turbine-blad
+ e-manufacture-28358-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-manufacture-28358-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
+ — Shanghai\, China
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261212
+UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
+ ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
+ , rail security technology & equipment\, rail transportation power & new e
+ nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
+ ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
+ xhibition-31545-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
+ sit-technology-exhibition-31545-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAD WORLD 2 — Milan\, Italy
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261211
+UID:f-gad-world-2-33411-1@eventseye.impio-vault
+DESCRIPTION:GAD (Global Airport Development) World is a unique event dedica
+ ted to sustainable airport business growth and infrastructure development 
+ through best practice financing\, management and strategy\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-gad-world-2-33411-1.h
+ tml
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-gad-world-2-33411-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIOSIMILARS CONGREGATION — Mumbai\, India
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+UID:f-biosimilars-congregation-33657-1@eventseye.impio-vault
+DESCRIPTION:International congress covering all aspects of Biosimilars (mor
+ e affordable alternatives to a specific class of medicines) from developme
+ nt\, regulatory\, market access and challenges\\nVenue: Hotel Kohinoor Con
+ tinental\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-biosimilars-congregation-33657-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-biosimilars-congregation-33657-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTURE INTELLIGENCE — Toulouse\, France
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+UID:f-future-intelligence-27096-1@eventseye.impio-vault
+DESCRIPTION:Trade show on innovation through data and artificial intelligen
+ ce. Related industries: mobility\, transport\, IT\, Knowledge Based System
+ s & Artificial Intelligence\, R&D\, medical\, aerospace\, defense\, automo
+ tive\\nVenue: CHU de Toulouse\\nFrequency: twice a year\\nSource: https://
+ www.eventseye.com/fairs/f-future-intelligence-27096-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-future-intelligence-27096-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BALTIC PCB & SYSTEMS CONFERENCE — Vilnius\, Lithuania
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+UID:f-baltic-pcb-systems-conference-33715-1@eventseye.impio-vault
+DESCRIPTION:PCB\, Electronic Solutions & Systems Conference in Lithuania. S
+ essions focused on practical engineering knowledge and latest engineering 
+ tools & technologies. Networking in a friendly\, cooperative community of 
+ electronics professionals\\nVenue: Vilnius Tech - Faculty of Electronics\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baltic
+ -pcb-systems-conference-33715-1.html
+LOCATION:Vilnius\, Lithuania
+URL:https://www.eventseye.com/fairs/f-baltic-pcb-systems-conference-33715-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AVIATION FORUM — Munich\, Germany
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261216
+UID:f-aviation-forum-22304-1@eventseye.impio-vault
+DESCRIPTION:German Aviation Forum. The group of participants consists of OE
+ Ms\, manufacturers and suppliers at all tier levels\, political decision-m
+ akers and thought leaders from Germany\, Europe and worldwide\\nVenue: Inf
+ inity Hotel Hotel & Conference Resort Munich\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-aviation-forum-22304-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-aviation-forum-22304-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NANO TECH — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261219
+UID:f-nano-tech-14507-1@eventseye.impio-vault
+DESCRIPTION:Japanese International Nanotechnology & Robotics Exhibition & C
+ onference. Nano Materials. Analysis\, Nanofabrication\, Measurement\, Eval
+ uation\, Nano Innovation Technology Applications...\\nVenue: Tokyo Interna
+ tional Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-nano-tech-14507-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-nano-tech-14507-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCT JAPAN — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261219
+UID:f-tct-japan-28609-1@eventseye.impio-vault
+DESCRIPTION:Event focused on solutions for accelerating products to market.
+  The Event for Printing and Additive Manufacturing Intelligence\\nVenue: T
+ okyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-tct-japan-28609-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-tct-japan-28609-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIAA SCITECH FORUM — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+UID:f-aiaa-scitech-forum-28997-1@eventseye.impio-vault
+DESCRIPTION:AIAA Science and Technology Forum and Exposition. The program c
+ overs the science\, technologies\, and policies that are shaping the futur
+ e of aerospace\\nVenue: Hyatt Regency Orlando\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-aiaa-scitech-forum-28997-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-aiaa-scitech-forum-28997-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - NORTH AMERICA — Hou
+ ston\, TX\, USA
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+UID:f-carbon-capture-technology-conference-expo-north-america-31398-1@eventseye.impio-vault
+DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
+ ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
+ ansition to a net-zero carbon economy\\nVenue: NRG Center\\nFrequency: eve
+ ry 2 years\\nSource: https://www.eventseye.com/fairs/f-carbon-capture-tech
+ nology-conference-expo-north-america-31398-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
+ expo-north-america-31398-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYDROGEN TECHNOLOGY EXPO - NORTH AMERICA — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+UID:f-hydrogen-technology-expo-north-america-31399-1@eventseye.impio-vault
+DESCRIPTION:Hydrogen Technology Conference & Expo is North America’s must
+ -attend conference and exhibition that is exclusively dedicated to discuss
+ ing advanced technologies for the hydrogen and fuel cell industry\\nVenue:
+  NRG Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
+ /fairs/f-hydrogen-technology-expo-north-america-31399-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-north-americ
+ a-31399-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PCSI — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270122
+UID:f-pcsi-2093-1@eventseye.impio-vault
+DESCRIPTION:The annual PCSI conference is devoted to achieving a fundamenta
+ l understanding of the physical\, chemical\, biological\, structural\, opt
+ ical\, magnetic\, and electrical properties of surfaces and interfaces\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-pcsi-209
+ 3-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-pcsi-2093-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AERO-ENGINES AMERICA — Scottsdale\, AZ\, USA
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-aero-engines-america-30676-1@eventseye.impio-vault
+DESCRIPTION:Aero-Engines America is a two day conference attracting senior 
+ engine attendees. This leading event is dedicated to the trends and issues
+  related to the region’s aero engine community\, gathering stakeholders 
+ from across the value chain\\nVenue: Westin Kierland Resort\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-aero-engines-americ
+ a-30676-1.html
+LOCATION:Scottsdale\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-aero-engines-america-30676-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAMBURG OPEN — Hamburg\, Germany
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+UID:f-hamburg-open-27369-1@eventseye.impio-vault
+DESCRIPTION:The innovation and networking event for technology and creative
+  professionals in the broadcast and media technology industry\\nVenue: Ham
+ burg Messe und Congress\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-hamburg-open-27369-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-hamburg-open-27369-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW FLEET EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270205
+UID:f-warsaw-fleet-expo-33689-1@eventseye.impio-vault
+DESCRIPTION:Warsaw Fleet Expo is dedicated to modern solutions for vehicle 
+ fleets\, showcasing innovations in vehicle management\, cost optimization\
+ , sustainable transport. Discover the latest technologies supporting elect
+ romobility and intelligent telematics systems\\nVenue: Ptak Warsaw Expo\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-
+ fleet-expo-33689-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-fleet-expo-33689-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATX WEST — Anaheim\, CA\, USA
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270212
+UID:f-atx-west-7276-1@eventseye.impio-vault
+DESCRIPTION:ATX West is where these brands meet to connect and showcase ind
+ ustrial machinery\, AI\, and robotics\, and maintenance advancements to pr
+ ovide premier automation solutions for your company\\nVenue: Anaheim Conve
+ ntion Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-atx-west-7276-1.html
+LOCATION:Anaheim\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-atx-west-7276-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE MEDICAL IMAGING — Vancouver\, BC\, Canada
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270219
+UID:f-spie-medical-imaging-3152-1@eventseye.impio-vault
+DESCRIPTION:Specialized Conference on medical imaging. SPIE Medical Imaging
+  conference offers the latest information on digital pathology\; tomograph
+ y\; image processing\, perception\, registration\, informatics\, and segme
+ ntation\; computer-aided diagnosis\; & ultrasound\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-spie-medical-imaging-3152-1.h
+ tml
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-spie-medical-imaging-3152-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIO CEO & INVESTOR CONFERENCE — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270218
+UID:f-bio-ceo-investor-conference-3527-1@eventseye.impio-vault
+DESCRIPTION:Biotechnology's Annual Investor Forum. Don't miss one of the la
+ rgest investor conferences in our industry where institutional investors\,
+  industry analysts\, and senior executives are shaping the future investme
+ nt landscape of biotechnology\\nVenue: Miami Beach Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-bio-ceo-in
+ vestor-conference-3527-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-bio-ceo-investor-conference-3527-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSME WEEK - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+UID:f-cosme-week-tokyo-24720-1@eventseye.impio-vault
+DESCRIPTION:Asia's Leading Cosmetics Exhibition. COSME Week is a One-stop s
+ ourcing venue for cosmetics manufacturers\, covering ingredients\, private
+  label/OEM\, packaging and all other products/services for Cosmetics R&D\,
+  testing services\\nVenue: Tokyo International Exhibition Center (Tokyo Bi
+ g Sight)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-cosme-week-tokyo-24720-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-cosme-week-tokyo-24720-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EV JAPAN - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+UID:f-ev-japan-tokyo-17025-1@eventseye.impio-vault
+DESCRIPTION:EV JAPAN gathers all kinds of technologies for EVs\, HVs and FC
+ Vs\; Motors\, Inverters\, Rechargeable Batteries\, Chargers\, etc. Automot
+ ive OEMs and Tier 1 suppliers visit the exhibition to find suppliers and p
+ artners\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ev-jap
+ an-tokyo-17025-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-ev-japan-tokyo-17025-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEPCON JAPAN - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+UID:f-nepcon-japan-tokyo-20256-1@eventseye.impio-vault
+DESCRIPTION:NEPCON JAPAN has grown together with the Japanese & Asian elect
+ ronics industries. The show specialised in essential areas for electronics
+  manufacturing and R&D is a representing Asia's leading venue for all thos
+ e involved in the electronics industry\\nVenue: Tokyo International Exhibi
+ tion Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-nepcon-japan-tokyo-20256-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-nepcon-japan-tokyo-20256-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLASTIC JAPAN - HIGH-PERFORMANCE PLASTICS EXPO - NAGOYA — Nagoya\
+ , Japan
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270220
+UID:f-plastic-japan-high-performance-plastics-expo-nagoya-33867-1@eventseye.impio-vault
+DESCRIPTION:The world's largest exhibition showcasing cutting-edge material
+  technologies such as functional films\, plastics\, cellulose\, carbon fib
+ er composites\, metals\, and ceramics. ​\\nVenue: Nagoya International E
+ xhibition Hall (Port Messe Nagoya)\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-plastic-japan-high-performance-plastics-expo
+ -nagoya-33867-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
+ cs-expo-nagoya-33867-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE ADVANCED LITHOGRAPHY — San Jose\, CA\, USA
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270226
+UID:f-spie-advanced-lithography-10610-1@eventseye.impio-vault
+DESCRIPTION:Advanced Lithography Conference and Expo + Patterning. The even
+ t for emerging technology in the semiconductor industry\\nVenue: San Jose 
+ McEnery Convention Center\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-spie-advanced-lithography-10610-1.html
+LOCATION:San Jose\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-spie-advanced-lithography-10610-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD WATER-TECH INNOVATION SUMMIT — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270225
+UID:f-world-water-tech-innovation-summit-26215-1@eventseye.impio-vault
+DESCRIPTION:The World Water-Tech Innovation Summit is the place where deals
+  are made and new partnerships formed between leaders of major utilities a
+ nd municipalities\, industrial end users\, engineering firms\, technology 
+ giants and start-ups\, and investors\\nVenue: The Tower Hotel London\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-world-wate
+ r-tech-innovation-summit-26215-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-world-water-tech-innovation-summit-26
+ 215-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PVC FORMULATION NORTH AMERICA — Charlotte\, NC\, USA
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270226
+UID:f-pvc-formulation-north-america-29285-1@eventseye.impio-vault
+DESCRIPTION:Forum for discovering the latest global trends in PVC innovatio
+ ns to optimise and add value to your formulations\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-pvc-formulation-north-america
+ -29285-1.html
+LOCATION:Charlotte\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-pvc-formulation-north-america-29285-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PITTCON — San Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270304
+UID:f-pittcon-2130-1@eventseye.impio-vault
+DESCRIPTION:Technical Program and Exhibition for all Scientists who utilize
+  Analytical Instrumentation\, Equipment and Techniques. Pittcon is the lea
+ ding showcase for scientific and technical innovation with a singular focu
+ s on laboratory science\\nVenue: San Diego Convention Center\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-pittcon-2130-1.htm
+ l
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-pittcon-2130-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HITEX — Erbil\, Iraq
@@ -3593,418 +4061,6 @@ LOCATION:Philadelphia\, PA\, USA
 URL:https://www.eventseye.com/fairs/f-future-labs-live-usa-31186-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PROPULSION & FUTURE FUELS CONFERENCE — Hamburg\, Germany
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-propulsion-future-fuels-conference-17702-1@eventseye.impio-vault
-DESCRIPTION:The longest-running technical conference in the maritime sector
- \, providing senior executives with a meeting place to learn\, discuss\, a
- nd share knowledge of the latest developments in efficient propulsion tech
- nology and low flashpoint\, low carbon fuels\\nVenue: Empire Riverside Hot
- el\, Hamburg\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-propulsion-future-fuels-conference-17702-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-propulsion-future-fuels-conference-17
- 702-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIGGRAPH ASIA — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261205
-UID:f-siggraph-asia-20391-1@eventseye.impio-vault
-DESCRIPTION:ACM SIGGRAPH Conference & Exhibition on Computer Graphics & Int
- eractive Techniques in Asia\\nVenue: Kuala Lumpur Convention Centre (KLCC)
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sigg
- raph-asia-20391-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-siggraph-asia-20391-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMERICAN AEROSPACE & DEFENSE SUMMIT — Glendale\, AZ\, USA
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261205
-UID:f-american-aerospace-defense-summit-22774-1@eventseye.impio-vault
-DESCRIPTION:Conference dedicated to Manufacturing and R&D in American Aeros
- pace and Defense. Senior leaders from top Aerospace and Defense organizati
- ons will gather to explore the industry’s most pressing challenges and t
- ransformative opportunities\\nVenue: Renaissance Phoenix Glezndale Hotel &
-  Spa\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- american-aerospace-defense-summit-22774-1.html
-LOCATION:Glendale\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-american-aerospace-defense-summit-227
- 74-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GITEX GLOBAL — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261212
-UID:f-gitex-global-14354-1@eventseye.impio-vault
-DESCRIPTION:International Trade Show for the ICT Industry. GITEX GLOBAL is 
- one of World'S largest Tech\, AI & Startup Show\nSHOW\\nVenue: Dubai World
-  Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-gitex-global-14354-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-gitex-global-14354-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WIND TURBINE BLADE MANUFACTURE — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261211
-UID:f-wind-turbine-blade-manufacture-28358-1@eventseye.impio-vault
-DESCRIPTION:Global conference on MW wind blade design\, composites\, manufa
- cturing and performance\\nVenue: InterContinental Düsseldorf\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-wind-turbine-blad
- e-manufacture-28358-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-manufacture-28358-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
- — Shanghai\, China
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261212
-UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
- ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
- , rail security technology & equipment\, rail transportation power & new e
- nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
- ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
- xhibition-31545-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
- sit-technology-exhibition-31545-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAD WORLD 2 — Milan\, Italy
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261211
-UID:f-gad-world-2-33411-1@eventseye.impio-vault
-DESCRIPTION:GAD (Global Airport Development) World is a unique event dedica
- ted to sustainable airport business growth and infrastructure development 
- through best practice financing\, management and strategy\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-gad-world-2-33411-1.h
- tml
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-gad-world-2-33411-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIOSIMILARS CONGREGATION — Mumbai\, India
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-UID:f-biosimilars-congregation-33657-1@eventseye.impio-vault
-DESCRIPTION:International congress covering all aspects of Biosimilars (mor
- e affordable alternatives to a specific class of medicines) from developme
- nt\, regulatory\, market access and challenges\\nVenue: Hotel Kohinoor Con
- tinental\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-biosimilars-congregation-33657-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-biosimilars-congregation-33657-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUTURE INTELLIGENCE — Toulouse\, France
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-UID:f-future-intelligence-27096-1@eventseye.impio-vault
-DESCRIPTION:Trade show on innovation through data and artificial intelligen
- ce. Related industries: mobility\, transport\, IT\, Knowledge Based System
- s & Artificial Intelligence\, R&D\, medical\, aerospace\, defense\, automo
- tive\\nVenue: CHU de Toulouse\\nFrequency: twice a year\\nSource: https://
- www.eventseye.com/fairs/f-future-intelligence-27096-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-future-intelligence-27096-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BALTIC PCB & SYSTEMS CONFERENCE — Vilnius\, Lithuania
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-UID:f-baltic-pcb-systems-conference-33715-1@eventseye.impio-vault
-DESCRIPTION:PCB\, Electronic Solutions & Systems Conference in Lithuania. S
- essions focused on practical engineering knowledge and latest engineering 
- tools & technologies. Networking in a friendly\, cooperative community of 
- electronics professionals\\nVenue: Vilnius Tech - Faculty of Electronics\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-baltic
- -pcb-systems-conference-33715-1.html
-LOCATION:Vilnius\, Lithuania
-URL:https://www.eventseye.com/fairs/f-baltic-pcb-systems-conference-33715-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AVIATION FORUM — Munich\, Germany
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261216
-UID:f-aviation-forum-22304-1@eventseye.impio-vault
-DESCRIPTION:German Aviation Forum. The group of participants consists of OE
- Ms\, manufacturers and suppliers at all tier levels\, political decision-m
- akers and thought leaders from Germany\, Europe and worldwide\\nVenue: Inf
- inity Hotel Hotel & Conference Resort Munich\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-aviation-forum-22304-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-aviation-forum-22304-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NANO TECH — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261219
-UID:f-nano-tech-14507-1@eventseye.impio-vault
-DESCRIPTION:Japanese International Nanotechnology & Robotics Exhibition & C
- onference. Nano Materials. Analysis\, Nanofabrication\, Measurement\, Eval
- uation\, Nano Innovation Technology Applications...\\nVenue: Tokyo Interna
- tional Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-nano-tech-14507-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-nano-tech-14507-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TCT JAPAN — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261219
-UID:f-tct-japan-28609-1@eventseye.impio-vault
-DESCRIPTION:Event focused on solutions for accelerating products to market.
-  The Event for Printing and Additive Manufacturing Intelligence\\nVenue: T
- okyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-tct-japan-28609-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-tct-japan-28609-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIAA SCITECH FORUM — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270116
-UID:f-aiaa-scitech-forum-28997-1@eventseye.impio-vault
-DESCRIPTION:AIAA Science and Technology Forum and Exposition. The program c
- overs the science\, technologies\, and policies that are shaping the futur
- e of aerospace\\nVenue: Hyatt Regency Orlando\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-aiaa-scitech-forum-28997-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-aiaa-scitech-forum-28997-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - NORTH AMERICA — Hou
- ston\, TX\, USA
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270115
-UID:f-carbon-capture-technology-conference-expo-north-america-31398-1@eventseye.impio-vault
-DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
- ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
- ansition to a net-zero carbon economy\\nVenue: NRG Center\\nFrequency: eve
- ry 2 years\\nSource: https://www.eventseye.com/fairs/f-carbon-capture-tech
- nology-conference-expo-north-america-31398-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
- expo-north-america-31398-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYDROGEN TECHNOLOGY EXPO - NORTH AMERICA — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270115
-UID:f-hydrogen-technology-expo-north-america-31399-1@eventseye.impio-vault
-DESCRIPTION:Hydrogen Technology Conference & Expo is North America’s must
- -attend conference and exhibition that is exclusively dedicated to discuss
- ing advanced technologies for the hydrogen and fuel cell industry\\nVenue:
-  NRG Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
- /fairs/f-hydrogen-technology-expo-north-america-31399-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-north-americ
- a-31399-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PCSI — Salt Lake City\, UT\, USA
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270122
-UID:f-pcsi-2093-1@eventseye.impio-vault
-DESCRIPTION:The annual PCSI conference is devoted to achieving a fundamenta
- l understanding of the physical\, chemical\, biological\, structural\, opt
- ical\, magnetic\, and electrical properties of surfaces and interfaces\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-pcsi-209
- 3-1.html
-LOCATION:Salt Lake City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-pcsi-2093-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AERO-ENGINES AMERICA — Scottsdale\, AZ\, USA
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-aero-engines-america-30676-1@eventseye.impio-vault
-DESCRIPTION:Aero-Engines America is a two day conference attracting senior 
- engine attendees. This leading event is dedicated to the trends and issues
-  related to the region’s aero engine community\, gathering stakeholders 
- from across the value chain\\nVenue: Westin Kierland Resort\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-aero-engines-americ
- a-30676-1.html
-LOCATION:Scottsdale\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-aero-engines-america-30676-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HAMBURG OPEN — Hamburg\, Germany
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270122
-UID:f-hamburg-open-27369-1@eventseye.impio-vault
-DESCRIPTION:The innovation and networking event for technology and creative
-  professionals in the broadcast and media technology industry\\nVenue: Ham
- burg Messe und Congress\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-hamburg-open-27369-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-hamburg-open-27369-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW FLEET EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270205
-UID:f-warsaw-fleet-expo-33689-1@eventseye.impio-vault
-DESCRIPTION:Warsaw Fleet Expo is dedicated to modern solutions for vehicle 
- fleets\, showcasing innovations in vehicle management\, cost optimization\
- , sustainable transport. Discover the latest technologies supporting elect
- romobility and intelligent telematics systems\\nVenue: Ptak Warsaw Expo\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-
- fleet-expo-33689-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-fleet-expo-33689-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATX WEST — Anaheim\, CA\, USA
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270212
-UID:f-atx-west-7276-1@eventseye.impio-vault
-DESCRIPTION:ATX West is where these brands meet to connect and showcase ind
- ustrial machinery\, AI\, and robotics\, and maintenance advancements to pr
- ovide premier automation solutions for your company\\nVenue: Anaheim Conve
- ntion Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-atx-west-7276-1.html
-LOCATION:Anaheim\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-atx-west-7276-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIE MEDICAL IMAGING — Vancouver\, BC\, Canada
-DTSTART;VALUE=DATE:20270214
-DTEND;VALUE=DATE:20270219
-UID:f-spie-medical-imaging-3152-1@eventseye.impio-vault
-DESCRIPTION:Specialized Conference on medical imaging. SPIE Medical Imaging
-  conference offers the latest information on digital pathology\; tomograph
- y\; image processing\, perception\, registration\, informatics\, and segme
- ntation\; computer-aided diagnosis\; & ultrasound\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-spie-medical-imaging-3152-1.h
- tml
-LOCATION:Vancouver\, BC\, Canada
-URL:https://www.eventseye.com/fairs/f-spie-medical-imaging-3152-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIO CEO & INVESTOR CONFERENCE — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270218
-UID:f-bio-ceo-investor-conference-3527-1@eventseye.impio-vault
-DESCRIPTION:Biotechnology's Annual Investor Forum. Don't miss one of the la
- rgest investor conferences in our industry where institutional investors\,
-  industry analysts\, and senior executives are shaping the future investme
- nt landscape of biotechnology\\nVenue: Miami Beach Convention Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-bio-ceo-in
- vestor-conference-3527-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-bio-ceo-investor-conference-3527-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSME WEEK - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270220
-UID:f-cosme-week-tokyo-24720-1@eventseye.impio-vault
-DESCRIPTION:Asia's Leading Cosmetics Exhibition. COSME Week is a One-stop s
- ourcing venue for cosmetics manufacturers\, covering ingredients\, private
-  label/OEM\, packaging and all other products/services for Cosmetics R&D\,
-  testing services\\nVenue: Tokyo International Exhibition Center (Tokyo Bi
- g Sight)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-cosme-week-tokyo-24720-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-cosme-week-tokyo-24720-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EV JAPAN - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270220
-UID:f-ev-japan-tokyo-17025-1@eventseye.impio-vault
-DESCRIPTION:EV JAPAN gathers all kinds of technologies for EVs\, HVs and FC
- Vs\; Motors\, Inverters\, Rechargeable Batteries\, Chargers\, etc. Automot
- ive OEMs and Tier 1 suppliers visit the exhibition to find suppliers and p
- artners\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ev-jap
- an-tokyo-17025-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-ev-japan-tokyo-17025-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEPCON JAPAN - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270220
-UID:f-nepcon-japan-tokyo-20256-1@eventseye.impio-vault
-DESCRIPTION:NEPCON JAPAN has grown together with the Japanese & Asian elect
- ronics industries. The show specialised in essential areas for electronics
-  manufacturing and R&D is a representing Asia's leading venue for all thos
- e involved in the electronics industry\\nVenue: Tokyo International Exhibi
- tion Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-nepcon-japan-tokyo-20256-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-nepcon-japan-tokyo-20256-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLASTIC JAPAN - HIGH-PERFORMANCE PLASTICS EXPO - NAGOYA — Nagoya\
- , Japan
-DTSTART;VALUE=DATE:20270217
-DTEND;VALUE=DATE:20270220
-UID:f-plastic-japan-high-performance-plastics-expo-nagoya-33867-1@eventseye.impio-vault
-DESCRIPTION:The world's largest exhibition showcasing cutting-edge material
-  technologies such as functional films\, plastics\, cellulose\, carbon fib
- er composites\, metals\, and ceramics. ​\\nVenue: Nagoya International E
- xhibition Hall (Port Messe Nagoya)\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-plastic-japan-high-performance-plastics-expo
- -nagoya-33867-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
- cs-expo-nagoya-33867-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIE ADVANCED LITHOGRAPHY — San Jose\, CA\, USA
-DTSTART;VALUE=DATE:20270221
-DTEND;VALUE=DATE:20270226
-UID:f-spie-advanced-lithography-10610-1@eventseye.impio-vault
-DESCRIPTION:Advanced Lithography Conference and Expo + Patterning. The even
- t for emerging technology in the semiconductor industry\\nVenue: San Jose 
- McEnery Convention Center\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-spie-advanced-lithography-10610-1.html
-LOCATION:San Jose\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-spie-advanced-lithography-10610-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD WATER-TECH INNOVATION SUMMIT — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270225
-UID:f-world-water-tech-innovation-summit-26215-1@eventseye.impio-vault
-DESCRIPTION:The World Water-Tech Innovation Summit is the place where deals
-  are made and new partnerships formed between leaders of major utilities a
- nd municipalities\, industrial end users\, engineering firms\, technology 
- giants and start-ups\, and investors\\nVenue: The Tower Hotel London\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-world-wate
- r-tech-innovation-summit-26215-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-world-water-tech-innovation-summit-26
- 215-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PITTCON — San Diego\, CA\, USA
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270304
-UID:f-pittcon-2130-1@eventseye.impio-vault
-DESCRIPTION:Technical Program and Exhibition for all Scientists who utilize
-  Analytical Instrumentation\, Equipment and Techniques. Pittcon is the lea
- ding showcase for scientific and technical innovation with a singular focu
- s on laboratory science\\nVenue: San Diego Convention Center\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-pittcon-2130-1.htm
- l
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-pittcon-2130-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ADDITIVE MANUFACTURING FORUM — Berlin\, Germany
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270304
@@ -4213,6 +4269,19 @@ URL:https://www.eventseye.com/fairs/f-future-food-tech-san-francisco-26217-
  1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CONGRES INTERNATIONAL DE METROLOGIE — Lyon\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+UID:f-congres-international-de-metrologie-503-1@eventseye.impio-vault
+DESCRIPTION:International Metrology Congress\, bringing together all the te
+ chnological references in the Measurement and Metrology sector\\nVenue: Eu
+ rexpo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs
+ /f-congres-international-de-metrologie-503-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-congres-international-de-metrologie-5
+ 03-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GITEX AI LATAM — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
@@ -4340,33 +4409,18 @@ LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-pm-china-26370-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPIE OPTIFAB — Rochester\, NY\, USA
-DTSTART;VALUE=DATE:20271018
-DTEND;VALUE=DATE:20271022
-UID:f-spie-optifab-12020-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Event for Optical Fabrication. Optifab\, a un
- ique technical focus on classical & advanced optical manufacturing technol
- ogies\, offers attendees a great opportunity to interact with worldwide ex
- perts in the field of optical fabrication\\nVenue: Rochester Riverside Con
- vention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-spie-optifab-12020-1.html
-LOCATION:Rochester\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-spie-optifab-12020-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD CONGRESS OF THEORETICALLY ORIENTED CHEMIST — Merida\, Mexic
- o
-DTSTART;VALUE=DATE:20280109
-DTEND;VALUE=DATE:20280115
-UID:f-world-congress-of-theoretically-oriented-chemist-2878-1@eventseye.impio-vault
-DESCRIPTION:Congress of Theoretically Oriented Chemist. The Triennial WATOC
-  Congress is one of the largest international meetings in the field of the
- oretical and computational chemistry\\nFrequency: every 3 years\\nSource: 
- https://www.eventseye.com/fairs/f-world-congress-of-theoretically-oriented
- -chemist-2878-1.html
-LOCATION:Merida\, Mexico
-URL:https://www.eventseye.com/fairs/f-world-congress-of-theoretically-orien
- ted-chemist-2878-1.html
+SUMMARY:ASIA PHARMA + ASIA LAB EXPO — Dhaka\, Bangladesh
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+UID:f-asia-pharma-asia-lab-expo-9493-1@eventseye.impio-vault
+DESCRIPTION:International Pharmacy Exhibition on South Asian Pharmaceutical
+  Industry. ASIA PHARMA + LAB EXPO showcases Pharma Processing & Packaging 
+ Machineries\, Materials & Consumables\, Additives\, Excipients\, Bulk Drug
+ s\, Pharma Products\, R&D & Biotech Instruments\\nVenue: Bangladesh China 
+ Friendship Exhibition Centre\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-asia-pharma-asia-lab-expo-9493-1.html
+LOCATION:Dhaka\, Bangladesh
+URL:https://www.eventseye.com/fairs/f-asia-pharma-asia-lab-expo-9493-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IPC APEX EXPO — Anaheim\, CA\, USA
@@ -4508,6 +4562,20 @@ LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-bioph-japan-23477-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MEDTEC JAPAN — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-medtec-japan-13996-1@eventseye.impio-vault
+DESCRIPTION:MEDTEC JAPAN\, international tradeshow and seminar for the Desi
+ gn & Manufacture of Medical Device industry\, brings together suppliers of
+  the Medical Device Industry as well as development & research professiona
+ ls\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-medtec-japa
+ n-13996-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-medtec-japan-13996-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NEXTECH WEEK TOKYO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270424
@@ -4520,6 +4588,19 @@ DESCRIPTION:NexTech Week Tokyo is a comprehensive trade show gathering adva
  .eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIO KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+UID:f-bio-korea-22551-1@eventseye.impio-vault
+DESCRIPTION:BIO KOREA is an international Convention invigorating and growi
+ ng the global bio-health industry. Exchange the newest bio-health trends a
+ nd technology as well as get the global expansion business opportunity\\nV
+ enue: COEX Exhibition Center\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-bio-korea-22551-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-bio-korea-22551-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NPE — Orlando\, FL\, USA
@@ -4814,5 +4895,49 @@ DESCRIPTION:EXPO Ferroviaria is the leading exhibition for the railway indu
  o-ferroviaria-5641-1.html
 LOCATION:Milan\, Italy
 URL:https://www.eventseye.com/fairs/f-expo-ferroviaria-5641-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE OPTIFAB — Rochester\, NY\, USA
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+UID:f-spie-optifab-12020-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Event for Optical Fabrication. Optifab\, a un
+ ique technical focus on classical & advanced optical manufacturing technol
+ ogies\, offers attendees a great opportunity to interact with worldwide ex
+ perts in the field of optical fabrication\\nVenue: Rochester Riverside Con
+ vention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-spie-optifab-12020-1.html
+LOCATION:Rochester\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-spie-optifab-12020-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD CONGRESS OF THEORETICALLY ORIENTED CHEMIST — Merida\, Mexic
+ o
+DTSTART;VALUE=DATE:20280109
+DTEND;VALUE=DATE:20280115
+UID:f-world-congress-of-theoretically-oriented-chemist-2878-1@eventseye.impio-vault
+DESCRIPTION:Congress of Theoretically Oriented Chemist. The Triennial WATOC
+  Congress is one of the largest international meetings in the field of the
+ oretical and computational chemistry\\nFrequency: every 3 years\\nSource: 
+ https://www.eventseye.com/fairs/f-world-congress-of-theoretically-oriented
+ -chemist-2878-1.html
+LOCATION:Merida\, Mexico
+URL:https://www.eventseye.com/fairs/f-world-congress-of-theoretically-orien
+ ted-chemist-2878-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITS WORLD CONGRESS & EXHIBITION — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20281008
+DTEND;VALUE=DATE:20281013
+UID:f-its-world-congress-exhibition-12062-1@eventseye.impio-vault
+DESCRIPTION:ITS World Congress is the global event that brings together wor
+ ld leaders\, practitioners\, policy makers\, researchers\, and private ind
+ ustry to advance and unite the intelligent transportation systems (ITS) in
+ dustry\\nVenue: Orange County Convention Center\\nFrequency: every 3 years
+ \\nSource: https://www.eventseye.com/fairs/f-its-world-congress-exhibition
+ -12062-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-its-world-congress-exhibition-12062-1
+ .html
 END:VEVENT
 END:VCALENDAR

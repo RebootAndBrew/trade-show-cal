@@ -6,20 +6,6 @@ X-WR-CALNAME:Real Estate
 X-WR-CALDESC:Trade shows: Real Estate — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:APEX - AMERICA PROPERTY EXHIBITION — Rosemont\, IL\, USA
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260510
-UID:f-apex-america-property-exhibition-32370-1@eventseye.impio-vault
-DESCRIPTION:America Property Expo. APEX offers an interactive platform for 
- both local and international market players in the real estate community\,
-  showcasing industry-leading brands\, properties\, and services to a globa
- l audience\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-apex-america-property-exhibition-32370-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-apex-america-property-exhibition-3237
- 0-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A PLACE IN THE SUN LIVE - LONDON — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260511
@@ -572,6 +558,20 @@ DESCRIPTION:Overseas Real-estate exhibition. Informative seminars and hundr
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-a-place-in-the-sun-live-birmingham-25
  020-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APEX - AMERICA PROPERTY EXHIBITION — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260926
+UID:f-apex-america-property-exhibition-32370-1@eventseye.impio-vault
+DESCRIPTION:America Property Expo. APEX offers an interactive platform for 
+ both local and international market players in the real estate community\,
+  showcasing industry-leading brands\, properties\, and services to a globa
+ l audience\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-apex-america-property-exhibition-32370-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-apex-america-property-exhibition-3237
+ 0-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CITYSCAPE EGYPT — Cairo\, Egypt

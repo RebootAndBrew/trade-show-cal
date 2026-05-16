@@ -102,20 +102,6 @@ URL:https://www.eventseye.com/fairs/f-simec-salon-industriel-de-la-mauricie
  -estrie-et-du-centre-du-quebec-17602-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE PARIS — Paris\, France
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260512
-UID:f-foire-internationale-de-paris-1041-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Paris. Home & Habitat\, Craft and Culture
-  of the World and Well-being\, Fashion and Accessories\, Leisure & Practic
- al Life\, Wines & Gastronomy\\nVenue: Paris Expo Porte de Versailles\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
- rnationale-de-paris-1041-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-paris-1041-1.
- html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOIRE DE TOURS — Tours\, France
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260511
@@ -614,9 +600,9 @@ UID:f-africa-indusmach-kenya-19090-1@eventseye.impio-vault
 DESCRIPTION:INDUSMACH AFRICA - Kenya is a mega industrial exhibition on ind
  ustrial products\, technologies\, machinery and related services. Experien
  ce complete value chains and swap information with experts from a complete
-  spectrum of industrial sectors\\nVenue: Kenyatta International Conference
-  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-africa-indusmach-kenya-19090-1.html
+  spectrum of industrial sectors\\nVenue: The Carnivore Grounds\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-africa-indusmach
+ -kenya-19090-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-africa-indusmach-kenya-19090-1.html
 END:VEVENT
@@ -664,9 +650,11 @@ SUMMARY:INTEC COIMBATORE — Coimbatore\, India
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260609
 UID:f-intec-coimbatore-8557-1@eventseye.impio-vault
-DESCRIPTION:India's international Machine Tools and Industrial Trade Fair\\
- nVenue: Codissia Trade Fair Complex\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
+DESCRIPTION:India's international Machine Tools and Industrial Trade Fair. 
+ INTEC COIMBATORE provides a platform for Small Industries to come internat
+ ionally and earn valuable foreign exchange\\nVenue: Codissia Trade Fair Co
+ mplex\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs
+ /f-intec-coimbatore-8557-1.html
 LOCATION:Coimbatore\, India
 URL:https://www.eventseye.com/fairs/f-intec-coimbatore-8557-1.html
 END:VEVENT
@@ -780,6 +768,22 @@ DESCRIPTION:Vietnam Industrial Automation Trade Show. Industrial suppliers\
 LOCATION:Binh Duong New City\, Vietnam
 URL:https://www.eventseye.com/fairs/f-viaf-vietnam-industrial-automation-fi
  esta-27984-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA BRAND FAIR - CENTRAL AND EASTERN EUROPE — Budapest\, Hungar
+ y
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-china-brand-fair-central-and-eastern-europe-34229-1@eventseye.impio-vault
+DESCRIPTION:China Brand Fair in Central and Eastern Europe. Electronics & H
+ ome Appliances\, Office Supplies\, Food & Beverages\, Hotel Supplies\, Pac
+ kaging Machinery\, Textiles & Apparel\, Automotive & Parts\, Electrical Eq
+ uipment\, Home & Bathroom Products\, Building...\\nVenue: Budapest Fair Ce
+ ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ china-brand-fair-central-and-eastern-europe-34229-1.html
+LOCATION:Budapest\, Hungary
+URL:https://www.eventseye.com/fairs/f-china-brand-fair-central-and-eastern-
+ europe-34229-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOIRE DU GRAND MORVAN SAULIEU — Saulieu\, France
@@ -1210,535 +1214,15 @@ URL:https://www.eventseye.com/fairs/f-foire-de-chalons-en-champagne-28699-1
  .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOMBASA INTERNATIONAL SHOW (MIS) — Mombasa\, Kenya
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260907
-UID:f-mombasa-international-show-(mis)-18868-1@eventseye.impio-vault
-DESCRIPTION:Mombasa International Show. MOMBASA INTERNATIONAL SHOW (MIS) ex
- hibitors are from the following industries:- Agriculture\, Manufacturing\,
-  Tourism related Enterprises\, Fishing Industry\, Banking sector\, Import 
- & Export\, Transport and communication\\nVenue: ASK Jomo Kenyatta Showgrou
- nd\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-mo
- mbasa-international-show-(mis)-18868-1.html
-LOCATION:Mombasa\, Kenya
-URL:https://www.eventseye.com/fairs/f-mombasa-international-show-(mis)-1886
- 8-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOM WETZIKON — Wetzikon\, Switzerland
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260907
-UID:f-zom-wetzikon-17841-1@eventseye.impio-vault
-DESCRIPTION:The largest Public Fair & Popular Sales in the Zurich Oberland.
-  Use ZOOM as a platform for personal discussions\, the presentation of you
- r products & services as well as networking or market research\\nVenue: We
- tzikon Messehallen\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-zom-wetzikon-17841-1.html
-LOCATION:Wetzikon\, Switzerland
-URL:https://www.eventseye.com/fairs/f-zom-wetzikon-17841-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARMENIA EXPO — Yerevan\, Armenia
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-UID:f-armenia-expo-22941-1@eventseye.impio-vault
-DESCRIPTION:Yerevan International Fair (Armenia). Every year the exhibition
-  brings together the largest manufacturers from Armenia\, Russia\, Iran\, 
- Georgia\, China\, CIS countries\, the Middle East and Europe\\nVenue: Kare
- n Demirchyan Complex\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-armenia-expo-22941-1.html
-LOCATION:Yerevan\, Armenia
-URL:https://www.eventseye.com/fairs/f-armenia-expo-22941-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EUROPEENNE DE STRASBOURG — Strasbourg\, France
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260914
-UID:f-foire-europeenne-de-strasbourg-1032-1@eventseye.impio-vault
-DESCRIPTION:The Strasbourg European Fair\, which welcomes 25 countries each
-  year\, offers a constantly updated offer: everything for the home\, the g
- arden\, decoration\, well-being and gift ideas\\nVenue: Parc des expositio
- ns de Strasbourg\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-foire-europeenne-de-strasbourg-1032-1.html
-LOCATION:Strasbourg\, France
-URL:https://www.eventseye.com/fairs/f-foire-europeenne-de-strasbourg-1032-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDEXPO - HYDERABAD — Hyderabad\, India
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-UID:f-indexpo-hyderabad-30154-1@eventseye.impio-vault
-DESCRIPTION:India's Industrial & Engineering Expo. Indexpo is a networking 
- platform for meeting the manufacturers and suppliers of industrial product
- s with Buyers coming from all over India and international visitors\\nVenu
- e: Hyderabad International Trade Exposition Centre (HITEX)\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-indexpo-hyderabad-30
- 154-1.html
-LOCATION:Hyderabad\, India
-URL:https://www.eventseye.com/fairs/f-indexpo-hyderabad-30154-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDUSTRIAL ARMENIA EXPO — Yerevan\, Armenia
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260907
-UID:f-industrial-armenia-expo-5616-1@eventseye.impio-vault
-DESCRIPTION:Armenian Exhibition of Industry and Capital Goods. Paper indust
- ry\, carpentry\, mining industry\, forestry industry\, metallurgical indus
- try\, manufacturing industry\, glass industry\, construction materials\, i
- ndustrial services...\\nVenue: Karen Demirchyan Complex\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-industrial-armenia-expo
- -5616-1.html
-LOCATION:Yerevan\, Armenia
-URL:https://www.eventseye.com/fairs/f-industrial-armenia-expo-5616-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IZMIR INTERNATIONAL FAIR — Izmir\, Turkey
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260914
-UID:f-izmir-international-fair-11423-1@eventseye.impio-vault
-DESCRIPTION:Izmir International Fair. A platform where the unique Turkish a
- nd Izmir’s agriculture\, food and gastronomy culture is introduced to al
- l visitors\\nVenue: Fuarizmir\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-izmir-international-fair-11423-1.html
-LOCATION:Izmir\, Turkey
-URL:https://www.eventseye.com/fairs/f-izmir-international-fair-11423-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIF - THESSALONIKI INTERNATIONAL FAIR — Thessaloniki\, Greece
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260914
-UID:f-tif-thessaloniki-international-fair-5467-1@eventseye.impio-vault
-DESCRIPTION:Thessaloniki International Fair. Furniture\, Home Equipment\, G
- astronomy\, Entrepreneurship\, Startups\, Energy\, Circular Economy...\\nV
- enue: Thessaloniki International Exhibition Centre\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-tif-thessaloniki-internation
- al-fair-5467-1.html
-LOCATION:Thessaloniki\, Greece
-URL:https://www.eventseye.com/fairs/f-tif-thessaloniki-international-fair-5
- 467-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTUMN FAIR — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260910
-UID:f-autumn-fair-28711-1@eventseye.impio-vault
-DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty & 
- Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
- wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.ht
- ml
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOCAL SOUTHERN AFRICAN MANUFACTURING EXPO — Johannesburg\, South 
- Africa
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260912
-UID:f-local-southern-african-manufacturing-expo-27689-1@eventseye.impio-vault
-DESCRIPTION:Southern African Manufacturing Expo. Industry\, Construction\, 
- Agriculture\, Power\\nVenue: Johannesburg Expo Centre\\nFrequency: every 2
-  years\\nSource: https://www.eventseye.com/fairs/f-local-southern-african-
- manufacturing-expo-27689-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-local-southern-african-manufacturing-
- expo-27689-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE-EXPOSITION DE VERDUN — Verdun\, France
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260914
-UID:f-foire-exposition-de-verdun-22369-1@eventseye.impio-vault
-DESCRIPTION:Verdun Fair-Exhibition. With more than 40\, 000 visitors\, the 
- Verdun National Fair is the first family event in the Meuse department\\nV
- enue: Verdun Expo Meuse\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-foire-exposition-de-verdun-22369-1.html
-LOCATION:Verdun\, France
-URL:https://www.eventseye.com/fairs/f-foire-exposition-de-verdun-22369-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SISTEP INDUSTRIEL — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260913
-UID:f-sistep-industriel-32997-1@eventseye.impio-vault
-DESCRIPTION:SISTEP INDUSTRIEL is a major gathering for professionals from t
- he metallurgical\, mechanical\, electromechanical sectors\, Subcontracting
- \, as well as industrial safety\, prevention\, and technological innovatio
- n\\nVenue: Office des Foires et Expositions de Casablanca (OFEC)\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-sistep-industr
- iel-32997-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-sistep-industriel-32997-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO PRODUCCIÓN — Mexico City\, Mexico
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260913
-UID:f-expo-produccion-26350-1@eventseye.impio-vault
-DESCRIPTION:Expo Producción provides a vital\, professional platform for m
- anufacturers\, brands\, retailers and suppliers to connect\, network and l
- earn about the newest trends\, products and innovations impacting the indu
- stry\\nVenue: Centro Citibanamex\\nFrequency: every 2 years\\nSource: http
- s://www.eventseye.com/fairs/f-expo-produccion-26350-1.html
-LOCATION:Mexico City\, Mexico
-URL:https://www.eventseye.com/fairs/f-expo-produccion-26350-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DU MANS — Le Mans\, France
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260915
-UID:f-foire-du-mans-10608-1@eventseye.impio-vault
-DESCRIPTION:Le Mans Fair. Housing\, wines and gastronomy\, ingenious produc
- ts\, automobiles\, furniture\, public works building spaces and agricultur
- al equipment... stock up on ideas for your projects\\nVenue: Centre des ex
- positions du Mans\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-foire-du-mans-10608-1.html
-LOCATION:Le Mans\, France
-URL:https://www.eventseye.com/fairs/f-foire-du-mans-10608-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DE BÉRÉ - CHÂTEAUBRIANT — Châteaubriant\, France
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260915
-UID:f-foire-de-bere-chateaubriant-22365-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair of Béré - Châteaubriant. Trade fair\, Livestock a
- rea\, Equestrian area\, Fairground\, Activities...\\nVenue: Foire de Bér
- é\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fo
- ire-de-bere-chateaubriant-22365-1.html
-LOCATION:Châteaubriant\, France
-URL:https://www.eventseye.com/fairs/f-foire-de-bere-chateaubriant-22365-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DE SAVOIE — Chambery\, France
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260922
-UID:f-foire-de-savoie-3537-1@eventseye.impio-vault
-DESCRIPTION:The Savoie Fair is the major economic and festive event of the 
- autumn season in Savoie. Great deals in all sectors: Home\, Garden\, Shopp
- ing\, Multimedia\, Leisure\, Services... A program of entertainment on sta
- ge and in the aisles\\nVenue: Savoiexpo - Parc des expositions de Chambery
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-foir
- e-de-savoie-3537-1.html
-LOCATION:Chambery\, France
-URL:https://www.eventseye.com/fairs/f-foire-de-savoie-3537-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMB — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260920
-UID:f-amb-88-1@eventseye.impio-vault
-DESCRIPTION:German International Exhibition for Metal Working. AMB focuses 
- on products\, technologies\, innovations\, services and concepts for peopl
- e who are passionate about metalworking. This makes it a marketplace\, tra
- ining and networking platform all in one\\nVenue: New Stuttgart Trade Fair
-  Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-amb-88-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-amb-88-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HERBSTMESSE KLAGENFURT — Klagenfurt\, Austria
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260921
-UID:f-herbstmesse-klagenfurt-27453-1@eventseye.impio-vault
-DESCRIPTION:With over 500 participating companies\, the Autumn Fair is the 
- largest shopping center in the South of Austria\\nVenue: Klagenfurter Mess
- e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-her
- bstmesse-klagenfurt-27453-1.html
-LOCATION:Klagenfurt\, Austria
-URL:https://www.eventseye.com/fairs/f-herbstmesse-klagenfurt-27453-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOCRUZ — Santa Cruz de la Sierra\, Bolivia
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260928
-UID:f-expocruz-4710-1@eventseye.impio-vault
-DESCRIPTION:Santa Cruz International Fair. EXPOCRUZ is the most complete mu
- lti-sector fair in Latin America. It is the stage where all the productive
-  sectors of the country and the region converge in 10 days of opportunitie
- s\, business and entertainment\\nVenue: Feria Exposicion de Santa Cruz\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-expocruz
- -4710-1.html
-LOCATION:Santa Cruz de la Sierra\, Bolivia
-URL:https://www.eventseye.com/fairs/f-expocruz-4710-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EXPO DE DOLE — Dole\, France
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260921
-UID:f-foire-expo-de-dole-34000-1@eventseye.impio-vault
-DESCRIPTION:The Dole Fair\, with many exhibitors from the region and beyond
- \, is a hub for exchanges where visitors can find inspiration\, advice\, a
- nd good deals across four areas: home\, gastronomy\, well-being\, and auto
- mobiles\\nVenue: Dolexpo\\nFrequency: unknown\\nSource: https://www.events
- eye.com/fairs/f-foire-expo-de-dole-34000-1.html
-LOCATION:Dole\, France
-URL:https://www.eventseye.com/fairs/f-foire-expo-de-dole-34000-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE CAEN — Caen\, France
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260928
-UID:f-foire-internationale-de-caen-8972-1@eventseye.impio-vault
-DESCRIPTION:Caen International Fair. 10 days of commerce\, entertainment an
- d shows. To meet the new expectations of its visitors\, the "Foire interna
- tionale de Caen" diversifies and enriches its programming from year to yea
- r\\nVenue: Parc des expositions de Caen\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-foire-internationale-de-caen-8972-1.htm
- l
-LOCATION:Caen\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-caen-8972-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE SAINT-ÉTIENNE — Saint-Étienne\, France
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260929
-UID:f-foire-internationale-de-saint-etienne-22370-1@eventseye.impio-vault
-DESCRIPTION:The Saint-Étienne Fair is the largest pop-up store in the regi
- on\, offering a diverse offering in all sectors of daily life\, exterior d
- esign\, home equipment\, mobility\, leisure\, well-being\, culture\, gastr
- onomy\, etc...\\nVenue: Parc Expo de Saint-Etienne\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-foire-internationale-de-sain
- t-etienne-22370-1.html
-LOCATION:Saint-Étienne\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-saint-etienne
- -22370-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FERIA INTERNACIONAL DE BOGOTA — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260926
-UID:f-feria-internacional-de-bogota-14466-1@eventseye.impio-vault
-DESCRIPTION:Bogota International Industrial Fair. Event specialized in new 
- technologies applied to all productive industries on the South American co
- ntinent\\nVenue: Corferias - Centro de Convenciones\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-feria-internacional-de-bo
- gota-14466-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-feria-internacional-de-bogota-14466-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES SUD-OUEST — Toulouse\, France
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260925
-UID:f-sepem-industries-sud-ouest-17489-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: MEET
- T - Parc des Expositions et Centre de Conventions\\nFrequency: every 2 yea
- rs\\nSource: https://www.eventseye.com/fairs/f-sepem-industries-sud-ouest-
- 17489-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-sud-ouest-17489-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MÜSIAD EXPO — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260927
-UID:f-musiad-expo-27416-1@eventseye.impio-vault
-DESCRIPTION:Istanbul Industrial Fair. MÜSİ AD EXPO attracts a wide divers
- ity of industries each year\, embracing innovation and highlighting global
-  trends. Many sectors represented\, networking\, round tables\, individual
-  B2B meetings...\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi / C
- NR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-musiad-expo-27416-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-musiad-expo-27416-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NUMAC — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260927
-UID:f-numac-14815-1@eventseye.impio-vault
-DESCRIPTION:Tool Manufacturing Trade Show. Machinery\, Machine Tools & Spar
- e Parts\, Electronics\, Electrical Machinery\, Computer\, Automotive\, Aut
- omotive Spare & Supply Products\\nVenue: Istanbul Expo Center / Istanbul F
- uar Merkezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.ev
- entseye.com/fairs/f-numac-14815-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-numac-14815-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECHNOLOGY & LOGISTICS EXPO & B2B MEETINGS — Sibiu\, Romania
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-UID:f-technology-logistics-expo-b2b-meetings-32729-1@eventseye.impio-vault
-DESCRIPTION:Technology Expo & B2B Meetings is a leading B2B Trade Fair in R
- omania for Materials\, Components\, Industrial Equipment and Services addr
- essed to the Technology and Manufacturing Industries\\nVenue: Redal Events
-  Exhibition Center\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-technology-logistics-expo-b2b-meetings-32729-1.html
-LOCATION:Sibiu\, Romania
-URL:https://www.eventseye.com/fairs/f-technology-logistics-expo-b2b-meeting
- s-32729-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE MARSEILLE — Marseille\, France
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261006
-UID:f-foire-internationale-de-marseille-1037-1@eventseye.impio-vault
-DESCRIPTION:Marseille International Fair. Gastronomy and Terroir\, Home & H
- abitat\, Beauty & Well-being\, Automotive\, Outdoor leisure\, Sports\, Mot
- orcycles\, Boats\, Crafts and World Cuisines...\\nVenue: Parc Chanot\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
- rnationale-de-marseille-1037-1.html
-LOCATION:Marseille\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-marseille-103
- 7-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE METZ — Metz\, France
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20261006
-UID:f-foire-internationale-de-metz-1038-1@eventseye.impio-vault
-DESCRIPTION:The Metz International Fair\, one of the main international fai
- rs in France\, is both a commercial meeting and a social phenomenon which 
- has no equivalent in the entire North-Eastern quarter of France\\nVenue: M
- etz - Centre International des Congrès et Foires Expositions\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internation
- ale-de-metz-1038-1.html
-LOCATION:Metz\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-metz-1038-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DU DAUPHINÉ - ROMANS — Romans-sur-Isère\, France
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20261006
-UID:f-foire-du-dauphine-romans-22373-1@eventseye.impio-vault
-DESCRIPTION:The Foire du Dauphiné brings together all the players in the r
- egion in the same place: from cars to furniture\, including kitchens\, bat
- hrooms\, verandas\, swimming pools\, spas\, house builders... and offers f
- estive activities for all ages\\nVenue: Foire du Dauphiné\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-foire-du-dauphine-ro
- mans-22373-1.html
-LOCATION:Romans-sur-Isère\, France
-URL:https://www.eventseye.com/fairs/f-foire-du-dauphine-romans-22373-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20261005
-UID:f-oberrhein-messe-13461-1@eventseye.impio-vault
-DESCRIPTION:Oberrhein Fair - Consumer Goods. Products & services on energy 
- concepts\, construction\, housing and renovation\, technologies for the ho
- me and crafts\, beauty\, fashion and health\\nVenue: Messe Offenburg\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-oberrhein-
- messe-13461-1.html
-LOCATION:Offenburg\, Germany
-URL:https://www.eventseye.com/fairs/f-oberrhein-messe-13461-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAIROBI INTERNATIONAL TRADE FAIR (NITF) — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261005
-UID:f-nairobi-international-trade-fair-(nitf)-26494-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair promoting Innovation and Technology in
-  Agriculture and Trade in the East African Region\\nVenue: Jamhuri Park\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-nairobi
- -international-trade-fair-(nitf)-26494-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-nairobi-international-trade-fair-(nit
- f)-26494-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOURNÉES D'OCTOBRE — Mulhouse\, France
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261012
-UID:f-journees-d-octobre-22418-1@eventseye.impio-vault
-DESCRIPTION:Mulhouse Gastronomy\, Fruit and Vegetable Show. The program inc
- ludes musical entertainment\, demonstrations\, and tastings of culinary sp
- ecialties from restaurants and bars and local producers\\nVenue: Mulhouse 
- - Parc des Expositions\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-journees-d-octobre-22418-1.html
-LOCATION:Mulhouse\, France
-URL:https://www.eventseye.com/fairs/f-journees-d-octobre-22418-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DE MONTLUÇON — Montluçon\, France
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261012
-UID:f-foire-de-montlucon-22362-1@eventseye.impio-vault
-DESCRIPTION:The Montluçon Fair\, a showcase for the talent of some 300 exh
- ibitors\, is a privileged place for visitors who want to buy differently a
- nd allows professionals to establish quality contact with the general publ
- ic\\nVenue: Parc des Expositions - Monev\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-foire-de-montlucon-22362-1.html
-LOCATION:Montluçon\, France
-URL:https://www.eventseye.com/fairs/f-foire-de-montlucon-22362-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UGANDA TRADE FAIR — Kampala\, Uganda
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261008
-UID:f-uganda-trade-fair-9979-1@eventseye.impio-vault
-DESCRIPTION:International Trade Show for all kind of Consumer and Industria
- l Products\\nVenue: UMA Exhibition Centre Lugogo\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-uganda-trade-fair-9979-1.html
-LOCATION:Kampala\, Uganda
-URL:https://www.eventseye.com/fairs/f-uganda-trade-fair-9979-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MSV — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261010
-UID:f-msv-1946-1@eventseye.impio-vault
-DESCRIPTION:International Engineering Fair. International Engineering Fair.
- \nThe MSV International Engineering Fair is the most important industrial 
- fair in Central Europe\\nVenue: Brno Exhibition Centre\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-msv-1946-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-msv-1946-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DE L'INDUSTRIE ET DE LA SOUS-TRAITANCE GRAND OUEST — Nantes
- \, France
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-salon-de-l-industrie-et-de-la-sous-traitance-grand-ouest-2412-1@eventseye.impio-vault
-DESCRIPTION:Industrial solutions and subcontracting trade show. The Grand O
- uest Industry & Subcontracting trade show allows national and local client
- s to efficiently meet with all their suppliers and industrial partners\\nV
- enue: Exponantes - La Beaujoire\\nFrequency: every 2 years\\nSource: https
- ://www.eventseye.com/fairs/f-salon-de-l-industrie-et-de-la-sous-traitance-
- grand-ouest-2412-1.html
-LOCATION:Nantes\, France
-URL:https://www.eventseye.com/fairs/f-salon-de-l-industrie-et-de-la-sous-tr
- aitance-grand-ouest-2412-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIQ - SALON INDUSTRIEL DE QUÉBEC — Quebec City\, QC\, Canada
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-siq-salon-industriel-de-quebec-17601-1@eventseye.impio-vault
-DESCRIPTION:The largest industrial exhibition in Eastern Canada. The event 
- brings together distributors\, suppliers and service companies with the ne
- cessary expertise for development and growth of Quebec businesses\\nVenue:
-  Centre de Foires - ExpoCité\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-siq-salon-industriel-de-quebec-17601-1.html
-LOCATION:Quebec City\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-siq-salon-industriel-de-quebec-17601-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE MONTPELLIER — Montpellier\, France
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261020
-UID:f-foire-internationale-de-montpellier-15069-1@eventseye.impio-vault
-DESCRIPTION:The Montpellier International Fair is a huge commercial showcas
- e based around several worlds. The opportunity to find products that you s
- ometimes can't find anywhere else\\nVenue: Montpellier - Parc des Expositi
- ons\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-f
- oire-internationale-de-montpellier-15069-1.html
-LOCATION:Montpellier\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-montpellier-1
- 5069-1.html
+SUMMARY:IDEA NATALE — Udine\, Italy
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261117
+UID:f-idea-natale-16576-1@eventseye.impio-vault
+DESCRIPTION:Udine Christmas Fair. Promotion of arts and crafts\, creativity
+  and the Nativity gift\\nVenue: Udine e Gorizia Fiere\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-idea-natale-16576-1.html
+LOCATION:Udine\, Italy
+URL:https://www.eventseye.com/fairs/f-idea-natale-16576-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TANZANIA INTERNATIONAL TRADE SHOW — Dar Es Salaam\, Tanzania
@@ -2423,6 +1907,20 @@ LOCATION:St. Gallen\, Switzerland
 URL:https://www.eventseye.com/fairs/f-rheintal-messe-und-event-33785-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE PARIS — Paris\, France
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270511
+UID:f-foire-internationale-de-paris-1041-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Paris. Home & Habitat\, Craft and Culture
+  of the World and Well-being\, Fashion and Accessories\, Leisure & Practic
+ al Life\, Wines & Gastronomy\\nVenue: Paris Expo Porte de Versailles\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
+ rnationale-de-paris-1041-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-paris-1041-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFRICA AUTOMATION TECHNOLOGY FAIR — Johannesburg\, South Africa
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270514
@@ -2519,17 +2017,535 @@ LOCATION:Bern\, Switzerland
 URL:https://www.eventseye.com/fairs/f-sindex-17065-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES EST — Colmar\, France
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270924
-UID:f-sepem-industries-est-9503-1@eventseye.impio-vault
+SUMMARY:MOMBASA INTERNATIONAL SHOW (MIS) — Mombasa\, Kenya
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260907
+UID:f-mombasa-international-show-(mis)-18868-1@eventseye.impio-vault
+DESCRIPTION:Mombasa International Show. MOMBASA INTERNATIONAL SHOW (MIS) ex
+ hibitors are from the following industries:- Agriculture\, Manufacturing\,
+  Tourism related Enterprises\, Fishing Industry\, Banking sector\, Import 
+ & Export\, Transport and communication\\nVenue: ASK Jomo Kenyatta Showgrou
+ nd\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-mo
+ mbasa-international-show-(mis)-18868-1.html
+LOCATION:Mombasa\, Kenya
+URL:https://www.eventseye.com/fairs/f-mombasa-international-show-(mis)-1886
+ 8-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOM WETZIKON — Wetzikon\, Switzerland
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260907
+UID:f-zom-wetzikon-17841-1@eventseye.impio-vault
+DESCRIPTION:The largest Public Fair & Popular Sales in the Zurich Oberland.
+  Use ZOOM as a platform for personal discussions\, the presentation of you
+ r products & services as well as networking or market research\\nVenue: We
+ tzikon Messehallen\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-zom-wetzikon-17841-1.html
+LOCATION:Wetzikon\, Switzerland
+URL:https://www.eventseye.com/fairs/f-zom-wetzikon-17841-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARMENIA EXPO — Yerevan\, Armenia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-armenia-expo-22941-1@eventseye.impio-vault
+DESCRIPTION:Yerevan International Fair (Armenia). Every year the exhibition
+  brings together the largest manufacturers from Armenia\, Russia\, Iran\, 
+ Georgia\, China\, CIS countries\, the Middle East and Europe\\nVenue: Kare
+ n Demirchyan Complex\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-armenia-expo-22941-1.html
+LOCATION:Yerevan\, Armenia
+URL:https://www.eventseye.com/fairs/f-armenia-expo-22941-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EUROPEENNE DE STRASBOURG — Strasbourg\, France
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260914
+UID:f-foire-europeenne-de-strasbourg-1032-1@eventseye.impio-vault
+DESCRIPTION:The Strasbourg European Fair\, which welcomes 25 countries each
+  year\, offers a constantly updated offer: everything for the home\, the g
+ arden\, decoration\, well-being and gift ideas\\nVenue: Parc des expositio
+ ns de Strasbourg\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-foire-europeenne-de-strasbourg-1032-1.html
+LOCATION:Strasbourg\, France
+URL:https://www.eventseye.com/fairs/f-foire-europeenne-de-strasbourg-1032-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDEXPO - HYDERABAD — Hyderabad\, India
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-indexpo-hyderabad-30154-1@eventseye.impio-vault
+DESCRIPTION:India's Industrial & Engineering Expo. Indexpo is a networking 
+ platform for meeting the manufacturers and suppliers of industrial product
+ s with Buyers coming from all over India and international visitors\\nVenu
+ e: Hyderabad International Trade Exposition Centre (HITEX)\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-indexpo-hyderabad-30
+ 154-1.html
+LOCATION:Hyderabad\, India
+URL:https://www.eventseye.com/fairs/f-indexpo-hyderabad-30154-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDUSTRIAL ARMENIA EXPO — Yerevan\, Armenia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-industrial-armenia-expo-5616-1@eventseye.impio-vault
+DESCRIPTION:Armenian Exhibition of Industry and Capital Goods. Paper indust
+ ry\, carpentry\, mining industry\, forestry industry\, metallurgical indus
+ try\, manufacturing industry\, glass industry\, construction materials\, i
+ ndustrial services...\\nVenue: Karen Demirchyan Complex\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-industrial-armenia-expo
+ -5616-1.html
+LOCATION:Yerevan\, Armenia
+URL:https://www.eventseye.com/fairs/f-industrial-armenia-expo-5616-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IZMIR INTERNATIONAL FAIR — Izmir\, Turkey
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260914
+UID:f-izmir-international-fair-11423-1@eventseye.impio-vault
+DESCRIPTION:Izmir International Fair. A platform where the unique Turkish a
+ nd Izmir’s agriculture\, food and gastronomy culture is introduced to al
+ l visitors\\nVenue: Fuarizmir\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-izmir-international-fair-11423-1.html
+LOCATION:Izmir\, Turkey
+URL:https://www.eventseye.com/fairs/f-izmir-international-fair-11423-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIF - THESSALONIKI INTERNATIONAL FAIR — Thessaloniki\, Greece
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260914
+UID:f-tif-thessaloniki-international-fair-5467-1@eventseye.impio-vault
+DESCRIPTION:Thessaloniki International Fair. Furniture\, Home Equipment\, G
+ astronomy\, Entrepreneurship\, Startups\, Energy\, Circular Economy...\\nV
+ enue: Thessaloniki International Exhibition Centre\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-tif-thessaloniki-internation
+ al-fair-5467-1.html
+LOCATION:Thessaloniki\, Greece
+URL:https://www.eventseye.com/fairs/f-tif-thessaloniki-international-fair-5
+ 467-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTUMN FAIR — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260910
+UID:f-autumn-fair-28711-1@eventseye.impio-vault
+DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty & 
+ Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
+ wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.ht
+ ml
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOCAL SOUTHERN AFRICAN MANUFACTURING EXPO — Johannesburg\, South 
+ Africa
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260912
+UID:f-local-southern-african-manufacturing-expo-27689-1@eventseye.impio-vault
+DESCRIPTION:Southern African Manufacturing Expo. Industry\, Construction\, 
+ Agriculture\, Power\\nVenue: Johannesburg Expo Centre\\nFrequency: every 2
+  years\\nSource: https://www.eventseye.com/fairs/f-local-southern-african-
+ manufacturing-expo-27689-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-local-southern-african-manufacturing-
+ expo-27689-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE-EXPOSITION DE VERDUN — Verdun\, France
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260914
+UID:f-foire-exposition-de-verdun-22369-1@eventseye.impio-vault
+DESCRIPTION:Verdun Fair-Exhibition. With more than 40\, 000 visitors\, the 
+ Verdun National Fair is the first family event in the Meuse department\\nV
+ enue: Verdun Expo Meuse\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-foire-exposition-de-verdun-22369-1.html
+LOCATION:Verdun\, France
+URL:https://www.eventseye.com/fairs/f-foire-exposition-de-verdun-22369-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SISTEP INDUSTRIEL — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260913
+UID:f-sistep-industriel-32997-1@eventseye.impio-vault
+DESCRIPTION:SISTEP INDUSTRIEL is a major gathering for professionals from t
+ he metallurgical\, mechanical\, electromechanical sectors\, Subcontracting
+ \, as well as industrial safety\, prevention\, and technological innovatio
+ n\\nVenue: Office des Foires et Expositions de Casablanca (OFEC)\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-sistep-industr
+ iel-32997-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-sistep-industriel-32997-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO PRODUCCIÓN — Mexico City\, Mexico
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260913
+UID:f-expo-produccion-26350-1@eventseye.impio-vault
+DESCRIPTION:Expo Producción provides a vital\, professional platform for m
+ anufacturers\, brands\, retailers and suppliers to connect\, network and l
+ earn about the newest trends\, products and innovations impacting the indu
+ stry\\nVenue: Centro Citibanamex\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-expo-produccion-26350-1.html
+LOCATION:Mexico City\, Mexico
+URL:https://www.eventseye.com/fairs/f-expo-produccion-26350-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DU MANS — Le Mans\, France
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260915
+UID:f-foire-du-mans-10608-1@eventseye.impio-vault
+DESCRIPTION:Le Mans Fair. Housing\, wines and gastronomy\, ingenious produc
+ ts\, automobiles\, furniture\, public works building spaces and agricultur
+ al equipment... stock up on ideas for your projects\\nVenue: Centre des ex
+ positions du Mans\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-foire-du-mans-10608-1.html
+LOCATION:Le Mans\, France
+URL:https://www.eventseye.com/fairs/f-foire-du-mans-10608-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DE BÉRÉ - CHÂTEAUBRIANT — Châteaubriant\, France
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260915
+UID:f-foire-de-bere-chateaubriant-22365-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair of Béré - Châteaubriant. Trade fair\, Livestock a
+ rea\, Equestrian area\, Fairground\, Activities...\\nVenue: Foire de Bér
+ é\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fo
+ ire-de-bere-chateaubriant-22365-1.html
+LOCATION:Châteaubriant\, France
+URL:https://www.eventseye.com/fairs/f-foire-de-bere-chateaubriant-22365-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DE SAVOIE — Chambery\, France
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260922
+UID:f-foire-de-savoie-3537-1@eventseye.impio-vault
+DESCRIPTION:The Savoie Fair is the major economic and festive event of the 
+ autumn season in Savoie. Great deals in all sectors: Home\, Garden\, Shopp
+ ing\, Multimedia\, Leisure\, Services... A program of entertainment on sta
+ ge and in the aisles\\nVenue: Savoiexpo - Parc des expositions de Chambery
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-foir
+ e-de-savoie-3537-1.html
+LOCATION:Chambery\, France
+URL:https://www.eventseye.com/fairs/f-foire-de-savoie-3537-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMB — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260920
+UID:f-amb-88-1@eventseye.impio-vault
+DESCRIPTION:German International Exhibition for Metal Working. AMB focuses 
+ on products\, technologies\, innovations\, services and concepts for peopl
+ e who are passionate about metalworking. This makes it a marketplace\, tra
+ ining and networking platform all in one\\nVenue: New Stuttgart Trade Fair
+  Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-amb-88-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-amb-88-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HERBSTMESSE KLAGENFURT — Klagenfurt\, Austria
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260921
+UID:f-herbstmesse-klagenfurt-27453-1@eventseye.impio-vault
+DESCRIPTION:With over 500 participating companies\, the Autumn Fair is the 
+ largest shopping center in the South of Austria\\nVenue: Klagenfurter Mess
+ e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-her
+ bstmesse-klagenfurt-27453-1.html
+LOCATION:Klagenfurt\, Austria
+URL:https://www.eventseye.com/fairs/f-herbstmesse-klagenfurt-27453-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOCRUZ — Santa Cruz de la Sierra\, Bolivia
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260928
+UID:f-expocruz-4710-1@eventseye.impio-vault
+DESCRIPTION:Santa Cruz International Fair. EXPOCRUZ is the most complete mu
+ lti-sector fair in Latin America. It is the stage where all the productive
+  sectors of the country and the region converge in 10 days of opportunitie
+ s\, business and entertainment\\nVenue: Feria Exposicion de Santa Cruz\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-expocruz
+ -4710-1.html
+LOCATION:Santa Cruz de la Sierra\, Bolivia
+URL:https://www.eventseye.com/fairs/f-expocruz-4710-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EXPO DE DOLE — Dole\, France
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+UID:f-foire-expo-de-dole-34000-1@eventseye.impio-vault
+DESCRIPTION:The Dole Fair\, with many exhibitors from the region and beyond
+ \, is a hub for exchanges where visitors can find inspiration\, advice\, a
+ nd good deals across four areas: home\, gastronomy\, well-being\, and auto
+ mobiles\\nVenue: Dolexpo\\nFrequency: unknown\\nSource: https://www.events
+ eye.com/fairs/f-foire-expo-de-dole-34000-1.html
+LOCATION:Dole\, France
+URL:https://www.eventseye.com/fairs/f-foire-expo-de-dole-34000-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE CAEN — Caen\, France
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260928
+UID:f-foire-internationale-de-caen-8972-1@eventseye.impio-vault
+DESCRIPTION:Caen International Fair. 10 days of commerce\, entertainment an
+ d shows. To meet the new expectations of its visitors\, the "Foire interna
+ tionale de Caen" diversifies and enriches its programming from year to yea
+ r\\nVenue: Parc des expositions de Caen\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-foire-internationale-de-caen-8972-1.htm
+ l
+LOCATION:Caen\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-caen-8972-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE SAINT-ÉTIENNE — Saint-Étienne\, France
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260929
+UID:f-foire-internationale-de-saint-etienne-22370-1@eventseye.impio-vault
+DESCRIPTION:The Saint-Étienne Fair is the largest pop-up store in the regi
+ on\, offering a diverse offering in all sectors of daily life\, exterior d
+ esign\, home equipment\, mobility\, leisure\, well-being\, culture\, gastr
+ onomy\, etc...\\nVenue: Parc Expo de Saint-Etienne\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-foire-internationale-de-sain
+ t-etienne-22370-1.html
+LOCATION:Saint-Étienne\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-saint-etienne
+ -22370-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERIA INTERNACIONAL DE BOGOTA — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260926
+UID:f-feria-internacional-de-bogota-14466-1@eventseye.impio-vault
+DESCRIPTION:Bogota International Industrial Fair. Event specialized in new 
+ technologies applied to all productive industries on the South American co
+ ntinent\\nVenue: Corferias - Centro de Convenciones\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-feria-internacional-de-bo
+ gota-14466-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-feria-internacional-de-bogota-14466-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES SUD-OUEST — Toulouse\, France
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260925
+UID:f-sepem-industries-sud-ouest-17489-1@eventseye.impio-vault
 DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
  d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
-  des Expositions de Colmar\\nFrequency: every 2 years\\nSource: https://ww
- w.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
-LOCATION:Colmar\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
+ nd the major trends that will shape the industry of tomorrow\\nVenue: MEET
+ T - Parc des Expositions et Centre de Conventions\\nFrequency: every 2 yea
+ rs\\nSource: https://www.eventseye.com/fairs/f-sepem-industries-sud-ouest-
+ 17489-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-sud-ouest-17489-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MÜSIAD EXPO — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+UID:f-musiad-expo-27416-1@eventseye.impio-vault
+DESCRIPTION:Istanbul Industrial Fair. MÜSİ AD EXPO attracts a wide divers
+ ity of industries each year\, embracing innovation and highlighting global
+  trends. Many sectors represented\, networking\, round tables\, individual
+  B2B meetings...\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi / C
+ NR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-musiad-expo-27416-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-musiad-expo-27416-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NUMAC — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+UID:f-numac-14815-1@eventseye.impio-vault
+DESCRIPTION:Tool Manufacturing Trade Show. Machinery\, Machine Tools & Spar
+ e Parts\, Electronics\, Electrical Machinery\, Computer\, Automotive\, Aut
+ omotive Spare & Supply Products\\nVenue: Istanbul Expo Center / Istanbul F
+ uar Merkezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.ev
+ entseye.com/fairs/f-numac-14815-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-numac-14815-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECHNOLOGY & LOGISTICS EXPO & B2B MEETINGS — Sibiu\, Romania
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+UID:f-technology-logistics-expo-b2b-meetings-32729-1@eventseye.impio-vault
+DESCRIPTION:Technology Expo & B2B Meetings is a leading B2B Trade Fair in R
+ omania for Materials\, Components\, Industrial Equipment and Services addr
+ essed to the Technology and Manufacturing Industries\\nVenue: Redal Events
+  Exhibition Center\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-technology-logistics-expo-b2b-meetings-32729-1.html
+LOCATION:Sibiu\, Romania
+URL:https://www.eventseye.com/fairs/f-technology-logistics-expo-b2b-meeting
+ s-32729-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE MARSEILLE — Marseille\, France
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261006
+UID:f-foire-internationale-de-marseille-1037-1@eventseye.impio-vault
+DESCRIPTION:Marseille International Fair. Gastronomy and Terroir\, Home & H
+ abitat\, Beauty & Well-being\, Automotive\, Outdoor leisure\, Sports\, Mot
+ orcycles\, Boats\, Crafts and World Cuisines...\\nVenue: Parc Chanot\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
+ rnationale-de-marseille-1037-1.html
+LOCATION:Marseille\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-marseille-103
+ 7-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE METZ — Metz\, France
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20261006
+UID:f-foire-internationale-de-metz-1038-1@eventseye.impio-vault
+DESCRIPTION:The Metz International Fair\, one of the main international fai
+ rs in France\, is both a commercial meeting and a social phenomenon which 
+ has no equivalent in the entire North-Eastern quarter of France\\nVenue: M
+ etz - Centre International des Congrès et Foires Expositions\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internation
+ ale-de-metz-1038-1.html
+LOCATION:Metz\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-metz-1038-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DU DAUPHINÉ - ROMANS — Romans-sur-Isère\, France
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261006
+UID:f-foire-du-dauphine-romans-22373-1@eventseye.impio-vault
+DESCRIPTION:The Foire du Dauphiné brings together all the players in the r
+ egion in the same place: from cars to furniture\, including kitchens\, bat
+ hrooms\, verandas\, swimming pools\, spas\, house builders... and offers f
+ estive activities for all ages\\nVenue: Foire du Dauphiné\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-foire-du-dauphine-ro
+ mans-22373-1.html
+LOCATION:Romans-sur-Isère\, France
+URL:https://www.eventseye.com/fairs/f-foire-du-dauphine-romans-22373-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261005
+UID:f-oberrhein-messe-13461-1@eventseye.impio-vault
+DESCRIPTION:Oberrhein Fair - Consumer Goods. Products & services on energy 
+ concepts\, construction\, housing and renovation\, technologies for the ho
+ me and crafts\, beauty\, fashion and health\\nVenue: Messe Offenburg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-oberrhein-
+ messe-13461-1.html
+LOCATION:Offenburg\, Germany
+URL:https://www.eventseye.com/fairs/f-oberrhein-messe-13461-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAIROBI INTERNATIONAL TRADE FAIR (NITF) — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261005
+UID:f-nairobi-international-trade-fair-(nitf)-26494-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair promoting Innovation and Technology in
+  Agriculture and Trade in the East African Region\\nVenue: Jamhuri Park\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-nairobi
+ -international-trade-fair-(nitf)-26494-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-nairobi-international-trade-fair-(nit
+ f)-26494-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOURNÉES D'OCTOBRE — Mulhouse\, France
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261012
+UID:f-journees-d-octobre-22418-1@eventseye.impio-vault
+DESCRIPTION:Mulhouse Gastronomy\, Fruit and Vegetable Show. The program inc
+ ludes musical entertainment\, demonstrations\, and tastings of culinary sp
+ ecialties from restaurants and bars and local producers\\nVenue: Mulhouse 
+ - Parc des Expositions\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-journees-d-octobre-22418-1.html
+LOCATION:Mulhouse\, France
+URL:https://www.eventseye.com/fairs/f-journees-d-octobre-22418-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DE MONTLUÇON — Montluçon\, France
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261012
+UID:f-foire-de-montlucon-22362-1@eventseye.impio-vault
+DESCRIPTION:The Montluçon Fair\, a showcase for the talent of some 300 exh
+ ibitors\, is a privileged place for visitors who want to buy differently a
+ nd allows professionals to establish quality contact with the general publ
+ ic\\nVenue: Parc des Expositions - Monev\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-foire-de-montlucon-22362-1.html
+LOCATION:Montluçon\, France
+URL:https://www.eventseye.com/fairs/f-foire-de-montlucon-22362-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UGANDA TRADE FAIR — Kampala\, Uganda
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261008
+UID:f-uganda-trade-fair-9979-1@eventseye.impio-vault
+DESCRIPTION:International Trade Show for all kind of Consumer and Industria
+ l Products\\nVenue: UMA Exhibition Centre Lugogo\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-uganda-trade-fair-9979-1.html
+LOCATION:Kampala\, Uganda
+URL:https://www.eventseye.com/fairs/f-uganda-trade-fair-9979-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MSV — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261010
+UID:f-msv-1946-1@eventseye.impio-vault
+DESCRIPTION:International Engineering Fair. International Engineering Fair.
+ \nThe MSV International Engineering Fair is the most important industrial 
+ fair in Central Europe\\nVenue: Brno Exhibition Centre\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-msv-1946-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-msv-1946-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DE L'INDUSTRIE ET DE LA SOUS-TRAITANCE GRAND OUEST — Nantes
+ \, France
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-salon-de-l-industrie-et-de-la-sous-traitance-grand-ouest-2412-1@eventseye.impio-vault
+DESCRIPTION:Industrial solutions and subcontracting trade show. The Grand O
+ uest Industry & Subcontracting trade show allows national and local client
+ s to efficiently meet with all their suppliers and industrial partners\\nV
+ enue: Exponantes - La Beaujoire\\nFrequency: every 2 years\\nSource: https
+ ://www.eventseye.com/fairs/f-salon-de-l-industrie-et-de-la-sous-traitance-
+ grand-ouest-2412-1.html
+LOCATION:Nantes\, France
+URL:https://www.eventseye.com/fairs/f-salon-de-l-industrie-et-de-la-sous-tr
+ aitance-grand-ouest-2412-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIQ - SALON INDUSTRIEL DE QUÉBEC — Quebec City\, QC\, Canada
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-siq-salon-industriel-de-quebec-17601-1@eventseye.impio-vault
+DESCRIPTION:The largest industrial exhibition in Eastern Canada. The event 
+ brings together distributors\, suppliers and service companies with the ne
+ cessary expertise for development and growth of Quebec businesses\\nVenue:
+  Centre de Foires - ExpoCité\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-siq-salon-industriel-de-quebec-17601-1.html
+LOCATION:Quebec City\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-siq-salon-industriel-de-quebec-17601-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE MONTPELLIER — Montpellier\, France
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261020
+UID:f-foire-internationale-de-montpellier-15069-1@eventseye.impio-vault
+DESCRIPTION:The Montpellier International Fair is a huge commercial showcas
+ e based around several worlds. The opportunity to find products that you s
+ ometimes can't find anywhere else\\nVenue: Montpellier - Parc des Expositi
+ ons\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-f
+ oire-internationale-de-montpellier-15069-1.html
+LOCATION:Montpellier\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-montpellier-1
+ 5069-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INFA HANNOVER — Hannover\, Germany
@@ -2652,6 +2668,32 @@ DESCRIPTION:Fair of Jura. Meeting of craftsmen and industrialists from all
  r\\nSource: https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
 LOCATION:Delémont\, Switzerland
 URL:https://www.eventseye.com/fairs/f-foire-du-jura-23489-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENGINEERING TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-engineering-taiwan-34216-1@eventseye.impio-vault
+DESCRIPTION:'Engineering Taiwan' is a B2B trade exhibition for precision en
+ gineering\, industrial automation\, mechanical components\, power distribu
+ tion\, and testing/measurement\\nVenue: Taipei Nangang Exhibition Center\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-engine
+ ering-taiwan-34216-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-engineering-taiwan-34216-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBCON TAIWAN — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-subcon-taiwan-34214-1@eventseye.impio-vault
+DESCRIPTION:Subcon Taiwan is a capabilities show. Every exhibitor sells man
+ ufacturing capacity: precision machining\, electronics assembly\, smart ma
+ nufacturing services\, vertical industry solutions...\\nVenue: Taipei Nang
+ ang Exhibition Center\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-subcon-taiwan-34214-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-subcon-taiwan-34214-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TAIWAN INDUSTRY WEEK — Taipei\, Taiwan
@@ -3068,15 +3110,17 @@ URL:https://www.eventseye.com/fairs/f-dickens-christmas-show-and-festivals-
  30744-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IDEA NATALE — Udine\, Italy
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261117
-UID:f-idea-natale-16576-1@eventseye.impio-vault
-DESCRIPTION:Udine Christmas Fair. Promotion of arts and crafts\, creativity
-  and the Nativity gift\\nVenue: Udine e Gorizia Fiere\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-idea-natale-16576-1.html
-LOCATION:Udine\, Italy
-URL:https://www.eventseye.com/fairs/f-idea-natale-16576-1.html
+SUMMARY:SEPEM INDUSTRIES EST — Colmar\, France
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+UID:f-sepem-industries-est-9503-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
+  des Expositions de Colmar\\nFrequency: every 2 years\\nSource: https://ww
+ w.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
+LOCATION:Colmar\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany

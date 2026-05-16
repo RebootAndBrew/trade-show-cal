@@ -7,21 +7,6 @@ X-WR-CALDESC:Trade shows: Printing - Editing - Graphic Design — sourced f
  rom EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:D•PES SIGN EXPO CHINA - GUANZHOU — Guangzhou\, China
-DTSTART;VALUE=DATE:20260311
-DTEND;VALUE=DATE:20260314
-UID:f-d-pes-sign-expo-china-guanzhou-20486-1@eventseye.impio-vault
-DESCRIPTION:Sign Expo. D·PES Sign Expo China showcases digital printing eq
- uipments\, digital engraving equipments\, digital printing consumables\, l
- aser engraving equipments & printing & engraving related accessories\, sig
- nage\, board\, light boxes & display equipment\\nVenue: Poly World Trade E
- xpo Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/
- fairs/f-d-pes-sign-expo-china-guanzhou-20486-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-d-pes-sign-expo-china-guanzhou-20486-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PACTEC — Helsinki\, Finland
 DTSTART;VALUE=DATE:20260311
 DTEND;VALUE=DATE:20260313
@@ -119,12 +104,12 @@ SUMMARY:D•PES SIGN EXPO CHINA - KUNMING — Kunming\, China
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260514
 UID:f-d-pes-sign-expo-china-kunming-25619-1@eventseye.impio-vault
-DESCRIPTION:Sign Expo. D·PES Sign Expo China showcases digital printing eq
- uipments\, digital engraving equipments\, digital printing consumables\, l
- aser engraving equipments & printing & engraving related accessories\, sig
- nage\, board\, light boxes & display equipment\\nVenue: Kunming Internatio
- nal Convention & Exhibition Center\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-d-pes-sign-expo-china-kunming-25619-1.html
+DESCRIPTION:Trade show for signage\, displays\, laser engraving\, printing 
+ equipment and consumables. DPES CHINA (DPES Sign Expo\, DPES Digital Print
+  Expo\, DPES Textile Printing Expo) is ranked among the world’s leading 
+ trade platforms for signage and digital printing\\nVenue: Kunming Internat
+ ional Convention & Exhibition Center\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-d-pes-sign-expo-china-kunming-25619-1.html
 LOCATION:Kunming\, China
 URL:https://www.eventseye.com/fairs/f-d-pes-sign-expo-china-kunming-25619-1
  .html
@@ -1606,44 +1591,56 @@ LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-convertech-japan-14506-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PACK EXPO SOUTHEAST — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270412
-DTEND;VALUE=DATE:20270415
-UID:f-pack-expo-southeast-30131-1@eventseye.impio-vault
-DESCRIPTION:International Packaging Process Show. For end users and supplie
- rs around the world\, PACK EXPO SOUTHEAST offers a quality professional ex
- perience and a wide range of packaging innovations for each vertical marke
- t\\nVenue: Georgia International Convention Center - GICC\\nFrequency: eve
- ry 2 years\\nSource: https://www.eventseye.com/fairs/f-pack-expo-southeast
- -30131-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-pack-expo-southeast-30131-1.html
+SUMMARY:C!PRINT MADRID — Madrid\, Spain
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-c!print-madrid-24237-1@eventseye.impio-vault
+DESCRIPTION:C!Print Madrid is the event dedicated to printing\, visual comm
+ unication and personalization professionals\\nVenue: Ifema - Parque Ferial
+  Juan Carlos I\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-c!print-madrid-24237-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-c!print-madrid-24237-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O'ZUPACK — Tashkent\, Uzbekistan
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270416
-UID:f-o-zupack-26696-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of equipment and technologies for pack
- aging and printing industry in Uzbekistan\\nVenue: Uzexpocentre\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-o-zupack-26696-
- 1.html
-LOCATION:Tashkent\, Uzbekistan
-URL:https://www.eventseye.com/fairs/f-o-zupack-26696-1.html
+SUMMARY:PSI — Cologne\, Germany
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-psi-10682-1@eventseye.impio-vault
+DESCRIPTION:The leading European trade show for the promotional products in
+ dustry. PSI is more than just a trade fair. It is the place where the inte
+ rnational promotional products industry comes together\, exchanges knowled
+ ge and gets inspired\\nVenue: Exhibition Centre Cologne\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-psi-10682-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-psi-10682-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EMPACK NETHERLANDS — Hertogenbosch\, Netherlands
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270416
-UID:f-empack-netherlands-8891-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack Netherlan
- ds exhibitors will showcase Packaging Materials\, Equipment & Technologies
- \, Labeling and Marking Technology\, Creative and Design\, Recycling\, Ser
- vices\\nVenue: Brabanthallen’ Exhibition Centre\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-empack-netherlands-8891-1.htm
- l
-LOCATION:Hertogenbosch\, Netherlands
-URL:https://www.eventseye.com/fairs/f-empack-netherlands-8891-1.html
+SUMMARY:GTB - GARMENTECH TECHNOLOGY BANGLADESH — Dhaka\, Bangladesh
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270117
+UID:f-gtb-garmentech-technology-bangladesh-8659-1@eventseye.impio-vault
+DESCRIPTION:Bangladesh International Garment & Textile Machinery Trade Show
+ \, showcasing the cutting edge Sewing\, Finishing\, Embroidery machinery a
+ nd spares & Allied Products\,\\nVenue: ICCB - International Convention Cit
+ y Bashundhara\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-gtb-garmentech-technology-bangladesh-8659-1.html
+LOCATION:Dhaka\, Bangladesh
+URL:https://www.eventseye.com/fairs/f-gtb-garmentech-technology-bangladesh-
+ 8659-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IPF BANGLADESH — Dhaka\, Bangladesh
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270124
+UID:f-ipf-bangladesh-25529-1@eventseye.impio-vault
+DESCRIPTION:IPF Bangladesh is where international manufacturers\, professio
+ nal buyers\, and decision-makers in the plastics\, rubber\, printing\, and
+  packaging industries come together\\nVenue: ICCB - International Conventi
+ on City Bashundhara\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-ipf-bangladesh-25529-1.html
+LOCATION:Dhaka\, Bangladesh
+URL:https://www.eventseye.com/fairs/f-ipf-bangladesh-25529-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAC MECHEX — Mumbai\, India
@@ -1963,58 +1960,6 @@ LOCATION:Dusseldorf\, Germany
 URL:https://www.eventseye.com/fairs/f-drupa-603-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:C!PRINT MADRID — Madrid\, Spain
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-c!print-madrid-24237-1@eventseye.impio-vault
-DESCRIPTION:C!Print Madrid is the event dedicated to printing\, visual comm
- unication and personalization professionals\\nVenue: Ifema - Parque Ferial
-  Juan Carlos I\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-c!print-madrid-24237-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-c!print-madrid-24237-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSI — Cologne\, Germany
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-psi-10682-1@eventseye.impio-vault
-DESCRIPTION:The leading European trade show for the promotional products in
- dustry. PSI is more than just a trade fair. It is the place where the inte
- rnational promotional products industry comes together\, exchanges knowled
- ge and gets inspired\\nVenue: Exhibition Centre Cologne\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-psi-10682-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-psi-10682-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GTB - GARMENTECH TECHNOLOGY BANGLADESH — Dhaka\, Bangladesh
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270117
-UID:f-gtb-garmentech-technology-bangladesh-8659-1@eventseye.impio-vault
-DESCRIPTION:Bangladesh International Garment & Textile Machinery Trade Show
- \, showcasing the cutting edge Sewing\, Finishing\, Embroidery machinery a
- nd spares & Allied Products\,\\nVenue: ICCB - International Convention Cit
- y Bashundhara\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-gtb-garmentech-technology-bangladesh-8659-1.html
-LOCATION:Dhaka\, Bangladesh
-URL:https://www.eventseye.com/fairs/f-gtb-garmentech-technology-bangladesh-
- 8659-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IPF BANGLADESH — Dhaka\, Bangladesh
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270124
-UID:f-ipf-bangladesh-25529-1@eventseye.impio-vault
-DESCRIPTION:IPF Bangladesh is where international manufacturers\, professio
- nal buyers\, and decision-makers in the plastics\, rubber\, printing\, and
-  packaging industries come together\\nVenue: ICCB - International Conventi
- on City Bashundhara\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-ipf-bangladesh-25529-1.html
-LOCATION:Dhaka\, Bangladesh
-URL:https://www.eventseye.com/fairs/f-ipf-bangladesh-25529-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IMPRESSIONS EXPO - LONG BEACH — Long Beach\, CA\, USA
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270124
@@ -2186,6 +2131,35 @@ DESCRIPTION:Packaging Ideas and Solutions Show. WestPack features the leadi
  tps://www.eventseye.com/fairs/f-west-pack-2855-1.html
 LOCATION:Anaheim\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-west-pack-2855-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D•PES SIGN EXPO CHINA - GUANZHOU — Guangzhou\, China
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270228
+UID:f-d-pes-sign-expo-china-guanzhou-20486-1@eventseye.impio-vault
+DESCRIPTION:Trade show for signage\, displays\, laser engraving\, printing 
+ equipment and consumables. DPES CHINA (DPES Sign Expo\, DPES Digital Print
+  Expo\, DPES Textile Printing Expo) is ranked among the world’s leading 
+ trade platforms for signage and digital printing\\nVenue: China Import and
+  Export Fair Complex Area B\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-d-pes-sign-expo-china-guanzhou-20486-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-d-pes-sign-expo-china-guanzhou-20486-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DPES SIGN & LED EXPO CHINA — Guangzhou\, China
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270228
+UID:f-dpes-sign-led-expo-china-25496-1@eventseye.impio-vault
+DESCRIPTION:DPES Sign & LED Expo China shows a complete production of matur
+ e advertising system\, including all kinds of high-end brand products such
+  as UV flatbed\, inkjet\, digital printer\, engraving equipment\, signage\
+ , LED light source...\\nVenue: China Import and Export Fair Complex Area B
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-dpes
+ -sign-led-expo-china-25496-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-dpes-sign-led-expo-china-25496-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EMPACK DORTMUND — Dortmund\, Germany
@@ -2390,5 +2364,45 @@ DESCRIPTION:China's International Textile & Clothing Industry Fair. Textile
 LOCATION:Dongguan\, China
 URL:https://www.eventseye.com/fairs/f-dtc-china-(dongguan)-international-te
  xtile-clothing-industry-fair-15120-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACK EXPO SOUTHEAST — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270415
+UID:f-pack-expo-southeast-30131-1@eventseye.impio-vault
+DESCRIPTION:International Packaging Process Show. For end users and supplie
+ rs around the world\, PACK EXPO SOUTHEAST offers a quality professional ex
+ perience and a wide range of packaging innovations for each vertical marke
+ t\\nVenue: Georgia International Convention Center - GICC\\nFrequency: eve
+ ry 2 years\\nSource: https://www.eventseye.com/fairs/f-pack-expo-southeast
+ -30131-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-pack-expo-southeast-30131-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:O'ZUPACK — Tashkent\, Uzbekistan
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+UID:f-o-zupack-26696-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of equipment and technologies for pack
+ aging and printing industry in Uzbekistan\\nVenue: Uzexpocentre\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-o-zupack-26696-
+ 1.html
+LOCATION:Tashkent\, Uzbekistan
+URL:https://www.eventseye.com/fairs/f-o-zupack-26696-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMPACK NETHERLANDS — Hertogenbosch\, Netherlands
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+UID:f-empack-netherlands-8891-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack Netherlan
+ ds exhibitors will showcase Packaging Materials\, Equipment & Technologies
+ \, Labeling and Marking Technology\, Creative and Design\, Recycling\, Ser
+ vices\\nVenue: Brabanthallen’ Exhibition Centre\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-empack-netherlands-8891-1.htm
+ l
+LOCATION:Hertogenbosch\, Netherlands
+URL:https://www.eventseye.com/fairs/f-empack-netherlands-8891-1.html
 END:VEVENT
 END:VCALENDAR

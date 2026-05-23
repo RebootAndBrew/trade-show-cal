@@ -64,22 +64,6 @@ URL:https://www.eventseye.com/fairs/f-the-franchise-expo-regina-34155-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASSET INTEGRITY AND PROCESS SAFETY CONFERENCE & EXHIBITION KSA — 
- Jubail\, Saudi Arabia
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260506
-UID:f-asset-integrity-and-process-safety-conference-exhibition-ksa-32640-1@eventseye.impio-vault
-DESCRIPTION:Forum aimed at consolidating the safe and smooth operation of o
- il\, gas and petrochemical facilities\, ranging from oil fields and offsho
- re platforms to pipelines and refineries in Saudi Arabia\\nVenue: King Abd
- ullah Cultural Center\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-asset-integrity-and-process-safety-conference-exhibition-
- ksa-32640-1.html
-LOCATION:Jubail\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-asset-integrity-and-process-safety-co
- nference-exhibition-ksa-32640-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CIM — Vancouver\, BC\, Canada
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260507
@@ -446,9 +430,11 @@ SUMMARY:ITEX — Kuala Lumpur\, Malaysia
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260521
 UID:f-itex-9573-1@eventseye.impio-vault
-DESCRIPTION:International Invention\, Innovation and Technology Exhibition\
- \nVenue: Kuala Lumpur Convention Centre (KLCC)\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-itex-9573-1.html
+DESCRIPTION:International Invention\, Innovation and Technology Exhibition.
+  ITEX is the best place to unveil a new invention or product. Get feedback
+  from investors and fine-tune to achieve sucessful commercialisation\\nVen
+ ue: Kuala Lumpur Convention Centre (KLCC)\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-itex-9573-1.html
 LOCATION:Kuala Lumpur\, Malaysia
 URL:https://www.eventseye.com/fairs/f-itex-9573-1.html
 END:VEVENT
@@ -2300,6 +2286,21 @@ URL:https://www.eventseye.com/fairs/f-finance.-credit.-insurance-and-audit-
  expo-32710-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:REAL ESTATE FAIR - ST. PETERSBURG — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-real-estate-fair-st.-petersburg-27581-1@eventseye.impio-vault
+DESCRIPTION:A key event for the real estate market of St. Petersburg. New b
+ uildings\, apartments\, flats on the secondary market\, Mortgage programs\
+ , credit broker consultations\, Country houses and cottage villages...\\nV
+ enue: ExpoForum Convention and Exhibition Centre\\nFrequency: twice a year
+ \\nSource: https://www.eventseye.com/fairs/f-real-estate-fair-st.-petersbu
+ rg-27581-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-real-estate-fair-st.-petersburg-27581
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CIFF SHANGHAI - CHINA INTERNATIONAL HOME FURNITURE FAIR — Shangha
  i\, China
 DTSTART;VALUE=DATE:20260905
@@ -2670,6 +2671,22 @@ DESCRIPTION:Accountex Summit North is a ground-breaking specialist exhibiti
  ce: https://www.eventseye.com/fairs/f-accountex-summit-north-29087-1.html
 LOCATION:Manchester\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-accountex-summit-north-29087-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASSET INTEGRITY AND PROCESS SAFETY CONFERENCE & EXHIBITION KSA — 
+ Jubail\, Saudi Arabia
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260918
+UID:f-asset-integrity-and-process-safety-conference-exhibition-ksa-32640-1@eventseye.impio-vault
+DESCRIPTION:Forum aimed at consolidating the safe and smooth operation of o
+ il\, gas and petrochemical facilities\, ranging from oil fields and offsho
+ re platforms to pipelines and refineries in Saudi Arabia\\nVenue: King Abd
+ ullah Cultural Center\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-asset-integrity-and-process-safety-conference-exhibition-
+ ksa-32640-1.html
+LOCATION:Jubail\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-asset-integrity-and-process-safety-co
+ nference-exhibition-ksa-32640-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUPER DUG CONFERENCE & EXHIBITION — Houston\, TX\, USA
@@ -3201,6 +3218,22 @@ DESCRIPTION:Business Trade Show. Small Business Expo brings together thousa
 LOCATION:Pasadena\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-small-business-expo-los-angeles-21145
  -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHITE LABEL EXPO WORLD EXPO - USA - NEW YORK — New York\, NY\, US
+ A
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261002
+UID:f-white-label-expo-world-expo-usa-new-york-30232-1@eventseye.impio-vault
+DESCRIPTION:White Label is the ultimate destination for thousands of global
+  leaders\, entrepreneurs\, online sellers\, retailers and distributors\, t
+ o come together with countless business\, e-commerce and startup owners\\n
+ Venue: Jacob K. Javits Convention Center\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-white-label-expo-world-expo-usa-new-yo
+ rk-30232-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-white-label-expo-world-expo-usa-new-y
+ ork-30232-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INOVA — Zagreb\, Croatia
@@ -5358,6 +5391,21 @@ URL:https://www.eventseye.com/fairs/f-the-franchise-expo-dallas-25764-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - WINNIPEG — Winnipeg\, MB\, Canada
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270201
+UID:f-the-franchise-expo-winnipeg-17617-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: RBC Convention Centre\, Winnipeg\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-winn
+ ipeg-17617-1.html
+LOCATION:Winnipeg\, MB\, Canada
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-winnipeg-17617-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RE+ NORTHEAST — Boston\, MA\, USA
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
@@ -5454,6 +5502,21 @@ DESCRIPTION:Nepal Housing and Investment Expo. In parallel with Nepal Build
 LOCATION:Kathmandu\, Nepal
 URL:https://www.eventseye.com/fairs/f-nepal-housing-and-investment-expo-300
  31-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - OTTAWA — Ottawa\, ON\, Canada
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:f-the-franchise-expo-ottawa-17618-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Ernst & Young Centre\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-the-franchise-expo-ottawa-17618-1.h
+ tml
+LOCATION:Ottawa\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-ottawa-17618-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BHP — Katowice\, Poland
@@ -5980,6 +6043,17 @@ LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-mining-vietnam-16847-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PV CELLTECH EUROPE — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270422
+UID:f-pv-celltech-europe-32912-1@eventseye.impio-vault
+DESCRIPTION:European conference focused on photoelectric cell technologies 
+ and production capabilities\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RE+ MEXICO — Guadalajara\, Mexico
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
@@ -6108,6 +6182,20 @@ DESCRIPTION:A trade show dedicated to electronic documents and information
  s://www.eventseye.com/fairs/f-documation-588-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-documation-588-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FRANCHISE EXPO - MIAMI — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270614
+UID:f-the-franchise-expo-miami-29652-1@eventseye.impio-vault
+DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
+ RANCHISE EXPO showcases the fastest growing franchises & business opportun
+ ities with thousands of potential franchisees & business partners eager re
+ ady to invest\\nVenue: Miami Airport & Convention Center\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-the-franchise-expo-mia
+ mi-29652-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-the-franchise-expo-miami-29652-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan

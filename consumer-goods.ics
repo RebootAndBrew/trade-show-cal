@@ -164,20 +164,6 @@ LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-apas-show-27649-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WOW - WORLD OF WIPES — Indianapolis\, IN\, USA
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260522
-UID:f-wow-world-of-wipes-13211-1@eventseye.impio-vault
-DESCRIPTION:Conference dedicated to Wipes. Attend WOW & network with key co
- mpanies. Topics such as: community & healthare acquired infections\, trend
- s around the world\, consumer insights for new packaging solutions\, innov
- ative raw materials & additives\, airlaid wipes\\nVenue: Hyatt Regency Ind
- ianapolis\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-wow-world-of-wipes-13211-1.html
-LOCATION:Indianapolis\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-wow-world-of-wipes-13211-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
 DTSTART;VALUE=DATE:20260519
 DTEND;VALUE=DATE:20260521
@@ -431,6 +417,20 @@ URL:https://www.eventseye.com/fairs/f-cghe-china-gifts-home-expo-shanghai-3
  1845-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WOW - WORLD OF WIPES — Nashville\, TN\, USA
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260703
+UID:f-wow-world-of-wipes-13211-1@eventseye.impio-vault
+DESCRIPTION:Conference dedicated to Wipes. Attend WOW & network with key co
+ mpanies. Topics such as: community & healthare acquired infections\, trend
+ s around the world\, consumer insights for new packaging solutions\, innov
+ ative raw materials & additives\, airlaid wipes\\nVenue: Grand Hyatt\, Nas
+ hville\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-wow-world-of-wipes-13211-1.html
+LOCATION:Nashville\, TN\, USA
+URL:https://www.eventseye.com/fairs/f-wow-world-of-wipes-13211-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ZAMBIA INTERNATIONAL TRADE FAIR — Ndola\, Zambia
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260708
@@ -547,6 +547,19 @@ DESCRIPTION:The Ohio State Fair is a favorite family tradition since 1850!
  -state-fair-3624-1.html
 LOCATION:Columbus\, OH\, USA
 URL:https://www.eventseye.com/fairs/f-ohio-state-fair-3624-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RWANDA INTERNATIONAL TRADE FAIR — Kigali\, Rwanda
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260806
+UID:f-rwanda-international-trade-fair-31061-1@eventseye.impio-vault
+DESCRIPTION:Rwanda International Trade Expo on all kind of General\, FMCG\,
+  Consumer & Industrial Products\, Machinery & Equipment etc…\\nVenue: Ki
+ gali Convention Centre\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-rwanda-international-trade-fair-31061-1.html
+LOCATION:Kigali\, Rwanda
+URL:https://www.eventseye.com/fairs/f-rwanda-international-trade-fair-31061
+ -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOLIAMÄSSAN — Piteå\, Sweden
@@ -1196,33 +1209,17 @@ URL:https://www.eventseye.com/fairs/f-global-sources-mobile-electronics-147
  24-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
+SUMMARY:HONG KONG MEGA SHOWCASE — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261228
+UID:f-hong-kong-mega-showcase-5728-1@eventseye.impio-vault
+DESCRIPTION:Christmas fair in Hong Kong. Home and housewares\, DIY workshop
+ s... Beauty and makeup\, healthcare\, jewelry\, toys and accessories...\\n
+ Venue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.
+ html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MILANO HOME — Milan\, Italy
@@ -1331,6 +1328,32 @@ DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
  /f-the-magnetics-show-europe-31716-1.html
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EXPO DE NEVERS — Nevers\, France
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270322
+UID:f-foire-expo-de-nevers-26715-1@eventseye.impio-vault
+DESCRIPTION:Nevers trade fair. The opportunity to demonstrate your know-how
+ \, develop your professional network and conquer new markets\\nVenue: Cent
+ re des Expositions de Nevers\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
+LOCATION:Nevers\, France
+URL:https://www.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTUMN GIFT & HOMEWARE FAIR — Auckland\, New Zealand
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270317
+UID:f-autumn-gift-homeware-fair-12911-1@eventseye.impio-vault
+DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
+ orm for thousands of retailers and buyers in attendance exploring the late
+ st products from hundreds of local and international exhibiting wholesaler
+ s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.html
+LOCATION:Auckland\, New Zealand
+URL:https://www.eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
@@ -1551,6 +1574,48 @@ DESCRIPTION:International Fair of Paris. Home & Habitat\, Craft and Culture
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-foire-internationale-de-paris-1041-1.
  html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM EXPO - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+UID:f-vietnam-expo-hanoi-10455-1@eventseye.impio-vault
+DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
+ ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
+ represent 20 countries\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-
+ 10455-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MEGASHOW HONG KONG PART 1 — Hong Kong\, Hong Kong
@@ -1809,6 +1874,20 @@ LOCATION:Rosemont\, IL\, USA
 URL:https://www.eventseye.com/fairs/f-plma-6591-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:APLF - ASIA PRIVATE LABEL FAIR - HENGQIN — Zhuhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-aplf-asia-private-label-fair-hengqin-34312-1@eventseye.impio-vault
+DESCRIPTION:Asia Private Label Fair. Exhibit categories: Food & Beverage\, 
+ Daily Necessities\, Beauty & Personal Care\, Home & Textiles\, OEM/ODM\, N
+ ew Retail...\\nVenue: Tianmu Qintai Conference and Exhibition Center\, Hen
+ gqin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ aplf-asia-private-label-fair-hengqin-34312-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-aplf-asia-private-label-fair-hengqin-
+ 34312-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HYGIENIX — Houston\, TX\, USA
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
@@ -1820,6 +1899,20 @@ DESCRIPTION:The Premier Event for Absorbent Hygiene & Personal care Markets
  com/fairs/f-hygienix-23242-1.html
 LOCATION:Houston\, TX\, USA
 URL:https://www.eventseye.com/fairs/f-hygienix-23242-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APLF - ASIA PRIVATE LABEL FAIR - MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-aplf-asia-private-label-fair-macao-34306-1@eventseye.impio-vault
+DESCRIPTION:Asia Private Label Fair. Exhibit categories: Food & Beverage\, 
+ Daily Necessities\, Beauty & Personal Care\, Home & Textiles\, OEM/ODM\, N
+ ew Retail...\\nVenue: The Venetian Macao - Resort - Hotel\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-aplf-asia-private-lab
+ el-fair-macao-34306-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-aplf-asia-private-label-fair-macao-34
+ 306-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CTW - CHINA TRADE WEEK - MOROCCO — Casablanca\, Morocco
@@ -1929,6 +2022,20 @@ DESCRIPTION:Trade Show dedicated to Gift Ideas and Essential Christmas Item
  html
 LOCATION:Exeter\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-christmas-shopping-fayre-28658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MARCHÉ DE NOËL DE CLERMONT-FERRAND — Clermont-Ferrand\, France
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261228
+UID:f-marche-de-noel-de-clermont-ferrand-10969-1@eventseye.impio-vault
+DESCRIPTION:Clermont-Ferrand Christmas market. Spend a timeless moment\, ha
+ ve fun\, find Christmas gifts\, taste regional specialties... this is what
+  the Clermont-Ferrand Christmas Market offers you!\\nVenue: Place de Jaude
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-marc
+ he-de-noel-de-clermont-ferrand-10969-1.html
+LOCATION:Clermont-Ferrand\, France
+URL:https://www.eventseye.com/fairs/f-marche-de-noel-de-clermont-ferrand-10
+ 969-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ONE OF KIND SHOW & SALE — Toronto\, ON\, Canada
@@ -2062,18 +2169,5 @@ DESCRIPTION:New Year and Christmas gifts and decorations. Festive packaging
  .com/fairs/f-christmas-market-sochi-27881-1.html
 LOCATION:Sochi\, Russia
 URL:https://www.eventseye.com/fairs/f-christmas-market-sochi-27881-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HONG KONG MEGA SHOWCASE — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261228
-UID:f-hong-kong-mega-showcase-5728-1@eventseye.impio-vault
-DESCRIPTION:Christmas fair in Hong Kong. Home and housewares\, DIY workshop
- s... Beauty and makeup\, healthcare\, jewelry\, toys and accessories...\\n
- Venue: Hong Kong Convention & Exhibition Centre\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.
- html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hong-kong-mega-showcase-5728-1.html
 END:VEVENT
 END:VCALENDAR

@@ -433,9 +433,9 @@ DTEND;VALUE=DATE:20260510
 UID:f-coldchain-indonesia-25666-1@eventseye.impio-vault
 DESCRIPTION:Indonesian Trade Show dedicated to the world of Cold Chain logi
  stics and the transportation and storage of perishable goods\\nVenue: Nusa
- ntara International Convention Exhibition (NICE)\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-coldchain-indonesia-25666-1.ht
- ml
+ ntara International Convention Exhibition (NICE)\\nFrequency: twice a year
+ \\nSource: https://www.eventseye.com/fairs/f-coldchain-indonesia-25666-1.h
+ tml
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-coldchain-indonesia-25666-1.html
 END:VEVENT
@@ -488,8 +488,8 @@ DTEND;VALUE=DATE:20260510
 UID:f-iism-international-indonesia-seafood-meat-expo-20458-1@eventseye.impio-vault
 DESCRIPTION:International Indonesia Seafood & Meat Conference & Expo focusi
  on on Cold Chain Technology\\nVenue: Nusantara International Convention Ex
- hibition (NICE)\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-iism-international-indonesia-seafood-meat-expo-20458-1.html
+ hibition (NICE)\\nFrequency: twice a year\\nSource: https://www.eventseye.
+ com/fairs/f-iism-international-indonesia-seafood-meat-expo-20458-1.html
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-iism-international-indonesia-seafood-
  meat-expo-20458-1.html
@@ -950,30 +950,6 @@ LOCATION:Dhaka\, Bangladesh
 URL:https://www.eventseye.com/fairs/f-safe-hvac-r-cold-chain-33544-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SENEFOOD — Dakar\, Senegal
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260517
-UID:f-senefood-19575-1@eventseye.impio-vault
-DESCRIPTION:Senefood is the main international trade fair in West Africa\, 
- focusing on Food and Food Processing\\nVenue: CICAD - Centre International
-  de Conférences Abdou Diouf\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-senefood-19575-1.html
-LOCATION:Dakar\, Senegal
-URL:https://www.eventseye.com/fairs/f-senefood-19575-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SENEPACK — Dakar\, Senegal
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260517
-UID:f-senepack-26260-1@eventseye.impio-vault
-DESCRIPTION:Senepack is the main international trade fair in West Africa\, 
- focusing on Food Packaging\\nVenue: CICAD - Centre International de Confé
- rences Abdou Diouf\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-senepack-26260-1.html
-LOCATION:Dakar\, Senegal
-URL:https://www.eventseye.com/fairs/f-senepack-26260-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COSMETISTA EXPO — Casablanca\, Morocco
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260520
@@ -1024,19 +1000,6 @@ DESCRIPTION:Routes Europe will bring together airlines\, airports and aviat
  /fairs/f-routes-europe-30616-1.html
 LOCATION:Rimini\, Italy
 URL:https://www.eventseye.com/fairs/f-routes-europe-30616-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLD-TECH EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260522
-UID:f-cold-tech-expo-33200-1@eventseye.impio-vault
-DESCRIPTION:Cold-Tech Poland is the leading refrigeration technology trade 
- fair in Central Europe. The event showcases cutting-edge cooling systems\,
-  energy efficiency solutions\, and innovations for industrial and commerci
- al applications\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EMPACK NAMUR — Namur\, Belgium
@@ -1173,9 +1136,9 @@ DTEND;VALUE=DATE:20260522
 UID:f-toc-container-supply-chain-europe-hamburg-32920-1@eventseye.impio-vault
 DESCRIPTION:Exhibition and Conference for Shipping\, Ports and Terminal Ind
  ustries. TOC Europe continues to evolve as the premier gathering for the g
- lobal port and terminal supply chain\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-toc-container-supply-chain-europe-hamburg-
- 32920-1.html
+ lobal port and terminal supply chain\\nVenue: Hamburg Messe und Congress\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-toc-co
+ ntainer-supply-chain-europe-hamburg-32920-1.html
 LOCATION:Hamburg\, Germany
 URL:https://www.eventseye.com/fairs/f-toc-container-supply-chain-europe-ham
  burg-32920-1.html
@@ -1241,23 +1204,11 @@ DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260523
 UID:f-forklift-indonesia-28444-1@eventseye.impio-vault
 DESCRIPTION:Indonesia International Forklift\, Lifting Equipment\, Parts & 
- Services Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-forklift-indon
- esia-28444-1.html
+ Services Exhibition. Part of "Transport & Logistics Indonesia"\\nVenue: Ja
+ karta International Expo (JIExpo)\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
 LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HANOI PRINT PACK — Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260524
-UID:f-hanoi-print-pack-25714-1@eventseye.impio-vault
-DESCRIPTION:Hanoi International Printing & Packaging Industry Exhibition. P
- rinting\, Packaging\, Label Printing\, Corrugated & Folding Carton...\\nVe
- nue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-hanoi-print-pack-25714-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-hanoi-print-pack-25714-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIGHWAYS SIB — Coventry\, UK - United Kingdom
@@ -2084,6 +2035,19 @@ URL:https://www.eventseye.com/fairs/f-canada-gas-lng-exhibition-and-confere
  nce-28629-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:COLD-TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+UID:f-cold-tech-expo-33200-1@eventseye.impio-vault
+DESCRIPTION:Cold-Tech Poland is the leading refrigeration technology trade 
+ fair in Central Europe. The event showcases cutting-edge cooling systems\,
+  energy efficiency solutions\, and innovations for industrial and commerci
+ al applications\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOOD & BEVERAGE WEST AFRICA — Lagos\, Nigeria
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260612
@@ -2312,6 +2276,32 @@ DESCRIPTION:IVT Expo showcases nothing but the latest industrial vehicle te
 LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-ivt-expo-industrial-vehicle-technolog
  y-31288-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENEFOOD — Dakar\, Senegal
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+UID:f-senefood-19575-1@eventseye.impio-vault
+DESCRIPTION:Senefood is the main international trade fair in West Africa\, 
+ focusing on Food and Food Processing\\nVenue: CICAD - Centre International
+  de Conférences Abdou Diouf\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-senefood-19575-1.html
+LOCATION:Dakar\, Senegal
+URL:https://www.eventseye.com/fairs/f-senefood-19575-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENEPACK — Dakar\, Senegal
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260614
+UID:f-senepack-26260-1@eventseye.impio-vault
+DESCRIPTION:Senepack is the main international trade fair in West Africa\, 
+ focusing on Food Packaging. An excellent marketing platform for buyers and
+  sellers to culminate advanced methods and equipment for food food process
+ ing and packaging industry\\nVenue: CICAD - Centre International de Confé
+ rences Abdou Diouf\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-senepack-26260-1.html
+LOCATION:Dakar\, Senegal
+URL:https://www.eventseye.com/fairs/f-senepack-26260-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WORLD CITIES SUMMIT — Singapore\, Singapore
@@ -2644,6 +2634,709 @@ DESCRIPTION:Transport Evolution Africa Forum & Expo is the only transport e
 LOCATION:Johannesburg\, South Africa
 URL:https://www.eventseye.com/fairs/f-transport-evolution-africa-forum-expo
  -29236-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VICTORIAN TRANSPORT INFRASTRUCTURE CONFERENCE — Melbourne\, Austr
+ alia
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260619
+UID:f-victorian-transport-infrastructure-conference-13098-1@eventseye.impio-vault
+DESCRIPTION:Victoria's largest major projects & infrastructure conference a
+ ttracting over 200 delegates each year. Topics covered - Transport\, housi
+ ng\, health\, education\, energy & water\\nVenue: Melbourne Exhibition & C
+ onvention Centre\\nFrequency: every 2 years\\nSource: https://www.eventsey
+ e.com/fairs/f-victorian-transport-infrastructure-conference-13098-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-victorian-transport-infrastructure-co
+ nference-13098-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIMAF - VIETNAM INTERNATIONAL MACHINERY FAIR - BINH DUONG — Binh 
+ Duong New City\, Vietnam
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260620
+UID:f-vimaf-vietnam-international-machinery-fair-binh-duong-30512-1@eventseye.impio-vault
+DESCRIPTION:Vietnam International Machinery Fair. Metalworking & Machine To
+ ol\, Factory Automation & Motion Control\, Plant Equipment\, Parts\, Mater
+ ials & Industrial Machinery\, Construction Machinery Parts & Logistic Equi
+ pment\, Vietnam Industrial Supporting Products...\\nVenue: Binh Duong Conv
+ ention & Exhibition Center (BCEC)\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-vimaf-vietnam-international-machinery-fair-bi
+ nh-duong-30512-1.html
+LOCATION:Binh Duong New City\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vimaf-vietnam-international-machinery
+ -fair-binh-duong-30512-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VMAT - VIETNAM MATERIAL HANDLING FIESTA — Binh Duong New City\, V
+ ietnam
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260620
+UID:f-vmat-vietnam-material-handling-fiesta-27983-1@eventseye.impio-vault
+DESCRIPTION:Material Handling\, Warehousing\, Storage & Racking Systems\, T
+ ransportation and Logistics Automation Trade Show\\nFrequency: unknown\\nS
+ ource: https://www.eventseye.com/fairs/f-vmat-vietnam-material-handling-fi
+ esta-27983-1.html
+LOCATION:Binh Duong New City\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vmat-vietnam-material-handling-fiesta
+ -27983-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFTECH FOOD + BEV TEC PAKISTAN — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-iftech-food-bev-tec-pakistan-18858-1@eventseye.impio-vault
+DESCRIPTION:International Food\, Beverage & Packaging Technology Trade Fair
+ . Dairy & Livestock\, Meat & Poultry\, Fruits & Vegetables\, Rice & Flourm
+ illing\, Beverages\, Snacks & Confectionery\, Flavors & Ingredients\, Pack
+ aging...\\nVenue: Expo Centre Lahore\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-iftech-food-bev-tec-pakistan-18858-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-iftech-food-bev-tec-pakistan-18858-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INNOPACK PHARMA CONFEX - MUMBAI — Mumbai\, India
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260620
+UID:f-innopack-pharma-confex-mumbai-19979-1@eventseye.impio-vault
+DESCRIPTION:The INNOPACK PHARMA CONFEX has established itself as the pinnac
+ le of pharma packaging solutions conferences\, drawing industry experts to
+ gether to network and exchange cutting-edge concepts for the long-term dev
+ elopment of the pharma packaging sector\\nVenue: Sahara Star Hotel\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-innopack-pha
+ rma-confex-mumbai-19979-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-innopack-pharma-confex-mumbai-19979-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLASTI&PACK PAKISTAN - INTERNATIONAL PLASTIC & PACKAGING INDUSTRY E
+ XHIBITION — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-plasti-pack-pakistan-international-plastic-packaging-industry-exhibition-4876-1@eventseye.impio-vault
+DESCRIPTION:PLASTI & PACK is the great platform for plastic & packaging mat
+ erials\, machinery suppliers in Pakistan. It brings together the best in m
+ aterial & machinery for the plastic & packaging professionals and decision
+  makers\\nVenue: Expo Centre Lahore\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-plasti-pack-pakistan-international-plastic-
+ packaging-industry-exhibition-4876-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-plasti-pack-pakistan-international-pl
+ astic-packaging-industry-exhibition-4876-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECHNOPRINT EGYPT — Cairo\, Egypt
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-technoprint-egypt-10282-1@eventseye.impio-vault
+DESCRIPTION:International Printing Expo in Egypt. Graphic Design\, Offset P
+ rinting\, Flexography\, Rotogravure\, Digital Printing\, Printing for Secu
+ rity Purposes...\\nVenue: Cairo International Convention & Exhibition Cent
+ re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-te
+ chnoprint-egypt-10282-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-technoprint-egypt-10282-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECHNOPRINT MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260621
+UID:f-technoprint-macao-34243-1@eventseye.impio-vault
+DESCRIPTION:International trade fair for printing machinery and technologie
+ s\, materials and consumables. Inks and toners\, printers and copiers\, Di
+ gital\, offset & large format printing\, 3D printers\, print plotters\, su
+ blimation printers\, textile printing machines...\\nVenue: The Venetian Ma
+ cao - Resort - Hotel\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-technoprint-macao-34243-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-technoprint-macao-34243-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260625
+UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
+DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings i
+ nternational and local innovative solutions\, machinery and sustainable wo
+ rkflow practices for the printing and packaging industry to the Kingdom\\n
+ Venue: Riyadh International Exhibition Centre\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD MAIL & EXPRESS EUROPE — Athens\, Greece
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260625
+UID:f-world-mail-express-europe-7289-1@eventseye.impio-vault
+DESCRIPTION:World Mail & Express Conference and Exhibition. The World Mail 
+ & Express Europe Conference (WMX Europe) is an international trade event f
+ or post and parcel professionals\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-world-mail-express-europe-7289-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-world-mail-express-europe-7289-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADAS & AUTONOMOUS VEHICLES - EUROPE — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+UID:f-adas-autonomous-vehicles-europe-31287-1@eventseye.impio-vault
+DESCRIPTION:Exhibitors will showcase the latest technologies to enable and 
+ accelerate end-to-end autonomous and ADAS (Advanced driver-assistance syst
+ em) applications\, including testing tools\, simulation\, software\, sensi
+ ng and AI\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-adas-autonomous-vehicles-eur
+ ope-31287-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-adas-autonomous-vehicles-europe-31287
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEMAT AUSTALIA — Melbourne\, Australia
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+UID:f-cemat-austalia-27372-1@eventseye.impio-vault
+DESCRIPTION:The World’s Leading Trade Fair for Intralogistics\, Materials
+  Handling and Supply Chain Management\\nVenue: Melbourne Exhibition & Conv
+ ention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-cemat-austalia-27372-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-cemat-austalia-27372-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEMAT AUSTRALIA — Melbourne\, Australia
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+UID:f-cemat-australia-20636-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of Materials Handling\, Automation Technology\, Tran
+ sport Systems & Logistics\\nVenue: Melbourne Exhibition & Convention Centr
+ e\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-c
+ emat-australia-20636-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-cemat-australia-20636-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMMERCENEXT — New York\, NY\, USA
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260626
+UID:f-commercenext-31338-1@eventseye.impio-vault
+DESCRIPTION:CommerceNext is one of the largest global ecommerce events. Spe
+ akers from leading retailers\, DTC brands and innovative tech companies\, 
+ Meaningful peer-to-peer networking\, In-person and virtual content that fe
+ atures industry leaders...\\nVenue: New York Hilton Midtown\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-commercenext-31338-
+ 1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-commercenext-31338-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL PORT & MARINE — Jeddah\, Saudi Arabia
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260625
+UID:f-international-port-marine-32635-1@eventseye.impio-vault
+DESCRIPTION:Saudi Arabia's Forum dedicated to Innovations in the developmen
+ t of intelligent and sustainable port infrastructure to enhance the global
+  maritime sector’s portfolio\\nVenue: Jeddah Hilton Hotel\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-international-port-
+ marine-32635-1.html
+LOCATION:Jeddah\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-international-port-marine-32635-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIR CARGO CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260627
+UID:f-air-cargo-china-20030-1@eventseye.impio-vault
+DESCRIPTION:Air Cargo China is the premier international gathering for the 
+ Asia's air freight industry. The event brings together leading airlines\, 
+ airports\, logistics providers\, and technology innovators from around the
+  world\\nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency
+ : every 2 years\\nSource: https://www.eventseye.com/fairs/f-air-cargo-chin
+ a-20030-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-air-cargo-china-20030-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOURGOGNE BTP EXPO — Beaune\, France
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260626
+UID:f-bourgogne-btp-expo-33656-1@eventseye.impio-vault
+DESCRIPTION:Regional trade fair for construction\, industrial\, transport a
+ nd logistics equipment in Burgundy\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-bourgogne-btp-expo-33656-1.html
+LOCATION:Beaune\, France
+URL:https://www.eventseye.com/fairs/f-bourgogne-btp-expo-33656-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSMOPROF CBE ASEAN - BANGKOK — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260627
+UID:f-cosmoprof-cbe-asean-bangkok-30597-1@eventseye.impio-vault
+DESCRIPTION:Cosmoprof CBE Asean - Bangkok\, the leading b2b international b
+ eauty trade show in Asia\, is where global beauty trendsetters gather to i
+ ntroduce their cutting-edge technologies\, product innovations and new sol
+ utions\\nVenue: Queen Sirikit National Convention Center\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-cosmoprof-cbe-asean-ba
+ ngkok-30597-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-cosmoprof-cbe-asean-bangkok-30597-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLEXIBLE PACKAGING INNOVATION AND RECYCLING NORTH AMERICA — Milwa
+ ukee\, WI\, USA
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260626
+UID:f-flexible-packaging-innovation-and-recycling-north-america-28356-1@eventseye.impio-vault
+DESCRIPTION:Forum addressing innovations in multilayer film to deliver effi
+ cient\, optimized pack formats in North America and beyond\\nVenue: The Tr
+ ade\, Autograph Collection\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-flexible-packaging-innovation-and-recycling-north-am
+ erica-28356-1.html
+LOCATION:Milwaukee\, WI\, USA
+URL:https://www.eventseye.com/fairs/f-flexible-packaging-innovation-and-rec
+ ycling-north-america-28356-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOMTRANS + BUSEXPO — Astana\, Kazakhstan
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260627
+UID:f-komtrans-busexpo-33236-1@eventseye.impio-vault
+DESCRIPTION:Komtrans + Busexpo is the leading exhibition of Commercial Tran
+ sport\, Road Construction Machinery. and Buses in Kazakhstan and Central A
+ sia\\nVenue: IEC Expo Astana\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-komtrans-busexpo-33236-1.html
+LOCATION:Astana\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-komtrans-busexpo-33236-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECURFOOD PACKINNOVE EUROPE — Beauvais\, France
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260626
+UID:f-securfood-packinnove-europe-4687-1@eventseye.impio-vault
+DESCRIPTION:Rencontres d'affaires et conférences dédiées à la sécurit
+ é\, la traçabilité\, l'hygiène de l'emballage. Packagings intelligents
+  et durables pour le secteur alimentaire\\nVenue: Institut polytechnique U
+ niLaSalle Beauvais\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-securfood-packinnove-europe-4687-1.html
+LOCATION:Beauvais\, France
+URL:https://www.eventseye.com/fairs/f-securfood-packinnove-europe-4687-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIPEI PACK — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260628
+UID:f-taipei-pack-3433-1@eventseye.impio-vault
+DESCRIPTION:Taiwan International Packaging Exhibition. Packaging Machinery 
+ & Materials\, Packaging Plant Systems\, Filling/ Sealing/ Weighing Machine
+ ry\, Printing Machinery\, Food & Pharmaceuticals Packaging Machinery\, Shr
+ ink Packaging Machines\, Bag Making Machinery...\\nVenue: Taipei Nangang E
+ xhibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-taipei-pack-3433-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taipei-pack-3433-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRANSPORT LOGISTIC CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260627
+UID:f-transport-logistic-china-5149-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Logistics\, Telematics & Transport
+ ation. Transport Logistics China is where exhibitors present the trends & 
+ latest developments in Logistics & set the course for long after the exhib
+ ition in interesting conferences & meetings\\nVenue: Shanghai New Internat
+ ional Expo Centre - SNIEC\\nFrequency: every 2 years\\nSource: https://www
+ .eventseye.com/fairs/f-transport-logistic-china-5149-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-transport-logistic-china-5149-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONVENTION D’AFFAIRES MULTISECTORIELLE – MULTISERVICES — Anti
+ bes\, France
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+UID:f-convention-d-affaires-multisectorielle-multiservices-33977-1@eventseye.impio-vault
+DESCRIPTION:This BtoB event brings together each year business leaders\, pu
+ blic and private buyers\, as well as local and national partners\, around 
+ pre-programmed meetings promoting the development of business and partners
+ hips\\nVenue: Palais des Congrès d'Antibes-Juan les Pins\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-convention-d-affaires
+ -multisectorielle-multiservices-33977-1.html
+LOCATION:Antibes\, France
+URL:https://www.eventseye.com/fairs/f-convention-d-affaires-multisectoriell
+ e-multiservices-33977-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETHIOPIA PLASTPRINTPACK — Addis Ababa\, Ethiopia
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260628
+UID:f-ethiopia-plastprintpack-25525-1@eventseye.impio-vault
+DESCRIPTION:Ethiopia’s International Plastics\, Printing and Packaging Tr
+ ade Show\, showcasing the impressive growth and vast potential of Ethiopia
+ ’s plastics\, printing and packaging sectors\\nVenue: Addis Ababa Exhibi
+ tion Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
+ /fairs/f-ethiopia-plastprintpack-25525-1.html
+LOCATION:Addis Ababa\, Ethiopia
+URL:https://www.eventseye.com/fairs/f-ethiopia-plastprintpack-25525-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA WAREHOUSING SHOW — New Delhi\, India
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260628
+UID:f-india-warehousing-show-19182-1@eventseye.impio-vault
+DESCRIPTION:India Warehousing & Logistics Show. The India Warehousing Show 
+ is a trade fair and conference for warehousing\, logistics\, materials han
+ dling\, storage\, distribution\, transport and supply chain sectors\\nVenu
+ e: IICC (India International Convention & Expo Centre) - Yashobhoomi Conve
+ ntion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-india-warehousing-show-19182-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-india-warehousing-show-19182-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEGA CLIMA HVAC EXPO - EAST AFRICA - KENYA — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260628
+UID:f-mega-clima-hvac-expo-east-africa-kenya-25839-1@eventseye.impio-vault
+DESCRIPTION:Kenya International Air Conditioning & Refrigeration Exhibition
+ . Conference\, B2B Meetings\, Live Product Demonstrations\\nVenue: The Sar
+ it Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-mega-clima-hvac-expo-east-africa-kenya-25839-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-mega-clima-hvac-expo-east-africa-keny
+ a-25839-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ÉDITION SPÉCIALE BY LUXE PACK — Paris\, France
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260702
+UID:f-edition-speciale-by-luxe-pack-26521-1@eventseye.impio-vault
+DESCRIPTION:SPECIAL EDITION by LUXE PACK is a unique annual event dedicated
+  to luxury packaging and stakeholders in the circular economy. All sectors
+ : perfumery/cosmetics\, wines and spirits\, delicatessen\, fashion\, leath
+ er goods\, etc.\\nVenue: Carrousel du Louvre\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-edition-speciale-by-luxe-pack-2652
+ 1-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-edition-speciale-by-luxe-pack-26521-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLASTIC CLOSURE INNOVATIONS EUROPE — Malaga\, Spain
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260702
+UID:f-plastic-closure-innovations-europe-29453-1@eventseye.impio-vault
+DESCRIPTION:The forum showcases major global trends\, explores recent advan
+ ces and discusses the latest innovations in plastic closure. Meet leading 
+ brand owners\, plastic closure producers\, packaging system providers\, ma
+ terials and technology suppliers...\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-plastic-closure-innovations-europe-29453-1.
+ html
+LOCATION:Malaga\, Spain
+URL:https://www.eventseye.com/fairs/f-plastic-closure-innovations-europe-29
+ 453-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCE - COLD CHAIN EXHIBITION — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-cce-cold-chain-exhibition-29513-1@eventseye.impio-vault
+DESCRIPTION:Cold Chain Exhibition will be the voice for cold storage infras
+ tructure\, refrigeration\, reefer transport\, cold supply chain industry\\
+ nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-cce-cold-chain-
+ exhibition-29513-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-cce-cold-chain-exhibition-29513-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAST PACK INDONESIA — Surabaya\, Indonesia
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260705
+UID:f-east-pack-indonesia-12291-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Processing & Packaging\, Filling\, 
+ Machinery\, Equipment\, Materials and Services\\nVenue: Grand City Convent
+ ion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-east-pack-indonesia-12291-1.html
+LOCATION:Surabaya\, Indonesia
+URL:https://www.eventseye.com/fairs/f-east-pack-indonesia-12291-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HANOI PRINT PACK — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260705
+UID:f-hanoi-print-pack-25714-1@eventseye.impio-vault
+DESCRIPTION:Hanoi International Printing & Packaging Industry Exhibition. P
+ rinting\, Packaging\, Label Printing\, Corrugated & Folding Carton...\\nVe
+ nue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-hanoi-print-pack-25714-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-hanoi-print-pack-25714-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA FOOD AND DRINK PROCESSING EXPO — Coimbatore\, India
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-india-food-and-drink-processing-expo-30192-1@eventseye.impio-vault
+DESCRIPTION:South India's Most Comprehensive Food & Drink Processing Expo. 
+ India Food & Drink Processing Expo is all set to showcase noteworthy innov
+ ations\, cutting-edge technologies and expert solutions in the processing 
+ and packaging sectors\\nVenue: Codissia Trade Fair Complex\\nFrequency: tw
+ ice a year\\nSource: https://www.eventseye.com/fairs/f-india-food-and-drin
+ k-processing-expo-30192-1.html
+LOCATION:Coimbatore\, India
+URL:https://www.eventseye.com/fairs/f-india-food-and-drink-processing-expo-
+ 30192-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA FOOD PACK EXPO - BANGALARU — Bangalore\, India
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-india-food-pack-expo-bangalaru-33995-1@eventseye.impio-vault
+DESCRIPTION:The India Food Pack Expo will bring about new technology and ea
+ sy sourcing opportunities for Indian food manufacturers to make cost effec
+ tive and quality packaging solutions for their existing and NPD (New produ
+ ct development)\\nVenue: Bengaluru Palace\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-india-food-pack-expo-bangalaru-33995-
+ 1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-india-food-pack-expo-bangalaru-33995-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA FOOD PACK EXPO - COIMBATORE — Coimbatore\, India
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-india-food-pack-expo-coimbatore-30191-1@eventseye.impio-vault
+DESCRIPTION:The India Food Pack Expo will bring about new technology and ea
+ sy sourcing opportunities for Indian food manufacturers to make cost effec
+ tive and quality packaging solutions for their existing and NPD (New produ
+ ct development)\\nVenue: Codissia Trade Fair Complex\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-india-food-pack-expo-coimb
+ atore-30191-1.html
+LOCATION:Coimbatore\, India
+URL:https://www.eventseye.com/fairs/f-india-food-pack-expo-coimbatore-30191
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOGISTICS AUTOMATION EXPO — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-logistics-automation-expo-29514-1@eventseye.impio-vault
+DESCRIPTION:Logistics Automation Expo is the leading international exhibiti
+ ons and conference for warehouse infrastructure developers\, automation\, 
+ material handling\, storage\, intralogistics\, transport & logistics\, sup
+ ply chain technologies in Asia\\nVenue: Bangkok International Trade & Exhi
+ bition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-logistics-automation-expo-29514-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-logistics-automation-expo-29514-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBILITY TECH ASIA - BANGKOK — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260704
+UID:f-mobility-tech-asia-bangkok-32853-1@eventseye.impio-vault
+DESCRIPTION:The Thailand's Premier Technology Exhibition and Conference on 
+ Future Transportation and Mobility. Powering Asia's Transformation in the 
+ New Energy Industry across Land\, Sky and Sea\\nVenue: Queen Sirikit Natio
+ nal Convention Center\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-mobility-tech-asia-bangkok-32853-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-mobility-tech-asia-bangkok-32853-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFRICA RAIL — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260709
+UID:f-africa-rail-12041-1@eventseye.impio-vault
+DESCRIPTION:Africa's only dedicated railways conference and exhibition. Inv
+ estment\, development and technology for rail operators\, end-users\, gove
+ rnment and investors\\nVenue: Sandton Convention Centre\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-africa-rail-12041-1.htm
+ l
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-africa-rail-12041-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASEAN PORTS AND LOGISTICS — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260710
+UID:f-asean-ports-and-logistics-12401-1@eventseye.impio-vault
+DESCRIPTION:ASEAN Ports and Logistics is the largest annual Ports\, Shippin
+ g\, and Logistics Exhibition and Conference in South East Asia\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-asean-ports-and-
+ logistics-12401-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-asean-ports-and-logistics-12401-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AHTE SHANGHAI — Shanghai\, China
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260711
+UID:f-ahte-shanghai-33761-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Assembly & Handling Technology Exhibitio
+ n - Smart Automation Solutions in Production and Assembly\\nVenue: Shangha
+ i New International Expo Centre - SNIEC\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-ahte-shanghai-33761-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-ahte-shanghai-33761-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALIMENTOS EN PERÚ — Lima\, Peru
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+UID:f-alimentos-en-peru-33551-1@eventseye.impio-vault
+DESCRIPTION:Trade fair for suppliers of food\, beverage\, hospitality\, hyg
+ iene\, packaging and decoration products for the HORECA sector in Peru\\nV
+ enue: Villa Complejo Ferial\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-alimentos-en-peru-33551-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-alimentos-en-peru-33551-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GASTROMAQ — Lima\, Peru
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+UID:f-gastromaq-33560-1@eventseye.impio-vault
+DESCRIPTION:GASTROMAQ is Peru's multi-supplier trade fair for the gastronom
+ y\, hospitality\, food\, beverage\, cleaning\, packaging\, and decoration 
+ sectors\, targeting the HORECA sector\\nVenue: Villa Complejo Ferial\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-gastromaq-
+ 33560-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-gastromaq-33560-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IAS - INDONESIA AERO SUMMIT — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260710
+UID:f-ias-indonesia-aero-summit-34080-1@eventseye.impio-vault
+DESCRIPTION:Indonesia Aero Summit is the Largest International Aviation Con
+ ference in Indonesia. IAS is an opportune event and industry gathering to 
+ discuss about the most pressing concerns\, challenges and opportunities in
+  Indonesian and ASEAN aviation sector\\nVenue: Aston Kartika Grogol Hotel 
+ & Conference Center\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-ias-indonesia-aero-summit-34080-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-ias-indonesia-aero-summit-34080-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACK EXPO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+UID:f-pack-expo-30582-1@eventseye.impio-vault
+DESCRIPTION:Moroccan International Exhibition of Packaging\, Packaging Solu
+ tions and Local Logistics\\nVenue: Office des Foires et Expositions de Cas
+ ablanca (OFEC)\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-pack-expo-30582-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-pack-expo-30582-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACK PYMES — Lima\, Peru
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+UID:f-pack-pymes-33550-1@eventseye.impio-vault
+DESCRIPTION:Peruvian packaging fair\, both professional and artisanal. Pack
+ aging that attracts the consumer's attention. Colors\, materials\, texture
+ s\, and presentation... that awaken the senses and encourage the act of pu
+ rchase\\nVenue: Villa Complejo Ferial\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-pack-pymes-33550-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-pack-pymes-33550-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SURABAYA PRINTING EXPO — Surabaya\, Indonesia
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260712
+UID:f-surabaya-printing-expo-15599-1@eventseye.impio-vault
+DESCRIPTION:International exhibition on Printing (Pre Press\, Press\, Post 
+ Press)\, Machinery\, Equipment\, Supplies. Digital Printing\, Offset Print
+ ing\, Digital Imaging\, Media Sign\, Rotogravure\, Screen Printing\, Label
+  Printing\, Print Media...\\nVenue: Grand City Convention & Exhibition Cen
+ tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-s
+ urabaya-printing-expo-15599-1.html
+LOCATION:Surabaya\, Indonesia
+URL:https://www.eventseye.com/fairs/f-surabaya-printing-expo-15599-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMA PRO&PACK ASIA — Hyderabad\, India
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260712
+UID:f-pharma-pro-pack-asia-22715-1@eventseye.impio-vault
+DESCRIPTION:International Pharma & Pharma Packaging Industry Trade Show in 
+ India\\nVenue: Hyderabad International Trade Exposition Centre (HITEX)\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-pharma-p
+ ro-pack-asia-22715-1.html
+LOCATION:Hyderabad\, India
+URL:https://www.eventseye.com/fairs/f-pharma-pro-pack-asia-22715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANNUAL PHARMA PACKAGING\, LABELLING\, SERIALIZATION & SUPPLY CHAIN 
+ — Hyderabad\, India
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+UID:f-annual-pharma-packaging-labelling-serialization-supply-chain-33084-1@eventseye.impio-vault
+DESCRIPTION:Annual Pharma Expo dedicated to Packaging\, Labelling\, Seriali
+ zation & Supply Chain. Gain insights from experts\, researchers\, and prof
+ essionals on the latest pharma advancements\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-annual-pharma-packaging-labelling-s
+ erialization-supply-chain-33084-1.html
+LOCATION:Hyderabad\, India
+URL:https://www.eventseye.com/fairs/f-annual-pharma-packaging-labelling-ser
+ ialization-supply-chain-33084-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFT ANNUAL MEETING & FOOD EXPO — Chicago\, IL\, USA
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260716
+UID:f-ift-annual-meeting-food-expo-1308-1@eventseye.impio-vault
+DESCRIPTION:IFT’s Annual Event & Food Expo is one of the largest events o
+ f its kind bringing together science of food professionals worldwide repre
+ senting all segments of the profession. R&D\, Ingrédients\, Safety & Qual
+ ity\, Technology\, Equipment\, Processing...\\nVenue: McCormick Place\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-ift-annua
+ l-meeting-food-expo-1308-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-ift-annual-meeting-food-expo-1308-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSMOPROF NORTH AMERICA — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260716
+UID:f-cosmoprof-north-america-17525-1@eventseye.impio-vault
+DESCRIPTION:North American Beauty Trade Show. COSMOPROF is an all-encompass
+ ing B2B beauty trade show event in North America. Cosmetics Personal Care\
+ , Packaging\, Contract Manufacturing & Private Label\, Spa & Wellness and 
+ Professional Hair\, Nails & Tools\\nVenue: Mandalay Bay Convention Center\
+ \nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-cosm
+ oprof-north-america-17525-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-cosmoprof-north-america-17525-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SERIGRAFIA SIGN FUTURETEXTIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260718
+UID:f-serigrafia-sign-futuretextil-23592-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Machinery and Products for Screen P
+ rinting & Signage\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-serigrafia-sign-futuretextil-23592
+ -1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-serigrafia-sign-futuretextil-23592-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MANUFACTURING SURABAYA — Surabaya\, Indonesia
@@ -3324,6 +4017,18 @@ URL:https://www.eventseye.com/fairs/f-paper-and-tissue-africa-kenya-30978-1
  .html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AGRITECH INDIA — Bangalore\, India
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:f-agritech-india-14135-1@eventseye.impio-vault
+DESCRIPTION:Indian International Exhibition on Agriculture\, Farm Machinery
+ \, Dairy\, Poultry\, Cold Chain & Agro Processing Technologies\\nVenue: KT
+ PO Trade Centre\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-agritech-india-14135-1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-agritech-india-14135-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAKERYTECH INDIA — Bangalore\, India
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260824
@@ -3580,6 +4285,19 @@ URL:https://www.eventseye.com/fairs/f-3p-plas-print-pack-pakistan-18875-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CLI EXPO — Kolkata\, India
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260905
+UID:f-cli-expo-34304-1@eventseye.impio-vault
+DESCRIPTION:International Conference & Expo on Coal Supply Chain & Technolo
+ gy. Connect with the latest advancements in Coal Mining\, Logistics\, Tran
+ sportation\, Handling Systems\, Automation\, and Digital Technologies\\nVe
+ nue: Biswa Bangla Convention Centre\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-cli-expo-34304-1.html
+LOCATION:Kolkata\, India
+URL:https://www.eventseye.com/fairs/f-cli-expo-34304-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MOTOREXPOSHOW — Krasnoyarsk\, Russia
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260907
@@ -3718,683 +4436,6 @@ DESCRIPTION:International Fishery and Seafood Show in Taiwan. Taiwan Fisher
 LOCATION:Taipei\, Taiwan
 URL:https://www.eventseye.com/fairs/f-international-aquaculture-fisheries-e
  xpo-taiwan-22218-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VICTORIAN TRANSPORT INFRASTRUCTURE CONFERENCE — Melbourne\, Austr
- alia
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260619
-UID:f-victorian-transport-infrastructure-conference-13098-1@eventseye.impio-vault
-DESCRIPTION:Victoria's largest major projects & infrastructure conference a
- ttracting over 200 delegates each year. Topics covered - Transport\, housi
- ng\, health\, education\, energy & water\\nVenue: Melbourne Exhibition & C
- onvention Centre\\nFrequency: every 2 years\\nSource: https://www.eventsey
- e.com/fairs/f-victorian-transport-infrastructure-conference-13098-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-victorian-transport-infrastructure-co
- nference-13098-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIMAF - VIETNAM INTERNATIONAL MACHINERY FAIR - BINH DUONG — Binh 
- Duong New City\, Vietnam
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260620
-UID:f-vimaf-vietnam-international-machinery-fair-binh-duong-30512-1@eventseye.impio-vault
-DESCRIPTION:Vietnam International Machinery Fair. Metalworking & Machine To
- ol\, Factory Automation & Motion Control\, Plant Equipment\, Parts\, Mater
- ials & Industrial Machinery\, Construction Machinery Parts & Logistic Equi
- pment\, Vietnam Industrial Supporting Products...\\nVenue: Binh Duong Conv
- ention & Exhibition Center (BCEC)\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-vimaf-vietnam-international-machinery-fair-bi
- nh-duong-30512-1.html
-LOCATION:Binh Duong New City\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vimaf-vietnam-international-machinery
- -fair-binh-duong-30512-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VMAT - VIETNAM MATERIAL HANDLING FIESTA — Binh Duong New City\, V
- ietnam
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260620
-UID:f-vmat-vietnam-material-handling-fiesta-27983-1@eventseye.impio-vault
-DESCRIPTION:Material Handling\, Warehousing\, Storage & Racking Systems\, T
- ransportation and Logistics Automation Trade Show\\nFrequency: unknown\\nS
- ource: https://www.eventseye.com/fairs/f-vmat-vietnam-material-handling-fi
- esta-27983-1.html
-LOCATION:Binh Duong New City\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vmat-vietnam-material-handling-fiesta
- -27983-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IFTECH FOOD + BEV TEC PAKISTAN — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260621
-UID:f-iftech-food-bev-tec-pakistan-18858-1@eventseye.impio-vault
-DESCRIPTION:International Food\, Beverage & Packaging Technology Trade Fair
- . Dairy & Livestock\, Meat & Poultry\, Fruits & Vegetables\, Rice & Flourm
- illing\, Beverages\, Snacks & Confectionery\, Flavors & Ingredients\, Pack
- aging...\\nVenue: Expo Centre Lahore\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-iftech-food-bev-tec-pakistan-18858-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-iftech-food-bev-tec-pakistan-18858-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INNOPACK PHARMA CONFEX - MUMBAI — Mumbai\, India
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260620
-UID:f-innopack-pharma-confex-mumbai-19979-1@eventseye.impio-vault
-DESCRIPTION:The INNOPACK PHARMA CONFEX has established itself as the pinnac
- le of pharma packaging solutions conferences\, drawing industry experts to
- gether to network and exchange cutting-edge concepts for the long-term dev
- elopment of the pharma packaging sector\\nVenue: Sahara Star Hotel\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-innopack-pha
- rma-confex-mumbai-19979-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-innopack-pharma-confex-mumbai-19979-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLASTI&PACK PAKISTAN - INTERNATIONAL PLASTIC & PACKAGING INDUSTRY E
- XHIBITION — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260621
-UID:f-plasti-pack-pakistan-international-plastic-packaging-industry-exhibition-4876-1@eventseye.impio-vault
-DESCRIPTION:PLASTI & PACK is the great platform for plastic & packaging mat
- erials\, machinery suppliers in Pakistan. It brings together the best in m
- aterial & machinery for the plastic & packaging professionals and decision
-  makers\\nVenue: Expo Centre Lahore\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-plasti-pack-pakistan-international-plastic-
- packaging-industry-exhibition-4876-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-plasti-pack-pakistan-international-pl
- astic-packaging-industry-exhibition-4876-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECHNOPRINT EGYPT — Cairo\, Egypt
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260621
-UID:f-technoprint-egypt-10282-1@eventseye.impio-vault
-DESCRIPTION:International Printing Expo in Egypt. Graphic Design\, Offset P
- rinting\, Flexography\, Rotogravure\, Digital Printing\, Printing for Secu
- rity Purposes...\\nVenue: Cairo International Convention & Exhibition Cent
- re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-te
- chnoprint-egypt-10282-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-technoprint-egypt-10282-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAUDI PRINT & PACK — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260625
-UID:f-saudi-print-pack-2394-1@eventseye.impio-vault
-DESCRIPTION:The Saudi Print & Pack trade fair is the platform that brings i
- nternational and local innovative solutions\, machinery and sustainable wo
- rkflow practices for the printing and packaging industry to the Kingdom\\n
- Venue: Riyadh International Exhibition Centre\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-print-pack-2394-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD MAIL & EXPRESS EUROPE — Athens\, Greece
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260625
-UID:f-world-mail-express-europe-7289-1@eventseye.impio-vault
-DESCRIPTION:World Mail & Express Conference and Exhibition. The World Mail 
- & Express Europe Conference (WMX Europe) is an international trade event f
- or post and parcel professionals\\nFrequency: every 2 years\\nSource: http
- s://www.eventseye.com/fairs/f-world-mail-express-europe-7289-1.html
-LOCATION:Athens\, Greece
-URL:https://www.eventseye.com/fairs/f-world-mail-express-europe-7289-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADAS & AUTONOMOUS VEHICLES - EUROPE — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-adas-autonomous-vehicles-europe-31287-1@eventseye.impio-vault
-DESCRIPTION:Exhibitors will showcase the latest technologies to enable and 
- accelerate end-to-end autonomous and ADAS (Advanced driver-assistance syst
- em) applications\, including testing tools\, simulation\, software\, sensi
- ng and AI\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-adas-autonomous-vehicles-eur
- ope-31287-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-adas-autonomous-vehicles-europe-31287
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CEMAT AUSTALIA — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-cemat-austalia-27372-1@eventseye.impio-vault
-DESCRIPTION:The World’s Leading Trade Fair for Intralogistics\, Materials
-  Handling and Supply Chain Management\\nVenue: Melbourne Exhibition & Conv
- ention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-cemat-austalia-27372-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-cemat-austalia-27372-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CEMAT AUSTRALIA — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-cemat-australia-20636-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of Materials Handling\, Automation Technology\, Tran
- sport Systems & Logistics\\nVenue: Melbourne Exhibition & Convention Centr
- e\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-c
- emat-australia-20636-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-cemat-australia-20636-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMMERCENEXT — New York\, NY\, USA
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-commercenext-31338-1@eventseye.impio-vault
-DESCRIPTION:CommerceNext is one of the largest global ecommerce events. Spe
- akers from leading retailers\, DTC brands and innovative tech companies\, 
- Meaningful peer-to-peer networking\, In-person and virtual content that fe
- atures industry leaders...\\nVenue: New York Hilton Midtown\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-commercenext-31338-
- 1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-commercenext-31338-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL PORT & MARINE — Jeddah\, Saudi Arabia
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260625
-UID:f-international-port-marine-32635-1@eventseye.impio-vault
-DESCRIPTION:Saudi Arabia's Forum dedicated to Innovations in the developmen
- t of intelligent and sustainable port infrastructure to enhance the global
-  maritime sector’s portfolio\\nVenue: Jeddah Hilton Hotel\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-international-port-
- marine-32635-1.html
-LOCATION:Jeddah\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-international-port-marine-32635-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIR CARGO CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260627
-UID:f-air-cargo-china-20030-1@eventseye.impio-vault
-DESCRIPTION:Air Cargo China is the premier international gathering for the 
- Asia's air freight industry. The event brings together leading airlines\, 
- airports\, logistics providers\, and technology innovators from around the
-  world\\nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency
- : every 2 years\\nSource: https://www.eventseye.com/fairs/f-air-cargo-chin
- a-20030-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-air-cargo-china-20030-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOURGOGNE BTP EXPO — Beaune\, France
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260626
-UID:f-bourgogne-btp-expo-33656-1@eventseye.impio-vault
-DESCRIPTION:Regional trade fair for construction\, industrial\, transport a
- nd logistics equipment in Burgundy\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-bourgogne-btp-expo-33656-1.html
-LOCATION:Beaune\, France
-URL:https://www.eventseye.com/fairs/f-bourgogne-btp-expo-33656-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSMOPROF CBE ASEAN - BANGKOK — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260627
-UID:f-cosmoprof-cbe-asean-bangkok-30597-1@eventseye.impio-vault
-DESCRIPTION:Cosmoprof CBE Asean - Bangkok\, the leading b2b international b
- eauty trade show in Asia\, is where global beauty trendsetters gather to i
- ntroduce their cutting-edge technologies\, product innovations and new sol
- utions\\nVenue: Queen Sirikit National Convention Center\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-cosmoprof-cbe-asean-ba
- ngkok-30597-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-cosmoprof-cbe-asean-bangkok-30597-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FLEXIBLE PACKAGING INNOVATION AND RECYCLING NORTH AMERICA — Milwa
- ukee\, WI\, USA
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260626
-UID:f-flexible-packaging-innovation-and-recycling-north-america-28356-1@eventseye.impio-vault
-DESCRIPTION:Forum addressing innovations in multilayer film to deliver effi
- cient\, optimized pack formats in North America and beyond\\nVenue: The Tr
- ade\, Autograph Collection\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-flexible-packaging-innovation-and-recycling-north-am
- erica-28356-1.html
-LOCATION:Milwaukee\, WI\, USA
-URL:https://www.eventseye.com/fairs/f-flexible-packaging-innovation-and-rec
- ycling-north-america-28356-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KOMTRANS + BUSEXPO — Astana\, Kazakhstan
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260627
-UID:f-komtrans-busexpo-33236-1@eventseye.impio-vault
-DESCRIPTION:Komtrans + Busexpo is the leading exhibition of Commercial Tran
- sport\, Road Construction Machinery. and Buses in Kazakhstan and Central A
- sia\\nVenue: IEC Expo Astana\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-komtrans-busexpo-33236-1.html
-LOCATION:Astana\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-komtrans-busexpo-33236-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECURFOOD PACKINNOVE EUROPE — Beauvais\, France
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260626
-UID:f-securfood-packinnove-europe-4687-1@eventseye.impio-vault
-DESCRIPTION:Rencontres d'affaires et conférences dédiées à la sécurit
- é\, la traçabilité\, l'hygiène de l'emballage. Packagings intelligents
-  et durables pour le secteur alimentaire\\nVenue: Institut polytechnique U
- niLaSalle Beauvais\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-securfood-packinnove-europe-4687-1.html
-LOCATION:Beauvais\, France
-URL:https://www.eventseye.com/fairs/f-securfood-packinnove-europe-4687-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAIPEI PACK — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260628
-UID:f-taipei-pack-3433-1@eventseye.impio-vault
-DESCRIPTION:Taiwan International Packaging Exhibition. Packaging Machinery 
- & Materials\, Packaging Plant Systems\, Filling/ Sealing/ Weighing Machine
- ry\, Printing Machinery\, Food & Pharmaceuticals Packaging Machinery\, Shr
- ink Packaging Machines\, Bag Making Machinery...\\nVenue: Taipei Nangang E
- xhibition Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-taipei-pack-3433-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taipei-pack-3433-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRANSPORT LOGISTIC CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260627
-UID:f-transport-logistic-china-5149-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Logistics\, Telematics & Transport
- ation. Transport Logistics China is where exhibitors present the trends & 
- latest developments in Logistics & set the course for long after the exhib
- ition in interesting conferences & meetings\\nVenue: Shanghai New Internat
- ional Expo Centre - SNIEC\\nFrequency: every 2 years\\nSource: https://www
- .eventseye.com/fairs/f-transport-logistic-china-5149-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-transport-logistic-china-5149-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONVENTION D’AFFAIRES MULTISECTORIELLE – MULTISERVICES — Anti
- bes\, France
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-UID:f-convention-d-affaires-multisectorielle-multiservices-33977-1@eventseye.impio-vault
-DESCRIPTION:This BtoB event brings together each year business leaders\, pu
- blic and private buyers\, as well as local and national partners\, around 
- pre-programmed meetings promoting the development of business and partners
- hips\\nVenue: Palais des Congrès d'Antibes-Juan les Pins\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-convention-d-affaires
- -multisectorielle-multiservices-33977-1.html
-LOCATION:Antibes\, France
-URL:https://www.eventseye.com/fairs/f-convention-d-affaires-multisectoriell
- e-multiservices-33977-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ETHIOPIA PLASTPRINTPACK — Addis Ababa\, Ethiopia
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-ethiopia-plastprintpack-25525-1@eventseye.impio-vault
-DESCRIPTION:Ethiopia’s International Plastics\, Printing and Packaging Tr
- ade Show\, showcasing the impressive growth and vast potential of Ethiopia
- ’s plastics\, printing and packaging sectors\\nVenue: Addis Ababa Exhibi
- tion Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
- /fairs/f-ethiopia-plastprintpack-25525-1.html
-LOCATION:Addis Ababa\, Ethiopia
-URL:https://www.eventseye.com/fairs/f-ethiopia-plastprintpack-25525-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA WAREHOUSING SHOW — New Delhi\, India
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-india-warehousing-show-19182-1@eventseye.impio-vault
-DESCRIPTION:India Warehousing & Logistics Show. The India Warehousing Show 
- is a trade fair and conference for warehousing\, logistics\, materials han
- dling\, storage\, distribution\, transport and supply chain sectors\\nVenu
- e: IICC (India International Convention & Expo Centre) - Yashobhoomi Conve
- ntion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-india-warehousing-show-19182-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-india-warehousing-show-19182-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEGA CLIMA HVAC EXPO - EAST AFRICA - KENYA — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-mega-clima-hvac-expo-east-africa-kenya-25839-1@eventseye.impio-vault
-DESCRIPTION:Kenya International Air Conditioning & Refrigeration Exhibition
- . Conference\, B2B Meetings\, Live Product Demonstrations\\nVenue: The Sar
- it Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-mega-clima-hvac-expo-east-africa-kenya-25839-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-mega-clima-hvac-expo-east-africa-keny
- a-25839-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ÉDITION SPÉCIALE BY LUXE PACK — Paris\, France
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260702
-UID:f-edition-speciale-by-luxe-pack-26521-1@eventseye.impio-vault
-DESCRIPTION:SPECIAL EDITION by LUXE PACK is a unique annual event dedicated
-  to luxury packaging and stakeholders in the circular economy. All sectors
- : perfumery/cosmetics\, wines and spirits\, delicatessen\, fashion\, leath
- er goods\, etc.\\nVenue: Carrousel du Louvre\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-edition-speciale-by-luxe-pack-2652
- 1-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-edition-speciale-by-luxe-pack-26521-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLASTIC CLOSURE INNOVATIONS EUROPE — Malaga\, Spain
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260702
-UID:f-plastic-closure-innovations-europe-29453-1@eventseye.impio-vault
-DESCRIPTION:The forum showcases major global trends\, explores recent advan
- ces and discusses the latest innovations in plastic closure. Meet leading 
- brand owners\, plastic closure producers\, packaging system providers\, ma
- terials and technology suppliers...\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-plastic-closure-innovations-europe-29453-1.
- html
-LOCATION:Malaga\, Spain
-URL:https://www.eventseye.com/fairs/f-plastic-closure-innovations-europe-29
- 453-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCE - COLD CHAIN EXHIBITION — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-cce-cold-chain-exhibition-29513-1@eventseye.impio-vault
-DESCRIPTION:Cold Chain Exhibition will be the voice for cold storage infras
- tructure\, refrigeration\, reefer transport\, cold supply chain industry\\
- nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-cce-cold-chain-
- exhibition-29513-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-cce-cold-chain-exhibition-29513-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EAST PACK INDONESIA — Surabaya\, Indonesia
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260705
-UID:f-east-pack-indonesia-12291-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Processing & Packaging\, Filling\, 
- Machinery\, Equipment\, Materials and Services\\nVenue: Grand City Convent
- ion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-east-pack-indonesia-12291-1.html
-LOCATION:Surabaya\, Indonesia
-URL:https://www.eventseye.com/fairs/f-east-pack-indonesia-12291-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA FOOD AND DRINK PROCESSING EXPO — Coimbatore\, India
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-india-food-and-drink-processing-expo-30192-1@eventseye.impio-vault
-DESCRIPTION:South India's Most Comprehensive Food & Drink Processing Expo. 
- India Food & Drink Processing Expo is all set to showcase noteworthy innov
- ations\, cutting-edge technologies and expert solutions in the processing 
- and packaging sectors\\nVenue: Codissia Trade Fair Complex\\nFrequency: tw
- ice a year\\nSource: https://www.eventseye.com/fairs/f-india-food-and-drin
- k-processing-expo-30192-1.html
-LOCATION:Coimbatore\, India
-URL:https://www.eventseye.com/fairs/f-india-food-and-drink-processing-expo-
- 30192-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA FOOD PACK EXPO - BANGALARU — Bangalore\, India
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-india-food-pack-expo-bangalaru-33995-1@eventseye.impio-vault
-DESCRIPTION:The India Food Pack Expo will bring about new technology and ea
- sy sourcing opportunities for Indian food manufacturers to make cost effec
- tive and quality packaging solutions for their existing and NPD (New produ
- ct development)\\nVenue: Bengaluru Palace\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-india-food-pack-expo-bangalaru-33995-
- 1.html
-LOCATION:Bangalore\, India
-URL:https://www.eventseye.com/fairs/f-india-food-pack-expo-bangalaru-33995-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA FOOD PACK EXPO - COIMBATORE — Coimbatore\, India
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-india-food-pack-expo-coimbatore-30191-1@eventseye.impio-vault
-DESCRIPTION:The India Food Pack Expo will bring about new technology and ea
- sy sourcing opportunities for Indian food manufacturers to make cost effec
- tive and quality packaging solutions for their existing and NPD (New produ
- ct development)\\nVenue: Codissia Trade Fair Complex\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-india-food-pack-expo-coimb
- atore-30191-1.html
-LOCATION:Coimbatore\, India
-URL:https://www.eventseye.com/fairs/f-india-food-pack-expo-coimbatore-30191
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOGISTICS AUTOMATION EXPO — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-logistics-automation-expo-29514-1@eventseye.impio-vault
-DESCRIPTION:Logistics Automation Expo is the leading international exhibiti
- ons and conference for warehouse infrastructure developers\, automation\, 
- material handling\, storage\, intralogistics\, transport & logistics\, sup
- ply chain technologies in Asia\\nVenue: Bangkok International Trade & Exhi
- bition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-logistics-automation-expo-29514-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-logistics-automation-expo-29514-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOBILITY TECH ASIA - BANGKOK — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20260701
-DTEND;VALUE=DATE:20260704
-UID:f-mobility-tech-asia-bangkok-32853-1@eventseye.impio-vault
-DESCRIPTION:The Thailand's Premier Technology Exhibition and Conference on 
- Future Transportation and Mobility. Powering Asia's Transformation in the 
- New Energy Industry across Land\, Sky and Sea\\nVenue: Queen Sirikit Natio
- nal Convention Center\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-mobility-tech-asia-bangkok-32853-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-mobility-tech-asia-bangkok-32853-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFRICA RAIL — Johannesburg\, South Africa
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260709
-UID:f-africa-rail-12041-1@eventseye.impio-vault
-DESCRIPTION:Africa's only dedicated railways conference and exhibition. Inv
- estment\, development and technology for rail operators\, end-users\, gove
- rnment and investors\\nVenue: Sandton Convention Centre\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-africa-rail-12041-1.htm
- l
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-africa-rail-12041-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASEAN PORTS AND LOGISTICS — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260710
-UID:f-asean-ports-and-logistics-12401-1@eventseye.impio-vault
-DESCRIPTION:ASEAN Ports and Logistics is the largest annual Ports\, Shippin
- g\, and Logistics Exhibition and Conference in South East Asia\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-asean-ports-and-
- logistics-12401-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-asean-ports-and-logistics-12401-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AHTE SHANGHAI — Shanghai\, China
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260711
-UID:f-ahte-shanghai-33761-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Assembly & Handling Technology Exhibitio
- n - Smart Automation Solutions in Production and Assembly\\nVenue: Shangha
- i New International Expo Centre - SNIEC\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-ahte-shanghai-33761-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-ahte-shanghai-33761-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALIMENTOS EN PERÚ — Lima\, Peru
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-UID:f-alimentos-en-peru-33551-1@eventseye.impio-vault
-DESCRIPTION:Trade fair for suppliers of food\, beverage\, hospitality\, hyg
- iene\, packaging and decoration products for the HORECA sector in Peru\\nV
- enue: Villa Complejo Ferial\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-alimentos-en-peru-33551-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-alimentos-en-peru-33551-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GASTROMAQ — Lima\, Peru
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-UID:f-gastromaq-33560-1@eventseye.impio-vault
-DESCRIPTION:GASTROMAQ is Peru's multi-supplier trade fair for the gastronom
- y\, hospitality\, food\, beverage\, cleaning\, packaging\, and decoration 
- sectors\, targeting the HORECA sector\\nVenue: Villa Complejo Ferial\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-gastromaq-
- 33560-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-gastromaq-33560-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IAS - INDONESIA AERO SUMMIT — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260710
-UID:f-ias-indonesia-aero-summit-34080-1@eventseye.impio-vault
-DESCRIPTION:Indonesia Aero Summit is the Largest International Aviation Con
- ference in Indonesia. IAS is an opportune event and industry gathering to 
- discuss about the most pressing concerns\, challenges and opportunities in
-  Indonesian and ASEAN aviation sector\\nVenue: Aston Kartika Grogol Hotel 
- & Conference Center\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-ias-indonesia-aero-summit-34080-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-ias-indonesia-aero-summit-34080-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACK EXPO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-UID:f-pack-expo-30582-1@eventseye.impio-vault
-DESCRIPTION:Moroccan International Exhibition of Packaging\, Packaging Solu
- tions and Local Logistics\\nVenue: Office des Foires et Expositions de Cas
- ablanca (OFEC)\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-pack-expo-30582-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-pack-expo-30582-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACK PYMES — Lima\, Peru
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-UID:f-pack-pymes-33550-1@eventseye.impio-vault
-DESCRIPTION:Peruvian packaging fair\, both professional and artisanal. Pack
- aging that attracts the consumer's attention. Colors\, materials\, texture
- s\, and presentation... that awaken the senses and encourage the act of pu
- rchase\\nVenue: Villa Complejo Ferial\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-pack-pymes-33550-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-pack-pymes-33550-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SURABAYA PRINTING EXPO — Surabaya\, Indonesia
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260712
-UID:f-surabaya-printing-expo-15599-1@eventseye.impio-vault
-DESCRIPTION:International exhibition on Printing (Pre Press\, Press\, Post 
- Press)\, Machinery\, Equipment\, Supplies. Digital Printing\, Offset Print
- ing\, Digital Imaging\, Media Sign\, Rotogravure\, Screen Printing\, Label
-  Printing\, Print Media...\\nVenue: Grand City Convention & Exhibition Cen
- tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-s
- urabaya-printing-expo-15599-1.html
-LOCATION:Surabaya\, Indonesia
-URL:https://www.eventseye.com/fairs/f-surabaya-printing-expo-15599-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHARMA PRO&PACK ASIA — Hyderabad\, India
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260712
-UID:f-pharma-pro-pack-asia-22715-1@eventseye.impio-vault
-DESCRIPTION:International Pharma & Pharma Packaging Industry Trade Show in 
- India\\nVenue: Hyderabad International Trade Exposition Centre (HITEX)\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-pharma-p
- ro-pack-asia-22715-1.html
-LOCATION:Hyderabad\, India
-URL:https://www.eventseye.com/fairs/f-pharma-pro-pack-asia-22715-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANNUAL PHARMA PACKAGING\, LABELLING\, SERIALIZATION & SUPPLY CHAIN 
- — Hyderabad\, India
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-UID:f-annual-pharma-packaging-labelling-serialization-supply-chain-33084-1@eventseye.impio-vault
-DESCRIPTION:Annual Pharma Expo dedicated to Packaging\, Labelling\, Seriali
- zation & Supply Chain. Gain insights from experts\, researchers\, and prof
- essionals on the latest pharma advancements\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-annual-pharma-packaging-labelling-s
- erialization-supply-chain-33084-1.html
-LOCATION:Hyderabad\, India
-URL:https://www.eventseye.com/fairs/f-annual-pharma-packaging-labelling-ser
- ialization-supply-chain-33084-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IFT ANNUAL MEETING & FOOD EXPO — Chicago\, IL\, USA
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260716
-UID:f-ift-annual-meeting-food-expo-1308-1@eventseye.impio-vault
-DESCRIPTION:IFT’s Annual Event & Food Expo is one of the largest events o
- f its kind bringing together science of food professionals worldwide repre
- senting all segments of the profession. R&D\, Ingrédients\, Safety & Qual
- ity\, Technology\, Equipment\, Processing...\\nVenue: McCormick Place\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-ift-annua
- l-meeting-food-expo-1308-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-ift-annual-meeting-food-expo-1308-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSMOPROF NORTH AMERICA — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260716
-UID:f-cosmoprof-north-america-17525-1@eventseye.impio-vault
-DESCRIPTION:North American Beauty Trade Show. COSMOPROF is an all-encompass
- ing B2B beauty trade show event in North America. Cosmetics Personal Care\
- , Packaging\, Contract Manufacturing & Private Label\, Spa & Wellness and 
- Professional Hair\, Nails & Tools\\nVenue: Mandalay Bay Convention Center\
- \nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-cosm
- oprof-north-america-17525-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-cosmoprof-north-america-17525-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SERIGRAFIA SIGN FUTURETEXTIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260718
-UID:f-serigrafia-sign-futuretextil-23592-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Machinery and Products for Screen P
- rinting & Signage\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-serigrafia-sign-futuretextil-23592
- -1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-serigrafia-sign-futuretextil-23592-1.
- html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LOGISTIIKKA — Tampere\, Finland
@@ -5213,7 +5254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MOROCCO SIEMA EXPO — Casablanca\, Morocco
 DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260925
 UID:f-morocco-siema-expo-33868-1@eventseye.impio-vault
 DESCRIPTION:As Morocco’s leading trade exhibition dedicated to food proce
  ssing and packaging technologies\, MOROCCO SIEMA EXPO brings together expo
@@ -5723,6 +5764,442 @@ DESCRIPTION:Russian International forum Transport and logistics terminals o
 LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-transport-and-logistics-terminals-of-
  russia-moscow-34246-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAPA AIRLINE LEADER SUMMIT - ASIA & SUSTAINABILITY AWARDS — Chito
+ se (Hokkaido)\, Japan
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+UID:f-capa-airline-leader-summit-asia-sustainability-awards-31531-1@eventseye.impio-vault
+DESCRIPTION:This two-day summit\, highly regarded as the key industry event
+  for the region\, offers thought leadership\, valuable networking opportun
+ ities\, and in-depth insight on the issues and trends that shape the local
+  and global airline industry\\nVenue: New Chitose Airport Portom Hall\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-capa-airl
+ ine-leader-summit-asia-sustainability-awards-31531-1.html
+LOCATION:Chitose (Hokkaido)\, Japan
+URL:https://www.eventseye.com/fairs/f-capa-airline-leader-summit-asia-susta
+ inability-awards-31531-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAD ASIA — Sapporo\, Japan
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+UID:f-gad-asia-32891-1@eventseye.impio-vault
+DESCRIPTION:The Global Airport Development forum (GAD) is a unique conferen
+ ce and networking event dedicated to best practice and innovation in airpo
+ rt finance\, management and infrastructure development\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-gad-asia-32891-1.html
+LOCATION:Sapporo\, Japan
+URL:https://www.eventseye.com/fairs/f-gad-asia-32891-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APTA EXPO — Chicago\, IL\, USA
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261008
+UID:f-apta-expo-18820-1@eventseye.impio-vault
+DESCRIPTION:APTA EXPO is public transportation's premier showcase of techno
+ logy\, products and services\\nVenue: McCormick Place\\nFrequency: every 3
+  years\\nSource: https://www.eventseye.com/fairs/f-apta-expo-18820-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-apta-expo-18820-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMTRANS — Kazan\, Russia
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261010
+UID:f-comtrans-16775-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Commercial Vehicles. Trucks and Ca
+ rgo LCV\, Buses and Passenger LCV\, Utility Vehicles\, Trailers and Semi-t
+ railers\, Parts and Components\, Service...\\nVenue: Kazanskaya Yarmarka E
+ xhibition Centre\\nFrequency: every 2 years\\nSource: https://www.eventsey
+ e.com/fairs/f-comtrans-16775-1.html
+LOCATION:Kazan\, Russia
+URL:https://www.eventseye.com/fairs/f-comtrans-16775-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRESH FOOD LOGISTICS — Madrid\, Spain
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-fresh-food-logistics-29072-1@eventseye.impio-vault
+DESCRIPTION:The meeting point for logistics\, mobility\, IT and cold chain 
+ management for the food industry\\nVenue: Ifema - Parque Ferial Juan Carlo
+ s I\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-f
+ resh-food-logistics-29072-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-fresh-food-logistics-29072-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICSE EUROPE — Milan\, Italy
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-icse-europe-12071-1@eventseye.impio-vault
+DESCRIPTION:European exhibition for the pharmaceutical industry and service
+ s. Machinery & equipment\, Finished dosage\, Packaging & drug delivery\, C
+ ontract services\, Excipients\, Natural extracts\, Fine chemicals...\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-icse-europ
+ e-12071-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-icse-europe-12071-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOTEK — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+UID:f-motek-1933-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Automation in Production\, Assembl
+ y and Handling Technology. Intelligent solutions diversity in the fields o
+ f production and assembly automation\, material flow\, rationalisation thr
+ ough industrial handling\\nVenue: New Stuttgart Trade Fair Centre\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-motek-1933-1.
+ html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-motek-1933-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALLPRINT INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+UID:f-allprint-indonesia-25395-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition On Printing (Pre-Press\, Press\, Post-
+ Press)\, Machinery\, Equipment\, Supplies\\nVenue: Jakarta International E
+ xpo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-allprint-indonesia-25395-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-allprint-indonesia-25395-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENVIRONTEC — Budapest\, Hungary
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+UID:f-environtec-34114-1@eventseye.impio-vault
+DESCRIPTION:ENVIRONTEC is an international environmental industry exhibitio
+ n in Hungary\, showcasing technologies and solutions for water management\
+ , waste treatment and sustainability\, alongside a professional conference
+  program\\nVenue: Budapest Fair Centre\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-environtec-34114-1.html
+LOCATION:Budapest\, Hungary
+URL:https://www.eventseye.com/fairs/f-environtec-34114-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENVIROPRO STRASBOURG — Strasbourg\, France
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:f-enviropro-strasbourg-34180-1@eventseye.impio-vault
+DESCRIPTION:Expo dedicated to environmental solutions and technologies\, wi
+ th public economic actors (Communities\, Communities\, Administrations\, T
+ erritories\, etc.) private (Industry\, Construction\, Transport\, Logistic
+ s\, Trade\, Agriculture\, Tourism\, Services\, etc.)\\nVenue: Parc des exp
+ ositions de Strasbourg\\nFrequency: unknown\\nSource: https://www.eventsey
+ e.com/fairs/f-enviropro-strasbourg-34180-1.html
+LOCATION:Strasbourg\, France
+URL:https://www.eventseye.com/fairs/f-enviropro-strasbourg-34180-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO SIGN & ADVERTISING EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+UID:f-indo-sign-advertising-expo-25396-1@eventseye.impio-vault
+DESCRIPTION:INDO SIGN & ADVERTISING EXPO is an international Exhibition On 
+ Sign and Advertising. Held in conjunction with ALLPRINT EXPO\\nVenue: Jaka
+ rta International Expo (JIExpo)\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-indo-sign-advertising-expo-25396-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-sign-advertising-expo-25396-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTER CORRUGATED EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+UID:f-inter-corrugated-expo-21376-1@eventseye.impio-vault
+DESCRIPTION:Indonesia's International Trade Corrugated Carton Exhibition. T
+ echnology\, Equipment\, Supplies and Machinery\\nVenue: Jakarta Internatio
+ nal Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-inter-corrugated-expo-21376-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inter-corrugated-expo-21376-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOGISTICS SUMMIT — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:f-logistics-summit-31800-1@eventseye.impio-vault
+DESCRIPTION:The Logistics Summit is the trade fair and conference for digit
+ alisation and innovation in both intralogistics and transport logistics. T
+ op-class speakers\, discussion panels with leading experts\, workshops wit
+ h applicable know-how and innovative suppliers\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-logistics-summit-31800-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-logistics-summit-31800-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIAC — Lucca\, Italy
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+UID:f-miac-9400-1@eventseye.impio-vault
+DESCRIPTION:International trade show for Technologies & Machinery for the P
+ roduction of Paper/Paperboard & for the Converting of Tissue Paper. Machin
+ es\, equipment\, systems & solutions to improve the management of the vari
+ ous stages in the paper production cycle\\nVenue: Lucca Fiere\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-miac-9400-1.html
+LOCATION:Lucca\, Italy
+URL:https://www.eventseye.com/fairs/f-miac-9400-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBILE ROBOTICS SUMMIT — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+UID:f-mobile-robotics-summit-31799-1@eventseye.impio-vault
+DESCRIPTION:Conference & expo for digitization and innovation for the imple
+ mentation of mobile robotics systems in enterprise operations. Top-class s
+ peakers\, panel discussions among leading experts\, workshops with applica
+ ble expertise such as innovative providers\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-mobile-robotics-summit-31799-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-mobile-robotics-summit-31799-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO LABEL ASIA EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261011
+UID:f-pro-label-asia-expo-27466-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition On Total Solution for Printing Technol
+ ogy\, Equipment\, Supplies and Machinery Supplies\\nVenue: Jakarta Interna
+ tional Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-pro-label-asia-expo-27466-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-pro-label-asia-expo-27466-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:360 FOOD SYRIA — Damascus\, Syria
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+UID:f-360-food-syria-33892-1@eventseye.impio-vault
+DESCRIPTION:Syria's first international showcase for food\, beverages\, hos
+ pitality\, and food technology. A large-scale showcase designed for busine
+ ss\, networking\, and product launches\\nVenue: Damascus International Fai
+ rground\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-360-food-syria-33892-1.html
+LOCATION:Damascus\, Syria
+URL:https://www.eventseye.com/fairs/f-360-food-syria-33892-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACKPRINTPLAS - MANILA — Manila\, Philippines
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+UID:f-packprintplas-manila-25188-1@eventseye.impio-vault
+DESCRIPTION:International Packaging\, Printing\, Plastics Machinery\, Techn
+ ology\, Products\, and Services Exhibition\, serving the Philippines marke
+ t and neighboring countries in the region.​\\nVenue: SMX Exhibition and 
+ Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-packprintplas-manila-25188-1.html
+LOCATION:Manila\, Philippines
+URL:https://www.eventseye.com/fairs/f-packprintplas-manila-25188-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEST AFRICA PLASTPRINTPACK - ABIDJAN — Abidjan\, Ivory Coast
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+UID:f-west-africa-plastprintpack-abidjan-25531-1@eventseye.impio-vault
+DESCRIPTION:West Africa’s International Plastics\, Printing and Packaging
+  Trade Show\\nVenue: Parc des Expositions Abidjan\\nFrequency: every 2 yea
+ rs\\nSource: https://www.eventseye.com/fairs/f-west-africa-plastprintpack-
+ abidjan-25531-1.html
+LOCATION:Abidjan\, Ivory Coast
+URL:https://www.eventseye.com/fairs/f-west-africa-plastprintpack-abidjan-25
+ 531-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOOD & PACKAGE FAIR SHYMKENT — Shymkent\, Kazakhstan
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:f-food-package-fair-shymkent-33729-1@eventseye.impio-vault
+DESCRIPTION:FOOD & PACKAGE FAIR SHYMKENT is the leading trade exhibition in
+  the southern region of Kazakhstan\, dedicated to the latest trends and te
+ chnologies in the food industry\\nVenue: Exhibition Center 'Korme Ortalagy
+ '\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-fo
+ od-package-fair-shymkent-33729-1.html
+LOCATION:Shymkent\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-food-package-fair-shymkent-33729-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALL IN PRINT CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+UID:f-all-in-print-china-5437-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for all China Printing Technology & Eq
+ uipment. All in Print China is one of the most influential exhibitions in 
+ China's printing industry\\nVenue: Shanghai New International Expo Centre 
+ - SNIEC\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-all-in-print-china-5437-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-all-in-print-china-5437-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMMUNTECH — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+UID:f-communtech-6901-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Engineering Technologies and Equip
+ ment for Municipal Economy. Energy- and resource saving technologies\, equ
+ ipment\, materials for communal heat‑ power engineering\, water supply a
+ nd drainage systems...\\nVenue: Kiev International Exhibition Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-communtech
+ -6901-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-communtech-6901-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSCO COMMUNITY EXECUTIVE SUMMIT - UK & IRELAND — London\, UK - Un
+ ited Kingdom
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+UID:f-csco-community-executive-summit-uk-ireland-34291-1@eventseye.impio-vault
+DESCRIPTION:Executive summit uniting top CSCOs to tackle shared priorities:
+  AI‑ powered supply chains\, profit under shifting costs\, and frictionl
+ ess performance\, with peer‑ driven keynotes\, boardrooms\, breakouts an
+ d networking\\nVenue: Park Hyatt London River Thames\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-csco-community-executive-s
+ ummit-uk-ireland-34291-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-csco-community-executive-summit-uk-ir
+ eland-34291-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EURASIA PACKAGING ISTANBUL — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261017
+UID:f-eurasia-packaging-istanbul-1599-1@eventseye.impio-vault
+DESCRIPTION:International Packaging Industry Fair. Eurasia Packaging Istanb
+ ul Fair is the most comprehensive annual show in the packaging industry in
+  Eurasia\\nVenue: Tüyap Fair Convention and Congress Center\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-eurasia-packaging-
+ istanbul-1599-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-eurasia-packaging-istanbul-1599-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IRF ASIA REGIONAL CONGRESS — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+UID:f-irf-asia-regional-congress-23490-1@eventseye.impio-vault
+DESCRIPTION:Asia Road Meeting & Exhibition. IRF Asia Regional Congress will
+  address the specific needs of the region by bringing together industry le
+ aders\, experts and decision-makers\\nVenue: Putra World Trade Centre (PWT
+ C)\\nFrequency: every 4 years\\nSource: https://www.eventseye.com/fairs/f-
+ irf-asia-regional-congress-23490-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-irf-asia-regional-congress-23490-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POST & DELIVERY EXPO UA — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+UID:f-post-delivery-expo-ua-28660-1@eventseye.impio-vault
+DESCRIPTION:Trade Show dedicated to Postal delivery services\, Courier deli
+ very\, Express delivery\, e-Commerce\, Warehouse equipment\, conveyor syst
+ ems\, Parcel sorting and handling technologies\, Packaging and order batch
+ ing...\\nVenue: Kiev International Exhibition Center\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-post-delivery-expo-ua-2866
+ 0-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-post-delivery-expo-ua-28660-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD AVIATION FESTIVAL — Lisbon\, Portugal
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+UID:f-world-aviation-festival-31144-1@eventseye.impio-vault
+DESCRIPTION:The World Aviation Festival is a conference and an exhibition. 
+ The event is for the leaders of the world’s airlines\, airports and thei
+ r most senior executives in charge of software\, services\, marketing and 
+ distribution\\nVenue: Feira Internacional de Lisboa\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-world-aviation-festival-311
+ 44-1.html
+LOCATION:Lisbon\, Portugal
+URL:https://www.eventseye.com/fairs/f-world-aviation-festival-31144-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMISTRY. OIL & GAS — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-chemistry.-oil-gas-23042-1@eventseye.impio-vault
+DESCRIPTION:International Specialized Exhibition of Chemistry\, Oil & Gas. 
+ Technologies\, equipment\, raw-materials and production of chemical indust
+ ry. Collection\, preprocessing\, transportation and storing of oil\, oil p
+ roducts\, and gas\\nVenue: Football Manege Sport Complex\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-chemistry.-oil-gas-230
+ 42-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-chemistry.-oil-gas-23042-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOOD MANUFACTURING — Coventry\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+UID:f-food-manufacturing-32036-1@eventseye.impio-vault
+DESCRIPTION:International trade show dedicated to the latest Innovations in
+  Food Processing\, Production and manufacturing\\nVenue: NAEC Stoneleigh\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-food-m
+ anufacturing-32036-1.html
+LOCATION:Coventry\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-food-manufacturing-32036-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIGHWAYS UK — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-highways-uk-31180-1@eventseye.impio-vault
+DESCRIPTION:The Highways UK event brings together the people responsible fo
+ r planning\, developing\, managing\, maintaining\, and future-proofing the
+  nation's roads networks\\nVenue: National Exhibition Centre\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-highways-uk-31180-
+ 1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-highways-uk-31180-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA FOLDING CARTON — Mumbai\, India
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-india-folding-carton-22903-1@eventseye.impio-vault
+DESCRIPTION:Expo & conference dedicated to the Carton & Box making Industry
+  in India. Showcasing the best solutions involved in the process from manu
+ facturers to dealers of pre-press equipment\, carton making machinery\, pr
+ inting machinery\, and post-print equipment\\nVenue: Bombay Convention & E
+ xhibition Centre (BCEC)\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-india-folding-carton-22903-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-india-folding-carton-22903-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIACORR EXPO — Mumbai\, India
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-indiacorr-expo-19539-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition & Conference on Corrugated Case Manufa
+ cturers Industry. At IndiaCorr Expo\, experience cutting-edge machinery\, 
+ sustainable packaging innovations\, and high-value business leads\\nVenue:
+  Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-indiacorr-expo-19539-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-indiacorr-expo-19539-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOBILITY LIVE AUSTRALIA — Sydney\, Australia
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-mobility-live-australia-31188-1@eventseye.impio-vault
+DESCRIPTION:The Australia's most important mobility event\, where disruptiv
+ e technology and innovation drive much needed change\\nVenue: ICC Sydney -
+  International Convention Centre Sydney\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NATIONAL ROADS & TRAFFIC EXPO - AUSTRALIA — Sydney\, Australia
@@ -6343,6 +6820,22 @@ URL:https://www.eventseye.com/fairs/f-co-ref-vietnam-cold-chain-refrigerati
  on-exhibition-hanoi-33300-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CSCO COMMUNITY EXECUTIVE SUMMIT - USA - NEW YORK — New York\, NY\
+ , USA
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+UID:f-csco-community-executive-summit-usa-new-york-34290-1@eventseye.impio-vault
+DESCRIPTION:Executive summit uniting top CSCOs to tackle shared priorities:
+  AI‑ powered supply chains\, profit under shifting costs\, and frictionl
+ ess performance\, with peer‑ driven keynotes\, boardrooms\, breakouts an
+ d networking\\nVenue: Convene 101 Park Ave\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-csco-community-executive-summit-usa-
+ new-york-34290-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-csco-community-executive-summit-usa-n
+ ew-york-34290-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MINNPACK — Minneapolis\, MN\, USA
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
@@ -6395,426 +6888,6 @@ DESCRIPTION:Viet Cargo Expo stands alone as the premier gathering in the AS
  com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
 LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAPA AIRLINE LEADER SUMMIT - ASIA & SUSTAINABILITY AWARDS — Chito
- se (Hokkaido)\, Japan
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261003
-UID:f-capa-airline-leader-summit-asia-sustainability-awards-31531-1@eventseye.impio-vault
-DESCRIPTION:This two-day summit\, highly regarded as the key industry event
-  for the region\, offers thought leadership\, valuable networking opportun
- ities\, and in-depth insight on the issues and trends that shape the local
-  and global airline industry\\nVenue: New Chitose Airport Portom Hall\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-capa-airl
- ine-leader-summit-asia-sustainability-awards-31531-1.html
-LOCATION:Chitose (Hokkaido)\, Japan
-URL:https://www.eventseye.com/fairs/f-capa-airline-leader-summit-asia-susta
- inability-awards-31531-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAD ASIA — Sapporo\, Japan
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261003
-UID:f-gad-asia-32891-1@eventseye.impio-vault
-DESCRIPTION:The Global Airport Development forum (GAD) is a unique conferen
- ce and networking event dedicated to best practice and innovation in airpo
- rt finance\, management and infrastructure development\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-gad-asia-32891-1.html
-LOCATION:Sapporo\, Japan
-URL:https://www.eventseye.com/fairs/f-gad-asia-32891-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APTA EXPO — Chicago\, IL\, USA
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261008
-UID:f-apta-expo-18820-1@eventseye.impio-vault
-DESCRIPTION:APTA EXPO is public transportation's premier showcase of techno
- logy\, products and services\\nVenue: McCormick Place\\nFrequency: every 3
-  years\\nSource: https://www.eventseye.com/fairs/f-apta-expo-18820-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-apta-expo-18820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMTRANS — Kazan\, Russia
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261010
-UID:f-comtrans-16775-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Commercial Vehicles. Trucks and Ca
- rgo LCV\, Buses and Passenger LCV\, Utility Vehicles\, Trailers and Semi-t
- railers\, Parts and Components\, Service...\\nVenue: Kazanskaya Yarmarka E
- xhibition Centre\\nFrequency: every 2 years\\nSource: https://www.eventsey
- e.com/fairs/f-comtrans-16775-1.html
-LOCATION:Kazan\, Russia
-URL:https://www.eventseye.com/fairs/f-comtrans-16775-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRESH FOOD LOGISTICS — Madrid\, Spain
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-fresh-food-logistics-29072-1@eventseye.impio-vault
-DESCRIPTION:The meeting point for logistics\, mobility\, IT and cold chain 
- management for the food industry\\nVenue: Ifema - Parque Ferial Juan Carlo
- s I\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-f
- resh-food-logistics-29072-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-fresh-food-logistics-29072-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICSE EUROPE — Milan\, Italy
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-icse-europe-12071-1@eventseye.impio-vault
-DESCRIPTION:European exhibition for the pharmaceutical industry and service
- s. Machinery & equipment\, Finished dosage\, Packaging & drug delivery\, C
- ontract services\, Excipients\, Natural extracts\, Fine chemicals...\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-icse-europ
- e-12071-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-icse-europe-12071-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOTEK — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261009
-UID:f-motek-1933-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Automation in Production\, Assembl
- y and Handling Technology. Intelligent solutions diversity in the fields o
- f production and assembly automation\, material flow\, rationalisation thr
- ough industrial handling\\nVenue: New Stuttgart Trade Fair Centre\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-motek-1933-1.
- html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-motek-1933-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALLPRINT INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-UID:f-allprint-indonesia-25395-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition On Printing (Pre-Press\, Press\, Post-
- Press)\, Machinery\, Equipment\, Supplies\\nVenue: Jakarta International E
- xpo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-allprint-indonesia-25395-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-allprint-indonesia-25395-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENVIRONTEC — Budapest\, Hungary
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261010
-UID:f-environtec-34114-1@eventseye.impio-vault
-DESCRIPTION:ENVIRONTEC is an international environmental industry exhibitio
- n in Hungary\, showcasing technologies and solutions for water management\
- , waste treatment and sustainability\, alongside a professional conference
-  program\\nVenue: Budapest Fair Centre\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-environtec-34114-1.html
-LOCATION:Budapest\, Hungary
-URL:https://www.eventseye.com/fairs/f-environtec-34114-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENVIROPRO STRASBOURG — Strasbourg\, France
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261009
-UID:f-enviropro-strasbourg-34180-1@eventseye.impio-vault
-DESCRIPTION:Expo dedicated to environmental solutions and technologies\, wi
- th public economic actors (Communities\, Communities\, Administrations\, T
- erritories\, etc.) private (Industry\, Construction\, Transport\, Logistic
- s\, Trade\, Agriculture\, Tourism\, Services\, etc.)\\nVenue: Parc des exp
- ositions de Strasbourg\\nFrequency: unknown\\nSource: https://www.eventsey
- e.com/fairs/f-enviropro-strasbourg-34180-1.html
-LOCATION:Strasbourg\, France
-URL:https://www.eventseye.com/fairs/f-enviropro-strasbourg-34180-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDO SIGN & ADVERTISING EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-UID:f-indo-sign-advertising-expo-25396-1@eventseye.impio-vault
-DESCRIPTION:INDO SIGN & ADVERTISING EXPO is an international Exhibition On 
- Sign and Advertising. Held in conjunction with ALLPRINT EXPO\\nVenue: Jaka
- rta International Expo (JIExpo)\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-indo-sign-advertising-expo-25396-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indo-sign-advertising-expo-25396-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTER CORRUGATED EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-UID:f-inter-corrugated-expo-21376-1@eventseye.impio-vault
-DESCRIPTION:Indonesia's International Trade Corrugated Carton Exhibition. T
- echnology\, Equipment\, Supplies and Machinery\\nVenue: Jakarta Internatio
- nal Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-inter-corrugated-expo-21376-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inter-corrugated-expo-21376-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOGISTICS SUMMIT — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261009
-UID:f-logistics-summit-31800-1@eventseye.impio-vault
-DESCRIPTION:The Logistics Summit is the trade fair and conference for digit
- alisation and innovation in both intralogistics and transport logistics. T
- op-class speakers\, discussion panels with leading experts\, workshops wit
- h applicable know-how and innovative suppliers\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-logistics-summit-31800-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-logistics-summit-31800-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIAC — Lucca\, Italy
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261010
-UID:f-miac-9400-1@eventseye.impio-vault
-DESCRIPTION:International trade show for Technologies & Machinery for the P
- roduction of Paper/Paperboard & for the Converting of Tissue Paper. Machin
- es\, equipment\, systems & solutions to improve the management of the vari
- ous stages in the paper production cycle\\nVenue: Lucca Fiere\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-miac-9400-1.html
-LOCATION:Lucca\, Italy
-URL:https://www.eventseye.com/fairs/f-miac-9400-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOBILE ROBOTICS SUMMIT — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261009
-UID:f-mobile-robotics-summit-31799-1@eventseye.impio-vault
-DESCRIPTION:Conference & expo for digitization and innovation for the imple
- mentation of mobile robotics systems in enterprise operations. Top-class s
- peakers\, panel discussions among leading experts\, workshops with applica
- ble expertise such as innovative providers\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-mobile-robotics-summit-31799-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-mobile-robotics-summit-31799-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRO LABEL ASIA EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261011
-UID:f-pro-label-asia-expo-27466-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition On Total Solution for Printing Technol
- ogy\, Equipment\, Supplies and Machinery Supplies\\nVenue: Jakarta Interna
- tional Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-pro-label-asia-expo-27466-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-pro-label-asia-expo-27466-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:360 FOOD SYRIA — Damascus\, Syria
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261011
-UID:f-360-food-syria-33892-1@eventseye.impio-vault
-DESCRIPTION:Syria's first international showcase for food\, beverages\, hos
- pitality\, and food technology. A large-scale showcase designed for busine
- ss\, networking\, and product launches\\nVenue: Damascus International Fai
- rground\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-360-food-syria-33892-1.html
-LOCATION:Damascus\, Syria
-URL:https://www.eventseye.com/fairs/f-360-food-syria-33892-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACKPRINTPLAS - MANILA — Manila\, Philippines
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261011
-UID:f-packprintplas-manila-25188-1@eventseye.impio-vault
-DESCRIPTION:International Packaging\, Printing\, Plastics Machinery\, Techn
- ology\, Products\, and Services Exhibition\, serving the Philippines marke
- t and neighboring countries in the region.​\\nVenue: SMX Exhibition and 
- Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-packprintplas-manila-25188-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-packprintplas-manila-25188-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WEST AFRICA PLASTPRINTPACK - ABIDJAN — Abidjan\, Ivory Coast
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261011
-UID:f-west-africa-plastprintpack-abidjan-25531-1@eventseye.impio-vault
-DESCRIPTION:West Africa’s International Plastics\, Printing and Packaging
-  Trade Show\\nVenue: Parc des Expositions Abidjan\\nFrequency: every 2 yea
- rs\\nSource: https://www.eventseye.com/fairs/f-west-africa-plastprintpack-
- abidjan-25531-1.html
-LOCATION:Abidjan\, Ivory Coast
-URL:https://www.eventseye.com/fairs/f-west-africa-plastprintpack-abidjan-25
- 531-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOOD & PACKAGE FAIR SHYMKENT — Shymkent\, Kazakhstan
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-UID:f-food-package-fair-shymkent-33729-1@eventseye.impio-vault
-DESCRIPTION:FOOD & PACKAGE FAIR SHYMKENT is the leading trade exhibition in
-  the southern region of Kazakhstan\, dedicated to the latest trends and te
- chnologies in the food industry\\nVenue: Exhibition Center 'Korme Ortalagy
- '\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-fo
- od-package-fair-shymkent-33729-1.html
-LOCATION:Shymkent\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-food-package-fair-shymkent-33729-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALL IN PRINT CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-UID:f-all-in-print-china-5437-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for all China Printing Technology & Eq
- uipment. All in Print China is one of the most influential exhibitions in 
- China's printing industry\\nVenue: Shanghai New International Expo Centre 
- - SNIEC\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-all-in-print-china-5437-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-all-in-print-china-5437-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COMMUNTECH — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:f-communtech-6901-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Engineering Technologies and Equip
- ment for Municipal Economy. Energy- and resource saving technologies\, equ
- ipment\, materials for communal heat‑ power engineering\, water supply a
- nd drainage systems...\\nVenue: Kiev International Exhibition Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-communtech
- -6901-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-communtech-6901-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EURASIA PACKAGING ISTANBUL — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261017
-UID:f-eurasia-packaging-istanbul-1599-1@eventseye.impio-vault
-DESCRIPTION:International Packaging Industry Fair. Eurasia Packaging Istanb
- ul Fair is the most comprehensive annual show in the packaging industry in
-  Eurasia\\nVenue: Tüyap Fair Convention and Congress Center\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-eurasia-packaging-
- istanbul-1599-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-eurasia-packaging-istanbul-1599-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRF ASIA REGIONAL CONGRESS — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:f-irf-asia-regional-congress-23490-1@eventseye.impio-vault
-DESCRIPTION:Asia Road Meeting & Exhibition. IRF Asia Regional Congress will
-  address the specific needs of the region by bringing together industry le
- aders\, experts and decision-makers\\nVenue: Putra World Trade Centre (PWT
- C)\\nFrequency: every 4 years\\nSource: https://www.eventseye.com/fairs/f-
- irf-asia-regional-congress-23490-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-irf-asia-regional-congress-23490-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POST & DELIVERY EXPO UA — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:f-post-delivery-expo-ua-28660-1@eventseye.impio-vault
-DESCRIPTION:Trade Show dedicated to Postal delivery services\, Courier deli
- very\, Express delivery\, e-Commerce\, Warehouse equipment\, conveyor syst
- ems\, Parcel sorting and handling technologies\, Packaging and order batch
- ing...\\nVenue: Kiev International Exhibition Center\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-post-delivery-expo-ua-2866
- 0-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-post-delivery-expo-ua-28660-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD AVIATION FESTIVAL — Lisbon\, Portugal
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261016
-UID:f-world-aviation-festival-31144-1@eventseye.impio-vault
-DESCRIPTION:The World Aviation Festival is a conference and an exhibition. 
- The event is for the leaders of the world’s airlines\, airports and thei
- r most senior executives in charge of software\, services\, marketing and 
- distribution\\nVenue: Feira Internacional de Lisboa\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-world-aviation-festival-311
- 44-1.html
-LOCATION:Lisbon\, Portugal
-URL:https://www.eventseye.com/fairs/f-world-aviation-festival-31144-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMISTRY. OIL & GAS — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-chemistry.-oil-gas-23042-1@eventseye.impio-vault
-DESCRIPTION:International Specialized Exhibition of Chemistry\, Oil & Gas. 
- Technologies\, equipment\, raw-materials and production of chemical indust
- ry. Collection\, preprocessing\, transportation and storing of oil\, oil p
- roducts\, and gas\\nVenue: Football Manege Sport Complex\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-chemistry.-oil-gas-230
- 42-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-chemistry.-oil-gas-23042-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOOD MANUFACTURING — Coventry\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-UID:f-food-manufacturing-32036-1@eventseye.impio-vault
-DESCRIPTION:International trade show dedicated to the latest Innovations in
-  Food Processing\, Production and manufacturing\\nVenue: NAEC Stoneleigh\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-food-m
- anufacturing-32036-1.html
-LOCATION:Coventry\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-food-manufacturing-32036-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIGHWAYS UK — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-highways-uk-31180-1@eventseye.impio-vault
-DESCRIPTION:The Highways UK event brings together the people responsible fo
- r planning\, developing\, managing\, maintaining\, and future-proofing the
-  nation's roads networks\\nVenue: National Exhibition Centre\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-highways-uk-31180-
- 1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-highways-uk-31180-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA FOLDING CARTON — Mumbai\, India
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-india-folding-carton-22903-1@eventseye.impio-vault
-DESCRIPTION:Expo & conference dedicated to the Carton & Box making Industry
-  in India. Showcasing the best solutions involved in the process from manu
- facturers to dealers of pre-press equipment\, carton making machinery\, pr
- inting machinery\, and post-print equipment\\nVenue: Bombay Convention & E
- xhibition Centre (BCEC)\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-india-folding-carton-22903-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-india-folding-carton-22903-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIACORR EXPO — Mumbai\, India
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-indiacorr-expo-19539-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition & Conference on Corrugated Case Manufa
- cturers Industry. At IndiaCorr Expo\, experience cutting-edge machinery\, 
- sustainable packaging innovations\, and high-value business leads\\nVenue:
-  Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-indiacorr-expo-19539-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-indiacorr-expo-19539-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOBILITY LIVE AUSTRALIA — Sydney\, Australia
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-mobility-live-australia-31188-1@eventseye.impio-vault
-DESCRIPTION:The Australia's most important mobility event\, where disruptiv
- e technology and innovation drive much needed change\\nVenue: ICC Sydney -
-  International Convention Centre Sydney\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-mobility-live-australia-31188-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VWAS - VIETNAM WAREHOUSING & AUTOMATION SHOW - HANOI — Hanoi\, Vi
@@ -7761,6 +7834,19 @@ URL:https://www.eventseye.com/fairs/f-ethiopia-food-expo-ethiopia-foodpack-
  expo-31060-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HVAC ASIA - HENGQIN — Zhuhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-hvac-asia-hengqin-34313-1@eventseye.impio-vault
+DESCRIPTION:Asia International Heating\, Water Supply\, Ventilation\, Air C
+ onditioning\, Refrigeration， Sanitary & Home Comfort System Exhibition\\
+ nVenue: Tianmu Qintai Conference and Exhibition Center\, Hengqin\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-hvac-asia-heng
+ qin-34313-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-hvac-asia-hengqin-34313-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MEGA CLIMA EXPO - ALGERIA — Algiers\, Algeria
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
@@ -7805,6 +7891,20 @@ URL:https://www.eventseye.com/fairs/f-print-2-pack-saudi-arabia-31595-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PROPACK ASIA - HENGQIN — Zhuhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-propack-asia-hengqin-34318-1@eventseye.impio-vault
+DESCRIPTION:International Food Processing and Packaging Machinery Exhibitio
+ n. Exhibit Categories: Processing Technology\, Packaging Technology\, Logi
+ stics\, Printing Technology\, Packaging Material & Products...\\nVenue: Ti
+ anmu Qintai Conference and Exhibition Center\, Hengqin\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-propack-asia-hengqin-343
+ 18-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-propack-asia-hengqin-34318-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SWOP — Shanghai\, China
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261119
@@ -7826,9 +7926,9 @@ UID:f-technoprint-hengqin-34242-1@eventseye.impio-vault
 DESCRIPTION:International trade fair for printing machinery and technologie
  s\, materials and consumables. Inks and toners\, printers and copiers\, Di
  gital\, offset & large format printing\, 3D printers\, print plotters\, su
- blimation printers\, textile printing machines...\\nVenue: Zhuhai Internat
- ional Convention & Exhibition Center\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-technoprint-hengqin-34242-1.html
+ blimation printers\, textile printing machines...\\nVenue: Tianmu Qintai C
+ onference and Exhibition Center\, Hengqin\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-technoprint-hengqin-34242-1.html
 LOCATION:Zhuhai\, China
 URL:https://www.eventseye.com/fairs/f-technoprint-hengqin-34242-1.html
 END:VEVENT
@@ -7996,6 +8096,18 @@ URL:https://www.eventseye.com/fairs/f-guangzhou-international-screen-printi
  ng-industrial-ink-jet-printing-digital-intelligent-printing-32658-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HVAC ASIA - MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-hvac-asia-macao-34307-1@eventseye.impio-vault
+DESCRIPTION:Asia International Heating\, Water Supply\, Ventilation\, Air C
+ onditioning\, Refrigeration， Sanitary & Home Comfort System Exhibition\\
+ nVenue: The Venetian Macao - Resort - Hotel\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-hvac-asia-macao-34307-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-hvac-asia-macao-34307-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INDO MARINE — Jakarta\, Indonesia
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261122
@@ -8048,6 +8160,19 @@ LOCATION:Jakarta\, Indonesia
 URL:https://www.eventseye.com/fairs/f-plastics-rubber-indonesia-4945-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PROPACK ASIA - MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-propack-asia-macao-34317-1@eventseye.impio-vault
+DESCRIPTION:International Food Processing and Packaging Machinery Exhibitio
+ n. Exhibit Categories: Processing Technology\, Packaging Technology\, Logi
+ stics\, Printing Technology\, Packaging Material & Products...\\nVenue: Th
+ e Venetian Macao - Resort - Hotel\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-propack-asia-macao-34317-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-propack-asia-macao-34317-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RETAIL SHOW FAIR — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
@@ -8087,20 +8212,6 @@ DESCRIPTION:Exhibition for the B2B retail sector in Poland. RetailShow is a
  fairs/f-retailshow-19306-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-retailshow-19306-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECHNOPRINT MACAO — Macau\, Macao
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-technoprint-macao-34243-1@eventseye.impio-vault
-DESCRIPTION:International trade fair for printing machinery and technologie
- s\, materials and consumables. Inks and toners\, printers and copiers\, Di
- gital\, offset & large format printing\, 3D printers\, print plotters\, su
- blimation printers\, textile printing machines...\\nVenue: The Venetian Ma
- cao - Resort - Hotel\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-technoprint-macao-34243-1.html
-LOCATION:Macau\, Macao
-URL:https://www.eventseye.com/fairs/f-technoprint-macao-34243-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THAILAND SMART CITY EXPO — Bangkok\, Thailand
@@ -8689,6 +8800,19 @@ URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-saudi-arabia-323
  77-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OMAN PLAST — Muscat\, Oman
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+UID:f-oman-plast-22112-1@eventseye.impio-vault
+DESCRIPTION:International Plastics\, Rubber\, Petrochemical\, Chemicals\, F
+ ertilizers\, Plastics Recycling\, Printing and Packaging Industry Exhibiti
+ on & Conference\\nVenue: Oman Convention & Exhibition Centre\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-oman-plast-22112-1
+ .html
+LOCATION:Muscat\, Oman
+URL:https://www.eventseye.com/fairs/f-oman-plast-22112-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SEATRADE MARITIME QATAR — Doha\, Qatar
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
@@ -9095,6 +9219,20 @@ DESCRIPTION:Smart Energy Forum. Open Energies brings together producers\, r
  Source: https://www.eventseye.com/fairs/f-open-energies-33769-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-open-energies-33769-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PDC - PAPER DISTRIBUTION CONFERENCE — Naples\, FL\, USA
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-pdc-paper-distribution-conference-15831-1@eventseye.impio-vault
+DESCRIPTION:Paper Industry International Conference. Throughout the 'Paper 
+ Distribution Conference'\, you will have the opportunity to soak up sun\, 
+ skills\, and new contacts\\nVenue: The Ritz-Carlton Golf Resort\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-pdc-paper-distr
+ ibution-conference-15831-1.html
+LOCATION:Naples\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-pdc-paper-distribution-conference-158
+ 31-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IPF BANGLADESH — Dhaka\, Bangladesh
@@ -10038,6 +10176,20 @@ LOCATION:Lyon\, France
 URL:https://www.eventseye.com/fairs/f-global-industrie-29071-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INDUSTRIE LYON — Lyon\, France
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270319
+UID:f-industrie-lyon-6649-1@eventseye.impio-vault
+DESCRIPTION:The Professional Manufacturing Technologies Exhibition. Top Eur
+ opean exhibition which will group together all solutions in terms of equip
+ ment\, components\, products and services for stages of industrial manufac
+ turing\, from design through to production\\nVenue: Eurexpo\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-industrie-lyon-66
+ 49-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-industrie-lyon-6649-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PLÁSTICO BRASIL — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270320
@@ -10746,6 +10898,22 @@ LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-intermodal-south-america-4376-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MALMS - MILITARY AVIATION LOGISTICS & MAINTENANCE SYMPOSIUM — Orl
+ ando\, FL\, USA
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+UID:f-malms-military-aviation-logistics-maintenance-symposium-30687-1@eventseye.impio-vault
+DESCRIPTION:MALMS is a dynamic forum for members of the U.S. Military and p
+ ublic/private sectors of the aerospace industry to discuss process improve
+ ments and operational readiness concerns regarding aircraft maintenance an
+ d sustainment capabilities\\nVenue: Orange County Convention Center\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-malms-milit
+ ary-aviation-logistics-maintenance-symposium-30687-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-malms-military-aviation-logistics-mai
+ ntenance-symposium-30687-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:O'ZUPACK — Tashkent\, Uzbekistan
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
@@ -11308,8 +11476,10 @@ DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270528
 UID:f-southmach-christchurch-9222-1@eventseye.impio-vault
 DESCRIPTION:The South Island's largest Manufacturing Technology Industry Ex
- hibition\\nVenue: Horncastle Arena\\nFrequency: every 2 years\\nSource: ht
- tps://www.eventseye.com/fairs/f-southmach-christchurch-9222-1.html
+ hibition. SouthMACH is the South Island’s leading industry trade event\,
+  spotlighting the latest developments in manufacturing\, engineering and t
+ echnology\\nVenue: Horncastle Arena\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-southmach-christchurch-9222-1.html
 LOCATION:Christchurch\, New Zealand
 URL:https://www.eventseye.com/fairs/f-southmach-christchurch-9222-1.html
 END:VEVENT

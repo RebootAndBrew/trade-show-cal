@@ -84,8 +84,8 @@ DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
  \, making safe deals and networking. It gives the opportunity to discuss w
  ith professionals the issues of buying/renting real estate abroad\, to get
   adviced on mortgages\, taxes investments...\\nVenue: InterContinental Ist
- anbul\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -united-property-invest-show-turkey-istanbul-32875-1.html
+ anbul\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/
+ f-united-property-invest-show-turkey-istanbul-32875-1.html
 LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-united-property-invest-show-turkey-is
  tanbul-32875-1.html
@@ -744,6 +744,19 @@ LOCATION:Brest\, France
 URL:https://www.eventseye.com/fairs/f-viving-brest-32558-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VIVING BREST — Brest\, France
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+UID:f-viving-brest-15669-1@eventseye.impio-vault
+DESCRIPTION:Brest Home Fair. Construction\, renovation\, promotion\, financ
+ ing\, opening & closing\, insulation\, energy production\, heating & air c
+ onditioning\, decoration & furnishing\, kitchen & bath\, household art\, e
+ xteriors\, DIY\\nVenue: Parc des expositions Penfeld\\nFrequency: twice a 
+ year\\nSource: https://www.eventseye.com/fairs/f-viving-brest-15669-1.html
+LOCATION:Brest\, France
+URL:https://www.eventseye.com/fairs/f-viving-brest-15669-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CITYSCAPE QATAR — Doha\, Qatar
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261007
@@ -1225,6 +1238,20 @@ LOCATION:Riyadh\, Saudi Arabia
 URL:https://www.eventseye.com/fairs/f-cityscape-global-saudi-6077-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:APS - ASIA INTERNATIONAL PROPERTY SHOW — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-aps-asia-international-property-show-34305-1@eventseye.impio-vault
+DESCRIPTION:Asia International Property Show. Exhibit Categories: Real Esta
+ te Development\, Real Estate Services\, Architecture\, Design & Supporting
+  Urban Development & Investment...\\nVenue: The Venetian Macao - Resort - 
+ Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -aps-asia-international-property-show-34305-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-aps-asia-international-property-show-
+ 34305-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FORUM DES SENIORS ATLANTIQUE — Nantes\, France
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261122
@@ -1330,6 +1357,21 @@ DESCRIPTION:SOLUCOP is the essential meeting place for co-owners and proper
  ps://www.eventseye.com/fairs/f-solucop-nice-33448-1.html
 LOCATION:Nice\, France
 URL:https://www.eventseye.com/fairs/f-solucop-nice-33448-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+UID:f-united-property-invest-show-india-33519-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Sahara Star Hotel\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-united
+ -property-invest-show-india-33519-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-india-335
+ 19-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JAPAN BUILD - TOKYO — Tokyo\, Japan

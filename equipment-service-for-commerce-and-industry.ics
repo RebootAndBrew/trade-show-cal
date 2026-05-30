@@ -689,20 +689,6 @@ URL:https://www.eventseye.com/fairs/f-asia-floriculture-horticulture-trade-
  fair-asia-flower-expo-27874-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WEB WORLD EXPO - ECDM EXPO GREECE & SE EUROPE — Athens\, Greece
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260517
-UID:f-web-world-expo-ecdm-expo-greece-se-europe-29305-1@eventseye.impio-vault
-DESCRIPTION:Web Based Technologies Exhibition. The biggest exhibition on eC
- ommerce & Digital Marketing in Southeastern Europe\\nVenue: Zappeion Megar
- on Exhibition Hall and Conference Centre\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-web-world-expo-ecdm-expo-greece-se-eur
- ope-29305-1.html
-LOCATION:Athens\, Greece
-URL:https://www.eventseye.com/fairs/f-web-world-expo-ecdm-expo-greece-se-eu
- rope-29305-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE FRANCHISE EXPO - WASHINGTON D.C. — Fairfax\, VA\, USA
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260518
@@ -793,19 +779,6 @@ DESCRIPTION:ASCEND is a new event designed to accelerate space commerce\, e
  www.eventseye.com/fairs/f-ascend-28996-1.html
 LOCATION:Washington D.C.\, USA
 URL:https://www.eventseye.com/fairs/f-ascend-28996-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLD-TECH EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260522
-UID:f-cold-tech-expo-33200-1@eventseye.impio-vault
-DESCRIPTION:Cold-Tech Poland is the leading refrigeration technology trade 
- fair in Central Europe. The event showcases cutting-edge cooling systems\,
-  energy efficiency solutions\, and innovations for industrial and commerci
- al applications\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EUROPEAN SIGN EXPO — Barcelona\, Spain
@@ -966,6 +939,19 @@ DESCRIPTION:Forum discussing disruptive forces\, challenges and opportuniti
 LOCATION:Hamburg\, Germany
 URL:https://www.eventseye.com/fairs/f-polymer-sourcing-distribution-europe-
  28374-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITI EXPO — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260522
+UID:f-uniti-expo-28865-1@eventseye.impio-vault
+DESCRIPTION:UNITI EXPO is the leading service station and car wash trade fa
+ ir in Europe. Technology\, payment & logistics\, car wash & car care\, oil
+  companies & fuel retailers\, shop & convenience\, future mobility...\\nVe
+ nue: New Stuttgart Trade Fair Centre\\nFrequency: every 2 years\\nSource: 
+ https://www.eventseye.com/fairs/f-uniti-expo-28865-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-uniti-expo-28865-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAKERY CHINA — Shanghai\, China
@@ -1573,6 +1559,20 @@ LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-asean-retail-show-23020-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WEB WORLD EXPO - ECDM EXPO GREECE & SE EUROPE — Athens\, Greece
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260607
+UID:f-web-world-expo-ecdm-expo-greece-se-europe-29305-1@eventseye.impio-vault
+DESCRIPTION:Web Based Technologies Exhibition. The biggest exhibition on eC
+ ommerce & Digital Marketing in Southeastern Europe\\nVenue: Zappeion Megar
+ on Exhibition Hall and Conference Centre\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-web-world-expo-ecdm-expo-greece-se-eur
+ ope-29305-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-web-world-expo-ecdm-expo-greece-se-eu
+ rope-29305-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BITAC CASINO RESORTS — Scottsdale\, AZ\, USA
 DTSTART;VALUE=DATE:20260607
 DTEND;VALUE=DATE:20260610
@@ -1637,6 +1637,19 @@ DESCRIPTION:At Bar Convent Brooklyn\, bar and beverage professionals are in
  s/f-bcb-bar-convent-brooklyn-29933-1.html
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-bcb-bar-convent-brooklyn-29933-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLD-TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+UID:f-cold-tech-expo-33200-1@eventseye.impio-vault
+DESCRIPTION:Cold-Tech Poland is the leading refrigeration technology trade 
+ fair in Central Europe. The event showcases cutting-edge cooling systems\,
+  energy efficiency solutions\, and innovations for industrial and commerci
+ al applications\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-cold-tech-expo-33200-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CRUISE XPERIENCE INNOVATION SUMMIT AMERICAS — Miami\, FL\, USA
@@ -2631,19 +2644,6 @@ URL:https://www.eventseye.com/fairs/f-tfbo-thailand-franchise-business-oppo
  rtunity-28344-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AFFILIATE SUMMIT EAST — New York\, NY\, USA
-DTSTART;VALUE=DATE:20260727
-DTEND;VALUE=DATE:20260729
-UID:f-affiliate-summit-east-22749-1@eventseye.impio-vault
-DESCRIPTION:Affiliate Marketing Conference & Expo. Affiliate Summit East pr
- ovides educational sessions on the latest industry issues and fosters a pr
- oductive networking environment for affiliate marketers\\nVenue: New York 
- Marriott Marquis\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-affiliate-summit-east-22749-1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-affiliate-summit-east-22749-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ISC BRASIL — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260903
@@ -3172,10 +3172,10 @@ SUMMARY:VEND ASEAN — Kuala Lumpur\, Malaysia
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260913
 UID:f-vend-asean-27036-1@eventseye.impio-vault
-DESCRIPTION:Asean (Bangkok) Vending Machine & Self-Service Facilities Expo\
- \nVenue: Malaysia International Trade & Exhibition Centre (MITEC)\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-vend-asean-27
- 036-1.html
+DESCRIPTION:Asean (Bangkok) Vending Machine & Self-Service Facilities Expo.
+  Co-located with "International Vending Industry Forum"\\nVenue: Malaysia 
+ International Trade & Exhibition Centre (MITEC)\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-vend-asean-27036-1.html
 LOCATION:Kuala Lumpur\, Malaysia
 URL:https://www.eventseye.com/fairs/f-vend-asean-27036-1.html
 END:VEVENT
@@ -3203,6 +3203,19 @@ DESCRIPTION:Lift Expo Georgia is the exclusive international exhibition foc
  html
 LOCATION:Tbilisi\, Georgia
 URL:https://www.eventseye.com/fairs/f-lift-expo-georgia-34023-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFFILIATE SUMMIT EAST — New York\, NY\, USA
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260729
+UID:f-affiliate-summit-east-22749-1@eventseye.impio-vault
+DESCRIPTION:Affiliate Marketing Conference & Expo. Affiliate Summit East pr
+ ovides educational sessions on the latest industry issues and fosters a pr
+ oductive networking environment for affiliate marketers\\nVenue: New York 
+ Marriott Marquis\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-affiliate-summit-east-22749-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-affiliate-summit-east-22749-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CAPA AIRLINE AVIATION SUMMIT - AUSTRALIA PACIFIC — Adelaide\, Aus
@@ -3789,6 +3802,19 @@ URL:https://www.eventseye.com/fairs/f-americas-food-beverage-show-conferenc
  e-33484-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MONEY 20/20 MIDDLE EAST — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260917
+UID:f-money-20-20-middle-east-34294-1@eventseye.impio-vault
+DESCRIPTION:Money20/20 is the largest global event focused on payments and 
+ financial services innovation for connected commerce at the intersection o
+ f mobile\, retail\, marketing services\, data and technology\\nVenue: Riya
+ dh International Exhibition Centre\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-money-20-20-middle-east-34294-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-money-20-20-middle-east-34294-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SIEMA — Casablanca\, Morocco
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260917
@@ -4169,18 +4195,6 @@ DESCRIPTION:A 3-day conference dedicated to marketers\, digital companies\,
  nSource: https://www.eventseye.com/fairs/f-awsummit-31487-1.html
 LOCATION:Bucharest\, Romania
 URL:https://www.eventseye.com/fairs/f-awsummit-31487-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEXCARE ASIA — Shanghai\, China
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260924
-UID:f-texcare-asia-27927-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Textile Laundry\, Leather Care\, C
- leaning Technology and Equipment\\nVenue: Shanghai New International Expo 
- Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-texcare-asia-27927-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-texcare-asia-27927-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEAUTY TRENDS & INNOVATIONS — London\, UK - United Kingdom
@@ -5113,9 +5127,9 @@ DTEND;VALUE=DATE:20261005
 UID:f-spacioboda-zaragoza-34161-1@eventseye.impio-vault
 DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
  ully selected vendors. Connect directly\, compare options easily\, and fin
- d the right partners to plan your wedding in an inspiring setting\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-spacioboda-za
- ragoza-34161-1.html
+ d the right partners to plan your wedding in an inspiring setting\\nVenue:
+  Hotel Vinci Zaragoza Zentro\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-spacioboda-zaragoza-34161-1.html
 LOCATION:Zaragoza\, Spain
 URL:https://www.eventseye.com/fairs/f-spacioboda-zaragoza-34161-1.html
 END:VEVENT
@@ -5987,6 +6001,20 @@ URL:https://www.eventseye.com/fairs/f-ifs-international-franchise-show-3048
  8-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POLISH FRANCHISE EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+UID:f-polish-franchise-expo-10512-1@eventseye.impio-vault
+DESCRIPTION:Warsaw Franchise Fair is the perfect place to exchange contacts
+  and meet potential business partners. It is an excellent opportunity for 
+ franchise companies to meet potential franchisees and develop their busine
+ sses in Poland\\nVenue: Palace of Culture & Science\\nFrequency: twice a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-polish-franchise-expo-1051
+ 2-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-polish-franchise-expo-10512-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RACC EXPO — Hangzhou\, China
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261025
@@ -6392,9 +6420,9 @@ DTEND;VALUE=DATE:20261102
 UID:f-spacioboda-santander-34162-1@eventseye.impio-vault
 DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
  ully selected vendors. Connect directly\, compare options easily\, and fin
- d the right partners to plan your wedding in an inspiring setting\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-spacioboda-sa
- ntander-34162-1.html
+ d the right partners to plan your wedding in an inspiring setting\\nVenue:
+  Hotel Bahia\, Santander\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-spacioboda-santander-34162-1.html
 LOCATION:Santander\, Spain
 URL:https://www.eventseye.com/fairs/f-spacioboda-santander-34162-1.html
 END:VEVENT
@@ -6771,6 +6799,39 @@ DESCRIPTION:The “Alles für den Gast” is the largest trade fair for the
  0006-1.html
 LOCATION:Salzburg\, Austria
 URL:https://www.eventseye.com/fairs/f-alles-fur-den-gast-20006-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON STUDYRAMA DES FORMATIONS ART\, COMMUNICATION ET DIGITAL D'ANG
+ OULÊME — Angoulême\, France
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:f-salon-studyrama-des-formations-art-communication-et-digital-d-angouleme-33604-1@eventseye.impio-vault
+DESCRIPTION:To help you build your career plans\, many professionals and sp
+ ecialists from the art\, communication\, film and digital sectors will be 
+ happy to discuss topics related to the various professions and job opportu
+ nities\\nVenue: Espace Carat\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-salon-studyrama-des-formations-art-communication-e
+ t-digital-d-angouleme-33604-1.html
+LOCATION:Angoulême\, France
+URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-art-co
+ mmunication-et-digital-d-angouleme-33604-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON STUDYRAMA DES FORMATIONS ART\, COMMUNICATION ET DIGITAL ET CI
+ NEMA DE TOULOUSE — Toulouse\, France
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:f-salon-studyrama-des-formations-art-communication-et-digital-et-cinema-de-toulouse-30533-1@eventseye.impio-vault
+DESCRIPTION:To help you build your career plans\, many professionals and sp
+ ecialists from the art\, communication\, film and digital sectors will be 
+ happy to discuss topics related to the various professions and job opportu
+ nities\\nVenue: MEETT - Parc des Expositions et Centre de Conventions\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-stu
+ dyrama-des-formations-art-communication-et-digital-et-cinema-de-toulouse-3
+ 0533-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-art-co
+ mmunication-et-digital-et-cinema-de-toulouse-30533-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SPACIOBODA - BILBAO — Bilbao\, Spain
@@ -7173,6 +7234,22 @@ URL:https://www.eventseye.com/fairs/f-taiwan-international-food-products-eq
  uipment-fair-9080-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SALON STUDYRAMA DES FORMATIONS ART\, COMMUNICATION ET DIGITAL ET CI
+ NEMA DE MONTPELLIER — Montpellier\, France
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:f-salon-studyrama-des-formations-art-communication-et-digital-et-cinema-de-montpellier-33617-1@eventseye.impio-vault
+DESCRIPTION:To help you build your career plans\, many professionals and sp
+ ecialists from the art\, communication\, film and digital sectors will be 
+ happy to discuss topics related to the various professions and job opportu
+ nities\\nVenue: Montpellier - Parc des Expositions\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-salon-studyrama-des-formatio
+ ns-art-communication-et-digital-et-cinema-de-montpellier-33617-1.html
+LOCATION:Montpellier\, France
+URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-art-co
+ mmunication-et-digital-et-cinema-de-montpellier-33617-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE FRANCHISE EXPO - ATLANTA — Atlanta\, GA\, USA
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
@@ -7228,6 +7305,20 @@ LOCATION:Rosemont\, IL\, USA
 URL:https://www.eventseye.com/fairs/f-plma-6591-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:APLF - ASIA PRIVATE LABEL FAIR - HENGQIN — Zhuhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-aplf-asia-private-label-fair-hengqin-34312-1@eventseye.impio-vault
+DESCRIPTION:Asia Private Label Fair. Exhibit categories: Food & Beverage\, 
+ Daily Necessities\, Beauty & Personal Care\, Home & Textiles\, OEM/ODM\, N
+ ew Retail...\\nVenue: Tianmu Qintai Conference and Exhibition Center\, Hen
+ gqin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ aplf-asia-private-label-fair-hengqin-34312-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-aplf-asia-private-label-fair-hengqin-
+ 34312-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BELGIUM TRAVEL EXPO - NIVELLES — Nivelles\, Belgium
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
@@ -7280,6 +7371,36 @@ DESCRIPTION:Professional and interactive exhibition for hotels\, restaurant
  ye.com/fairs/f-gastro-rostock-16668-1.html
 LOCATION:Rostock\, Germany
 URL:https://www.eventseye.com/fairs/f-gastro-rostock-16668-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORECA - ASIA HOTEL RESTAURANT CATERING EXHIBITION - HENGQIN — Zh
+ uhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-horeca-asia-hotel-restaurant-catering-exhibition-hengqin-34320-1@eventseye.impio-vault
+DESCRIPTION:Asia Hotel\, Restaurant & Catering Exhibition. Coffee and Tea\,
+  Ice Cream & Baking\, Comprehensive Food\, Kitchen Supplies\, Catering Des
+ ign & Supporting Facilities\, Materials and Household Products\, Hotel Sup
+ plies\, Franchise & Catering Investment...\\nVenue: Tianmu Qintai Conferen
+ ce and Exhibition Center\, Hengqin\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-horeca-asia-hotel-restaurant-catering-exhibi
+ tion-hengqin-34320-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-horeca-asia-hotel-restaurant-catering
+ -exhibition-hengqin-34320-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HVAC ASIA - HENGQIN — Zhuhai\, China
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261118
+UID:f-hvac-asia-hengqin-34313-1@eventseye.impio-vault
+DESCRIPTION:Asia International Heating\, Water Supply\, Ventilation\, Air C
+ onditioning\, Refrigeration， Sanitary & Home Comfort System Exhibition\\
+ nVenue: Tianmu Qintai Conference and Exhibition Center\, Hengqin\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-hvac-asia-heng
+ qin-34313-1.html
+LOCATION:Zhuhai\, China
+URL:https://www.eventseye.com/fairs/f-hvac-asia-hengqin-34313-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INTERLEATHER & SHOES - SPAIN — Madrid\, Spain
@@ -7467,6 +7588,20 @@ LOCATION:Tashkent\, Uzbekistan
 URL:https://www.eventseye.com/fairs/f-uzprodexpo-18544-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:APLF - ASIA PRIVATE LABEL FAIR - MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-aplf-asia-private-label-fair-macao-34306-1@eventseye.impio-vault
+DESCRIPTION:Asia Private Label Fair. Exhibit categories: Food & Beverage\, 
+ Daily Necessities\, Beauty & Personal Care\, Home & Textiles\, OEM/ODM\, N
+ ew Retail...\\nVenue: The Venetian Macao - Resort - Hotel\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-aplf-asia-private-lab
+ el-fair-macao-34306-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-aplf-asia-private-label-fair-macao-34
+ 306-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:B2B MARKETING EXPO — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
@@ -7531,6 +7666,35 @@ DESCRIPTION:Dutch lighting fair\, where lighting designers\, architects\, c
  hting-31961-1.html
 LOCATION:Gorinchem\, Netherlands
 URL:https://www.eventseye.com/fairs/f-future-lighting-31961-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORECA - ASIA HOTEL RESTAURANT CATERING EXHIBITION - MACAO — Maca
+ u\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-horeca-asia-hotel-restaurant-catering-exhibition-macao-34319-1@eventseye.impio-vault
+DESCRIPTION:Asia Hotel\, Restaurant & Catering Exhibition. Coffee and Tea\,
+  Ice Cream & Baking\, Comprehensive Food\, Kitchen Supplies\, Catering Des
+ ign & Supporting Facilities\, Materials and Household Products\, Hotel Sup
+ plies\, Franchise & Catering Investment...\\nVenue: The Venetian Macao - R
+ esort - Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-horeca-asia-hotel-restaurant-catering-exhibition-macao-34319-1.ht
+ ml
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-horeca-asia-hotel-restaurant-catering
+ -exhibition-macao-34319-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HVAC ASIA - MACAO — Macau\, Macao
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-hvac-asia-macao-34307-1@eventseye.impio-vault
+DESCRIPTION:Asia International Heating\, Water Supply\, Ventilation\, Air C
+ onditioning\, Refrigeration， Sanitary & Home Comfort System Exhibition\\
+ nVenue: The Venetian Macao - Resort - Hotel\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-hvac-asia-macao-34307-1.html
+LOCATION:Macau\, Macao
+URL:https://www.eventseye.com/fairs/f-hvac-asia-macao-34307-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MARKETING WEEK - OSAKA — Osaka\, Japan
@@ -8977,6 +9141,18 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-warsaw-hvac-expo-30008-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CONFOO.CA MONTREAL — Montreal\, QC\, Canada
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270227
+UID:f-confoo.ca-montreal-15337-1@eventseye.impio-vault
+DESCRIPTION:ConFoo Montreal is a multi-technology conference for web develo
+ pers\, one of the largest events of its kind in North America\\nVenue: Hot
+ el Bonaventure\, Montréal\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-confoo.ca-montreal-15337-1.html
+LOCATION:Montreal\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-confoo.ca-montreal-15337-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:D•PES SIGN EXPO CHINA - GUANZHOU — Guangzhou\, China
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270228
@@ -9111,6 +9287,83 @@ DESCRIPTION:Wide format print exhibition. FESPA BRASIL is the event for the
  a-brasil-21471-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-fespa-brasil-21471-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALL4CUSTOMER PARIS — Paris\, France
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-all4customer-paris-15425-1@eventseye.impio-vault
+DESCRIPTION:All4Customer Paris is the trade show for Customer Experience\, 
+ Digital Marketing\, E-Commerce\, Data and Artificial Intelligence. The lar
+ gest showcase of Digital Marketing\, E-Commerce Customer Experience and Da
+ ta and AI in France\\nVenue: Paris Expo Porte de Versailles\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-all4customer-paris-
+ 15425-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-all4customer-paris-15425-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTW CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-ctw-china-27242-1@eventseye.impio-vault
+DESCRIPTION:CTW China – China’s Leading Corporate Travel Management Con
+ ference is co-located with IT&CM China. Together\, the events deliver a un
+ ique proposition as China’s Event In MICE and Corporate Travel\\nVenue: 
+ Anandi Hotel and Spa\, Shanghai\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-ctw-china-27242-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-ctw-china-27242-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT&CM CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-it-cm-china-11922-1@eventseye.impio-vault
+DESCRIPTION:The Leading International MICE Event in China\, IT&CM China is 
+ co-located with CTW China – China’s Leading Corporate Travel Managemen
+ t Conference\\nVenue: CECIS - Shanghai Convention & Exhibition Center of I
+ nternational Sourcing\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-it-cm-china-11922-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-it-cm-china-11922-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IT&CMA CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-it-cma-china-27239-1@eventseye.impio-vault
+DESCRIPTION:China's leading international Meetings\, Incentives\, Conventio
+ ns and Exhibitions (MICE) business\, education and networking event\\nVenu
+ e: Anandi Hotel and Spa\, Shanghai\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-it-cma-china-27239-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-it-cma-china-27239-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MODERN BAKERY MOSCOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270327
+UID:f-modern-bakery-moscow-1916-1@eventseye.impio-vault
+DESCRIPTION:Russian International Trade Fair of Technologies and Ingredient
+ s for Bakery and Confectionery Production\\nVenue: Timiryazev Engineering 
+ Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-modern-bakery-moscow-1916-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-modern-bakery-moscow-1916-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEAMS EUROPE — Manchester\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-teams-europe-33433-1@eventseye.impio-vault
+DESCRIPTION:TEAMS Europe is designed to bring together leading sports-event
+  rights holders and organizers producing events in the UK and internationa
+ lly with executives from destinations\, hotels and service\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-teams-europe-33433-1
+ .html
+LOCATION:Manchester\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-teams-europe-33433-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VISUALIZE EXPO — Gorinchem\, Netherlands
@@ -9379,6 +9632,22 @@ DESCRIPTION:LOPEC (Large-area\, Organic & Printed Electronics Convention) i
  -18952-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-lopec-18952-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APPP EXPO - SHANGHAI INTERNATIONAL ADVERTISING & SIGN TECHNOLOGY & 
+ EQUIPMENT EXHIBITION — Shanghai\, China
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270307
+UID:f-appp-expo-shanghai-international-advertising-sign-technology-equipment-exhibition-9179-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Advertising & Sign Technology & Equipmen
+ t Exhibition. A world’s leading fair in the advertising\, printing\, pac
+ kaging industries\, and related industrial chains\\nVenue: National Exhibi
+ tion and Convention Center\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-appp-expo-shanghai-international-advertising-sign-te
+ chnology-equipment-exhibition-9179-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-appp-expo-shanghai-international-adve
+ rtising-sign-technology-equipment-exhibition-9179-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INTERNATIONAL CONFEX — London\, UK - United Kingdom
@@ -9787,83 +10056,6 @@ LOCATION:Las Vegas\, NV\, USA
 URL:https://www.eventseye.com/fairs/f-shoptalk-us-28722-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ALL4CUSTOMER PARIS — Paris\, France
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-all4customer-paris-15425-1@eventseye.impio-vault
-DESCRIPTION:All4Customer Paris is the trade show for Customer Experience\, 
- Digital Marketing\, E-Commerce\, Data and Artificial Intelligence. The lar
- gest showcase of Digital Marketing\, E-Commerce Customer Experience and Da
- ta and AI in France\\nVenue: Paris Expo Porte de Versailles\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-all4customer-paris-
- 15425-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-all4customer-paris-15425-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTW CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-ctw-china-27242-1@eventseye.impio-vault
-DESCRIPTION:CTW China – China’s Leading Corporate Travel Management Con
- ference is co-located with IT&CM China. Together\, the events deliver a un
- ique proposition as China’s Event In MICE and Corporate Travel\\nVenue: 
- Anandi Hotel and Spa\, Shanghai\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-ctw-china-27242-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-ctw-china-27242-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT&CM CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-it-cm-china-11922-1@eventseye.impio-vault
-DESCRIPTION:The Leading International MICE Event in China\, IT&CM China is 
- co-located with CTW China – China’s Leading Corporate Travel Managemen
- t Conference\\nVenue: CECIS - Shanghai Convention & Exhibition Center of I
- nternational Sourcing\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-it-cm-china-11922-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-it-cm-china-11922-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IT&CMA CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-it-cma-china-27239-1@eventseye.impio-vault
-DESCRIPTION:China's leading international Meetings\, Incentives\, Conventio
- ns and Exhibitions (MICE) business\, education and networking event\\nVenu
- e: Anandi Hotel and Spa\, Shanghai\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-it-cma-china-27239-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-it-cma-china-27239-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MODERN BAKERY MOSCOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270327
-UID:f-modern-bakery-moscow-1916-1@eventseye.impio-vault
-DESCRIPTION:Russian International Trade Fair of Technologies and Ingredient
- s for Bakery and Confectionery Production\\nVenue: Timiryazev Engineering 
- Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-modern-bakery-moscow-1916-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-modern-bakery-moscow-1916-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEAMS EUROPE — Manchester\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-teams-europe-33433-1@eventseye.impio-vault
-DESCRIPTION:TEAMS Europe is designed to bring together leading sports-event
-  rights holders and organizers producing events in the UK and internationa
- lly with executives from destinations\, hotels and service\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-teams-europe-33433-1
- .html
-LOCATION:Manchester\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-teams-europe-33433-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE FRANCHISE EXPO - HOUSTON — Houston\, TX\, USA
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270405
@@ -10183,6 +10375,20 @@ URL:https://www.eventseye.com/fairs/f-chinashop-china-retail-trade-fair-272
  96-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFOCOMM CHINA — Beijing\, China
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270417
+UID:f-infocomm-china-11660-1@eventseye.impio-vault
+DESCRIPTION:Information & communication exhibition. InfoComm showcases the 
+ latest technologies in Multimedia and Corporate Communications\, video\, d
+ isplay\, projection\, lighting & staging\, digital signage\, digital conte
+ nt creation\, networking\, signal distribution\\nVenue: China National Con
+ vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-infocomm-china-11660-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-infocomm-china-11660-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE BUSINESS SHOW - MIAMI — Miami\, FL\, USA
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270416
@@ -10398,6 +10604,20 @@ LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-money-20-20-asia-25262-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SET CANADA — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-set-canada-7176-1@eventseye.impio-vault
+DESCRIPTION:Equipment\, Technology and Service Exhibition for the Grocery D
+ istribution Industry of Canada. SET Canada is North America’s best show 
+ when it comes to equipment and technology that’s aimed at retail profess
+ ionals\, food-processing & food-service industry\\nVenue: Enercare Centre\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-set-c
+ anada-7176-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-set-canada-7176-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE HEALTH & SAFETY EVENT — Birmingham\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270430
@@ -10525,6 +10745,19 @@ DESCRIPTION:North America's Franchise & Business Opportunities Event. THE F
 LOCATION:Rosemont\, IL\, USA
 URL:https://www.eventseye.com/fairs/f-the-franchise-expo-chicago-17626-1.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESTINATION WEST — Vail\, CO\, USA
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270526
+UID:f-destination-west-32721-1@eventseye.impio-vault
+DESCRIPTION:DESTINATION WEST is the leading hosted-buyer event for top-leve
+ l\, pre-qualified meetings and incentive professionals looking to book bus
+ iness in the Southeast\\nVenue: Grand Hyatt Vail Resort & Spa\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-destination-west-
+ 32721-1.html
+LOCATION:Vail\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-destination-west-32721-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PRINT4ALL — Milan\, Italy

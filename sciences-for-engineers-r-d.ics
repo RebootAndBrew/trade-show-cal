@@ -440,21 +440,6 @@ URL:https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-and
  -exhibition-19474-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WORLD ORPHAN DRUG CONGRESS - USA — Boston\, MA\, USA
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260522
-UID:f-world-orphan-drug-congress-usa-23601-1@eventseye.impio-vault
-DESCRIPTION:Biopharma Conference & Exhibition devoted to the Orphan Drug In
- dustry in the USA. The conference is a place to meet and brainstorm ways t
- o advance orphan drug development and improve access to life-saving therap
- ies\\nVenue: Boston Convention & Exhibition Center\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-world-orphan-drug-congress-u
- sa-23601-1.html
-LOCATION:Boston\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-world-orphan-drug-congress-usa-23601-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASIA CCUS NETWORK — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260523
@@ -509,16 +494,16 @@ LOCATION:Tehran\, Iran
 URL:https://www.eventseye.com/fairs/f-inotex-21919-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERPHEX WEEK - TOKYO — Chiba\, Japan
+SUMMARY:INTERPHEX WEEK - TOKYO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260523
 UID:f-interphex-week-tokyo-1519-1@eventseye.impio-vault
 DESCRIPTION:INTERPHEX WEEK/ Regenerative Medicine EXPO is Japan's largest B
  -to-B trade sho. for pharmaceutical\, biotechnology\, and regenerative med
- icine technologies\\nVenue: Makuhari Messe - Nippon Convention Center\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-interphex
- -week-tokyo-1519-1.html
-LOCATION:Chiba\, Japan
+ icine technologies\\nVenue: Tokyo International Exhibition Center (Tokyo B
+ ig Sight)\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fa
+ irs/f-interphex-week-tokyo-1519-1.html
+LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-interphex-week-tokyo-1519-1.html
 END:VEVENT
 BEGIN:VEVENT
@@ -686,6 +671,21 @@ LOCATION:Tehran\, Iran
 URL:https://www.eventseye.com/fairs/f-icee-1279-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - ITALY - SARDINIA — Olbia\, Italy
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+UID:f-maker-faire-italy-sardinia-34295-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Museo Archeologico di 
+ Olbia\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -maker-faire-italy-sardinia-34295-1.html
+LOCATION:Olbia\, Italy
+URL:https://www.eventseye.com/fairs/f-maker-faire-italy-sardinia-34295-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UNITECHDAYS — Beauvais\, France
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260531
@@ -700,6 +700,21 @@ LOCATION:Beauvais\, France
 URL:https://www.eventseye.com/fairs/f-unitechdays-31331-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - ITALY - CASERTA — Caserta\, Italy
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260601
+UID:f-maker-faire-italy-caserta-34298-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Piazza della Pace\\nFr
+ equency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-i
+ taly-caserta-34298-1.html
+LOCATION:Caserta\, Italy
+URL:https://www.eventseye.com/fairs/f-maker-faire-italy-caserta-34298-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ANS ANNUAL MEETING — Denver\, CO\, USA
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260604
@@ -712,6 +727,21 @@ DESCRIPTION:American Nuclear Society Annual Meeting. One of the largest gat
  al-meeting-17589-1.html
 LOCATION:Denver\, CO\, USA
 URL:https://www.eventseye.com/fairs/f-ans-annual-meeting-17589-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - OSTRAVA — Ostrava\, Czech Republic
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+UID:f-maker-faire-czech-republic-ostrava-34297-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Trojhalí Karolina\\nF
+ requency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-
+ czech-republic-ostrava-34297-1.html
+LOCATION:Ostrava\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-ostrava-34
+ 297-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXPOQUIMIA — Barcelona\, Spain
@@ -817,6 +847,68 @@ LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-tct-show-8694-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - BOSNIA AND HERZEGOVINA - SARAJEVO — Sarajevo\, Bosn
+ ia Herzegovina
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:f-maker-faire-bosnia-and-herzegovina-sarajevo-34296-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Vila Braun\\nFrequency
+ : unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-bosnia-a
+ nd-herzegovina-sarajevo-34296-1.html
+LOCATION:Sarajevo\, Bosnia Herzegovina
+URL:https://www.eventseye.com/fairs/f-maker-faire-bosnia-and-herzegovina-sa
+ rajevo-34296-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - VRCHLABI — Vrchlabi\, Czech Republ
+ ic
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:f-maker-faire-czech-republic-vrchlabi-34303-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Ekocentrum Krtek\\nFre
+ quency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-cz
+ ech-republic-vrchlabi-34303-1.html
+LOCATION:Vrchlabi\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-vrchlabi-3
+ 4303-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - SPAIN - GALICIA — Santiago de Compostela\, Spain
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:f-maker-faire-spain-galicia-34302-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Área Central\\nFreque
+ ncy: twice a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-
+ spain-galicia-34302-1.html
+LOCATION:Santiago de Compostela\, Spain
+URL:https://www.eventseye.com/fairs/f-maker-faire-spain-galicia-34302-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - LONG ISLAND — Brookhaven\, NY\, USA
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+UID:f-maker-faire-usa-long-island-34299-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Stony Brook University
+ \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-fa
+ ire-usa-long-island-34299-1.html
+LOCATION:Brookhaven\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-long-island-34299-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIAA AVIATION AND AERONAUTICS FORUM — San Diego\, CA\, USA
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
@@ -887,6 +979,21 @@ URL:https://www.eventseye.com/fairs/f-polymers-in-cables-north-america-2929
  6-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WORLD ORPHAN DRUG CONGRESS - USA — Boston\, MA\, USA
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260612
+UID:f-world-orphan-drug-congress-usa-23601-1@eventseye.impio-vault
+DESCRIPTION:Biopharma Conference & Exhibition devoted to the Orphan Drug In
+ dustry in the USA. The conference is a place to meet and brainstorm ways t
+ o advance orphan drug development and improve access to life-saving therap
+ ies\\nVenue: The Westin Copley Place\, Boston\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-world-orphan-drug-congress-usa-23
+ 601-1.html
+LOCATION:Boston\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-world-orphan-drug-congress-usa-23601-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI & BIG DATA SHOW — Seoul\, Korea South
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260613
@@ -945,10 +1052,26 @@ DTEND;VALUE=DATE:20260613
 UID:f-retalfv-32577-1@eventseye.impio-vault
 DESCRIPTION:Italian Photovoltaic Energy Conference. The ReteIFV Conference 
  supports the achievement of national and international goals for decarboni
- zation of the energy system\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-retalfv-32577-1.html
+ zation of the energy system\\nVenue: Monastero dei Benedettini di San Nico
+ lò l'Arena\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-retalfv-32577-1.html
 LOCATION:Catania\, Italy
 URL:https://www.eventseye.com/fairs/f-retalfv-32577-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - MOLDOVA - CHISINAU — Chisinau\, Moldova
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+UID:f-maker-faire-moldova-chisinau-34300-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Tekwill Academy\\nFreq
+ uency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-mol
+ dova-chisinau-34300-1.html
+LOCATION:Chisinau\, Moldova
+URL:https://www.eventseye.com/fairs/f-maker-faire-moldova-chisinau-34300-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IGIC - INTERNATIONAL GEOTECHNICAL INNOVATION CONFERENCE — Riyadh\
@@ -1115,6 +1238,21 @@ LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-viva-technology-29093-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - SWITZERLAND - SOLOTHURN — Solothurn\, Switzerland
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+UID:f-maker-faire-switzerland-solothurn-34301-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Enter Technikwelt\\nFr
+ equency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-faire-s
+ witzerland-solothurn-34301-1.html
+LOCATION:Solothurn\, Switzerland
+URL:https://www.eventseye.com/fairs/f-maker-faire-switzerland-solothurn-343
+ 01-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ECCM — Oslo\, Norway
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260623
@@ -1213,6 +1351,21 @@ URL:https://www.eventseye.com/fairs/f-flexible-packaging-innovation-and-rec
  ycling-north-america-28356-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - GERMANY - WUPPERTAL — Wuppertal\, Germany
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+UID:f-maker-faire-germany-wuppertal-34334-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Stadtbibliothek Wupper
+ tal\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-m
+ aker-faire-germany-wuppertal-34334-1.html
+LOCATION:Wuppertal\, Germany
+URL:https://www.eventseye.com/fairs/f-maker-faire-germany-wuppertal-34334-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AEROMART HYDERABAD — Hyderabad\, India
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260702
@@ -1223,6 +1376,21 @@ DESCRIPTION:International Business Convention for the aerospace industry. S
  eromart-hyderabad-30721-1.html
 LOCATION:Hyderabad\, India
 URL:https://www.eventseye.com/fairs/f-aeromart-hyderabad-30721-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - COSTA RICA - SAN JOSÉ — San José\, Costa Rica
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+UID:f-maker-faire-costa-rica-san-jose-34327-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Universidad Cenfotec\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-
+ faire-costa-rica-san-jose-34327-1.html
+LOCATION:San José\, Costa Rica
+URL:https://www.eventseye.com/fairs/f-maker-faire-costa-rica-san-jose-34327
+ -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AFT - ADVANCED FERMENTATION TECHNOLOGY — Lille\, France
@@ -1320,6 +1488,21 @@ DESCRIPTION:Forum combining all fields of Geosciences. International Multid
 LOCATION:Albena\, Bulgaria
 URL:https://www.eventseye.com/fairs/f-international-multidisciplinary-scien
  tific-geoconferences-sgem-20330-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - JAPAN - HAMAMATSU — Hamamatsu\, Japan
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+UID:f-maker-faire-japan-hamamatsu-34337-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Hamamatsu Science Muse
+ um\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ma
+ ker-faire-japan-hamamatsu-34337-1.html
+LOCATION:Hamamatsu\, Japan
+URL:https://www.eventseye.com/fairs/f-maker-faire-japan-hamamatsu-34337-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NANOTEXNOLOGY — Thessaloniki\, Greece
@@ -1446,6 +1629,35 @@ DESCRIPTION:Taiwan Biotechnology Industry Exhibition & Conferences\, bringu
 LOCATION:Taipei\, Taiwan
 URL:https://www.eventseye.com/fairs/f-bio-asia-taiwan-exhibition-9071-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CANADA - EDMONTON — Edmonton\, AB\, Canada
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+UID:f-maker-faire-canada-edmonton-34322-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Edmonton Expo Centre\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-
+ faire-canada-edmonton-34322-1.html
+LOCATION:Edmonton\, AB\, Canada
+URL:https://www.eventseye.com/fairs/f-maker-faire-canada-edmonton-34322-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - BUFFALO — Buffalo\, NY\, USA
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+UID:f-maker-faire-usa-buffalo-34332-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Nichols School\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-
+ usa-buffalo-34332-1.html
+LOCATION:Buffalo\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-buffalo-34332-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIGGRAPH — Los Angeles\, CA\, USA
@@ -1619,6 +1831,21 @@ LOCATION:Trujillo\, Peru
 URL:https://www.eventseye.com/fairs/f-intercon-peru-30102-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - GERMANY - HANNOVER — Hannover\, Germany
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260817
+UID:f-maker-faire-germany-hannover-34308-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Hannover Congress Cent
+ rum\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-m
+ aker-faire-germany-hannover-34308-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-maker-faire-germany-hannover-34308-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ICSIFT - INTERNATIONAL CONFERENCE ON SUSTAINABILITY\, INNOVATION\, 
  AND FUTURE TECHNOLOGIES — Malay\, Philippines
 DTSTART;VALUE=DATE:20260821
@@ -1768,6 +1995,49 @@ LOCATION:Barcelona\, Spain
 URL:https://www.eventseye.com/fairs/f-applied-microbiology-22274-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - BENIN - COTONOU — Cotonou\, Benin
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+UID:f-maker-faire-benin-cotonou-34309-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-benin-cotonou-34309-1.ht
+ ml
+LOCATION:Cotonou\, Benin
+URL:https://www.eventseye.com/fairs/f-maker-faire-benin-cotonou-34309-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CANADA - YUKON — Whitehorse\, YT\, Canada
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+UID:f-maker-faire-canada-yukon-34326-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Kwanlin Dün Cultural 
+ Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-maker-faire-canada-yukon-34326-1.html
+LOCATION:Whitehorse\, YT\, Canada
+URL:https://www.eventseye.com/fairs/f-maker-faire-canada-yukon-34326-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - TULSA — Tulsa\, OK\, USA
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+UID:f-maker-faire-usa-tulsa-34311-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Exchange Center - Expo
+  Square - Tulsa Expo Center\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-maker-faire-usa-tulsa-34311-1.html
+LOCATION:Tulsa\, OK\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-tulsa-34311-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DA — Salzburg\, Austria
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260903
@@ -1818,6 +2088,35 @@ DESCRIPTION:International Pharmaceutical Industry Exhibition & Conference f
  airs/f-pharmaconex-23137-1.html
 LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-pharmaconex-23137-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - BRAZIL - CURITIBA — Curitiba\, Brazil
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-maker-faire-brazil-curitiba-34310-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-brazil-curitiba-34310-1.
+ html
+LOCATION:Curitiba\, Brazil
+URL:https://www.eventseye.com/fairs/f-maker-faire-brazil-curitiba-34310-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - JAPAN - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260907
+UID:f-maker-faire-japan-tokyo-34340-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Ariake GYM-EX\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-j
+ apan-tokyo-34340-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-maker-faire-japan-tokyo-34340-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISIC — Budapest\, Hungary
@@ -1930,6 +2229,51 @@ DESCRIPTION:Japan's largest show for Electricity Retail Business & Smart Gr
  .html
 LOCATION:Chiba\, Japan
 URL:https://www.eventseye.com/fairs/f-smart-grid-expo-tokyo-24646-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - FRANCE - CALAIS — Calais\, France
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+UID:f-maker-faire-france-calais-34314-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Forum Gambetta\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-
+ france-calais-34314-1.html
+LOCATION:Calais\, France
+URL:https://www.eventseye.com/fairs/f-maker-faire-france-calais-34314-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - NORTHWEST ARKANSAS — Fayetteville\, AR\, USA
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+UID:f-maker-faire-usa-northwest-arkansas-34333-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Fayetteville Public Li
+ brary\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -maker-faire-usa-northwest-arkansas-34333-1.html
+LOCATION:Fayetteville\, AR\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-northwest-arkansas-34
+ 333-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - ORANGE COUNTY — Costa Mesa\, CA\, USA
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+UID:f-maker-faire-usa-orange-county-34316-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: OC Fair and Event Cent
+ er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ma
+ ker-faire-usa-orange-county-34316-1.html
+LOCATION:Costa Mesa\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-orange-county-34316-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECASIA CONFERENCE — Brussels\, Belgium
@@ -2142,6 +2486,52 @@ LOCATION:Taipei\, Taiwan
 URL:https://www.eventseye.com/fairs/f-taiwan-innotech-expo-8487-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - PORTUGAL - PORTO — Porto\, Portugal
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+UID:f-maker-faire-portugal-porto-34315-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-portugal-porto-34315-1.h
+ tml
+LOCATION:Porto\, Portugal
+URL:https://www.eventseye.com/fairs/f-maker-faire-portugal-porto-34315-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - MLADÁ BOLESLAV — Mladá Boleslav\
+ , Czech Republic
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+UID:f-maker-faire-czech-republic-mlada-boleslav-34330-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Pluhárna\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-czech
+ -republic-mlada-boleslav-34330-1.html
+LOCATION:Mladá Boleslav\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-mlada-bole
+ slav-34330-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - SOUTH KOREA - SEOUL — Seoul\, Korea South
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+UID:f-maker-faire-south-korea-seoul-34335-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Seoul Science Center\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-
+ faire-south-korea-seoul-34335-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-maker-faire-south-korea-seoul-34335-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JADH — Lège-Cap-Ferret\, France
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260926
@@ -2309,6 +2699,20 @@ LOCATION:New Delhi\, India
 URL:https://www.eventseye.com/fairs/f-drone-expo-india-30187-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - BAY AREA — Vallejo\, CA\, USA
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+UID:f-maker-faire-usa-bay-area-34338-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Mare Island Naval Ship
+ yard\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ maker-faire-usa-bay-area-34338-1.html
+LOCATION:Vallejo\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-bay-area-34338-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LA MÊLÉE NUMÉRIQUE — Toulouse\, France
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261003
@@ -2455,6 +2859,66 @@ URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
  cs-expo-tokyo-17020-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - MALTA - KALKARA — Kalkara\, Malta
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-maker-faire-malta-kalkara-34343-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Esplora Interactive Sc
+ ience Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-maker-faire-malta-kalkara-34343-1.html
+LOCATION:Kalkara\, Malta
+URL:https://www.eventseye.com/fairs/f-maker-faire-malta-kalkara-34343-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - ČESKÉ BUDĚJOVICE — Ceské Budé
+ jovice\, Czech Republic
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-maker-faire-czech-republic-268-eske-bud-282-jovice-34329-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Národní pavillon Z\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-
+ faire-czech-republic-268-eske-bud-282-jovice-34329-1.html
+LOCATION:Ceské Budéjovice\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-268-eske-b
+ ud-282-jovice-34329-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - HAPPY VALLEY — Bellefonte\, PA\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-maker-faire-usa-happy-valley-34339-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Axemann Brewery\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire
+ -usa-happy-valley-34339-1.html
+LOCATION:Bellefonte\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-happy-valley-34339-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - ROCKLIN — Rocklin\, CA\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-maker-faire-usa-rocklin-34345-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Sierra College\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-
+ usa-rocklin-34345-1.html
+LOCATION:Rocklin\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-rocklin-34345-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EUROPEAN MICROWAVE WEEK — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261010
@@ -2466,6 +2930,21 @@ DESCRIPTION:Europe's largest tradeshow & congress dedicated to Microwave &
  ce: https://www.eventseye.com/fairs/f-european-microwave-week-792-1.html
 LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-european-microwave-week-792-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - ELECTRIC CITY — Schenectady\, NY\, USA
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+UID:f-maker-faire-usa-electric-city-34342-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Union College\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-u
+ sa-electric-city-34342-1.html
+LOCATION:Schenectady\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-electric-city-34342-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANNUAL PHARMA PRICING\, REIMBURSEMENT & MARKET ACCESS — Philadelp
@@ -2588,6 +3067,18 @@ DESCRIPTION:Conference dedicated to Carbon Capture\, Utilization and Storag
 LOCATION:Houston\, TX\, USA
 URL:https://www.eventseye.com/fairs/f-carbon-capture-utilization-and-storag
  e-(ccus)-conference-31484-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORUM HORIZON CHIMIE — Paris\, France
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+UID:f-forum-horizon-chimie-1079-1@eventseye.impio-vault
+DESCRIPTION:Chemical Congress. To boost the Relationships between the Engin
+ eering Students of the Organizing Schools and the Companies\\nVenue: Maiso
+ n de la Chimie\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-forum-horizon-chimie-1079-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-forum-horizon-chimie-1079-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SAUDI INTERNATIONAL MEDLAB EXPO — Riyadh\, Saudi Arabia
@@ -2716,6 +3207,65 @@ DESCRIPTION:World Vaccine Congress remains the industry’s definitive vacc
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-world-vaccine-congress-europe-15586-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - BRNO — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:f-maker-faire-czech-republic-brno-34321-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Brno Exhibition Centre
+ \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-fa
+ ire-czech-republic-brno-34321-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-brno-34321
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - BATON ROUGE — Baton Rouge\, LA\, USA
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:f-maker-faire-usa-baton-rouge-34323-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: unknown\\nSource: 
+ https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.html
+LOCATION:Baton Rouge\, LA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - LOUISVILLE — Louisville\, KY\, USA
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:f-maker-faire-usa-louisville-34328-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: University of Louisvil
+ le\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ma
+ ker-faire-usa-louisville-34328-1.html
+LOCATION:Louisville\, KY\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-louisville-34328-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CHINA - GUANGZHOU — Guangzhou\, China
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261020
+UID:f-maker-faire-china-guangzhou-34324-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.
+ html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
@@ -2864,6 +3414,48 @@ DESCRIPTION:International Smart Materials & Surfaces Conference. SMS target
  : once a year\\nSource: https://www.eventseye.com/fairs/f-sms-25590-1.html
 LOCATION:Seville\, Spain
 URL:https://www.eventseye.com/fairs/f-sms-25590-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - ITALY - ROME — Rome\, Italy
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-italy-rome-34336-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Gazometro\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-italy
+ -rome-34336-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-maker-faire-italy-rome-34336-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - LUXEMBOURG — Luxembourg\, Luxembourg
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-luxembourg-34341-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+LOCATION:Luxembourg\, Luxembourg
+URL:https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - TAIWAN - TAIPEI — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-taiwan-taipei-34325-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.ht
+ ml
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WORLD ORPHAN DRUG CONGRESS - EUROPE — Amsterdam\, Netherlands
@@ -3144,6 +3736,36 @@ DESCRIPTION:KIEMSTA is the Korea international exhibition of Machinery\, Eq
  fairs/f-kiemsta-34043-1.html
 LOCATION:Daegu\, Korea South
 URL:https://www.eventseye.com/fairs/f-kiemsta-34043-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - AUSTRIA - SALZBOURG — Salzburg\, Austria
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:f-maker-faire-austria-salzbourg-34344-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: HTBLuVA Salzburg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-fair
+ e-austria-salzbourg-34344-1.html
+LOCATION:Salzburg\, Austria
+URL:https://www.eventseye.com/fairs/f-maker-faire-austria-salzbourg-34344-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - GERMANY - MITTLERES RHEINTAL — Bendorf\, Germany
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-maker-faire-germany-mittleres-rheintal-34331-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Sayner Hütte\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-g
+ ermany-mittleres-rheintal-34331-1.html
+LOCATION:Bendorf\, Germany
+URL:https://www.eventseye.com/fairs/f-maker-faire-germany-mittleres-rheinta
+ l-34331-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AVS INTERNATIONAL SYMPOSIUM — Pittsburgh\, PA\, USA
@@ -3829,6 +4451,21 @@ LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-tct-japan-28609-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AIAA SCIENCE AND TECHNOLOGY FORUM — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270116
+UID:f-aiaa-science-and-technology-forum-24382-1@eventseye.impio-vault
+DESCRIPTION:American Institute of Aeronautics and Astronautics Annual Forum
+ . AIAA SCIENCE AND TECHNOLOGY FORUM presents new aerospace technologies\, 
+ engineering solutions\, smart designs\, innovations in energy science\, sy
+ stem development and IT support for Defense\\nVenue: Hyatt Regency Orlando
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-aiaa
+ -science-and-technology-forum-24382-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-aiaa-science-and-technology-forum-243
+ 82-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIAA SCITECH FORUM — Orlando\, FL\, USA
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270116
@@ -4299,6 +4936,20 @@ URL:https://www.eventseye.com/fairs/f-congres-international-de-metrologie-5
  03-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AIAA DEFENSE FORUM — Laurel\, MD\, USA
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270320
+UID:f-aiaa-defense-forum-29013-1@eventseye.impio-vault
+DESCRIPTION:The AIAA Defense and Security Forum (AIAA DEFENSE Forum) is a c
+ lassified SECRET/NoFORN meeting for technical\, programmatic\, and policy 
+ issues pertaining to aerospace defense within U.S. national security\\nVen
+ ue: Kossiakoff Center at Johns Hopkins University\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-aiaa-defense-forum-29013-1.ht
+ ml
+LOCATION:Laurel\, MD\, USA
+URL:https://www.eventseye.com/fairs/f-aiaa-defense-forum-29013-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GITEX AI LATAM — São Paulo\, Brazil
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
@@ -4336,6 +4987,21 @@ DESCRIPTION:Forum designed to fueling the Future of Pharma Meetings. Impact
  ://www.eventseye.com/fairs/f-pharma-forum-33098-1.html
 LOCATION:National Harbor\, MD\, USA
 URL:https://www.eventseye.com/fairs/f-pharma-forum-33098-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE SMART STRUCTURES / NON-DESTRUCTIVE EVALUATION — Vancouver\, 
+ BC\, Canada
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270326
+UID:f-spie-smart-structures-non-destructive-evaluation-22280-1@eventseye.impio-vault
+DESCRIPTION:SPIE Smart Structures/NDE is a leading conference on the applie
+ d technologies of advanced materials\, smart sensor networks\, and non-des
+ tructive evaluation tools\\nVenue: Sheraton Vancouver Wall Centre\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-spie-smart-st
+ ructures-non-destructive-evaluation-22280-1.html
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-spie-smart-structures-non-destructive
+ -evaluation-22280-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AEROMART MONTREAL — Montreal\, QC\, Canada
@@ -4464,6 +5130,21 @@ DESCRIPTION:SiliconPV is an international Conference on Silicon Photovoltai
  w.eventseye.com/fairs/f-siliconpv-18168-1.html
 LOCATION:Karlsruhe\, Germany
 URL:https://www.eventseye.com/fairs/f-siliconpv-18168-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE OPTICS + OPTOELECTRONICS — Prague\, Czech Republic
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270409
+UID:f-spie-optics-optoelectronics-21110-1@eventseye.impio-vault
+DESCRIPTION:Exhibition\, Conference & Workshops on Optics and Optoelectroni
+ cs. Join other leading researchers in sharing the latest advancements for 
+ the technology\, integration\, and application of optics and optoelectroni
+ c devices\\nVenue: Clarion Congress Hotel\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-spie-optics-optoelectronics-21110-1
+ .html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-spie-optics-optoelectronics-21110-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UDT EUROPE - UNDERSEA DEFENCE TECHNOLOGY — Glasgow\, UK - United 

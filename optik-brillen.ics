@@ -33,45 +33,6 @@ LOCATION:Strasbourg\, France
 URL:https://www.eventseye.com/fairs/f-spie-photonics-europe-12028-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WOF - WENZHOU OPTICS FAIR — Wenzhou\, China
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260511
-UID:f-wof-wenzhou-optics-fair-5485-1@eventseye.impio-vault
-DESCRIPTION:The China Wenzhou International Optics Fair (WOF) is a Must-att
- end optical event and a strategic platform for importers and buyers from t
- he worldwide B2B trade. Reading glasses\, sunglasses\, lens\, glasses fram
- es\, glasses cases & accessories...\\nVenue: Wenzhou International Convent
- ion and Exhibition Center\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-wof-wenzhou-optics-fair-5485-1.html
-LOCATION:Wenzhou\, China
-URL:https://www.eventseye.com/fairs/f-wof-wenzhou-optics-fair-5485-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BELARUSIAN MEDICAL FORUM — Minsk\, Belarus
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260516
-UID:f-belarusian-medical-forum-12640-1@eventseye.impio-vault
-DESCRIPTION:Medical Techniques\, Equipment\, Goods and Services. Pharmaceut
- ical Products. Laboratory and Diagnostic Equipment. Medical Optics\\nVenue
- : Football Manege Sport Complex\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-belarusian-medical-forum-12640-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-belarusian-medical-forum-12640-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHOTONIX OSAKA — Osaka\, Japan
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260516
-UID:f-photonix-osaka-27803-1@eventseye.impio-vault
-DESCRIPTION:The world’s leading comprehensive exhibitions of high-perform
- ance materials\, laser technology\, and electronic displays.​ Attendees 
- Gain insights into the future of materials technology\, photonics\, and di
- splays\\nVenue: Intex Osaka\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-photonix-osaka-27803-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-photonix-osaka-27803-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PHOTONICS NORTH — Quebec City\, QC\, Canada
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260605
@@ -724,6 +685,20 @@ URL:https://www.eventseye.com/fairs/f-photonics.-world-of-lasers-and-optics
  -18783-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MOROCCO MEDICAL EXPO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-morocco-medical-expo-33327-1@eventseye.impio-vault
+DESCRIPTION:MOROCCO MEDICAL EXPO is the largest medical sector event in Afr
+ ica. It brings together professionals from numerous health disciplines at 
+ the national\, continental\, and international levels. A high-quality scie
+ ntific program\\nVenue: ICEC (International Corporate Events Center)\, Cas
+ ablanca\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-morocco-medical-expo-33327-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-morocco-medical-expo-33327-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPIE OPTICS + OPTOELECTRONICS — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
@@ -775,6 +750,19 @@ DESCRIPTION:American exhibition of independent eyewear brands. NEOS has gro
  ce: https://www.eventseye.com/fairs/f-north-east-optical-show-30851-1.html
 LOCATION:Providence\, RI\, USA
 URL:https://www.eventseye.com/fairs/f-north-east-optical-show-30851-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHOTONIX OSAKA — Osaka\, Japan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-photonix-osaka-27803-1@eventseye.impio-vault
+DESCRIPTION:The world’s leading comprehensive exhibitions of high-perform
+ ance materials\, laser technology\, and electronic displays.​ Attendees 
+ Gain insights into the future of materials technology\, photonics\, and di
+ splays\\nVenue: Intex Osaka\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-photonix-osaka-27803-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-photonix-osaka-27803-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LASER. WORLD OF PHOTONICS — Munich\, Germany

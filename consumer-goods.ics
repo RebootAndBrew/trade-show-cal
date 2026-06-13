@@ -603,49 +603,6 @@ URL:https://www.eventseye.com/fairs/f-tif-thessaloniki-international-fair-5
  467-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270527
-UID:f-plma-international-6592-1@eventseye.impio-vault
-DESCRIPTION:World of Private Label International Trade Show & Conference. P
- LMA INTERNATIONAL will be the focal point of the largest concentration of 
- private label professionals in the industry. will be the focal point of th
- e largest concentration of private label pr\\nVenue: RAI International Exh
- ibition and Congress Centre\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-plma-international-6592-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOIRE-EXPOSITION DE VERDUN — Verdun\, France
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260914
@@ -711,6 +668,18 @@ DESCRIPTION:Trade Fair of Béré - Châteaubriant. Trade fair\, Livestock a
 LOCATION:Châteaubriant\, France
 URL:https://www.eventseye.com/fairs/f-foire-de-bere-chateaubriant-22365-1.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DE PAU — Pau\, France
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+UID:f-foire-de-pau-9165-1@eventseye.impio-vault
+DESCRIPTION:Fair of Pau. Gastronomy\, Housing\, Shopping\, Beauty and Well-
+ being\, Village of associations\, Ephemeral farm\, Music festival...\\nVen
+ ue: Foire Expositions de Pau\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-foire-de-pau-9165-1.html
+LOCATION:Pau\, France
+URL:https://www.eventseye.com/fairs/f-foire-de-pau-9165-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOIRE DE SAVOIE — Chambery\, France
@@ -1994,5 +1963,61 @@ DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
  10455-1.html
 LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APAS SHOW — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-apas-show-27649-1@eventseye.impio-vault
+DESCRIPTION:Congress and trade fair for supermarkets. Food\, Beverages\, Be
+ auty\, Health\, Hygiene\, Groceries\, Perishables\, Frozen\, Dairy\, Pet S
+ tores\, Supplies and Packaging\, Automation and Technology\, Services...\\
+ nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-apas-show-27649-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-apas-show-27649-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+UID:f-plma-international-6592-1@eventseye.impio-vault
+DESCRIPTION:World of Private Label International Trade Show & Conference. P
+ LMA INTERNATIONAL will be the focal point of the largest concentration of 
+ private label professionals in the industry. will be the focal point of th
+ e largest concentration of private label pr\\nVenue: RAI International Exh
+ ibition and Congress Centre\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-plma-international-6592-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
 END:VEVENT
 END:VCALENDAR

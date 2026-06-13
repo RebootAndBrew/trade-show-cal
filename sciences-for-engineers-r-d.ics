@@ -333,6 +333,20 @@ URL:https://www.eventseye.com/fairs/f-maker-faire-usa-long-island-34299-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SENSOR + TEST — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260612
+UID:f-sensor-test-2429-1@eventseye.impio-vault
+DESCRIPTION:International trade show + congress for Sensors\, Transducers &
+  Systems. Sensor systems and sensory measuring equipment\, equipment\, com
+ ponents and software\, Laboratory measuring equipment\, calibration\, anal
+ ytical and testing equipment...\\nVenue: Exhibition Centre Nuremberg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-sensor-tes
+ t-2429-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIAA AVIATION AND AERONAUTICS FORUM — San Diego\, CA\, USA
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260613
@@ -498,20 +512,19 @@ URL:https://www.eventseye.com/fairs/f-maker-faire-moldova-chisinau-34300-1.
  html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IGIC - INTERNATIONAL GEOTECHNICAL INNOVATION CONFERENCE — Riyadh\
- , Saudi Arabia
+SUMMARY:OIA - OCEAN INNOVATION AFRICA — Mombasa\, Kenya
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260617
-UID:f-igic-international-geotechnical-innovation-conference-32639-1@eventseye.impio-vault
-DESCRIPTION:The IGIC Forum addresses the plethora of challenges faced durin
- g the design and construction of deep foundations & underground infrastruc
- tures for tall buildings\, skyscrapers\, transportation\, civil infrastruc
- ture projects... in Saudi Arabia\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-igic-international-geotechnical-innovation-con
- ference-32639-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-igic-international-geotechnical-innov
- ation-conference-32639-1.html
+UID:f-oia-ocean-innovation-africa-30334-1@eventseye.impio-vault
+DESCRIPTION:Ocean Innovation Africa is a platform that showcases African in
+ itiatives and brings together international entrepreneurs\, investors\, sc
+ ientists\, businesses and leaders that are working towards creating a posi
+ tive impact on our Oceans\\nVenue: Prideinn Flamingo Beach Resort & Spa\, 
+ Mombasa\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
+ s/f-oia-ocean-innovation-africa-30334-1.html
+LOCATION:Mombasa\, Kenya
+URL:https://www.eventseye.com/fairs/f-oia-ocean-innovation-africa-30334-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUTONOMOUS SHIP EXPO — Amsterdam\, Netherlands
@@ -1967,6 +1980,533 @@ LOCATION:Lège-Cap-Ferret\, France
 URL:https://www.eventseye.com/fairs/f-jadh-1630-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BELARUSIAN INDUSTRIAL AND INNOVATION FORUM — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-belarusian-industrial-and-innovation-forum-21491-1@eventseye.impio-vault
+DESCRIPTION:Belarusian Industrial Forum. A prestigious international showca
+ se of achievements in the field of advanced technologies. It is a synergy 
+ of six mutually complementary industry exhibitions under a single brand\\n
+ Venue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-forum
+ -21491-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-
+ forum-21491-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLEANROOM EXHIBITION — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+UID:f-cleanroom-exhibition-21008-1@eventseye.impio-vault
+DESCRIPTION:Salon de la maintenance\, des technologies et équipements pour
+  salles blanches. For special industrial plants\, medical facilities\, Res
+ earch & Development departments... which require very hygienic and extreme
+ ly sterile spaces\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention & Exhibi
+ tion Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
+ m/fairs/f-cleanroom-exhibition-21008-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-cleanroom-exhibition-21008-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSMETIC 360 — Paris\, France
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-cosmetic-360-29560-1@eventseye.impio-vault
+DESCRIPTION:The world's largest exhibition dedicated to innovation for the 
+ entire perfumery-cosmetics sector\\nVenue: Carrousel du Louvre\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-cosmetic-360-295
+ 60-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-cosmetic-360-29560-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IGIC - INTERNATIONAL GEOTECHNICAL INNOVATION CONFERENCE — Riyadh\
+ , Saudi Arabia
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-igic-international-geotechnical-innovation-conference-32639-1@eventseye.impio-vault
+DESCRIPTION:The IGIC Forum addresses the plethora of challenges faced durin
+ g the design and construction of deep foundations & underground infrastruc
+ tures for tall buildings\, skyscrapers\, transportation\, civil infrastruc
+ ture projects... in Saudi Arabia\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-igic-international-geotechnical-innovation-con
+ ference-32639-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-igic-international-geotechnical-innov
+ ation-conference-32639-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACHINE BUILDING — Warwick\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+UID:f-machine-building-32035-1@eventseye.impio-vault
+DESCRIPTION:Whether you’re a machine builder\, systems integrator or an O
+ EM engineering professional keen to automate\, this is a unique opportunit
+ y to meet face-to-face with the largest array of machine building technica
+ l experts\\nVenue: Stoneleigh Park Exhibition Centre\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-machine-building-32035-1.h
+ tml
+LOCATION:Warwick\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-machine-building-32035-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD VACCINE CONGRESS EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261020
+UID:f-world-vaccine-congress-europe-15586-1@eventseye.impio-vault
+DESCRIPTION:World Vaccine Congress remains the industry’s definitive vacc
+ ine industry event for major vaccine players and their respective senior l
+ evel representatives\\nVenue: RAI International Exhibition and Congress Ce
+ ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ world-vaccine-congress-europe-15586-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-world-vaccine-congress-europe-15586-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CZECH REPUBLIC - BRNO — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261019
+UID:f-maker-faire-czech-republic-brno-34321-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Brno Exhibition Centre
+ \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-fa
+ ire-czech-republic-brno-34321-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-brno-34321
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - BATON ROUGE — Baton Rouge\, LA\, USA
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:f-maker-faire-usa-baton-rouge-34323-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: unknown\\nSource: 
+ https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.html
+LOCATION:Baton Rouge\, LA\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - USA - LOUISVILLE — Louisville\, KY\, USA
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+UID:f-maker-faire-usa-louisville-34328-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: University of Louisvil
+ le\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ma
+ ker-faire-usa-louisville-34328-1.html
+LOCATION:Louisville\, KY\, USA
+URL:https://www.eventseye.com/fairs/f-maker-faire-usa-louisville-34328-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - CHINA - GUANGZHOU — Guangzhou\, China
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261020
+UID:f-maker-faire-china-guangzhou-34324-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.
+ html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261022
+UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
+DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
+ nd exhibition of the renewable energy and storage industry in Canada. A gl
+ obal platform to amplify conversations\, explore emerging technologies and
+  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
+ rmation-canada-29835-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
+ 35-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - EUROPE — Hamburg\, 
+ Germany
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-carbon-capture-technology-conference-expo-europe-27129-1@eventseye.impio-vault
+DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
+ ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
+ ansition to a net-zero carbon economy\\nVenue: Hamburg Messe und Congress\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-carbo
+ n-capture-technology-conference-expo-europe-27129-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
+ expo-europe-27129-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYDROGEN TECHNOLOGY EXPO - EUROPE — Hamburg\, Germany
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-hydrogen-technology-expo-europe-27130-1@eventseye.impio-vault
+DESCRIPTION:Hydrogen Technology Conference & Expo is Europe’s must-attend
+  conference and exhibition that is exclusively dedicated to discussing adv
+ anced technologies for the hydrogen and fuel cell industry\\nVenue: Hambur
+ g Messe und Congress\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-hydrogen-technology-expo-europe-27130-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-europe-27130
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TERATEC FORUM — Paris\, France
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+UID:f-teratec-forum-25040-1@eventseye.impio-vault
+DESCRIPTION:The annual meeting for HPC\, numerical simulation\, AI\, and qu
+ antum computing. It brings together the players who design\, use\, and tra
+ nsform high-performance digital technologies. Two days to connect science\
+ , technology\, and industry\\nVenue: Palais des Congrès de Paris Porte Ma
+ illot\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -teratec-forum-25040-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-teratec-forum-25040-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATCE - SPE ANNUAL TECHNICAL CONFERENCE AND EXHIBITION — Houston\,
+  TX\, USA
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-atce-spe-annual-technical-conference-and-exhibition-2560-1@eventseye.impio-vault
+DESCRIPTION:Society of Petroleum Engineers (SPE) International Conference a
+ nd Exhibition. ATCE brings together emerging technologies\, state-of-the a
+ rt innovations\, leading-edge companies & organizations\, & thousands of e
+ ngineers\, scientists\, managers & executives\\nVenue: George R. Brown Con
+ vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-atce-spe-annual-technical-conference-and-exhibition-2560-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-atce-spe-annual-technical-conference-
+ and-exhibition-2560-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUROPEAN GRAPHENE FORUM — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-european-graphene-forum-22779-1@eventseye.impio-vault
+DESCRIPTION:Conference on graphene and it's applications. The European Grap
+ hene Forum will cover the latest technology developments\, applications\, 
+ commercialization progress\, end user requirements and challenges for Grap
+ hene and 2D Materials\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-european-graphene-forum-22779-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-european-graphene-forum-22779-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LES RENDEZ-VOUS CARNOT — Paris\, France
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261023
+UID:f-les-rendez-vous-carnot-20085-1@eventseye.impio-vault
+DESCRIPTION:B2B R&D meeting for companies. You are looking for an R&D partn
+ ership or support to bring your project to maturity... Identify your futur
+ e partners here\\nVenue: Espace Champerret\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-les-rendez-vous-carnot-20085-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-les-rendez-vous-carnot-20085-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NANOMED — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-nanomed-29003-1@eventseye.impio-vault
+DESCRIPTION:NanoMedicine and Nanobiotechnology International Conference & E
+ xhibition\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-nanomed-29003-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-nanomed-29003-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMCHINA — Beijing\, China
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-pharmchina-20124-1@eventseye.impio-vault
+DESCRIPTION:International Trade and Exchange Exhibition Platform of the Pha
+ rmaceutical and Health Industry in China\\nVenue: China International Exhi
+ bition Centre (CIEC)\\nFrequency: twice a year\\nSource: https://www.event
+ seye.com/fairs/f-pharmchina-20124-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-pharmchina-20124-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROENERGY SOUTH-EAST EUROPE ROMANIA — Timisoara\, Romania
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-roenergy-south-east-europe-romania-33296-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair in South-East Europe for Renewable Ene
+ rgy & Energy Efficiency. Energy Security Throught Smart Energy and Mix&Tec
+ hnology. Photovoltaics\, Bioenergy\, AI\, Storage Energy\, Automation...\\
+ nVenue: Pavilion Expovest\, Timisoara\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-roenergy-south-east-europe-romania-33296-
+ 1.html
+LOCATION:Timisoara\, Romania
+URL:https://www.eventseye.com/fairs/f-roenergy-south-east-europe-romania-33
+ 296-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENSORS — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-sensors-29005-1@eventseye.impio-vault
+DESCRIPTION:Sensors and sensing technology Technologies International Confe
+ rence\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -sensors-29005-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-sensors-29005-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMS — Seville\, Spain
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-sms-25590-1@eventseye.impio-vault
+DESCRIPTION:International Smart Materials & Surfaces Conference. SMS target
+ s researchers interested in the design\, modification\, characterization a
+ nd applications of Novel Smart & Active Surfaces and Materials\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-sms-25590-1.html
+LOCATION:Seville\, Spain
+URL:https://www.eventseye.com/fairs/f-sms-25590-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - ITALY - ROME — Rome\, Italy
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-italy-rome-34336-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nVenue: Gazometro\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-italy
+ -rome-34336-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-maker-faire-italy-rome-34336-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - LUXEMBOURG — Luxembourg\, Luxembourg
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-luxembourg-34341-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+LOCATION:Luxembourg\, Luxembourg
+URL:https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - TAIWAN - TAIPEI — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-taiwan-taipei-34325-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.ht
+ ml
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD ORPHAN DRUG CONGRESS - EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261029
+UID:f-world-orphan-drug-congress-europe-31150-1@eventseye.impio-vault
+DESCRIPTION:Biopharma Conference & Exhibition devoted to the Orphan Drug In
+ dustry in Europe. The conference is a place to meet and brainstorm ways to
+  advance orphan drug development and improve access to life-saving therapi
+ es\\nVenue: RAI International Exhibition and Congress Centre\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-world-orphan-drug-
+ congress-europe-31150-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-world-orphan-drug-congress-europe-311
+ 50-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
+DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
+ s innovation hub covering Automotive\, Electronics\, Display and New Mater
+ ials. These shows connect across key industries in the world of advanced m
+ anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
+ onnected-shows-a-mega-feast-of-innovation-32051-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
+ ovation-32051-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIA CLEAN ENERGY SUMMIT — Singapore\, Singapore
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+UID:f-asia-clean-energy-summit-28618-1@eventseye.impio-vault
+DESCRIPTION:Asia Clean Energy Summit (ACES) is Asia’s leading event focus
+ ing on clean energy technology\, policy and finance supported by leading g
+ overnment agencies\, research institutes and industry in Singapore\\nVenue
+ : Marina Bay Sands\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-asia-clean-energy-summit-28618-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-asia-clean-energy-summit-28618-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE WORLD CHINA — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automotive-world-china-30497-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Automotive Industry Exhibition. Intellige
+ nt Vehicles\, NEV Drive Motor\, Power Battery & Motor Control\, Auto Engin
+ eering & Assembly Technology\, Smart Factory & Automation Technology\, New
+  Materials...\\nVenue: Shenzhen World Exhibition & Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-automotive
+ -world-china-30497-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-automotive-world-china-30497-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEM 2D MAT — Valencia\, Spain
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-chem-2d-mat-26373-1@eventseye.impio-vault
+DESCRIPTION:The International conference Chem2Dmat covers all areas related
+  to 2D materials' chemistry spanning their synthesis as well as their func
+ tionalization\, using covalent and non-covalent approaches. Composites\, f
+ oams and coatings\, membranes...\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
+LOCATION:Valencia\, Spain
+URL:https://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL PHARMA TECH SUMMIT - PHARMA TECH BOSTON — Boston\, MA\, US
+ A
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+UID:f-global-pharma-tech-summit-pharma-tech-boston-33927-1@eventseye.impio-vault
+DESCRIPTION:The Global Pharma Tech Summit is an international academic conf
+ erence for pharmaceutical industry leaders\, suppliers\, pharmacists\, med
+ ical\, and clinical professionals\, scientists\, professors\, students...\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-globa
+ l-pharma-tech-summit-pharma-tech-boston-33927-1.html
+LOCATION:Boston\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-global-pharma-tech-summit-pharma-tech
+ -boston-33927-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IZB - INTERNATIONALE ZULIEFERERBÖRSE — Wolfsburg\, Germany
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-izb-internationale-zuliefererborse-34042-1@eventseye.impio-vault
+DESCRIPTION:IZB\, International Suppliers Fair\, is aimed at automotive sup
+ pliers and enjoys a high reputation in the international industry. It is o
+ ne of the most important communication and business platforms in the autom
+ obile sector\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-izb-internationale-zuliefererborse-34042-1.html
+LOCATION:Wolfsburg\, Germany
+URL:https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-34
+ 042-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEPCON ASIA — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-nepcon-asia-30501-1@eventseye.impio-vault
+DESCRIPTION:NEPCON ASIA gathers Asia electronics manufacturers of all types
+ \, to showcase comprehensive advanced cross-industry production solutions 
+ such as PCBA\, smart factory\, semiconductor packaging and testing\, displ
+ ay technology\, automobile manufacturing etc.\\nVenue: Shenzhen World Exhi
+ bition & Convention Center\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-nepcon-asia-30501-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-nepcon-asia-30501-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROBOTECH EXPO — Doha\, Qatar
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-robotech-expo-33960-1@eventseye.impio-vault
+DESCRIPTION:RoboTech Expo is dedicated to robotics\, AI\, and advanced tech
+ nologies in Qatar. It focuses on industrial robotics\, logistics automatio
+ n\, smart cities\, AI and computer vision\, smart mobility and drones\, he
+ althcare robotics\, and education & R&D\\nVenue: Qatar National Convention
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-robotech-expo-33960-1.html
+LOCATION:Doha\, Qatar
+URL:https://www.eventseye.com/fairs/f-robotech-expo-33960-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S-FACTORY EXPO SHENZHEN — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-s-factory-expo-shenzhen-30500-1@eventseye.impio-vault
+DESCRIPTION:Smart Factory & Automation Technology Expo is dedicated to elec
+ tronic manufacturing automation assembly solutions. Machine vision\, Inter
+ net of Things & big data\, industrial software\, industrial robot\, system
+  integration\, intelligent storage & logistics\\nVenue: Shenzhen World Exh
+ ibition & Convention Center\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-s-factory-expo-shenzhen-30500-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-s-factory-expo-shenzhen-30500-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATX MINNEAPOLIS — Minneapolis\, MN\, USA
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+UID:f-atx-minneapolis-27302-1@eventseye.impio-vault
+DESCRIPTION:The All-New Automation Resource. Conference & Exhibition. Disco
+ ver and collaborate on automation solutions that are revolutionizing the e
+ ntire production lifecycle — from design to production to market\\nVenue
+ : Minneapolis Convention Center\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-atx-minneapolis-27302-1.html
+LOCATION:Minneapolis\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-atx-minneapolis-27302-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILTREXPO — Minneapolis\, MN\, USA
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+UID:f-filtrexpo-26629-1@eventseye.impio-vault
+DESCRIPTION:FILTREXPO is a premier international filtration and separation 
+ conference and exhibition\, connecting the global filtration value chain t
+ o showcase innovation\, explore emerging technologies\, and build meaningf
+ ul business relationships\\nVenue: Minneapolis Convention Center\\nFrequen
+ cy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-filtrexpo-26
+ 629-1.html
+LOCATION:Minneapolis\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-filtrexpo-26629-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTURE LABS LIVE - USA — Philadelphia\, PA\, USA
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+UID:f-future-labs-live-usa-31186-1@eventseye.impio-vault
+DESCRIPTION:This is the world’s most diverse\, stimulating\, and exciting
+  event for the future of all labs. Start-ups and disruptors will meet lab 
+ heads and lab techs\, together with the tech & practice innovators\\nVenue
+ : Pennsylvania Convention Center\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-future-labs-live-usa-31186-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-future-labs-live-usa-31186-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KOREA LIFE SCIENCE WEEK — Seoul\, Korea South
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260923
@@ -2562,517 +3102,6 @@ DESCRIPTION:European Conference on Heat Treatment and Surface Engineering.
 LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-echt-european-conference-on-heat-trea
  tment-and-surface-engineering-31262-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BELARUSIAN INDUSTRIAL AND INNOVATION FORUM — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-belarusian-industrial-and-innovation-forum-21491-1@eventseye.impio-vault
-DESCRIPTION:Belarusian Industrial Forum. A prestigious international showca
- se of achievements in the field of advanced technologies. It is a synergy 
- of six mutually complementary industry exhibitions under a single brand\\n
- Venue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-forum
- -21491-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-belarusian-industrial-and-innovation-
- forum-21491-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CLEANROOM EXHIBITION — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261017
-UID:f-cleanroom-exhibition-21008-1@eventseye.impio-vault
-DESCRIPTION:Salon de la maintenance\, des technologies et équipements pour
-  salles blanches. For special industrial plants\, medical facilities\, Res
- earch & Development departments... which require very hygienic and extreme
- ly sterile spaces\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention & Exhibi
- tion Centre)\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
- m/fairs/f-cleanroom-exhibition-21008-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-cleanroom-exhibition-21008-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSMETIC 360 — Paris\, France
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261016
-UID:f-cosmetic-360-29560-1@eventseye.impio-vault
-DESCRIPTION:The world's largest exhibition dedicated to innovation for the 
- entire perfumery-cosmetics sector\\nVenue: Carrousel du Louvre\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-cosmetic-360-295
- 60-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-cosmetic-360-29560-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACHINE BUILDING — Warwick\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-UID:f-machine-building-32035-1@eventseye.impio-vault
-DESCRIPTION:Whether you’re a machine builder\, systems integrator or an O
- EM engineering professional keen to automate\, this is a unique opportunit
- y to meet face-to-face with the largest array of machine building technica
- l experts\\nVenue: Stoneleigh Park Exhibition Centre\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-machine-building-32035-1.h
- tml
-LOCATION:Warwick\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-machine-building-32035-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD VACCINE CONGRESS EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261020
-UID:f-world-vaccine-congress-europe-15586-1@eventseye.impio-vault
-DESCRIPTION:World Vaccine Congress remains the industry’s definitive vacc
- ine industry event for major vaccine players and their respective senior l
- evel representatives\\nVenue: RAI International Exhibition and Congress Ce
- ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- world-vaccine-congress-europe-15586-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-world-vaccine-congress-europe-15586-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - CZECH REPUBLIC - BRNO — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261019
-UID:f-maker-faire-czech-republic-brno-34321-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nVenue: Brno Exhibition Centre
- \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-maker-fa
- ire-czech-republic-brno-34321-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-maker-faire-czech-republic-brno-34321
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - USA - BATON ROUGE — Baton Rouge\, LA\, USA
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-UID:f-maker-faire-usa-baton-rouge-34323-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: unknown\\nSource: 
- https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.html
-LOCATION:Baton Rouge\, LA\, USA
-URL:https://www.eventseye.com/fairs/f-maker-faire-usa-baton-rouge-34323-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - USA - LOUISVILLE — Louisville\, KY\, USA
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-UID:f-maker-faire-usa-louisville-34328-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nVenue: University of Louisvil
- le\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ma
- ker-faire-usa-louisville-34328-1.html
-LOCATION:Louisville\, KY\, USA
-URL:https://www.eventseye.com/fairs/f-maker-faire-usa-louisville-34328-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - CHINA - GUANGZHOU — Guangzhou\, China
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261020
-UID:f-maker-faire-china-guangzhou-34324-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.
- html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-maker-faire-china-guangzhou-34324-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRICITY TRANSFORMATION CANADA — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261022
-UID:f-electricity-transformation-canada-29835-1@eventseye.impio-vault
-DESCRIPTION:"Electricity Transformation Canada" is the largest conference a
- nd exhibition of the renewable energy and storage industry in Canada. A gl
- obal platform to amplify conversations\, explore emerging technologies and
-  drive the clean energy transition\\nVenue: Enercare Centre\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-electricity-transfo
- rmation-canada-29835-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-electricity-transformation-canada-298
- 35-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - EUROPE — Hamburg\, 
- Germany
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-carbon-capture-technology-conference-expo-europe-27129-1@eventseye.impio-vault
-DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
- ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
- ansition to a net-zero carbon economy\\nVenue: Hamburg Messe und Congress\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-carbo
- n-capture-technology-conference-expo-europe-27129-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
- expo-europe-27129-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYDROGEN TECHNOLOGY EXPO - EUROPE — Hamburg\, Germany
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-hydrogen-technology-expo-europe-27130-1@eventseye.impio-vault
-DESCRIPTION:Hydrogen Technology Conference & Expo is Europe’s must-attend
-  conference and exhibition that is exclusively dedicated to discussing adv
- anced technologies for the hydrogen and fuel cell industry\\nVenue: Hambur
- g Messe und Congress\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-hydrogen-technology-expo-europe-27130-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-europe-27130
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TERATEC FORUM — Paris\, France
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261022
-UID:f-teratec-forum-25040-1@eventseye.impio-vault
-DESCRIPTION:The annual meeting for HPC\, numerical simulation\, AI\, and qu
- antum computing. It brings together the players who design\, use\, and tra
- nsform high-performance digital technologies. Two days to connect science\
- , technology\, and industry\\nVenue: Palais des Congrès de Paris Porte Ma
- illot\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -teratec-forum-25040-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-teratec-forum-25040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATCE - SPE ANNUAL TECHNICAL CONFERENCE AND EXHIBITION — Houston\,
-  TX\, USA
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-atce-spe-annual-technical-conference-and-exhibition-2560-1@eventseye.impio-vault
-DESCRIPTION:Society of Petroleum Engineers (SPE) International Conference a
- nd Exhibition. ATCE brings together emerging technologies\, state-of-the a
- rt innovations\, leading-edge companies & organizations\, & thousands of e
- ngineers\, scientists\, managers & executives\\nVenue: George R. Brown Con
- vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-atce-spe-annual-technical-conference-and-exhibition-2560-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-atce-spe-annual-technical-conference-
- and-exhibition-2560-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUROPEAN GRAPHENE FORUM — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-european-graphene-forum-22779-1@eventseye.impio-vault
-DESCRIPTION:Conference on graphene and it's applications. The European Grap
- hene Forum will cover the latest technology developments\, applications\, 
- commercialization progress\, end user requirements and challenges for Grap
- hene and 2D Materials\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-european-graphene-forum-22779-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-european-graphene-forum-22779-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LES RENDEZ-VOUS CARNOT — Paris\, France
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261023
-UID:f-les-rendez-vous-carnot-20085-1@eventseye.impio-vault
-DESCRIPTION:B2B R&D meeting for companies. You are looking for an R&D partn
- ership or support to bring your project to maturity... Identify your futur
- e partners here\\nVenue: Espace Champerret\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-les-rendez-vous-carnot-20085-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-les-rendez-vous-carnot-20085-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NANOMED — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-nanomed-29003-1@eventseye.impio-vault
-DESCRIPTION:NanoMedicine and Nanobiotechnology International Conference & E
- xhibition\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-nanomed-29003-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-nanomed-29003-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHARMCHINA — Beijing\, China
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-pharmchina-20124-1@eventseye.impio-vault
-DESCRIPTION:International Trade and Exchange Exhibition Platform of the Pha
- rmaceutical and Health Industry in China\\nVenue: China International Exhi
- bition Centre (CIEC)\\nFrequency: twice a year\\nSource: https://www.event
- seye.com/fairs/f-pharmchina-20124-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-pharmchina-20124-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROENERGY SOUTH-EAST EUROPE ROMANIA — Timisoara\, Romania
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-roenergy-south-east-europe-romania-33296-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair in South-East Europe for Renewable Ene
- rgy & Energy Efficiency. Energy Security Throught Smart Energy and Mix&Tec
- hnology. Photovoltaics\, Bioenergy\, AI\, Storage Energy\, Automation...\\
- nVenue: Pavilion Expovest\, Timisoara\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-roenergy-south-east-europe-romania-33296-
- 1.html
-LOCATION:Timisoara\, Romania
-URL:https://www.eventseye.com/fairs/f-roenergy-south-east-europe-romania-33
- 296-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SENSORS — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-sensors-29005-1@eventseye.impio-vault
-DESCRIPTION:Sensors and sensing technology Technologies International Confe
- rence\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -sensors-29005-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-sensors-29005-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMS — Seville\, Spain
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-sms-25590-1@eventseye.impio-vault
-DESCRIPTION:International Smart Materials & Surfaces Conference. SMS target
- s researchers interested in the design\, modification\, characterization a
- nd applications of Novel Smart & Active Surfaces and Materials\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-sms-25590-1.html
-LOCATION:Seville\, Spain
-URL:https://www.eventseye.com/fairs/f-sms-25590-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - ITALY - ROME — Rome\, Italy
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-maker-faire-italy-rome-34336-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nVenue: Gazometro\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-maker-faire-italy
- -rome-34336-1.html
-LOCATION:Rome\, Italy
-URL:https://www.eventseye.com/fairs/f-maker-faire-italy-rome-34336-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - LUXEMBOURG — Luxembourg\, Luxembourg
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-maker-faire-luxembourg-34341-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
-LOCATION:Luxembourg\, Luxembourg
-URL:https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - TAIWAN - TAIPEI — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-maker-faire-taiwan-taipei-34325-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.ht
- ml
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD ORPHAN DRUG CONGRESS - EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261029
-UID:f-world-orphan-drug-congress-europe-31150-1@eventseye.impio-vault
-DESCRIPTION:Biopharma Conference & Exhibition devoted to the Orphan Drug In
- dustry in Europe. The conference is a place to meet and brainstorm ways to
-  advance orphan drug development and improve access to life-saving therapi
- es\\nVenue: RAI International Exhibition and Congress Centre\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-world-orphan-drug-
- congress-europe-31150-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-world-orphan-drug-congress-europe-311
- 50-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
-DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
- s innovation hub covering Automotive\, Electronics\, Display and New Mater
- ials. These shows connect across key industries in the world of advanced m
- anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
- onnected-shows-a-mega-feast-of-innovation-32051-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
- ovation-32051-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIA CLEAN ENERGY SUMMIT — Singapore\, Singapore
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261029
-UID:f-asia-clean-energy-summit-28618-1@eventseye.impio-vault
-DESCRIPTION:Asia Clean Energy Summit (ACES) is Asia’s leading event focus
- ing on clean energy technology\, policy and finance supported by leading g
- overnment agencies\, research institutes and industry in Singapore\\nVenue
- : Marina Bay Sands\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-asia-clean-energy-summit-28618-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-asia-clean-energy-summit-28618-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE WORLD CHINA — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automotive-world-china-30497-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Automotive Industry Exhibition. Intellige
- nt Vehicles\, NEV Drive Motor\, Power Battery & Motor Control\, Auto Engin
- eering & Assembly Technology\, Smart Factory & Automation Technology\, New
-  Materials...\\nVenue: Shenzhen World Exhibition & Convention Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-automotive
- -world-china-30497-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-automotive-world-china-30497-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEM 2D MAT — Valencia\, Spain
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-chem-2d-mat-26373-1@eventseye.impio-vault
-DESCRIPTION:The International conference Chem2Dmat covers all areas related
-  to 2D materials' chemistry spanning their synthesis as well as their func
- tionalization\, using covalent and non-covalent approaches. Composites\, f
- oams and coatings\, membranes...\\nFrequency: every 2 years\\nSource: http
- s://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
-LOCATION:Valencia\, Spain
-URL:https://www.eventseye.com/fairs/f-chem-2d-mat-26373-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLOBAL PHARMA TECH SUMMIT - PHARMA TECH BOSTON — Boston\, MA\, US
- A
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261029
-UID:f-global-pharma-tech-summit-pharma-tech-boston-33927-1@eventseye.impio-vault
-DESCRIPTION:The Global Pharma Tech Summit is an international academic conf
- erence for pharmaceutical industry leaders\, suppliers\, pharmacists\, med
- ical\, and clinical professionals\, scientists\, professors\, students...\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-globa
- l-pharma-tech-summit-pharma-tech-boston-33927-1.html
-LOCATION:Boston\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-global-pharma-tech-summit-pharma-tech
- -boston-33927-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IZB - INTERNATIONALE ZULIEFERERBÖRSE — Wolfsburg\, Germany
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-izb-internationale-zuliefererborse-34042-1@eventseye.impio-vault
-DESCRIPTION:IZB\, International Suppliers Fair\, is aimed at automotive sup
- pliers and enjoys a high reputation in the international industry. It is o
- ne of the most important communication and business platforms in the autom
- obile sector\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-izb-internationale-zuliefererborse-34042-1.html
-LOCATION:Wolfsburg\, Germany
-URL:https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-34
- 042-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEPCON ASIA — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-nepcon-asia-30501-1@eventseye.impio-vault
-DESCRIPTION:NEPCON ASIA gathers Asia electronics manufacturers of all types
- \, to showcase comprehensive advanced cross-industry production solutions 
- such as PCBA\, smart factory\, semiconductor packaging and testing\, displ
- ay technology\, automobile manufacturing etc.\\nVenue: Shenzhen World Exhi
- bition & Convention Center\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-nepcon-asia-30501-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-nepcon-asia-30501-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROBOTECH EXPO — Doha\, Qatar
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-robotech-expo-33960-1@eventseye.impio-vault
-DESCRIPTION:RoboTech Expo is dedicated to robotics\, AI\, and advanced tech
- nologies in Qatar. It focuses on industrial robotics\, logistics automatio
- n\, smart cities\, AI and computer vision\, smart mobility and drones\, he
- althcare robotics\, and education & R&D\\nVenue: Qatar National Convention
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-robotech-expo-33960-1.html
-LOCATION:Doha\, Qatar
-URL:https://www.eventseye.com/fairs/f-robotech-expo-33960-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:S-FACTORY EXPO SHENZHEN — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-s-factory-expo-shenzhen-30500-1@eventseye.impio-vault
-DESCRIPTION:Smart Factory & Automation Technology Expo is dedicated to elec
- tronic manufacturing automation assembly solutions. Machine vision\, Inter
- net of Things & big data\, industrial software\, industrial robot\, system
-  integration\, intelligent storage & logistics\\nVenue: Shenzhen World Exh
- ibition & Convention Center\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-s-factory-expo-shenzhen-30500-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-s-factory-expo-shenzhen-30500-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATX MINNEAPOLIS — Minneapolis\, MN\, USA
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-UID:f-atx-minneapolis-27302-1@eventseye.impio-vault
-DESCRIPTION:The All-New Automation Resource. Conference & Exhibition. Disco
- ver and collaborate on automation solutions that are revolutionizing the e
- ntire production lifecycle — from design to production to market\\nVenue
- : Minneapolis Convention Center\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-atx-minneapolis-27302-1.html
-LOCATION:Minneapolis\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-atx-minneapolis-27302-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILTREXPO — Minneapolis\, MN\, USA
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-UID:f-filtrexpo-26629-1@eventseye.impio-vault
-DESCRIPTION:FILTREXPO is a premier international filtration and separation 
- conference and exhibition\, connecting the global filtration value chain t
- o showcase innovation\, explore emerging technologies\, and build meaningf
- ul business relationships\\nVenue: Minneapolis Convention Center\\nFrequen
- cy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-filtrexpo-26
- 629-1.html
-LOCATION:Minneapolis\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-filtrexpo-26629-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUTURE LABS LIVE - USA — Philadelphia\, PA\, USA
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-UID:f-future-labs-live-usa-31186-1@eventseye.impio-vault
-DESCRIPTION:This is the world’s most diverse\, stimulating\, and exciting
-  event for the future of all labs. Start-ups and disruptors will meet lab 
- heads and lab techs\, together with the tech & practice innovators\\nVenue
- : Pennsylvania Convention Center\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-future-labs-live-usa-31186-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-future-labs-live-usa-31186-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHARMA FORUM EMEA — Lisbon\, Portugal
@@ -4151,391 +4180,6 @@ LOCATION:San Diego\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-pittcon-2130-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ADVANCED ENGINEERING - STOCKHOLM — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270416
-UID:f-advanced-engineering-stockholm-31893-1@eventseye.impio-vault
-DESCRIPTION:Advanced Engineering Stockholm covers every phase of the produc
- t development process\, for every sector of the Benelux manufacturing indu
- stry. 250+ exhibitors will bring you their expertise from the design\, eng
- ineering and prototyping of your product\\nVenue: Kista Mässan\\nFrequenc
- y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-advanced-engi
- neering-stockholm-31893-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-advanced-engineering-stockholm-31893-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELEKTRONIKMÄSSAN — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270416
-UID:f-elektronikmassan-12476-1@eventseye.impio-vault
-DESCRIPTION:An exhibition that brings together industry professionals\, inn
- ovators\, and electronics enthusiasts. On-site\, everything within electro
- nics is showcased\, from the latest technology to thousands of electronics
-  products\\nVenue: Kista Mässan\\nFrequency: every 2 years\\nSource: http
- s://www.eventseye.com/fairs/f-elektronikmassan-12476-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-elektronikmassan-12476-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELEKTRONIKMÄSSAN STOCKHOLM — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270416
-UID:f-elektronikmassan-stockholm-31901-1@eventseye.impio-vault
-DESCRIPTION:Swedish Electronics trade show. Meet the leading players in the
-  electronics industry and gain an overview of what’s happening in the el
- ectronics market. In parallel stands "Embedded Conference Scandinavia"\\nV
- enue: Kista Mässan\\nFrequency: every 2 years\\nSource: https://www.event
- seye.com/fairs/f-elektronikmassan-stockholm-31901-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-elektronikmassan-stockholm-31901-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE BUSINESS SHOW - MIAMI — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270416
-UID:f-the-business-show-miami-31075-1@eventseye.impio-vault
-DESCRIPTION:The Business Show helps small businesses grow and develop. Hear
-  from experts from some of the biggest companies in the world who will be 
- offering you the best tips\, tricks\, and advice to get yourself off the g
- round and thriving\\nVenue: Miami Beach Convention Center\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-the-business-show-mia
- mi-31075-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-the-business-show-miami-31075-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIE DEFENSE + COMMERCIAL SENSING EXPO — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270423
-UID:f-spie-defense-commercial-sensing-expo-22290-1@eventseye.impio-vault
-DESCRIPTION:Specialized conferences & exhibition dedicated to sensors\, opt
- ics\, imaging\, lasers\, and related areas for defense\, security\, indust
- ry\, and the environment\\nVenue: Gaylord Palms Resort & Convention Center
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-spie
- -defense-commercial-sensing-expo-22290-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-spie-defense-commercial-sensing-expo-
- 22290-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CERAMICS EXPO — Cleveland\, OH\, USA
-DTSTART;VALUE=DATE:20270419
-DTEND;VALUE=DATE:20270422
-UID:f-ceramics-expo-28603-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and Conference dedicated to the ceramic industry sup
- ply chain. Learn about the latest industry developments\, source next-gene
- ration materials\, and make new business connections\\nVenue: Huntington C
- onvention Center of Cleveland\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-ceramics-expo-28603-1.html
-LOCATION:Cleveland\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-ceramics-expo-28603-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PV CELLTECH EUROPE — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270422
-UID:f-pv-celltech-europe-32912-1@eventseye.impio-vault
-DESCRIPTION:European conference focused on photoelectric cell technologies 
- and production capabilities\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIOPH JAPAN — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270424
-UID:f-bioph-japan-23477-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of Bio-solutions for pharma in Japan. BioPh JAPAN of
- fers an ideal platform for biopharma companies\, drug discovery organizati
- ons\, pharma manufacturers and scientific research institutions to create 
- new partnerships and discuss the latest trend\\nVenue: Tokyo International
-  Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-bioph-japan-23477-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-bioph-japan-23477-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEDTEC JAPAN — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270424
-UID:f-medtec-japan-13996-1@eventseye.impio-vault
-DESCRIPTION:MEDTEC JAPAN\, international tradeshow and seminar for the Desi
- gn & Manufacture of Medical Device industry\, brings together suppliers of
-  the Medical Device Industry as well as development & research professiona
- ls\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-medtec-japa
- n-13996-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-medtec-japan-13996-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEXTECH WEEK TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270424
-UID:f-nextech-week-tokyo-31810-1@eventseye.impio-vault
-DESCRIPTION:NexTech Week Tokyo is a comprehensive trade show gathering adva
- nced technologies that will change the world. This show consists of four e
- vents focusing on artificial intelligence\, blockchain\, quantum computing
- \, and DX human resource development\\nVenue: Tokyo International Exhibiti
- on Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABOTECH — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-labotech-33863-1@eventseye.impio-vault
-DESCRIPTION:LABTECH is a key industry event presenting laboratory equipment
- \, analytical instruments\, and biotechnological solutions. The exhibition
-  will feature modern software\, nanotechnologies\, medical diagnostics\, a
- nd pharmaceutical production systems\\nVenue: Ptak Warsaw Expo\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-labotech-33863-1
- .html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-labotech-33863-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHARMACY EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-pharmacy-expo-30002-1@eventseye.impio-vault
-DESCRIPTION:Polish International Pharmacy Trade Fair. Pharmacy Expo Poland 
- is an event where companies showcase their pharmaceutical products and inn
- ovations. It’s a meeting place for industry representatives\, doctors an
- d research specialists\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-pharmacy-expo-30002-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-pharmacy-expo-30002-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIO KOREA — Seoul\, Korea South
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270501
-UID:f-bio-korea-22551-1@eventseye.impio-vault
-DESCRIPTION:BIO KOREA is an international Convention invigorating and growi
- ng the global bio-health industry. Exchange the newest bio-health trends a
- nd technology as well as get the global expansion business opportunity\\nV
- enue: COEX Exhibition Center\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-bio-korea-22551-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-bio-korea-22551-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NPE — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270503
-DTEND;VALUE=DATE:20270508
-UID:f-npe-12699-1@eventseye.impio-vault
-DESCRIPTION:International Plastics Showcase. NPE is one of the world's larg
- est plastics conference\, exposition and technology exchange. Discover the
-  innovations shaping the plastics industry\\nVenue: Orange County Conventi
- on Center\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/f
- airs/f-npe-12699-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-npe-12699-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AOC EUROPE — Lisbon\, Portugal
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270507
-UID:f-aoc-europe-4439-1@eventseye.impio-vault
-DESCRIPTION:AOC Europe connects organisations and individuals across govern
- ment\, defence\, industry\, and academia to promote the exchange of ideas 
- and information\, and review the latest advances in electromagnetic- and i
- nformation-related fields\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-aoc-europe-4439-1.html
-LOCATION:Lisbon\, Portugal
-URL:https://www.eventseye.com/fairs/f-aoc-europe-4439-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AEROSPACE & DEFENSE MEETINGS CENTRAL EUROPE - RZESZOW — Rzeszow\,
-  Poland
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270514
-UID:f-aerospace-defense-meetings-central-europe-rzeszow-21568-1@eventseye.impio-vault
-DESCRIPTION:Business Convention for the aerospace & defense industries. Att
- ending A&DM Central Europe is a great opportunity for leaders of the aeros
- pace and defense industry to make new business connections and strengthen 
- existing ones\\nVenue: Exhibition and Congress Center (G2A Arena)\\nFreque
- ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-aerospace-d
- efense-meetings-central-europe-rzeszow-21568-1.html
-LOCATION:Rzeszow\, Poland
-URL:https://www.eventseye.com/fairs/f-aerospace-defense-meetings-central-eu
- rope-rzeszow-21568-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:METAL JAPAN - HIGHLY-FUNCTIONAL METAL EXPO - OSAKA — Osaka\, Japa
- n
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270515
-UID:f-metal-japan-highly-functional-metal-expo-osaka-22051-1@eventseye.impio-vault
-DESCRIPTION:International Metal Industry Expo. METAL OSAKA is a specialised
-  exhibition in Osaka featuring raw materials (aluminum\, copper\, titanium
- \, magnesium\, noble metals\, steel\, etc.) processing machines\, analysis
- /inspection equipment\, recycling technologies\\nVenue: Intex Osaka\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-metal-japan
- -highly-functional-metal-expo-osaka-22051-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-metal-japan-highly-functional-metal-e
- xpo-osaka-22051-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEPCON JAPAN - OSAKA — Osaka\, Japan
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270515
-UID:f-nepcon-japan-osaka-31527-1@eventseye.impio-vault
-DESCRIPTION:NEPCON JAPAN has grown together with the Japanese & Asian elect
- ronics industries. The show specialised in essential areas for electronics
-  manufacturing and R&D is a representing Asia's leading venue for all thos
- e involved in the electronics industry\\nVenue: Intex Osaka\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-nepcon-japan-osaka-
- 31527-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-nepcon-japan-osaka-31527-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLASTIC JAPAN - HIGH-PERFORMANCE PLASTICS EXPO - OSAKA — Osaka\, 
- Japan
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270515
-UID:f-plastic-japan-high-performance-plastics-expo-osaka-27802-1@eventseye.impio-vault
-DESCRIPTION:The world's largest exhibition showcasing cutting-edge material
-  technologies such as functional films\, plastics\, cellulose\, carbon fib
- er composites\, metals\, and ceramics. ​\\nVenue: Intex Osaka\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-plastic-japan-h
- igh-performance-plastics-expo-osaka-27802-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
- cs-expo-osaka-27802-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPEXA - SPACE BUSINESS EXPO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270515
-UID:f-spexa-space-business-expo-31846-1@eventseye.impio-vault
-DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite 
- data utilization\, space infrastructure\, space exploration\, space touris
- m\, space application and services\, space technology...\\nVenue: Tokyo In
- ternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846
- -1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-sampe-north-america-33820-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition and Conference on Composite Materials 
- and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
- s from industrial companies\, research institutes\, and suppliers of moder
- n materials and advanced technologies\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-LOCATION:Salt Lake City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASCEND — Washington D.C.\, USA
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-ascend-28996-1@eventseye.impio-vault
-DESCRIPTION:ASCEND is a new event designed to accelerate space commerce\, e
- xploration\, and new discovery\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-ascend-28996-1.html
-LOCATION:Washington D.C.\, USA
-URL:https://www.eventseye.com/fairs/f-ascend-28996-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATX EAST — New York\, NY\, USA
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-atx-east-7275-1@eventseye.impio-vault
-DESCRIPTION:The All-New Automation Resource conference & exhibition. Discov
- er and collaborate on automation solutions that are revolutionizing the en
- tire production lifecycle — from design to production to market\\nVenue:
-  Jacob K. Javits Convention Center\\nFrequency: every 2 years\\nSource: ht
- tps://www.eventseye.com/fairs/f-atx-east-7275-1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-atx-east-7275-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIG DATA & AI WORLD FRANKFURT — Frankfurt\, Germany
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-big-data-ai-world-frankfurt-31313-1@eventseye.impio-vault
-DESCRIPTION:Big Data & AI International Conference. Engage with thousands o
- f experts in technology\, data science\, and AI innovation. Explore unpara
- lleled opportunities to propel your business into a new era of intelligenc
- e\\nVenue: Exhibition Centre Frankfurt\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-big-data-ai-world-frankfurt-31313-1.html
-LOCATION:Frankfurt\, Germany
-URL:https://www.eventseye.com/fairs/f-big-data-ai-world-frankfurt-31313-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROCESSEXPO MALMÖ — Malmö\, Sweden
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-processexpo-malmo-32384-1@eventseye.impio-vault
-DESCRIPTION:The Nordic region’s largest and most important meeting place 
- for the entire process industry\\nVenue: MalmöMässan\\nFrequency: every 
- 2 years\\nSource: https://www.eventseye.com/fairs/f-processexpo-malmo-3238
- 4-1.html
-LOCATION:Malmö\, Sweden
-URL:https://www.eventseye.com/fairs/f-processexpo-malmo-32384-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CERAMIC NETWORK — Limoges\, France
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-ceramic-network-21543-1@eventseye.impio-vault
-DESCRIPTION:International Business Convention on industrial and engineering
-  applications of ceramics. CERAMIC Network aims to gather together contrac
- tors and suppliers in the field of technical ceramics in the same place to
-  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
- -network-21543-1.html
-LOCATION:Limoges\, France
-URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUBCE - EUROPEAN BIOMASS CONFERENCE AND EXHIBITION — Reims\, Fran
- ce
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270529
-UID:f-eubce-european-biomass-conference-and-exhibition-19474-1@eventseye.impio-vault
-DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E combines one 
- of the largest biomass science and technology conference with a leading Bi
- omass industry and technology exhibition\, attracting the entire professio
- nal Biomass community from around the globe\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-a
- nd-exhibition-19474-1.html
-LOCATION:Reims\, France
-URL:https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-and
- -exhibition-19474-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STOCKHOLM TECH SHOW — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270527
-UID:f-stockholm-tech-show-31876-1@eventseye.impio-vault
-DESCRIPTION:The Nordic region's leading forum and networking venue for digi
- tal transformation technologies. The technologies of the future brought to
- gether under one roof. Meet visionaries\, innovators\, the most exciting c
- ompanies and start-ups in the sector\\nVenue: Kista Mässan\\nFrequency: e
- very 2 years\\nSource: https://www.eventseye.com/fairs/f-stockholm-tech-sh
- ow-31876-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-stockholm-tech-show-31876-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ADDITIVE MANUFACTURING FORUM — Berlin\, Germany
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270304
@@ -4563,6 +4207,18 @@ DESCRIPTION:The hybrid decision-maker and expert conference brings together
  /f-am-medical-days-29317-1.html
 LOCATION:Berlin\, Germany
 URL:https://www.eventseye.com/fairs/f-am-medical-days-29317-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CABLES EUROPE — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-cables-europe-28365-1@eventseye.impio-vault
+DESCRIPTION:Forum identifying opportunities for polymeric materials in wire
+  and cable in Europe\\nVenue: Hotel Hilton Düsseldorf\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-cables-europe-28365-1.ht
+ ml
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-cables-europe-28365-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DISASTERS EXPO USA — Fort Lauderdale\, FL\, USA
@@ -4674,6 +4330,21 @@ DESCRIPTION:World Agri-Tech San Francisco is an international conference\,
 LOCATION:San Francisco\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-world-agri-tech-innovation-summit-san
  -francisco-26216-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AERO-ENGINES ASIA-PACIFIC — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-aero-engines-asia-pacific-30606-1@eventseye.impio-vault
+DESCRIPTION:Aero-Engines Asia-Pacific is the only event in the region to sp
+ ecifically focus on the aero engine market and brings together key stakeho
+ lders from across the engine community to discuss and debate latest trends
+ \, developments and strategic challenges\\nVenue: Hopewell hotel\, Hong Ko
+ ng\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ae
+ ro-engines-asia-pacific-30606-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-aero-engines-asia-pacific-30606-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BIG DATA & AI WORLD LONDON — London\, UK - United Kingdom
@@ -5023,6 +4694,20 @@ DESCRIPTION:Business conventions\, exhibitions\, and conferences for the ra
 LOCATION:El Jadida\, Morocco
 URL:https://www.eventseye.com/fairs/f-rail-industry-summit-morocco-32475-1.
  html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOCKHOLM TECH SHOW — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+UID:f-stockholm-tech-show-31876-1@eventseye.impio-vault
+DESCRIPTION:The Nordic region's leading forum and networking venue for digi
+ tal transformation technologies. The technologies of the future brought to
+ gether under one roof. Meet visionaries\, innovators\, the most exciting c
+ ompanies and start-ups in the sector\\nVenue: Kista Mässan\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-stockholm-tech-sh
+ ow-31876-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-stockholm-tech-show-31876-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ADVANCED ENGINEERING - BELGIUM — Ghent\, Belgium
@@ -5376,5 +5061,389 @@ DESCRIPTION:ITS World Congress is the global event that brings together wor
 LOCATION:Orlando\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-its-world-congress-exhibition-12062-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADVANCED ENGINEERING - STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+UID:f-advanced-engineering-stockholm-31893-1@eventseye.impio-vault
+DESCRIPTION:Advanced Engineering Stockholm covers every phase of the produc
+ t development process\, for every sector of the Benelux manufacturing indu
+ stry. 250+ exhibitors will bring you their expertise from the design\, eng
+ ineering and prototyping of your product\\nVenue: Kista Mässan\\nFrequenc
+ y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-advanced-engi
+ neering-stockholm-31893-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-advanced-engineering-stockholm-31893-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEKTRONIKMÄSSAN — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+UID:f-elektronikmassan-12476-1@eventseye.impio-vault
+DESCRIPTION:An exhibition that brings together industry professionals\, inn
+ ovators\, and electronics enthusiasts. On-site\, everything within electro
+ nics is showcased\, from the latest technology to thousands of electronics
+  products\\nVenue: Kista Mässan\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-elektronikmassan-12476-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-elektronikmassan-12476-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEKTRONIKMÄSSAN STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+UID:f-elektronikmassan-stockholm-31901-1@eventseye.impio-vault
+DESCRIPTION:Swedish Electronics trade show. Meet the leading players in the
+  electronics industry and gain an overview of what’s happening in the el
+ ectronics market. In parallel stands "Embedded Conference Scandinavia"\\nV
+ enue: Kista Mässan\\nFrequency: every 2 years\\nSource: https://www.event
+ seye.com/fairs/f-elektronikmassan-stockholm-31901-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-elektronikmassan-stockholm-31901-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BUSINESS SHOW - MIAMI — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270416
+UID:f-the-business-show-miami-31075-1@eventseye.impio-vault
+DESCRIPTION:The Business Show helps small businesses grow and develop. Hear
+  from experts from some of the biggest companies in the world who will be 
+ offering you the best tips\, tricks\, and advice to get yourself off the g
+ round and thriving\\nVenue: Miami Beach Convention Center\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-the-business-show-mia
+ mi-31075-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-the-business-show-miami-31075-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE DEFENSE + COMMERCIAL SENSING EXPO — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270423
+UID:f-spie-defense-commercial-sensing-expo-22290-1@eventseye.impio-vault
+DESCRIPTION:Specialized conferences & exhibition dedicated to sensors\, opt
+ ics\, imaging\, lasers\, and related areas for defense\, security\, indust
+ ry\, and the environment\\nVenue: Gaylord Palms Resort & Convention Center
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-spie
+ -defense-commercial-sensing-expo-22290-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-spie-defense-commercial-sensing-expo-
+ 22290-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CERAMICS EXPO — Cleveland\, OH\, USA
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270422
+UID:f-ceramics-expo-28603-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and Conference dedicated to the ceramic industry sup
+ ply chain. Learn about the latest industry developments\, source next-gene
+ ration materials\, and make new business connections\\nVenue: Huntington C
+ onvention Center of Cleveland\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-ceramics-expo-28603-1.html
+LOCATION:Cleveland\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-ceramics-expo-28603-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PV CELLTECH EUROPE — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270422
+UID:f-pv-celltech-europe-32912-1@eventseye.impio-vault
+DESCRIPTION:European conference focused on photoelectric cell technologies 
+ and production capabilities\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-pv-celltech-europe-32912-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIOPH JAPAN — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-bioph-japan-23477-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of Bio-solutions for pharma in Japan. BioPh JAPAN of
+ fers an ideal platform for biopharma companies\, drug discovery organizati
+ ons\, pharma manufacturers and scientific research institutions to create 
+ new partnerships and discuss the latest trend\\nVenue: Tokyo International
+  Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-bioph-japan-23477-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-bioph-japan-23477-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEDTEC JAPAN — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-medtec-japan-13996-1@eventseye.impio-vault
+DESCRIPTION:MEDTEC JAPAN\, international tradeshow and seminar for the Desi
+ gn & Manufacture of Medical Device industry\, brings together suppliers of
+  the Medical Device Industry as well as development & research professiona
+ ls\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-medtec-japa
+ n-13996-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-medtec-japan-13996-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEXTECH WEEK TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-nextech-week-tokyo-31810-1@eventseye.impio-vault
+DESCRIPTION:NexTech Week Tokyo is a comprehensive trade show gathering adva
+ nced technologies that will change the world. This show consists of four e
+ vents focusing on artificial intelligence\, blockchain\, quantum computing
+ \, and DX human resource development\\nVenue: Tokyo International Exhibiti
+ on Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-nextech-week-tokyo-31810-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABOTECH — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-labotech-33863-1@eventseye.impio-vault
+DESCRIPTION:LABTECH is a key industry event presenting laboratory equipment
+ \, analytical instruments\, and biotechnological solutions. The exhibition
+  will feature modern software\, nanotechnologies\, medical diagnostics\, a
+ nd pharmaceutical production systems\\nVenue: Ptak Warsaw Expo\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-labotech-33863-1
+ .html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-labotech-33863-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMACY EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-pharmacy-expo-30002-1@eventseye.impio-vault
+DESCRIPTION:Polish International Pharmacy Trade Fair. Pharmacy Expo Poland 
+ is an event where companies showcase their pharmaceutical products and inn
+ ovations. It’s a meeting place for industry representatives\, doctors an
+ d research specialists\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-pharmacy-expo-30002-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-pharmacy-expo-30002-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIO KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270501
+UID:f-bio-korea-22551-1@eventseye.impio-vault
+DESCRIPTION:BIO KOREA is an international Convention invigorating and growi
+ ng the global bio-health industry. Exchange the newest bio-health trends a
+ nd technology as well as get the global expansion business opportunity\\nV
+ enue: COEX Exhibition Center\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-bio-korea-22551-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-bio-korea-22551-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INVENTIONS DE GENEVE — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270503
+UID:f-inventions-de-geneve-1552-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of inventions and new techniques in Ge
+ neva. Explore the latest developments in the fields of invention and innov
+ ation\, participate in workshops\, conferences\, demonstrations dedicated 
+ to future inventors\\nVenue: Palexpo\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-inventions-de-geneve-1552-1.html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-inventions-de-geneve-1552-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NPE — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270508
+UID:f-npe-12699-1@eventseye.impio-vault
+DESCRIPTION:International Plastics Showcase. NPE is one of the world's larg
+ est plastics conference\, exposition and technology exchange. Discover the
+  innovations shaping the plastics industry\\nVenue: Orange County Conventi
+ on Center\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/f
+ airs/f-npe-12699-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-npe-12699-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AOC EUROPE — Lisbon\, Portugal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+UID:f-aoc-europe-4439-1@eventseye.impio-vault
+DESCRIPTION:AOC Europe connects organisations and individuals across govern
+ ment\, defence\, industry\, and academia to promote the exchange of ideas 
+ and information\, and review the latest advances in electromagnetic- and i
+ nformation-related fields\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-aoc-europe-4439-1.html
+LOCATION:Lisbon\, Portugal
+URL:https://www.eventseye.com/fairs/f-aoc-europe-4439-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEROSPACE & DEFENSE MEETINGS CENTRAL EUROPE - RZESZOW — Rzeszow\,
+  Poland
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270514
+UID:f-aerospace-defense-meetings-central-europe-rzeszow-21568-1@eventseye.impio-vault
+DESCRIPTION:Business Convention for the aerospace & defense industries. Att
+ ending A&DM Central Europe is a great opportunity for leaders of the aeros
+ pace and defense industry to make new business connections and strengthen 
+ existing ones\\nVenue: Exhibition and Congress Center (G2A Arena)\\nFreque
+ ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-aerospace-d
+ efense-meetings-central-europe-rzeszow-21568-1.html
+LOCATION:Rzeszow\, Poland
+URL:https://www.eventseye.com/fairs/f-aerospace-defense-meetings-central-eu
+ rope-rzeszow-21568-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:METAL JAPAN - HIGHLY-FUNCTIONAL METAL EXPO - OSAKA — Osaka\, Japa
+ n
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-metal-japan-highly-functional-metal-expo-osaka-22051-1@eventseye.impio-vault
+DESCRIPTION:International Metal Industry Expo. METAL OSAKA is a specialised
+  exhibition in Osaka featuring raw materials (aluminum\, copper\, titanium
+ \, magnesium\, noble metals\, steel\, etc.) processing machines\, analysis
+ /inspection equipment\, recycling technologies\\nVenue: Intex Osaka\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-metal-japan
+ -highly-functional-metal-expo-osaka-22051-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-metal-japan-highly-functional-metal-e
+ xpo-osaka-22051-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEPCON JAPAN - OSAKA — Osaka\, Japan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-nepcon-japan-osaka-31527-1@eventseye.impio-vault
+DESCRIPTION:NEPCON JAPAN has grown together with the Japanese & Asian elect
+ ronics industries. The show specialised in essential areas for electronics
+  manufacturing and R&D is a representing Asia's leading venue for all thos
+ e involved in the electronics industry\\nVenue: Intex Osaka\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-nepcon-japan-osaka-
+ 31527-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-nepcon-japan-osaka-31527-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLASTIC JAPAN - HIGH-PERFORMANCE PLASTICS EXPO - OSAKA — Osaka\, 
+ Japan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-plastic-japan-high-performance-plastics-expo-osaka-27802-1@eventseye.impio-vault
+DESCRIPTION:The world's largest exhibition showcasing cutting-edge material
+  technologies such as functional films\, plastics\, cellulose\, carbon fib
+ er composites\, metals\, and ceramics. ​\\nVenue: Intex Osaka\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-plastic-japan-h
+ igh-performance-plastics-expo-osaka-27802-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
+ cs-expo-osaka-27802-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPEXA - SPACE BUSINESS EXPO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-spexa-space-business-expo-31846-1@eventseye.impio-vault
+DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite 
+ data utilization\, space infrastructure\, space exploration\, space touris
+ m\, space application and services\, space technology...\\nVenue: Tokyo In
+ ternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846
+ -1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-sampe-north-america-33820-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition and Conference on Composite Materials 
+ and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
+ s from industrial companies\, research institutes\, and suppliers of moder
+ n materials and advanced technologies\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASCEND — Washington D.C.\, USA
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-ascend-28996-1@eventseye.impio-vault
+DESCRIPTION:ASCEND is a new event designed to accelerate space commerce\, e
+ xploration\, and new discovery\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-ascend-28996-1.html
+LOCATION:Washington D.C.\, USA
+URL:https://www.eventseye.com/fairs/f-ascend-28996-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATX EAST — New York\, NY\, USA
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-atx-east-7275-1@eventseye.impio-vault
+DESCRIPTION:The All-New Automation Resource conference & exhibition. Discov
+ er and collaborate on automation solutions that are revolutionizing the en
+ tire production lifecycle — from design to production to market\\nVenue:
+  Jacob K. Javits Convention Center\\nFrequency: every 2 years\\nSource: ht
+ tps://www.eventseye.com/fairs/f-atx-east-7275-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-atx-east-7275-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIG DATA & AI WORLD FRANKFURT — Frankfurt\, Germany
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-big-data-ai-world-frankfurt-31313-1@eventseye.impio-vault
+DESCRIPTION:Big Data & AI International Conference. Engage with thousands o
+ f experts in technology\, data science\, and AI innovation. Explore unpara
+ lleled opportunities to propel your business into a new era of intelligenc
+ e\\nVenue: Exhibition Centre Frankfurt\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-big-data-ai-world-frankfurt-31313-1.html
+LOCATION:Frankfurt\, Germany
+URL:https://www.eventseye.com/fairs/f-big-data-ai-world-frankfurt-31313-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROCESSEXPO MALMÖ — Malmö\, Sweden
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-processexpo-malmo-32384-1@eventseye.impio-vault
+DESCRIPTION:The Nordic region’s largest and most important meeting place 
+ for the entire process industry\\nVenue: MalmöMässan\\nFrequency: every 
+ 2 years\\nSource: https://www.eventseye.com/fairs/f-processexpo-malmo-3238
+ 4-1.html
+LOCATION:Malmö\, Sweden
+URL:https://www.eventseye.com/fairs/f-processexpo-malmo-32384-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CERAMIC NETWORK — Limoges\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-ceramic-network-21543-1@eventseye.impio-vault
+DESCRIPTION:International Business Convention on industrial and engineering
+  applications of ceramics. CERAMIC Network aims to gather together contrac
+ tors and suppliers in the field of technical ceramics in the same place to
+  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
+ -network-21543-1.html
+LOCATION:Limoges\, France
+URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUBCE - EUROPEAN BIOMASS CONFERENCE AND EXHIBITION — Reims\, Fran
+ ce
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+UID:f-eubce-european-biomass-conference-and-exhibition-19474-1@eventseye.impio-vault
+DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E combines one 
+ of the largest biomass science and technology conference with a leading Bi
+ omass industry and technology exhibition\, attracting the entire professio
+ nal Biomass community from around the globe\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-a
+ nd-exhibition-19474-1.html
+LOCATION:Reims\, France
+URL:https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-and
+ -exhibition-19474-1.html
 END:VEVENT
 END:VCALENDAR

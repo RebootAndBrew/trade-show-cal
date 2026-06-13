@@ -794,6 +794,20 @@ URL:https://www.eventseye.com/fairs/f-foire-exposition-de-picardie-19736-1.
  html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SENSOR + TEST — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260612
+UID:f-sensor-test-2429-1@eventseye.impio-vault
+DESCRIPTION:International trade show + congress for Sensors\, Transducers &
+  Systems. Sensor systems and sensory measuring equipment\, equipment\, com
+ ponents and software\, Laboratory measuring equipment\, calibration\, anal
+ ytical and testing equipment...\\nVenue: Exhibition Centre Nuremberg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-sensor-tes
+ t-2429-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SOU'PAPES FESTIVAL — Avignon\, France
 DTSTART;VALUE=DATE:20260606
 DTEND;VALUE=DATE:20260608
@@ -1323,644 +1337,6 @@ DESCRIPTION:The Grand Morvan Fair features over 50 exhibitors showcasing cr
 LOCATION:Saulieu\, France
 URL:https://www.eventseye.com/fairs/f-foire-du-grand-morvan-saulieu-33993-1
  .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANNUAL JULY JAMBOREE CAR SHOW — Cedar City\, UT\, USA
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-UID:f-annual-july-jamboree-car-show-24098-1@eventseye.impio-vault
-DESCRIPTION:Vehicles Show in Cedar City\, Utah. 'ANNUAL JULY JUMBOREE CAR S
- HOW' features sedan\, vintage cars\, racing cars\, camping car\, travel tr
- ailers\, SUV\, recreational vehicle\, automobile parts\, car accessories\,
-  tool and all types of personal cars\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-annual-july-jamboree-car-show-24098-1.html
-LOCATION:Cedar City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-annual-july-jamboree-car-show-24098-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERFORST — Munich\, Germany
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260716
-UID:f-interforst-1425-1@eventseye.impio-vault
-DESCRIPTION:International Key Trade Fair for Forestry and Forest Technology
-  with Scientific conferences and Special Shows. Take the opportunity to ex
- change with all the important service providers in forest technology\\nVen
- ue: Fairground Messe München\\nFrequency: every 4 years\\nSource: https:/
- /www.eventseye.com/fairs/f-interforst-1425-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-interforst-1425-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EV CHARGING INFRASTRUCTURE SUMMIT - NORTH AMERICA — Chicago\, IL\
- , USA
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260716
-UID:f-ev-charging-infrastructure-summit-north-america-33988-1@eventseye.impio-vault
-DESCRIPTION:EV Charging Infrastructure Summit convenes top industry experts
-  and energy professionals to examine trends and opportunities in the growi
- ng EV charging market\, and what investments are needed to optimize grid s
- tability and the end user experience\\nVenue: Chicago Executive Conference
-  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-ev-charging-infrastructure-summit-north-america-33988-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-ev-charging-infrastructure-summit-nor
- th-america-33988-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EV CHARGING INFRASTRUCTURE SUMMIT: NORTH AMERICA — Chicago\, IL\,
-  USA
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260716
-UID:f-ev-charging-infrastructure-summit-north-america-32109-1@eventseye.impio-vault
-DESCRIPTION:The EV Charging Infrastructure Summit North America convenes to
- p industry experts and utility professionals to examine how growing EV ado
- ption rates will impact the network\, and what investments are needed to e
- nsure grid stability and benefit\\nVenue: McCormick Place\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-ev-charging-infrastru
- cture-summit-north-america-32109-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-ev-charging-infrastructure-summit-nor
- th-america-32109-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IME XINJIANG — Ürümqi\, China
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260719
-UID:f-ime-xinjiang-22974-1@eventseye.impio-vault
-DESCRIPTION:China Xinjiang International Mining Expo. IME Xinjiang will fea
- ture Machinery & equipment manufacturers showcasing Exploration & Mining\,
-  Processing\, Smelting and Conveying equipments\, Safety & maintenance equ
- ipment\, Mining trucks & special vehicles\\nVenue: Xinjiang International 
- Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
-LOCATION:Ürümqi\, China
-URL:https://www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CTW - CHINA TRADE WEEK - KENYA — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260725
-UID:f-ctw-china-trade-week-kenya-32376-1@eventseye.impio-vault
-DESCRIPTION:China Trade Week - Kenya is the 3-day B2B and B2G exhibition\, 
- connecting industry leaders\, investors\, and entrepreneurs with Kenya’s
-  dynamic trade and services sector\\nVenue: Kenyatta International Confere
- nce Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-ctw-china-trade-week-kenya-32376-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-kenya-32376-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APV EXPO — Manila\, Philippines
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260726
-UID:f-apv-expo-19928-1@eventseye.impio-vault
-DESCRIPTION:International Event in the Philippines focusing on Auto Parts &
-  Vehicles. Explore the vast range of technologies and innovations\, rangin
- g from 2-wheeler to 6-wheeler vehicles\\nVenue: World Trade Centre Metro M
- anila (WTCMM)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-apv-expo-19928-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-apv-expo-19928-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTENER FAIR INDIA - NEW-DEHLI — Noida\, India
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260727
-UID:f-fastener-fair-india-new-dehli-16114-1@eventseye.impio-vault
-DESCRIPTION:FASTENER FAIR INDIA covers a wide product range of industrial f
- asteners and fixings\, assembly and installation systems\, storage and log
- istics services\, fastener manufacturing technology and construction fixin
- gs\\nVenue: India Expo Centre & Mart\\nFrequency: every 2 years\\nSource: 
- https://www.eventseye.com/fairs/f-fastener-fair-india-new-dehli-16114-1.ht
- ml
-LOCATION:Noida\, India
-URL:https://www.eventseye.com/fairs/f-fastener-fair-india-new-dehli-16114-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOODGUYS PACIFIC NORTHWEST NATIONALS PUYALLUP — Puyallup\, WA\, U
- SA
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260727
-UID:f-goodguys-pacific-northwest-nationals-puyallup-23971-1@eventseye.impio-vault
-DESCRIPTION:Finest Car Fair in Washington. GOODGUYS PACIFIC NORTHWEST NATIO
- NALS in Puyallup features attractive hot rods\, muscle automobiles\, class
- ic vehicles\, vintage models\, trucks\, Tools & kits\, Street machines\, a
- utomotive\, used cars\, customized personal vehicles\\nVenue: Washington S
- tate Fair Events Center\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-goodguys-pacific-northwest-nationals-puyallup-23971-1.h
- tml
-LOCATION:Puyallup\, WA\, USA
-URL:https://www.eventseye.com/fairs/f-goodguys-pacific-northwest-nationals-
- puyallup-23971-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOGISTICS TRANSPORT FAIR PAKISTAN — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260727
-UID:f-logistics-transport-fair-pakistan-26620-1@eventseye.impio-vault
-DESCRIPTION:Logistics\, Transport & Material Handling Trade Show in Pakista
- n. LTMH will provide a unique opportunity to discover cutting-edge technol
- ogies\, explore the latest industry solutions\, and discuss how to increas
- e efficiencies within supply chain operations\\nVenue: Expo Centre Lahore\
- \nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-log
- istics-transport-fair-pakistan-26620-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-logistics-transport-fair-pakistan-266
- 20-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEMPFOREST — Bertrix\, Belgium
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260730
-UID:f-dempforest-22535-1@eventseye.impio-vault
-DESCRIPTION:The great forestry demonstration event in Western Europe. The s
- ite of approximately 120 ha is exceptional for on-site activities and demo
- nstrations in real conditions\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-dempforest-22535-1.html
-LOCATION:Bertrix\, Belgium
-URL:https://www.eventseye.com/fairs/f-dempforest-22535-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INACOATING — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260801
-UID:f-inacoating-28430-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Coating\, Paintinf\, Resins and Composi
- te Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-inacoating-28430-1.h
- tml
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inacoating-28430-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INAWELDING — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260801
-UID:f-inawelding-28431-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Welding Equipment and Consumables\, Mat
- erial & Services Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-inawel
- ding-28431-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inawelding-28431-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MINE-ENTRA — Bulawayo\, Zimbabwe
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260801
-UID:f-mine-entra-17194-1@eventseye.impio-vault
-DESCRIPTION:International exhibition for the mining\, engineering and trans
- port industries\, covering the entire mining value chain\\nVenue: Zimbabwe
-  International Exhibition Centre (ZIEC)\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-mine-entra-17194-1.html
-LOCATION:Bulawayo\, Zimbabwe
-URL:https://www.eventseye.com/fairs/f-mine-entra-17194-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRANSPOQUIP AND EXPOPARKING — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260801
-UID:f-transpoquip-and-expoparking-33458-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Mobility Technologies and Solutions. Infrastruct
- ure for multimodal (highways\, railways\, ports and airports) and urban mo
- bility\, Changes and trends in public and private parking services\\nVenue
- : Expo Center Norte\\nFrequency: every 2 years\\nSource: https://www.event
- seye.com/fairs/f-transpoquip-and-expoparking-33458-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-transpoquip-and-expoparking-33458-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRUCKFEST SCOTLAND — Edinburgh\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260803
-UID:f-truckfest-scotland-28836-1@eventseye.impio-vault
-DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
- pes and size\, top ranked freestyle motocross riders…\\nVenue: Royal Hig
- hland Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-truckfest-scotland-28836-1.html
-LOCATION:Edinburgh\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-truckfest-scotland-28836-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOLIAMÄSSAN — Piteå\, Sweden
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260810
-UID:f-noliamassan-29422-1@eventseye.impio-vault
-DESCRIPTION:Noliamässan is Sweden´s largest public fair. Home & Construct
- ion\, Food & Beverages\, Design & Fashion\, Fitness & Health\, Technology 
- & Cars\, Caravans & Motorhomes\, Leisure & Outdoor Life...\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-noliamassan-29422-1.
- html
-LOCATION:Piteå\, Sweden
-URL:https://www.eventseye.com/fairs/f-noliamassan-29422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO LOGISTI-K — Buenos Aires\, Argentina
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-expo-logisti-k-1716-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Equipment\, technology and solution
- s for logistics\, flow of information and supply chain. Expo Logisti-K is 
- the answer to the needs of the Logistics and Supply Chain sector\, a place
-  for networking and business updating\\nVenue: La Rural Predio Ferial\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-expo-lo
- gisti-k-1716-1.html
-LOCATION:Buenos Aires\, Argentina
-URL:https://www.eventseye.com/fairs/f-expo-logisti-k-1716-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO TRANSPORTE ARGENTINA — Buenos Aires\, Argentina
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-expo-transporte-argentina-2747-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Freight and Passenger Transport Tec
- hnologies and Equipment\\nVenue: La Rural Predio Ferial\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-expo-transporte-argen
- tina-2747-1.html
-LOCATION:Buenos Aires\, Argentina
-URL:https://www.eventseye.com/fairs/f-expo-transporte-argentina-2747-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GREEN INDUSTRIAL TRANSFORMATION INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-green-industrial-transformation-indonesia-30649-1@eventseye.impio-vault
-DESCRIPTION:The most comprehensive green industry trade show in Indonesia\,
-  bringing together major brands presenting their innovative solutions and 
- advanced technology for the green industry\\nVenue: Jakarta International 
- Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-green-industrial-transformation-indonesia-30649-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-green-industrial-transformation-indon
- esia-30649-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTI ELECTRONIC EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-inti-electronic-expo-33978-1@eventseye.impio-vault
-DESCRIPTION:The INTI Electronic Expo is a hub of innovation for the latest 
- advancements in consumer electronics\, smart devices\, and cutting-edge ga
- dgets. The next generation of IoT devices to the most advanced wearable te
- chnologies\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-inti-electronic-expo-33
- 978-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inti-electronic-expo-33978-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTI MOBILITY EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260814
-UID:f-inti-mobility-expo-33852-1@eventseye.impio-vault
-DESCRIPTION:The largest event for Mobility in Indonesia. As one of the Sout
- heast Asia’s fastest-growing economies\, Indonesia is stepping up to lea
- d the electric vehicle (EV) resolution\\nVenue: Jakarta International Expo
-  (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-inti-mobility-expo-33852-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inti-mobility-expo-33852-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAPAFAIR - CHINA NINGBO INTERNATIONAL AUTO PARTS & AFTERMARKET FAIR
-  — Ningbo\, China
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260815
-UID:f-capafair-china-ningbo-international-auto-parts-aftermarket-fair-33910-1@eventseye.impio-vault
-DESCRIPTION:CAPAFAIR is an export-oriented trade fair dedicated to auto par
- ts and aftermarket products. It serves as a professional platform for conn
- ecting with premium suppliers\, sourcing cost-effective products\, and gai
- ning insights into industry trends\\nVenue: Ningbo International Conferenc
- e & Exhibition Center\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-capafair-china-ningbo-international-auto-parts-aftermarke
- t-fair-33910-1.html
-LOCATION:Ningbo\, China
-URL:https://www.eventseye.com/fairs/f-capafair-china-ningbo-international-a
- uto-parts-aftermarket-fair-33910-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LATIN AMERICAN & CARIBBEAN TYRE EXPO — Panama City\, Panama
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260815
-UID:f-latin-american-caribbean-tyre-expo-16295-1@eventseye.impio-vault
-DESCRIPTION:Latin American & Caribbean Tire and Equipment Manufacturers Exp
- o. Tire manufacturers\, tire service\, retreading and repair companies\, a
- uto parts manufacturers\, auto service\, tools\, equipment to leading comp
- anies in the lubricant and oil industry\\nVenue: Panama Convention Center\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-latin
- -american-caribbean-tyre-expo-16295-1.html
-LOCATION:Panama City\, Panama
-URL:https://www.eventseye.com/fairs/f-latin-american-caribbean-tyre-expo-16
- 295-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LATIN AUTO PARTS EXPO — Panama City\, Panama
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260815
-UID:f-latin-auto-parts-expo-22631-1@eventseye.impio-vault
-DESCRIPTION:LATIN TYRE & AUTO PARTS EXPO are the most important tire and au
- to parts shows in Latin America. Tire manufacturers & service\, retreading
-  and repair companies\, auto parts manufacturers\, auto service\, tools\, 
- and equipment\, lubricant and oil industry...\\nVenue: Panama Convention C
- enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -latin-auto-parts-expo-22631-1.html
-LOCATION:Panama City\, Panama
-URL:https://www.eventseye.com/fairs/f-latin-auto-parts-expo-22631-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD OF CONCRETE ASIA — Shanghai\, China
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260815
-UID:f-world-of-concrete-asia-32862-1@eventseye.impio-vault
-DESCRIPTION:World of Concrete\, hosted is a globally renowned professional 
- exhibition for the concrete and masonry industry. Connecting upstream and 
- downstream industries to create an annual event for the concrete sector in
-  China and even Asia\\nVenue: Shanghai New International Expo Centre - SNI
- EC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-wo
- rld-of-concrete-asia-32862-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-world-of-concrete-asia-32862-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAMBO AUTO — Phnom Penh\, Cambodia
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260817
-UID:f-cambo-auto-26102-1@eventseye.impio-vault
-DESCRIPTION:Cambodia International Auto Parts & Accessories Fair. As part o
- f CIMIF - Cambodia Machinery Industry Exhibition\\nVenue: Diamond Island C
- onvention & Exhibition Center\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-cambo-auto-26102-1.html
-LOCATION:Phnom Penh\, Cambodia
-URL:https://www.eventseye.com/fairs/f-cambo-auto-26102-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETNAM CYCLE EXPO — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260816
-UID:f-vietnam-cycle-expo-20579-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Bicycles and E-Bicycles\, Motorcycl
- e and Spare parts in Vietnam\\nVenue: Saigon Exhibition & Convention Cente
- r - SECC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-vietnam-cycle-expo-20579-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-cycle-expo-20579-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETNAM SPORT SHOW — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260816
-UID:f-vietnam-sport-show-31113-1@eventseye.impio-vault
-DESCRIPTION:VIETNAM SPORT SHOW is the only important trade promotion event 
- of the Vietnamese sports and bicycle industry\\nVenue: Saigon Exhibition &
-  Convention Center - SECC\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-vietnam-sport-show-31113-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-sport-show-31113-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONGRESSO FENABRAVE — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260820
-UID:f-congresso-fenabrave-16853-1@eventseye.impio-vault
-DESCRIPTION:FENABRAVE CONGRESS target public are owners\, executives and pr
- ofessionals of dealerships of automotive vehicles of all segments (domesti
- c and imported cars\, trucks\, buses and road implements\, motorcycles\, t
- ractors and agricultural machinery)\\nVenue: São Paulo Expo Exhibition & 
- Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-congresso-fenabrave-16853-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-congresso-fenabrave-16853-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO FENABRAVE — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260820
-UID:f-expo-fenabrave-16854-1@eventseye.impio-vault
-DESCRIPTION:FENABRAVE EXPO target public are owners\, executives and profes
- sionals of dealerships of automotive vehicles of all segments (domestic an
- d imported cars\, trucks\, buses and road implements\, motorcycles\, tract
- ors and agricultural machinery)\\nVenue: São Paulo Expo Exhibition & Conv
- ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-expo-fenabrave-16854-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-expo-fenabrave-16854-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERAUTO MOSCOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260822
-UID:f-interauto-moscow-15327-1@eventseye.impio-vault
-DESCRIPTION:InterAuto presents the latest developments of Russian and forei
- gn producers of automotive components\, garage and service equipment\, con
- sumables for repair\, auto chemical goods\, paint and lacquer materials an
- d other branches of the industry\\nVenue: Crocus-Expo IEC\\nFrequency: eve
- ry 2 years\\nSource: https://www.eventseye.com/fairs/f-interauto-moscow-15
- 327-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-interauto-moscow-15327-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTRIC & HYBRID MARINE EXPO - NORTH AMERICA — Rosemont\, IL\, U
- SA
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260821
-UID:f-electric-hybrid-marine-expo-north-america-31279-1@eventseye.impio-vault
-DESCRIPTION:World's leading Exhibition for Marine Electrification\, Decarbo
- nization\, Future Fuels & Low-Carbone Shipping Solutions\, Technologies fo
- r electrification & hybridization of workboats\, ferries\, superyachts... 
- + port & harbor infrastructure\\nVenue: Donald E. Stephens Convention Cent
- er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-el
- ectric-hybrid-marine-expo-north-america-31279-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-electric-hybrid-marine-expo-north-ame
- rica-31279-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELMIA LASTBIL - THE TRUCK EXHIBITION — Jönköping\, Sweden
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260823
-UID:f-elmia-lastbil-the-truck-exhibition-4881-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair on the Road Haulage and Transport Sect
- or. For four days\, an entire industry gathers in the spirit of heavy vehi
- cles. Interesting topics will be discussed and meetings for truly signific
- ant deals are forged\\nVenue: Elmia exhibition halls\\nFrequency: every 2 
- years\\nSource: https://www.eventseye.com/fairs/f-elmia-lastbil-the-truck-
- exhibition-4881-1.html
-LOCATION:Jönköping\, Sweden
-URL:https://www.eventseye.com/fairs/f-elmia-lastbil-the-truck-exhibition-48
- 81-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO PLAST PERÚ — Lima\, Peru
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260823
-UID:f-expo-plast-peru-33538-1@eventseye.impio-vault
-DESCRIPTION:EXPO PLAST PERÚ is the entrance door of the plastic industry a
- nd the sectors connected to Peru\, which are familiar with the economies o
- f the croissance\, the fastest in Latin America\\nVenue: Villa Ciudad Feri
- al\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ex
- po-plast-peru-33538-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-expo-plast-peru-33538-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IVT OFF-HIGHWAY VEHICLE TECHNOLOGY CONFERENCE & EXPO USA — Rosemo
- nt\, IL\, USA
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260821
-UID:f-ivt-off-highway-vehicle-technology-conference-expo-usa-31293-1@eventseye.impio-vault
-DESCRIPTION:IVT Off-Highway Vehicle Technology Conference & Expo showcases 
- the latest industrial vehicle technologies\, from cabin designs and compon
- ents to powertrains\, hydraulics\, materials\, testing equipment and auton
- omous-operation know-how\\nVenue: Donald E. Stephens Convention Center\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-ivt-off-
- highway-vehicle-technology-conference-expo-usa-31293-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-ivt-off-highway-vehicle-technology-co
- nference-expo-usa-31293-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAIPEI INTERNATIONAL LOGISTICS & IOT EXHIBITION — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260823
-UID:f-taipei-international-logistics-iot-exhibition-10617-1@eventseye.impio-vault
-DESCRIPTION:International Logistics & Transport International Expo. "The Ta
- ipei International Logistics & IoT Exhibition" serves as a key platform fo
- r the logistics industry in Asia\, bringing together leading logistics tec
- hnologies and solutions\\nVenue: Taipei Nangang Exhibition Center\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-taipei-intern
- ational-logistics-iot-exhibition-10617-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taipei-international-logistics-iot-ex
- hibition-10617-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TILOG-LOGISTIX — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260822
-UID:f-tilog-logistix-21021-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Intralogistics Technologies\, Equip
- ment\, Systems\, and Services for Food & Beverage\, Personal Care\, Automo
- tive\, and Electronics Sectors\\nVenue: Bangkok International Trade & Exhi
- bition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-tilog-logistix-21021-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-tilog-logistix-21021-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOODGUYS WEST COAST NATIONALS PLEASANTON — Pleasanton\, CA\, USA
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-UID:f-goodguys-west-coast-nationals-pleasanton-23964-1@eventseye.impio-vault
-DESCRIPTION:Finest Car Fair in California. GOODGUYS WEST COAST NATIONALS PL
- EASANTON features attractive hot rods\, muscle automobiles\, classic vehic
- les\, vintage models\, trucks\, Tools & kits\, Street machines\, automotiv
- e\, used cars\, customized personal vehicles\\nVenue: Alameda County Fairg
- rounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-goodguys-west-coast-nationals-pleasanton-23964-1.html
-LOCATION:Pleasanton\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-goodguys-west-coast-nationals-pleasan
- ton-23964-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MALAYSIA AUTOSHOW — Johor Bahru\, Malaysia
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-UID:f-malaysia-autoshow-29417-1@eventseye.impio-vault
-DESCRIPTION:Malaysia's biggest Automotive Exhibition\, showcasing the lates
- t vehicles on the market\, for both Internal Combustion Engine (ICE) and E
- lectric Vehicles (EV) alike\\nFrequency: twice a year\\nSource: https://ww
- w.eventseye.com/fairs/f-malaysia-autoshow-29417-1.html
-LOCATION:Johor Bahru\, Malaysia
-URL:https://www.eventseye.com/fairs/f-malaysia-autoshow-29417-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATIONAL 4×4 & OUTDOORS SHOW\, FISHING & BOATING EXPO MELBOURNE 
- — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-UID:f-national-4-4-outdoors-show-fishing-boating-expo-melbourne-21964-1@eventseye.impio-vault
-DESCRIPTION:4×4 Outdoors Show\, Fishing & Boating Expo. The National 4x4 O
- utdoors Show is a leading event for the 4WD industry\, also featuring off-
- road camper trailers\, tents\, awnings\, barbeques\, camping products\, Fi
- shing and Boating\\nVenue: Melbourne Showgrounds\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-national-4-4-outdoors-show-fis
- hing-boating-expo-melbourne-21964-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-national-4-4-outdoors-show-fishing-bo
- ating-expo-melbourne-21964-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OVERLAND EXPO MTN WEST — Loveland\, CO\, USA
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260824
-UID:f-overland-expo-mtn-west-32405-1@eventseye.impio-vault
-DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
- ld\, brings together all the camping and vehicle and motorcycle equipment 
- and services you need to Get Outfitted\\nVenue: The Ranch - Larimer County
-  Fairgrounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-overland-expo-mtn-west-32405-1.html
-LOCATION:Loveland\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-overland-expo-mtn-west-32405-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRUCKFEST EAST MIDLANDS — Kirkby Mallory\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260824
-UID:f-truckfest-east-midlands-34251-1@eventseye.impio-vault
-DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
- pes and size\, top ranked freestyle motocross riders…\\nVenue: Mallory P
- ark Circuit\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-truckfest-east-midlands-34251-1.html
-LOCATION:Kirkby Mallory\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-truckfest-east-midlands-34251-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONCRETE SHOW SOUTH AMERICA — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260828
-UID:f-concrete-show-south-america-19570-1@eventseye.impio-vault
-DESCRIPTION:Exhibition & Conference on Concrete Technology. Concrete Show S
- A showcases Concrete\, Additives\, waterproofing\, sealants\, accessories 
- & tools\, Light & heavy equipment manufacturers for construction & infra-s
- tructure & the concrete production chain\\nVenue: São Paulo Expo Exhibiti
- on & Convention Center\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-concrete-show-south-america-19570-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-concrete-show-south-america-19570-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELEXCON — Shenzhen\, China
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260828
-UID:f-elexcon-7889-1@eventseye.impio-vault
-DESCRIPTION:China Hi-Tech Fair. ELEXCON will present more innovative techno
- logies and applications about AI\, smart home\, internet of things\, Intel
- ligent vehicle\, Industry intelligent systems and the new energy\\nVenue: 
- Shenzhen International Convention & Exhibition Center\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-elexcon-7889-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-elexcon-7889-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FEIPLAR COMPOSITES & FEIPUR — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260828
-UID:f-feiplar-composites-feipur-19943-1@eventseye.impio-vault
-DESCRIPTION:FEIPLAR & FEIPUR: International Fair and Congress of Advanced M
- aterials (composites\, polyurethane\, engineering plastics\, thermoplastic
-  compounds\, nanotechnology\, graphene\, hybrid materials\, elastomers) 
- – in Latin America\\nVenue: São Paulo Expo Exhibition & Convention Cent
- er\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
- feiplar-composites-feipur-19943-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-feiplar-composites-feipur-19943-1.htm
- l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ECCM — Oslo\, Norway
@@ -2646,6 +2022,659 @@ URL:https://www.eventseye.com/fairs/f-goodguys-ppg-nationals-columbus-23970
  -1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANNUAL JULY JAMBOREE CAR SHOW — Cedar City\, UT\, USA
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+UID:f-annual-july-jamboree-car-show-24098-1@eventseye.impio-vault
+DESCRIPTION:Vehicles Show in Cedar City\, Utah. 'ANNUAL JULY JUMBOREE CAR S
+ HOW' features sedan\, vintage cars\, racing cars\, camping car\, travel tr
+ ailers\, SUV\, recreational vehicle\, automobile parts\, car accessories\,
+  tool and all types of personal cars\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-annual-july-jamboree-car-show-24098-1.html
+LOCATION:Cedar City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-annual-july-jamboree-car-show-24098-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERFORST — Munich\, Germany
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260716
+UID:f-interforst-1425-1@eventseye.impio-vault
+DESCRIPTION:International Key Trade Fair for Forestry and Forest Technology
+  with Scientific conferences and Special Shows. Take the opportunity to ex
+ change with all the important service providers in forest technology\\nVen
+ ue: Fairground Messe München\\nFrequency: every 4 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-interforst-1425-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-interforst-1425-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EV CHARGING INFRASTRUCTURE SUMMIT - NORTH AMERICA — Chicago\, IL\
+ , USA
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260716
+UID:f-ev-charging-infrastructure-summit-north-america-33988-1@eventseye.impio-vault
+DESCRIPTION:EV Charging Infrastructure Summit convenes top industry experts
+  and energy professionals to examine trends and opportunities in the growi
+ ng EV charging market\, and what investments are needed to optimize grid s
+ tability and the end user experience\\nVenue: Chicago Executive Conference
+  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-ev-charging-infrastructure-summit-north-america-33988-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-ev-charging-infrastructure-summit-nor
+ th-america-33988-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EV CHARGING INFRASTRUCTURE SUMMIT: NORTH AMERICA — Chicago\, IL\,
+  USA
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260716
+UID:f-ev-charging-infrastructure-summit-north-america-32109-1@eventseye.impio-vault
+DESCRIPTION:The EV Charging Infrastructure Summit North America convenes to
+ p industry experts and utility professionals to examine how growing EV ado
+ ption rates will impact the network\, and what investments are needed to e
+ nsure grid stability and benefit\\nVenue: McCormick Place\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-ev-charging-infrastru
+ cture-summit-north-america-32109-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-ev-charging-infrastructure-summit-nor
+ th-america-32109-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IME XINJIANG — Ürümqi\, China
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260719
+UID:f-ime-xinjiang-22974-1@eventseye.impio-vault
+DESCRIPTION:China Xinjiang International Mining Expo. IME Xinjiang will fea
+ ture Machinery & equipment manufacturers showcasing Exploration & Mining\,
+  Processing\, Smelting and Conveying equipments\, Safety & maintenance equ
+ ipment\, Mining trucks & special vehicles\\nVenue: Xinjiang International 
+ Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
+LOCATION:Ürümqi\, China
+URL:https://www.eventseye.com/fairs/f-ime-xinjiang-22974-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CTW - CHINA TRADE WEEK - KENYA — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260725
+UID:f-ctw-china-trade-week-kenya-32376-1@eventseye.impio-vault
+DESCRIPTION:China Trade Week - Kenya is the 3-day B2B and B2G exhibition\, 
+ connecting industry leaders\, investors\, and entrepreneurs with Kenya’s
+  dynamic trade and services sector\\nVenue: Kenyatta International Confere
+ nce Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-ctw-china-trade-week-kenya-32376-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-ctw-china-trade-week-kenya-32376-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APV EXPO — Manila\, Philippines
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260726
+UID:f-apv-expo-19928-1@eventseye.impio-vault
+DESCRIPTION:International Event in the Philippines focusing on Auto Parts &
+  Vehicles. Explore the vast range of technologies and innovations\, rangin
+ g from 2-wheeler to 6-wheeler vehicles\\nVenue: World Trade Centre Metro M
+ anila (WTCMM)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-apv-expo-19928-1.html
+LOCATION:Manila\, Philippines
+URL:https://www.eventseye.com/fairs/f-apv-expo-19928-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTENER FAIR INDIA - NEW-DEHLI — Noida\, India
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+UID:f-fastener-fair-india-new-dehli-16114-1@eventseye.impio-vault
+DESCRIPTION:FASTENER FAIR INDIA covers a wide product range of industrial f
+ asteners and fixings\, assembly and installation systems\, storage and log
+ istics services\, fastener manufacturing technology and construction fixin
+ gs\\nVenue: India Expo Centre & Mart\\nFrequency: every 2 years\\nSource: 
+ https://www.eventseye.com/fairs/f-fastener-fair-india-new-dehli-16114-1.ht
+ ml
+LOCATION:Noida\, India
+URL:https://www.eventseye.com/fairs/f-fastener-fair-india-new-dehli-16114-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOODGUYS PACIFIC NORTHWEST NATIONALS PUYALLUP — Puyallup\, WA\, U
+ SA
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+UID:f-goodguys-pacific-northwest-nationals-puyallup-23971-1@eventseye.impio-vault
+DESCRIPTION:Finest Car Fair in Washington. GOODGUYS PACIFIC NORTHWEST NATIO
+ NALS in Puyallup features attractive hot rods\, muscle automobiles\, class
+ ic vehicles\, vintage models\, trucks\, Tools & kits\, Street machines\, a
+ utomotive\, used cars\, customized personal vehicles\\nVenue: Washington S
+ tate Fair Events Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-goodguys-pacific-northwest-nationals-puyallup-23971-1.h
+ tml
+LOCATION:Puyallup\, WA\, USA
+URL:https://www.eventseye.com/fairs/f-goodguys-pacific-northwest-nationals-
+ puyallup-23971-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOGISTICS TRANSPORT FAIR PAKISTAN — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260727
+UID:f-logistics-transport-fair-pakistan-26620-1@eventseye.impio-vault
+DESCRIPTION:Logistics\, Transport & Material Handling Trade Show in Pakista
+ n. LTMH will provide a unique opportunity to discover cutting-edge technol
+ ogies\, explore the latest industry solutions\, and discuss how to increas
+ e efficiencies within supply chain operations\\nVenue: Expo Centre Lahore\
+ \nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-log
+ istics-transport-fair-pakistan-26620-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-logistics-transport-fair-pakistan-266
+ 20-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEMPFOREST — Bertrix\, Belgium
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260730
+UID:f-dempforest-22535-1@eventseye.impio-vault
+DESCRIPTION:The great forestry demonstration event in Western Europe. The s
+ ite of approximately 120 ha is exceptional for on-site activities and demo
+ nstrations in real conditions\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-dempforest-22535-1.html
+LOCATION:Bertrix\, Belgium
+URL:https://www.eventseye.com/fairs/f-dempforest-22535-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INACOATING — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+UID:f-inacoating-28430-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Coating\, Paintinf\, Resins and Composi
+ te Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-inacoating-28430-1.h
+ tml
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inacoating-28430-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INAWELDING — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+UID:f-inawelding-28431-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Welding Equipment and Consumables\, Mat
+ erial & Services Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-inawel
+ ding-28431-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inawelding-28431-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MINE-ENTRA — Bulawayo\, Zimbabwe
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+UID:f-mine-entra-17194-1@eventseye.impio-vault
+DESCRIPTION:International exhibition for the mining\, engineering and trans
+ port industries\, covering the entire mining value chain\\nVenue: Zimbabwe
+  International Exhibition Centre (ZIEC)\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-mine-entra-17194-1.html
+LOCATION:Bulawayo\, Zimbabwe
+URL:https://www.eventseye.com/fairs/f-mine-entra-17194-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRANSPOQUIP AND EXPOPARKING — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260801
+UID:f-transpoquip-and-expoparking-33458-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Mobility Technologies and Solutions. Infrastruct
+ ure for multimodal (highways\, railways\, ports and airports) and urban mo
+ bility\, Changes and trends in public and private parking services\\nVenue
+ : Expo Center Norte\\nFrequency: every 2 years\\nSource: https://www.event
+ seye.com/fairs/f-transpoquip-and-expoparking-33458-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-transpoquip-and-expoparking-33458-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRUCKFEST SCOTLAND — Edinburgh\, UK - United Kingdom
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260803
+UID:f-truckfest-scotland-28836-1@eventseye.impio-vault
+DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
+ pes and size\, top ranked freestyle motocross riders…\\nVenue: Royal Hig
+ hland Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-truckfest-scotland-28836-1.html
+LOCATION:Edinburgh\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-truckfest-scotland-28836-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APES AUTO PARTS EXPO SHANGHAI — Shanghai\, China
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260808
+UID:f-apes-auto-parts-expo-shanghai-34360-1@eventseye.impio-vault
+DESCRIPTION:'APES Shanghai International Auto Parts Expo is a premier annua
+ l event for China's automotive aftermarket. The event aims to create a com
+ prehensive one-stop procurement platform covering the entire automotive in
+ dustry chain\\nVenue: National Exhibition and Convention Center\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-apes-auto-parts
+ -expo-shanghai-34360-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-apes-auto-parts-expo-shanghai-34360-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOLIAMÄSSAN — Piteå\, Sweden
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260810
+UID:f-noliamassan-29422-1@eventseye.impio-vault
+DESCRIPTION:Noliamässan is Sweden´s largest public fair. Home & Construct
+ ion\, Food & Beverages\, Design & Fashion\, Fitness & Health\, Technology 
+ & Cars\, Caravans & Motorhomes\, Leisure & Outdoor Life...\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-noliamassan-29422-1.
+ html
+LOCATION:Piteå\, Sweden
+URL:https://www.eventseye.com/fairs/f-noliamassan-29422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO LOGISTI-K — Buenos Aires\, Argentina
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-expo-logisti-k-1716-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Equipment\, technology and solution
+ s for logistics\, flow of information and supply chain. Expo Logisti-K is 
+ the answer to the needs of the Logistics and Supply Chain sector\, a place
+  for networking and business updating\\nVenue: La Rural Predio Ferial\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-expo-lo
+ gisti-k-1716-1.html
+LOCATION:Buenos Aires\, Argentina
+URL:https://www.eventseye.com/fairs/f-expo-logisti-k-1716-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO TRANSPORTE ARGENTINA — Buenos Aires\, Argentina
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-expo-transporte-argentina-2747-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Freight and Passenger Transport Tec
+ hnologies and Equipment\\nVenue: La Rural Predio Ferial\\nFrequency: every
+  2 years\\nSource: https://www.eventseye.com/fairs/f-expo-transporte-argen
+ tina-2747-1.html
+LOCATION:Buenos Aires\, Argentina
+URL:https://www.eventseye.com/fairs/f-expo-transporte-argentina-2747-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREEN INDUSTRIAL TRANSFORMATION INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-green-industrial-transformation-indonesia-30649-1@eventseye.impio-vault
+DESCRIPTION:The most comprehensive green industry trade show in Indonesia\,
+  bringing together major brands presenting their innovative solutions and 
+ advanced technology for the green industry\\nVenue: Jakarta International 
+ Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-green-industrial-transformation-indonesia-30649-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-green-industrial-transformation-indon
+ esia-30649-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTI ELECTRONIC EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-inti-electronic-expo-33978-1@eventseye.impio-vault
+DESCRIPTION:The INTI Electronic Expo is a hub of innovation for the latest 
+ advancements in consumer electronics\, smart devices\, and cutting-edge ga
+ dgets. The next generation of IoT devices to the most advanced wearable te
+ chnologies\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-inti-electronic-expo-33
+ 978-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inti-electronic-expo-33978-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTI MOBILITY EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260814
+UID:f-inti-mobility-expo-33852-1@eventseye.impio-vault
+DESCRIPTION:The largest event for Mobility in Indonesia. As one of the Sout
+ heast Asia’s fastest-growing economies\, Indonesia is stepping up to lea
+ d the electric vehicle (EV) resolution\\nVenue: Jakarta International Expo
+  (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-inti-mobility-expo-33852-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inti-mobility-expo-33852-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAPAFAIR - CHINA NINGBO INTERNATIONAL AUTO PARTS & AFTERMARKET FAIR
+  — Ningbo\, China
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260815
+UID:f-capafair-china-ningbo-international-auto-parts-aftermarket-fair-33910-1@eventseye.impio-vault
+DESCRIPTION:CAPAFAIR is an export-oriented trade fair dedicated to auto par
+ ts and aftermarket products. It serves as a professional platform for conn
+ ecting with premium suppliers\, sourcing cost-effective products\, and gai
+ ning insights into industry trends\\nVenue: Ningbo International Conferenc
+ e & Exhibition Center\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-capafair-china-ningbo-international-auto-parts-aftermarke
+ t-fair-33910-1.html
+LOCATION:Ningbo\, China
+URL:https://www.eventseye.com/fairs/f-capafair-china-ningbo-international-a
+ uto-parts-aftermarket-fair-33910-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATIN AMERICAN & CARIBBEAN TYRE EXPO — Panama City\, Panama
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260815
+UID:f-latin-american-caribbean-tyre-expo-16295-1@eventseye.impio-vault
+DESCRIPTION:Latin American & Caribbean Tire and Equipment Manufacturers Exp
+ o. Tire manufacturers\, tire service\, retreading and repair companies\, a
+ uto parts manufacturers\, auto service\, tools\, equipment to leading comp
+ anies in the lubricant and oil industry\\nVenue: Panama Convention Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-latin
+ -american-caribbean-tyre-expo-16295-1.html
+LOCATION:Panama City\, Panama
+URL:https://www.eventseye.com/fairs/f-latin-american-caribbean-tyre-expo-16
+ 295-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LATIN AUTO PARTS EXPO — Panama City\, Panama
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260815
+UID:f-latin-auto-parts-expo-22631-1@eventseye.impio-vault
+DESCRIPTION:LATIN TYRE & AUTO PARTS EXPO are the most important tire and au
+ to parts shows in Latin America. Tire manufacturers & service\, retreading
+  and repair companies\, auto parts manufacturers\, auto service\, tools\, 
+ and equipment\, lubricant and oil industry...\\nVenue: Panama Convention C
+ enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -latin-auto-parts-expo-22631-1.html
+LOCATION:Panama City\, Panama
+URL:https://www.eventseye.com/fairs/f-latin-auto-parts-expo-22631-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD OF CONCRETE ASIA — Shanghai\, China
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260815
+UID:f-world-of-concrete-asia-32862-1@eventseye.impio-vault
+DESCRIPTION:World of Concrete\, hosted is a globally renowned professional 
+ exhibition for the concrete and masonry industry. Connecting upstream and 
+ downstream industries to create an annual event for the concrete sector in
+  China and even Asia\\nVenue: Shanghai New International Expo Centre - SNI
+ EC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-wo
+ rld-of-concrete-asia-32862-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-world-of-concrete-asia-32862-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAMBO AUTO — Phnom Penh\, Cambodia
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260817
+UID:f-cambo-auto-26102-1@eventseye.impio-vault
+DESCRIPTION:Cambodia International Auto Parts & Accessories Fair. As part o
+ f CIMIF - Cambodia Machinery Industry Exhibition\\nVenue: Diamond Island C
+ onvention & Exhibition Center\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-cambo-auto-26102-1.html
+LOCATION:Phnom Penh\, Cambodia
+URL:https://www.eventseye.com/fairs/f-cambo-auto-26102-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM CYCLE EXPO — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260816
+UID:f-vietnam-cycle-expo-20579-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Bicycles and E-Bicycles\, Motorcycl
+ e and Spare parts in Vietnam\\nVenue: Saigon Exhibition & Convention Cente
+ r - SECC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-vietnam-cycle-expo-20579-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-cycle-expo-20579-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM SPORT SHOW — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260816
+UID:f-vietnam-sport-show-31113-1@eventseye.impio-vault
+DESCRIPTION:VIETNAM SPORT SHOW is the only important trade promotion event 
+ of the Vietnamese sports and bicycle industry\\nVenue: Saigon Exhibition &
+  Convention Center - SECC\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-vietnam-sport-show-31113-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-sport-show-31113-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONGRESSO FENABRAVE — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260820
+UID:f-congresso-fenabrave-16853-1@eventseye.impio-vault
+DESCRIPTION:FENABRAVE CONGRESS target public are owners\, executives and pr
+ ofessionals of dealerships of automotive vehicles of all segments (domesti
+ c and imported cars\, trucks\, buses and road implements\, motorcycles\, t
+ ractors and agricultural machinery)\\nVenue: São Paulo Expo Exhibition & 
+ Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-congresso-fenabrave-16853-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-congresso-fenabrave-16853-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO FENABRAVE — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260820
+UID:f-expo-fenabrave-16854-1@eventseye.impio-vault
+DESCRIPTION:FENABRAVE EXPO target public are owners\, executives and profes
+ sionals of dealerships of automotive vehicles of all segments (domestic an
+ d imported cars\, trucks\, buses and road implements\, motorcycles\, tract
+ ors and agricultural machinery)\\nVenue: São Paulo Expo Exhibition & Conv
+ ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-expo-fenabrave-16854-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-expo-fenabrave-16854-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERAUTO MOSCOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260822
+UID:f-interauto-moscow-15327-1@eventseye.impio-vault
+DESCRIPTION:InterAuto presents the latest developments of Russian and forei
+ gn producers of automotive components\, garage and service equipment\, con
+ sumables for repair\, auto chemical goods\, paint and lacquer materials an
+ d other branches of the industry\\nVenue: Crocus-Expo IEC\\nFrequency: eve
+ ry 2 years\\nSource: https://www.eventseye.com/fairs/f-interauto-moscow-15
+ 327-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-interauto-moscow-15327-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTRIC & HYBRID MARINE EXPO - NORTH AMERICA — Rosemont\, IL\, U
+ SA
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260821
+UID:f-electric-hybrid-marine-expo-north-america-31279-1@eventseye.impio-vault
+DESCRIPTION:World's leading Exhibition for Marine Electrification\, Decarbo
+ nization\, Future Fuels & Low-Carbone Shipping Solutions\, Technologies fo
+ r electrification & hybridization of workboats\, ferries\, superyachts... 
+ + port & harbor infrastructure\\nVenue: Donald E. Stephens Convention Cent
+ er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-el
+ ectric-hybrid-marine-expo-north-america-31279-1.html
+LOCATION:Rosemont\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-electric-hybrid-marine-expo-north-ame
+ rica-31279-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELMIA LASTBIL - THE TRUCK EXHIBITION — Jönköping\, Sweden
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+UID:f-elmia-lastbil-the-truck-exhibition-4881-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair on the Road Haulage and Transport Sect
+ or. For four days\, an entire industry gathers in the spirit of heavy vehi
+ cles. Interesting topics will be discussed and meetings for truly signific
+ ant deals are forged\\nVenue: Elmia exhibition halls\\nFrequency: every 2 
+ years\\nSource: https://www.eventseye.com/fairs/f-elmia-lastbil-the-truck-
+ exhibition-4881-1.html
+LOCATION:Jönköping\, Sweden
+URL:https://www.eventseye.com/fairs/f-elmia-lastbil-the-truck-exhibition-48
+ 81-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO PLAST PERÚ — Lima\, Peru
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+UID:f-expo-plast-peru-33538-1@eventseye.impio-vault
+DESCRIPTION:EXPO PLAST PERÚ is the entrance door of the plastic industry a
+ nd the sectors connected to Peru\, which are familiar with the economies o
+ f the croissance\, the fastest in Latin America\\nVenue: Villa Ciudad Feri
+ al\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ex
+ po-plast-peru-33538-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-expo-plast-peru-33538-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IVT OFF-HIGHWAY VEHICLE TECHNOLOGY CONFERENCE & EXPO USA — Rosemo
+ nt\, IL\, USA
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260821
+UID:f-ivt-off-highway-vehicle-technology-conference-expo-usa-31293-1@eventseye.impio-vault
+DESCRIPTION:IVT Off-Highway Vehicle Technology Conference & Expo showcases 
+ the latest industrial vehicle technologies\, from cabin designs and compon
+ ents to powertrains\, hydraulics\, materials\, testing equipment and auton
+ omous-operation know-how\\nVenue: Donald E. Stephens Convention Center\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-ivt-off-
+ highway-vehicle-technology-conference-expo-usa-31293-1.html
+LOCATION:Rosemont\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-ivt-off-highway-vehicle-technology-co
+ nference-expo-usa-31293-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIPEI INTERNATIONAL LOGISTICS & IOT EXHIBITION — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260823
+UID:f-taipei-international-logistics-iot-exhibition-10617-1@eventseye.impio-vault
+DESCRIPTION:International Logistics & Transport International Expo. "The Ta
+ ipei International Logistics & IoT Exhibition" serves as a key platform fo
+ r the logistics industry in Asia\, bringing together leading logistics tec
+ hnologies and solutions\\nVenue: Taipei Nangang Exhibition Center\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-taipei-intern
+ ational-logistics-iot-exhibition-10617-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taipei-international-logistics-iot-ex
+ hibition-10617-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TILOG-LOGISTIX — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260822
+UID:f-tilog-logistix-21021-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Intralogistics Technologies\, Equip
+ ment\, Systems\, and Services for Food & Beverage\, Personal Care\, Automo
+ tive\, and Electronics Sectors\\nVenue: Bangkok International Trade & Exhi
+ bition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-tilog-logistix-21021-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-tilog-logistix-21021-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOODGUYS WEST COAST NATIONALS PLEASANTON — Pleasanton\, CA\, USA
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:f-goodguys-west-coast-nationals-pleasanton-23964-1@eventseye.impio-vault
+DESCRIPTION:Finest Car Fair in California. GOODGUYS WEST COAST NATIONALS PL
+ EASANTON features attractive hot rods\, muscle automobiles\, classic vehic
+ les\, vintage models\, trucks\, Tools & kits\, Street machines\, automotiv
+ e\, used cars\, customized personal vehicles\\nVenue: Alameda County Fairg
+ rounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-goodguys-west-coast-nationals-pleasanton-23964-1.html
+LOCATION:Pleasanton\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-goodguys-west-coast-nationals-pleasan
+ ton-23964-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MALAYSIA AUTOSHOW — Johor Bahru\, Malaysia
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:f-malaysia-autoshow-29417-1@eventseye.impio-vault
+DESCRIPTION:Malaysia's biggest Automotive Exhibition\, showcasing the lates
+ t vehicles on the market\, for both Internal Combustion Engine (ICE) and E
+ lectric Vehicles (EV) alike\\nFrequency: twice a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-malaysia-autoshow-29417-1.html
+LOCATION:Johor Bahru\, Malaysia
+URL:https://www.eventseye.com/fairs/f-malaysia-autoshow-29417-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NATIONAL 4×4 & OUTDOORS SHOW\, FISHING & BOATING EXPO MELBOURNE 
+ — Melbourne\, Australia
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:f-national-4-4-outdoors-show-fishing-boating-expo-melbourne-21964-1@eventseye.impio-vault
+DESCRIPTION:4×4 Outdoors Show\, Fishing & Boating Expo. The National 4x4 O
+ utdoors Show is a leading event for the 4WD industry\, also featuring off-
+ road camper trailers\, tents\, awnings\, barbeques\, camping products\, Fi
+ shing and Boating\\nVenue: Melbourne Showgrounds\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-national-4-4-outdoors-show-fis
+ hing-boating-expo-melbourne-21964-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-national-4-4-outdoors-show-fishing-bo
+ ating-expo-melbourne-21964-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OVERLAND EXPO MTN WEST — Loveland\, CO\, USA
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260824
+UID:f-overland-expo-mtn-west-32405-1@eventseye.impio-vault
+DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
+ ld\, brings together all the camping and vehicle and motorcycle equipment 
+ and services you need to Get Outfitted\\nVenue: The Ranch - Larimer County
+  Fairgrounds\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-overland-expo-mtn-west-32405-1.html
+LOCATION:Loveland\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-overland-expo-mtn-west-32405-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRUCKFEST EAST MIDLANDS — Kirkby Mallory\, UK - United Kingdom
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260824
+UID:f-truckfest-east-midlands-34251-1@eventseye.impio-vault
+DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
+ pes and size\, top ranked freestyle motocross riders…\\nVenue: Mallory P
+ ark Circuit\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-truckfest-east-midlands-34251-1.html
+LOCATION:Kirkby Mallory\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-truckfest-east-midlands-34251-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONCRETE SHOW SOUTH AMERICA — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260828
+UID:f-concrete-show-south-america-19570-1@eventseye.impio-vault
+DESCRIPTION:Exhibition & Conference on Concrete Technology. Concrete Show S
+ A showcases Concrete\, Additives\, waterproofing\, sealants\, accessories 
+ & tools\, Light & heavy equipment manufacturers for construction & infra-s
+ tructure & the concrete production chain\\nVenue: São Paulo Expo Exhibiti
+ on & Convention Center\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-concrete-show-south-america-19570-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-concrete-show-south-america-19570-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEXCON — Shenzhen\, China
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260828
+UID:f-elexcon-7889-1@eventseye.impio-vault
+DESCRIPTION:China Hi-Tech Fair. ELEXCON will present more innovative techno
+ logies and applications about AI\, smart home\, internet of things\, Intel
+ ligent vehicle\, Industry intelligent systems and the new energy\\nVenue: 
+ Shenzhen International Convention & Exhibition Center\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-elexcon-7889-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-elexcon-7889-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEIPLAR COMPOSITES & FEIPUR — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260828
+UID:f-feiplar-composites-feipur-19943-1@eventseye.impio-vault
+DESCRIPTION:FEIPLAR & FEIPUR: International Fair and Congress of Advanced M
+ aterials (composites\, polyurethane\, engineering plastics\, thermoplastic
+  compounds\, nanotechnology\, graphene\, hybrid materials\, elastomers) 
+ – in Latin America\\nVenue: São Paulo Expo Exhibition & Convention Cent
+ er\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-
+ feiplar-composites-feipur-19943-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-feiplar-composites-feipur-19943-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MIMS AUTOMOBILITY SAINT PETERSBURG — St. Petersburg\, Russia
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260829
@@ -3042,6 +3071,20 @@ DESCRIPTION:This Africa region's leading exhibition covers all areas of the
  ml
 LOCATION:Cape Town\, South Africa
 URL:https://www.eventseye.com/fairs/f-refuel-forum-africa-31384-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESKISEHIR AGRICULTURE FAIR — Eskisehir\, Turkey
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260913
+UID:f-eskisehir-agriculture-fair-27436-1@eventseye.impio-vault
+DESCRIPTION:Eskisehir Agriculture Fair. Agriculture\, Animal Breeding and T
+ echnologies Fair. ESKISEHIR AGRICULTURE FAIR brings The latest development
+ s\, products\, and technologies in the agricultural sector\\nVenue: Eskise
+ hir Chamber of Commerce\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-eskisehir-agriculture-fair-27436-1.html
+LOCATION:Eskisehir\, Turkey
+URL:https://www.eventseye.com/fairs/f-eskisehir-agriculture-fair-27436-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EXPOPOSTOS & CONVENIÊNCIA — São Paulo\, Brazil
@@ -4884,6 +4927,504 @@ LOCATION:Taipei\, Taiwan
 URL:https://www.eventseye.com/fairs/f-ths-taiwan-hardware-show-28799-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TITE X IHT TAIWAN INTERNATIONAL TOOLS & HARDWARE EXPO + INTERNATION
+ AL HARDWARE EXPO — Taichung\, Taiwan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+UID:f-tite-x-iht-taiwan-international-tools-hardware-expo-international-hardware-expo-33219-1@eventseye.impio-vault
+DESCRIPTION:TiTE x IHT Expo is an international tradeshow for the tools and
+  hardware sector\, drawing exhibitors and attendees from around the world.
+  Tools & Accessories\, Metalworking\, Machinery & Processing\, Factory Equ
+ ipment & Industrial Safety\, Automotive Repair...\\nVenue: Greater Taichun
+ g International Expo Center\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-tite-x-iht-taiwan-international-tools-hardware-expo
+ -international-hardware-expo-33219-1.html
+LOCATION:Taichung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-tite-x-iht-taiwan-international-tools
+ -hardware-expo-international-hardware-expo-33219-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIGAS & VEHIGAS — Lima\, Peru
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-figas-vehigas-7032-1@eventseye.impio-vault
+DESCRIPTION:"FIGAS & VEHIGAS"\, the International Tradeshow for the Gas Ind
+ ustry is the largest Event in Perú to sell Equipment\, Supplies and Servi
+ ces for the Gas Industry\, including Industrial\, Residential and Vehicula
+ r\\nVenue: Centro de Exposiciones Jockey\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOAA SHOW — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-koaa-show-14154-1@eventseye.impio-vault
+DESCRIPTION:Korea Autoparts & Auto-related Industries Show. Displaying e-mo
+ bility\, charger and various auto products\, including auto electronics\, 
+ accessories\, chemicals\, car cares\, maintenance\, testing and producing 
+ solution as well as auto parts\\nVenue: Kintex - Korea International Exhib
+ ition Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-koaa-show-14154-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-koaa-show-14154-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROBEX - DAEGU ROBOT EXPO — Daegu\, Korea South
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+UID:f-robex-daegu-robot-expo-22563-1@eventseye.impio-vault
+DESCRIPTION:Daegu International Robot Industry Exhibition. Industrial Robot
+ s – Assembler/disassembler Robots\, loader/unloader Robot\, Inspection R
+ obot\, quality controller Robot\, 3D Print...\\nVenue: Exco (Daegu Exhibit
+ ion & Convention Center)\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-robex-daegu-robot-expo-22563-1.html
+LOCATION:Daegu\, Korea South
+URL:https://www.eventseye.com/fairs/f-robex-daegu-robot-expo-22563-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TURKCOMPOSITE — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-turkcomposite-33281-1@eventseye.impio-vault
+DESCRIPTION:Turkish International Trade Fair for Composite Raw Materials\, 
+ Semi-Finished and Intermediate Products\, Final Products\, Laboratory and 
+ Production Technologies\\nVenue: Istanbul Expo Center / Istanbul Fuar Merk
+ ezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-turkcomposite-33281-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-turkcomposite-33281-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTO E MOTO D'EPOCA — Bologna\, Italy
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+UID:f-auto-e-moto-d-epoca-11715-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Vintage Cars and Motorcycles. Vehic
+ les and spare parts\\nVenue: Bologna Exhibition Centre\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-auto-e-moto-d-epoca-1171
+ 5-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-auto-e-moto-d-epoca-11715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA WAREHOUSING & LOGISTICS SHOW — Mumbai\, India
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+UID:f-india-warehousing-logistics-show-30506-1@eventseye.impio-vault
+DESCRIPTION:Indian Warehousing and Logistics Exhibition. Find innovative wa
+ rehousing\, material handling\, automation\, storage\, logistics and suppl
+ y chain solutions\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-india-w
+ arehousing-logistics-show-30506-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-india-warehousing-logistics-show-3050
+ 6-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUISSE CARAVAN SALON — Bern\, Switzerland
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261027
+UID:f-suisse-caravan-salon-10376-1@eventseye.impio-vault
+DESCRIPTION:Camping and Caravanning National Expo. SUISSE CARAVAN SALON is 
+ a five-day national and international event where exhibitors present a com
+ prehensive overview of latest innovations\, trends\, technology\, accessor
+ ies and the hotest holiday destinations\\nVenue: BernExpo AG\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-suisse-caravan-sal
+ on-10376-1.html
+LOCATION:Bern\, Switzerland
+URL:https://www.eventseye.com/fairs/f-suisse-caravan-salon-10376-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BATTERY SHOW - INDIA — Noida\, India
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261025
+UID:f-the-battery-show-india-30647-1@eventseye.impio-vault
+DESCRIPTION:Meet manufacturers\, suppliers\, engineers\, thought leaders an
+ d purchasers for a conference and trade fair focused on the latest develop
+ ments in the advanced battery and automotive industries\\nVenue: India Exp
+ o Centre & Mart\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-the-battery-show-india-30647-1.html
+LOCATION:Noida\, India
+URL:https://www.eventseye.com/fairs/f-the-battery-show-india-30647-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADELAIDE 4WD & ADVENTURE SHOW — Adelaide\, Australia
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-adelaide-4wd-adventure-show-28740-1@eventseye.impio-vault
+DESCRIPTION:Adventure Show in Adelaide. ADELAIDE 4WD & ADVENTURE SHOW featu
+ res boats\, kayaks\, jet ski\, paddle crafts\, sail yachts\, motor homes\,
+  RV\, SUV\, latest travel gadgets\, tyres\, advanced tools\, water sport p
+ roducts\, camping & 4WD accessories...\\nVenue: Adelaide Convention Centre
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-adel
+ aide-4wd-adventure-show-28740-1.html
+LOCATION:Adelaide\, Australia
+URL:https://www.eventseye.com/fairs/f-adelaide-4wd-adventure-show-28740-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTO SALON WEEK — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-auto-salon-week-12871-1@eventseye.impio-vault
+DESCRIPTION:Korean International Motor Show & Auto Service exhibition. A tr
+ ade show for Auto Tuning and Automotive Aftermarket\\nVenue: Kintex - Kore
+ a International Exhibition Center\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-auto-salon-week-12871-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-auto-salon-week-12871-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIAPEX - MALAYSIA INTERNATIONAL AUTOPARTS EXPO — Kuala Lumpur\, M
+ alaysia
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-miapex-malaysia-international-autoparts-expo-31132-1@eventseye.impio-vault
+DESCRIPTION:MIAPEX - Malaysia International Automotive and Parts Expo is a 
+ regional auto part exhibition organized by Motonation. Automotive Industry
+  Distributors. Workshops\, Resellers\, Procurement\, Technical & Design En
+ gineers\, R&D\, Production\, etc.\\nVenue: Malaysia International Exhibiti
+ on & Convention Centre (M.I.E.C.C.)\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-miapex-malaysia-international-autoparts-exp
+ o-31132-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-miapex-malaysia-international-autopar
+ ts-expo-31132-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MYRTLE BEACH RV SHOW — Myrtle Beach\, SC\, USA
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-myrtle-beach-rv-show-32207-1@eventseye.impio-vault
+DESCRIPTION:MYRTLE BEACH RV EXPO features camping car\, travel trailers\, S
+ UV\, Tow vehicles\, all recreational vehicles\, automobile parts\, car acc
+ essories\, tools...\\nVenue: Myrtle Beach Convention Center\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-myrtle-beach-rv-sho
+ w-32207-1.html
+LOCATION:Myrtle Beach\, SC\, USA
+URL:https://www.eventseye.com/fairs/f-myrtle-beach-rv-show-32207-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OSLO MOTOR SHOW — Lillestrøm\, Norway
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-oslo-motor-show-16345-1@eventseye.impio-vault
+DESCRIPTION:Norway's greatest motor show. The meeting place for all motor e
+ nthusiasts\\nVenue: Nova Spektrum\, Oslo\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-oslo-motor-show-16345-1.html
+LOCATION:Lillestrøm\, Norway
+URL:https://www.eventseye.com/fairs/f-oslo-motor-show-16345-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OVERLAND EXPO EAST — Arrington\, VA\, USA
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-overland-expo-east-32406-1@eventseye.impio-vault
+DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
+ ld\, brings together all the camping and vehicle and motorcycle equipment 
+ and services you need to Get Outfitted\\nVenue: Oak Ridge Estate & Farm\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-overla
+ nd-expo-east-32406-1.html
+LOCATION:Arrington\, VA\, USA
+URL:https://www.eventseye.com/fairs/f-overland-expo-east-32406-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALÓN DEL AUTOMÓVIL - VEHÍCULO DE OCASIÓN — Ourense\, Spain
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-salon-del-automovil-vehiculo-de-ocasion-24770-1@eventseye.impio-vault
+DESCRIPTION:Ourense Used Vehicle Show (Spain). Discover the offers of sever
+ al hundred used or zero kilometer cars from different brands\\nVenue: Expo
+ urense\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-salon-del-automovil-vehiculo-de-ocasion-24770-1.html
+LOCATION:Ourense\, Spain
+URL:https://www.eventseye.com/fairs/f-salon-del-automovil-vehiculo-de-ocasi
+ on-24770-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OLDTIMERMESSE ST.GALLEN — St. Gallen\, Switzerland
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+UID:f-oldtimermesse-st.gallen-22894-1@eventseye.impio-vault
+DESCRIPTION:Classic and Vintage Car and Motorcycle Show in St. Gallen. The 
+ permanent collection can be seen at the Lömmenschwil Automobile Museum\\n
+ Venue: Olma Messen St. Gallen\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-oldtimermesse-st.gallen-22894-1.html
+LOCATION:St. Gallen\, Switzerland
+URL:https://www.eventseye.com/fairs/f-oldtimermesse-st.gallen-22894-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RESTORATION SHOW & GREAT BRITISH AUTOJUMBLE — Coventry\, UK - Uni
+ ted Kingdom
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+UID:f-restoration-show-great-british-autojumble-28916-1@eventseye.impio-vault
+DESCRIPTION:It doesn’t matter if you’re about to start a classic car\, 
+ motorcycle or 4×4 restoration\, looking for your next vehicle to restore 
+ or are in the final stages\, you’ll find an amazing array of parts\, spa
+ res and some good honest advice from the experts\\nVenue: Stoneleigh Park\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-resto
+ ration-show-great-british-autojumble-28916-1.html
+LOCATION:Coventry\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-restoration-show-great-british-autoju
+ mble-28916-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUROPEAN HYDROGEN WEEK — Brussels\, Belgium
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261031
+UID:f-european-hydrogen-week-32497-1@eventseye.impio-vault
+DESCRIPTION:Hydrogen has the potential to play a significant role in the tr
+ ansition to a cleaner energy future. At the 'EU Hydrogen Week'\, will be d
+ iscussed all the latest developments happening at national\, European & gl
+ obal level directly with the hydrogen experts\\nVenue: Brussels Exhibition
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-european-hydrogen-week-32497-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-european-hydrogen-week-32497-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
+DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
+ s innovation hub covering Automotive\, Electronics\, Display and New Mater
+ ials. These shows connect across key industries in the world of advanced m
+ anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
+ onnected-shows-a-mega-feast-of-innovation-32051-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
+ ovation-32051-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE TESTING EXPO - NORTH AMERICA — Novi\, MI\, USA
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automotive-testing-expo-north-america-5032-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Automotive Test & Evaluation. At A
+ utomotive Testing Expo you can see the very latest technologies & services
+  that are designed to ensure that the highest standards are met in terms o
+ f product quality\, reliability and safety\\nVenue: Suburban Collection Sh
+ owplace\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-automotive-testing-expo-north-america-5032-1.html
+LOCATION:Novi\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-automotive-testing-expo-north-america
+ -5032-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE WORLD CHINA — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-automotive-world-china-30497-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Automotive Industry Exhibition. Intellige
+ nt Vehicles\, NEV Drive Motor\, Power Battery & Motor Control\, Auto Engin
+ eering & Assembly Technology\, Smart Factory & Automation Technology\, New
+  Materials...\\nVenue: Shenzhen World Exhibition & Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-automotive
+ -world-china-30497-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-automotive-world-china-30497-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOSERVICE. MECHANICS. AUTOCOMPONENTS — Minsk\, Belarus
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261031
+UID:f-autoservice.-mechanics.-autocomponents-193-1@eventseye.impio-vault
+DESCRIPTION:Belarus expo dedicated to Transport\, Auto Service Center\, Dia
+ gnostics\, Car Parts\, Accessories. Road. Safety. Filling Station Complex\
+ \nVenue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-autoservice.-mechanics.-autocomponents-1
+ 93-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-autoservice.-mechanics.-autocomponent
+ s-193-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICE CHINA — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-ice-china-30503-1@eventseye.impio-vault
+DESCRIPTION:ICE CHINA focuses on advanced equipment & technical solutions f
+ or coating\, laminating\, slitting\, rewinding\, die-cutting\, gravure pri
+ nting as well as roll-to-roll processing of flexible sheet materials such 
+ as film\, tapes\, labels\, paper\, metal foil...\\nVenue: Shenzhen World E
+ xhibition & Convention Center\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-ice-china-30503-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-ice-china-30503-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IZB - INTERNATIONALE ZULIEFERERBÖRSE — Wolfsburg\, Germany
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-izb-internationale-zuliefererborse-34042-1@eventseye.impio-vault
+DESCRIPTION:IZB\, International Suppliers Fair\, is aimed at automotive sup
+ pliers and enjoys a high reputation in the international industry. It is o
+ ne of the most important communication and business platforms in the autom
+ obile sector\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-izb-internationale-zuliefererborse-34042-1.html
+LOCATION:Wolfsburg\, Germany
+URL:https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-34
+ 042-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KYRGYZTRANSLOGISTIC — Bishkek\, Kyrgyzstan
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-kyrgyztranslogistic-32582-1@eventseye.impio-vault
+DESCRIPTION:Logistics\, Transport and Warehousing Equipment Exhibition in K
+ yrgyzstan. Logistics\, Commercial Transport\, Storage Equipment\\nVenue: A
+ rena of Ksapes\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-kyrgyztranslogistic-32582-1.html
+LOCATION:Bishkek\, Kyrgyzstan
+URL:https://www.eventseye.com/fairs/f-kyrgyztranslogistic-32582-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEPCON ASIA — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-nepcon-asia-30501-1@eventseye.impio-vault
+DESCRIPTION:NEPCON ASIA gathers Asia electronics manufacturers of all types
+ \, to showcase comprehensive advanced cross-industry production solutions 
+ such as PCBA\, smart factory\, semiconductor packaging and testing\, displ
+ ay technology\, automobile manufacturing etc.\\nVenue: Shenzhen World Exhi
+ bition & Convention Center\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-nepcon-asia-30501-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-nepcon-asia-30501-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE MAGNETICS SHOW NORTH AMERICA — Detroit\, MI\, USA
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-the-magnetics-show-north-america-31715-1@eventseye.impio-vault
+DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
+ s Industry. Encompassing the entire supply chain of the magnetic material 
+ and rare earth industries. From energy conversion\, aerospace\, to the mod
+ est refrigerator magnet\\nVenue: Huntington Place Convention Center\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-magneti
+ cs-show-north-america-31715-1.html
+LOCATION:Detroit\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-the-magnetics-show-north-america-3171
+ 5-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:V2G BUSINESS\, POLICY AND TECHNOLOGY FORUM — Detroit\, MI\, USA
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-v2g-business-policy-and-technology-forum-32644-1@eventseye.impio-vault
+DESCRIPTION:V2G Business\, Policy & Technology Forum offers a neutral venue
+  in which different Vehicle-to-Grid stakeholders can come together to work
+  on accelerating V2G standardization and adoption in North America\\nFrequ
+ ency: twice a year\\nSource: https://www.eventseye.com/fairs/f-v2g-busines
+ s-policy-and-technology-forum-32644-1.html
+LOCATION:Detroit\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-v2g-business-policy-and-technology-fo
+ rum-32644-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLDCHAIN QAZAQSTAN — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-coldchain-qazaqstan-33418-1@eventseye.impio-vault
+DESCRIPTION:Central Asian International Cold Storage\, Transportation and C
+ old Chain Services Exhibition. Equipment\, vehicles\, services and the lat
+ est innovations for storage and transportation of perishable goods\\nVenue
+ : Atakent International Exhibition Centre\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-coldchain-qazaqstan-33418-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-coldchain-qazaqstan-33418-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CO-REF VIETNAM - COLD CHAIN & REFRIGERATION EXHIBITION - HANOI — 
+ Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-co-ref-vietnam-cold-chain-refrigeration-exhibition-hanoi-33300-1@eventseye.impio-vault
+DESCRIPTION:Cold Chain Exhibition will be the voice for cold storage infras
+ tructure\, refrigeration\, reefer transport\, cold supply chain industry\\
+ nVenue: Vietnam National Convention Center\, NCC\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-co-ref-vietnam-cold-chain-refr
+ igeration-exhibition-hanoi-33300-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-co-ref-vietnam-cold-chain-refrigerati
+ on-exhibition-hanoi-33300-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLASTEC MINNEAPOLIS — Minneapolis\, MN\, USA
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+UID:f-plastec-minneapolis-14648-1@eventseye.impio-vault
+DESCRIPTION:Plastics processing resources for manufacturers in Aerospace / 
+ aviation\, Appliances / Housewares\, automotive\, electronics\, medical\, 
+ packaging\, consumer goods\, and more\\nVenue: Minneapolis Convention Cent
+ er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pl
+ astec-minneapolis-14648-1.html
+LOCATION:Minneapolis\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-plastec-minneapolis-14648-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIET CARGO EXPO - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-viet-cargo-expo-hanoi-31822-1@eventseye.impio-vault
+DESCRIPTION:Viet Cargo Expo stands alone as the premier gathering in the AS
+ EAN\, uniting the entirety of the cargo and logistics community—from air
+  and ocean to road\, warehousing\, ground handling\, supply chain\, techno
+ logy\, and more—all in one place\\nVenue: NECC - National Exhibition Con
+ struction Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VWAS - VIETNAM WAREHOUSING & AUTOMATION SHOW - HANOI — Hanoi\, Vi
+ etnam
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-vwas-vietnam-warehousing-automation-show-hanoi-33288-1@eventseye.impio-vault
+DESCRIPTION:VWAS - Vietnam Warehousing & Automation Show covers warehousing
+ \, automation\, logistics\, and supply chain technologies\, bringing strat
+ egic value and promoting networking and development opportunities for busi
+ nesses in the region\\nVenue: NECC - National Exhibition Construction Cent
+ er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vw
+ as-vietnam-warehousing-automation-show-hanoi-33288-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vwas-vietnam-warehousing-automation-s
+ how-hanoi-33288-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261109
+UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\,
+  Shopping\, Gastronomy\, leisure and local life\\nVenue: Alpexpo\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internat
+ ionale-de-grenoble-1034-1.html
+LOCATION:Grenoble\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-1034
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL PRAGUE CAR FESTIVAL — Prague\, Czech Republic
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-international-prague-car-festival-20650-1@eventseye.impio-vault
+DESCRIPTION:Prague Motor Show. The largest exhibition in Central and Easter
+ n Europe with a focus on tuning\, motorsport\, historic cars and motorcycl
+ es\\nVenue: PVA Letnany - Prague Exhibition Centre Letnany\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-international-prague
+ -car-festival-20650-1.html
+LOCATION:Prague\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-international-prague-car-festival-206
+ 50-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AAPEX — Las Vegas\, NV\, USA
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261106
@@ -5401,504 +5942,6 @@ DESCRIPTION:Automation Conference & Exhibition. ATX Montréal has suppliers
  s/f-atx-montreal-16582-1.html
 LOCATION:Montreal\, QC\, Canada
 URL:https://www.eventseye.com/fairs/f-atx-montreal-16582-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TITE X IHT TAIWAN INTERNATIONAL TOOLS & HARDWARE EXPO + INTERNATION
- AL HARDWARE EXPO — Taichung\, Taiwan
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261023
-UID:f-tite-x-iht-taiwan-international-tools-hardware-expo-international-hardware-expo-33219-1@eventseye.impio-vault
-DESCRIPTION:TiTE x IHT Expo is an international tradeshow for the tools and
-  hardware sector\, drawing exhibitors and attendees from around the world.
-  Tools & Accessories\, Metalworking\, Machinery & Processing\, Factory Equ
- ipment & Industrial Safety\, Automotive Repair...\\nVenue: Greater Taichun
- g International Expo Center\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-tite-x-iht-taiwan-international-tools-hardware-expo
- -international-hardware-expo-33219-1.html
-LOCATION:Taichung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-tite-x-iht-taiwan-international-tools
- -hardware-expo-international-hardware-expo-33219-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIGAS & VEHIGAS — Lima\, Peru
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-figas-vehigas-7032-1@eventseye.impio-vault
-DESCRIPTION:"FIGAS & VEHIGAS"\, the International Tradeshow for the Gas Ind
- ustry is the largest Event in Perú to sell Equipment\, Supplies and Servi
- ces for the Gas Industry\, including Industrial\, Residential and Vehicula
- r\\nVenue: Centro de Exposiciones Jockey\\nFrequency: every 2 years\\nSour
- ce: https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KOAA SHOW — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-koaa-show-14154-1@eventseye.impio-vault
-DESCRIPTION:Korea Autoparts & Auto-related Industries Show. Displaying e-mo
- bility\, charger and various auto products\, including auto electronics\, 
- accessories\, chemicals\, car cares\, maintenance\, testing and producing 
- solution as well as auto parts\\nVenue: Kintex - Korea International Exhib
- ition Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-koaa-show-14154-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-koaa-show-14154-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROBEX - DAEGU ROBOT EXPO — Daegu\, Korea South
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261025
-UID:f-robex-daegu-robot-expo-22563-1@eventseye.impio-vault
-DESCRIPTION:Daegu International Robot Industry Exhibition. Industrial Robot
- s – Assembler/disassembler Robots\, loader/unloader Robot\, Inspection R
- obot\, quality controller Robot\, 3D Print...\\nVenue: Exco (Daegu Exhibit
- ion & Convention Center)\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-robex-daegu-robot-expo-22563-1.html
-LOCATION:Daegu\, Korea South
-URL:https://www.eventseye.com/fairs/f-robex-daegu-robot-expo-22563-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TURKCOMPOSITE — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-turkcomposite-33281-1@eventseye.impio-vault
-DESCRIPTION:Turkish International Trade Fair for Composite Raw Materials\, 
- Semi-Finished and Intermediate Products\, Final Products\, Laboratory and 
- Production Technologies\\nVenue: Istanbul Expo Center / Istanbul Fuar Merk
- ezi / CNR Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-turkcomposite-33281-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-turkcomposite-33281-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTO E MOTO D'EPOCA — Bologna\, Italy
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-UID:f-auto-e-moto-d-epoca-11715-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Vintage Cars and Motorcycles. Vehic
- les and spare parts\\nVenue: Bologna Exhibition Centre\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-auto-e-moto-d-epoca-1171
- 5-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-auto-e-moto-d-epoca-11715-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIA WAREHOUSING & LOGISTICS SHOW — Mumbai\, India
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-UID:f-india-warehousing-logistics-show-30506-1@eventseye.impio-vault
-DESCRIPTION:Indian Warehousing and Logistics Exhibition. Find innovative wa
- rehousing\, material handling\, automation\, storage\, logistics and suppl
- y chain solutions\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-india-w
- arehousing-logistics-show-30506-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-india-warehousing-logistics-show-3050
- 6-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUISSE CARAVAN SALON — Bern\, Switzerland
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261027
-UID:f-suisse-caravan-salon-10376-1@eventseye.impio-vault
-DESCRIPTION:Camping and Caravanning National Expo. SUISSE CARAVAN SALON is 
- a five-day national and international event where exhibitors present a com
- prehensive overview of latest innovations\, trends\, technology\, accessor
- ies and the hotest holiday destinations\\nVenue: BernExpo AG\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-suisse-caravan-sal
- on-10376-1.html
-LOCATION:Bern\, Switzerland
-URL:https://www.eventseye.com/fairs/f-suisse-caravan-salon-10376-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE BATTERY SHOW - INDIA — Noida\, India
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-UID:f-the-battery-show-india-30647-1@eventseye.impio-vault
-DESCRIPTION:Meet manufacturers\, suppliers\, engineers\, thought leaders an
- d purchasers for a conference and trade fair focused on the latest develop
- ments in the advanced battery and automotive industries\\nVenue: India Exp
- o Centre & Mart\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-the-battery-show-india-30647-1.html
-LOCATION:Noida\, India
-URL:https://www.eventseye.com/fairs/f-the-battery-show-india-30647-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADELAIDE 4WD & ADVENTURE SHOW — Adelaide\, Australia
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-adelaide-4wd-adventure-show-28740-1@eventseye.impio-vault
-DESCRIPTION:Adventure Show in Adelaide. ADELAIDE 4WD & ADVENTURE SHOW featu
- res boats\, kayaks\, jet ski\, paddle crafts\, sail yachts\, motor homes\,
-  RV\, SUV\, latest travel gadgets\, tyres\, advanced tools\, water sport p
- roducts\, camping & 4WD accessories...\\nVenue: Adelaide Convention Centre
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-adel
- aide-4wd-adventure-show-28740-1.html
-LOCATION:Adelaide\, Australia
-URL:https://www.eventseye.com/fairs/f-adelaide-4wd-adventure-show-28740-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTO SALON WEEK — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-auto-salon-week-12871-1@eventseye.impio-vault
-DESCRIPTION:Korean International Motor Show & Auto Service exhibition. A tr
- ade show for Auto Tuning and Automotive Aftermarket\\nVenue: Kintex - Kore
- a International Exhibition Center\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-auto-salon-week-12871-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-auto-salon-week-12871-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIAPEX - MALAYSIA INTERNATIONAL AUTOPARTS EXPO — Kuala Lumpur\, M
- alaysia
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-miapex-malaysia-international-autoparts-expo-31132-1@eventseye.impio-vault
-DESCRIPTION:MIAPEX - Malaysia International Automotive and Parts Expo is a 
- regional auto part exhibition organized by Motonation. Automotive Industry
-  Distributors. Workshops\, Resellers\, Procurement\, Technical & Design En
- gineers\, R&D\, Production\, etc.\\nVenue: Malaysia International Exhibiti
- on & Convention Centre (M.I.E.C.C.)\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-miapex-malaysia-international-autoparts-exp
- o-31132-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-miapex-malaysia-international-autopar
- ts-expo-31132-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MYRTLE BEACH RV SHOW — Myrtle Beach\, SC\, USA
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-myrtle-beach-rv-show-32207-1@eventseye.impio-vault
-DESCRIPTION:MYRTLE BEACH RV EXPO features camping car\, travel trailers\, S
- UV\, Tow vehicles\, all recreational vehicles\, automobile parts\, car acc
- essories\, tools...\\nVenue: Myrtle Beach Convention Center\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-myrtle-beach-rv-sho
- w-32207-1.html
-LOCATION:Myrtle Beach\, SC\, USA
-URL:https://www.eventseye.com/fairs/f-myrtle-beach-rv-show-32207-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OSLO MOTOR SHOW — Lillestrøm\, Norway
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-oslo-motor-show-16345-1@eventseye.impio-vault
-DESCRIPTION:Norway's greatest motor show. The meeting place for all motor e
- nthusiasts\\nVenue: Nova Spektrum\, Oslo\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-oslo-motor-show-16345-1.html
-LOCATION:Lillestrøm\, Norway
-URL:https://www.eventseye.com/fairs/f-oslo-motor-show-16345-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OVERLAND EXPO EAST — Arrington\, VA\, USA
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-overland-expo-east-32406-1@eventseye.impio-vault
-DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
- ld\, brings together all the camping and vehicle and motorcycle equipment 
- and services you need to Get Outfitted\\nVenue: Oak Ridge Estate & Farm\\n
- Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-overla
- nd-expo-east-32406-1.html
-LOCATION:Arrington\, VA\, USA
-URL:https://www.eventseye.com/fairs/f-overland-expo-east-32406-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALÓN DEL AUTOMÓVIL - VEHÍCULO DE OCASIÓN — Ourense\, Spain
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261026
-UID:f-salon-del-automovil-vehiculo-de-ocasion-24770-1@eventseye.impio-vault
-DESCRIPTION:Ourense Used Vehicle Show (Spain). Discover the offers of sever
- al hundred used or zero kilometer cars from different brands\\nVenue: Expo
- urense\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-salon-del-automovil-vehiculo-de-ocasion-24770-1.html
-LOCATION:Ourense\, Spain
-URL:https://www.eventseye.com/fairs/f-salon-del-automovil-vehiculo-de-ocasi
- on-24770-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OLDTIMERMESSE ST.GALLEN — St. Gallen\, Switzerland
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-UID:f-oldtimermesse-st.gallen-22894-1@eventseye.impio-vault
-DESCRIPTION:Classic and Vintage Car and Motorcycle Show in St. Gallen. The 
- permanent collection can be seen at the Lömmenschwil Automobile Museum\\n
- Venue: Olma Messen St. Gallen\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-oldtimermesse-st.gallen-22894-1.html
-LOCATION:St. Gallen\, Switzerland
-URL:https://www.eventseye.com/fairs/f-oldtimermesse-st.gallen-22894-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RESTORATION SHOW & GREAT BRITISH AUTOJUMBLE — Coventry\, UK - Uni
- ted Kingdom
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-UID:f-restoration-show-great-british-autojumble-28916-1@eventseye.impio-vault
-DESCRIPTION:It doesn’t matter if you’re about to start a classic car\, 
- motorcycle or 4×4 restoration\, looking for your next vehicle to restore 
- or are in the final stages\, you’ll find an amazing array of parts\, spa
- res and some good honest advice from the experts\\nVenue: Stoneleigh Park\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-resto
- ration-show-great-british-autojumble-28916-1.html
-LOCATION:Coventry\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-restoration-show-great-british-autoju
- mble-28916-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUROPEAN HYDROGEN WEEK — Brussels\, Belgium
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261031
-UID:f-european-hydrogen-week-32497-1@eventseye.impio-vault
-DESCRIPTION:Hydrogen has the potential to play a significant role in the tr
- ansition to a cleaner energy future. At the 'EU Hydrogen Week'\, will be d
- iscussed all the latest developments happening at national\, European & gl
- obal level directly with the hydrogen experts\\nVenue: Brussels Exhibition
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-european-hydrogen-week-32497-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-european-hydrogen-week-32497-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
-DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
- s innovation hub covering Automotive\, Electronics\, Display and New Mater
- ials. These shows connect across key industries in the world of advanced m
- anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
- onnected-shows-a-mega-feast-of-innovation-32051-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
- ovation-32051-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE TESTING EXPO - NORTH AMERICA — Novi\, MI\, USA
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automotive-testing-expo-north-america-5032-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Automotive Test & Evaluation. At A
- utomotive Testing Expo you can see the very latest technologies & services
-  that are designed to ensure that the highest standards are met in terms o
- f product quality\, reliability and safety\\nVenue: Suburban Collection Sh
- owplace\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-automotive-testing-expo-north-america-5032-1.html
-LOCATION:Novi\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-automotive-testing-expo-north-america
- -5032-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE WORLD CHINA — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-automotive-world-china-30497-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Automotive Industry Exhibition. Intellige
- nt Vehicles\, NEV Drive Motor\, Power Battery & Motor Control\, Auto Engin
- eering & Assembly Technology\, Smart Factory & Automation Technology\, New
-  Materials...\\nVenue: Shenzhen World Exhibition & Convention Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-automotive
- -world-china-30497-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-automotive-world-china-30497-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOSERVICE. MECHANICS. AUTOCOMPONENTS — Minsk\, Belarus
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261031
-UID:f-autoservice.-mechanics.-autocomponents-193-1@eventseye.impio-vault
-DESCRIPTION:Belarus expo dedicated to Transport\, Auto Service Center\, Dia
- gnostics\, Car Parts\, Accessories. Road. Safety. Filling Station Complex\
- \nVenue: Football Manege Sport Complex\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-autoservice.-mechanics.-autocomponents-1
- 93-1.html
-LOCATION:Minsk\, Belarus
-URL:https://www.eventseye.com/fairs/f-autoservice.-mechanics.-autocomponent
- s-193-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICE CHINA — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-ice-china-30503-1@eventseye.impio-vault
-DESCRIPTION:ICE CHINA focuses on advanced equipment & technical solutions f
- or coating\, laminating\, slitting\, rewinding\, die-cutting\, gravure pri
- nting as well as roll-to-roll processing of flexible sheet materials such 
- as film\, tapes\, labels\, paper\, metal foil...\\nVenue: Shenzhen World E
- xhibition & Convention Center\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-ice-china-30503-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-ice-china-30503-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IZB - INTERNATIONALE ZULIEFERERBÖRSE — Wolfsburg\, Germany
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-izb-internationale-zuliefererborse-34042-1@eventseye.impio-vault
-DESCRIPTION:IZB\, International Suppliers Fair\, is aimed at automotive sup
- pliers and enjoys a high reputation in the international industry. It is o
- ne of the most important communication and business platforms in the autom
- obile sector\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-izb-internationale-zuliefererborse-34042-1.html
-LOCATION:Wolfsburg\, Germany
-URL:https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-34
- 042-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KYRGYZTRANSLOGISTIC — Bishkek\, Kyrgyzstan
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-kyrgyztranslogistic-32582-1@eventseye.impio-vault
-DESCRIPTION:Logistics\, Transport and Warehousing Equipment Exhibition in K
- yrgyzstan. Logistics\, Commercial Transport\, Storage Equipment\\nVenue: A
- rena of Ksapes\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-kyrgyztranslogistic-32582-1.html
-LOCATION:Bishkek\, Kyrgyzstan
-URL:https://www.eventseye.com/fairs/f-kyrgyztranslogistic-32582-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEPCON ASIA — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-nepcon-asia-30501-1@eventseye.impio-vault
-DESCRIPTION:NEPCON ASIA gathers Asia electronics manufacturers of all types
- \, to showcase comprehensive advanced cross-industry production solutions 
- such as PCBA\, smart factory\, semiconductor packaging and testing\, displ
- ay technology\, automobile manufacturing etc.\\nVenue: Shenzhen World Exhi
- bition & Convention Center\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-nepcon-asia-30501-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-nepcon-asia-30501-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE MAGNETICS SHOW NORTH AMERICA — Detroit\, MI\, USA
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-the-magnetics-show-north-america-31715-1@eventseye.impio-vault
-DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
- s Industry. Encompassing the entire supply chain of the magnetic material 
- and rare earth industries. From energy conversion\, aerospace\, to the mod
- est refrigerator magnet\\nVenue: Huntington Place Convention Center\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-magneti
- cs-show-north-america-31715-1.html
-LOCATION:Detroit\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-the-magnetics-show-north-america-3171
- 5-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:V2G BUSINESS\, POLICY AND TECHNOLOGY FORUM — Detroit\, MI\, USA
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-v2g-business-policy-and-technology-forum-32644-1@eventseye.impio-vault
-DESCRIPTION:V2G Business\, Policy & Technology Forum offers a neutral venue
-  in which different Vehicle-to-Grid stakeholders can come together to work
-  on accelerating V2G standardization and adoption in North America\\nFrequ
- ency: twice a year\\nSource: https://www.eventseye.com/fairs/f-v2g-busines
- s-policy-and-technology-forum-32644-1.html
-LOCATION:Detroit\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-v2g-business-policy-and-technology-fo
- rum-32644-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLDCHAIN QAZAQSTAN — Almaty\, Kazakhstan
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-coldchain-qazaqstan-33418-1@eventseye.impio-vault
-DESCRIPTION:Central Asian International Cold Storage\, Transportation and C
- old Chain Services Exhibition. Equipment\, vehicles\, services and the lat
- est innovations for storage and transportation of perishable goods\\nVenue
- : Atakent International Exhibition Centre\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-coldchain-qazaqstan-33418-1.html
-LOCATION:Almaty\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-coldchain-qazaqstan-33418-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CO-REF VIETNAM - COLD CHAIN & REFRIGERATION EXHIBITION - HANOI — 
- Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-co-ref-vietnam-cold-chain-refrigeration-exhibition-hanoi-33300-1@eventseye.impio-vault
-DESCRIPTION:Cold Chain Exhibition will be the voice for cold storage infras
- tructure\, refrigeration\, reefer transport\, cold supply chain industry\\
- nVenue: Vietnam National Convention Center\, NCC\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-co-ref-vietnam-cold-chain-refr
- igeration-exhibition-hanoi-33300-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-co-ref-vietnam-cold-chain-refrigerati
- on-exhibition-hanoi-33300-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLASTEC MINNEAPOLIS — Minneapolis\, MN\, USA
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-UID:f-plastec-minneapolis-14648-1@eventseye.impio-vault
-DESCRIPTION:Plastics processing resources for manufacturers in Aerospace / 
- aviation\, Appliances / Housewares\, automotive\, electronics\, medical\, 
- packaging\, consumer goods\, and more\\nVenue: Minneapolis Convention Cent
- er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pl
- astec-minneapolis-14648-1.html
-LOCATION:Minneapolis\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-plastec-minneapolis-14648-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIET CARGO EXPO - HANOI — Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-viet-cargo-expo-hanoi-31822-1@eventseye.impio-vault
-DESCRIPTION:Viet Cargo Expo stands alone as the premier gathering in the AS
- EAN\, uniting the entirety of the cargo and logistics community—from air
-  and ocean to road\, warehousing\, ground handling\, supply chain\, techno
- logy\, and more—all in one place\\nVenue: NECC - National Exhibition Con
- struction Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-viet-cargo-expo-hanoi-31822-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VWAS - VIETNAM WAREHOUSING & AUTOMATION SHOW - HANOI — Hanoi\, Vi
- etnam
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261031
-UID:f-vwas-vietnam-warehousing-automation-show-hanoi-33288-1@eventseye.impio-vault
-DESCRIPTION:VWAS - Vietnam Warehousing & Automation Show covers warehousing
- \, automation\, logistics\, and supply chain technologies\, bringing strat
- egic value and promoting networking and development opportunities for busi
- nesses in the region\\nVenue: NECC - National Exhibition Construction Cent
- er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vw
- as-vietnam-warehousing-automation-show-hanoi-33288-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vwas-vietnam-warehousing-automation-s
- how-hanoi-33288-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261109
-UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\,
-  Shopping\, Gastronomy\, leisure and local life\\nVenue: Alpexpo\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internat
- ionale-de-grenoble-1034-1.html
-LOCATION:Grenoble\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-1034
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL PRAGUE CAR FESTIVAL — Prague\, Czech Republic
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-international-prague-car-festival-20650-1@eventseye.impio-vault
-DESCRIPTION:Prague Motor Show. The largest exhibition in Central and Easter
- n Europe with a focus on tuning\, motorsport\, historic cars and motorcycl
- es\\nVenue: PVA Letnany - Prague Exhibition Centre Letnany\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-international-prague
- -car-festival-20650-1.html
-LOCATION:Prague\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-international-prague-car-festival-206
- 50-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LOGISTICS & AUTOMATION - MADRID — Madrid\, Spain
@@ -6546,6 +6589,22 @@ DESCRIPTION:International Special Fair for Motorcars\, Tuning\, Motor Sport
  -show-757-1.html
 LOCATION:Essen\, Germany
 URL:https://www.eventseye.com/fairs/f-essen-motor-show-757-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FERIA DEL AUTOMÓVIL DE OCASIÓN\, SEMINUEVO Y KM. 0 — Granada\, 
+ Spain
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+UID:f-feria-del-automovil-de-ocasion-seminuevo-y-km.-0-32625-1@eventseye.impio-vault
+DESCRIPTION:Used Vehicle Show\, and KM. 0. A wide and varied offer of passe
+ nger cars\, 4x4 vehicles\, SUVs\, luxury cars\, utility vehicles\, electri
+ c vehicles\, etc.\, The best brands and models on the market\, suitable fo
+ r all budgets\\nVenue: Palacio de Exposiciones y Congresos de Granada\\nFr
+ equency: twice a year\\nSource: https://www.eventseye.com/fairs/f-feria-de
+ l-automovil-de-ocasion-seminuevo-y-km.-0-32625-1.html
+LOCATION:Granada\, Spain
+URL:https://www.eventseye.com/fairs/f-feria-del-automovil-de-ocasion-seminu
+ evo-y-km.-0-32625-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AUTOCAR EXPO — Lyon\, France
@@ -7576,6 +7635,21 @@ URL:https://www.eventseye.com/fairs/f-kisan-agri-show-hyderabad-30174-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MICHIGAN INTERNATIONAL AUTO SHOW — Grand Rapids\, MI\, USA
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+UID:f-michigan-international-auto-show-18448-1@eventseye.impio-vault
+DESCRIPTION:Michigan International Auto Show. Hosted by the Grand Rapids Ne
+ w Car Dealers Association\, this is your ultimate destination to shop your
+  next ride\, experience the latest and greatest vehicles\, and get a sneak
+  peek at the future of automotive innovation\\nVenue: DeVos Place\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-michigan-inte
+ rnational-auto-show-18448-1.html
+LOCATION:Grand Rapids\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-michigan-international-auto-show-1844
+ 8-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OOHH! REISEN HAMBURG - CARAVANING HAMBURG — Hamburg\, Germany
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270208
@@ -7638,6 +7712,19 @@ DESCRIPTION:Recreational Vehicles Show in Richmond\, VA. The event features
  \nSource: https://www.eventseye.com/fairs/f-richmond-rv-show-31380-1.html
 LOCATION:Richmond\, VA\, USA
 URL:https://www.eventseye.com/fairs/f-richmond-rv-show-31380-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RV & BOAT MAIN SALES EVENT — Oshkosh\, WI\, USA
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+UID:f-rv-boat-main-sales-event-28494-1@eventseye.impio-vault
+DESCRIPTION:RV & Boat Trade Show. Hundreds of RVs & boats and something for
+  everyone! Travel Trailers\, 5th Wheels\, Fishing boats\, Pontoons\, Water
+ skiing\, Docks\, Campgrounds\, golf carts and more...\\nVenue: EAA Wearhou
+ se\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-rv
+ -boat-main-sales-event-28494-1.html
+LOCATION:Oshkosh\, WI\, USA
+URL:https://www.eventseye.com/fairs/f-rv-boat-main-sales-event-28494-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RV EXPO VIRGINIA - RICHMOND — Richmond\, VA\, USA
@@ -8094,6 +8181,142 @@ LOCATION:Birmingham\, AL\, USA
 URL:https://www.eventseye.com/fairs/f-birmingham-rv-expo-32198-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHARLOTTE RV EXPO — Concord\, NC\, USA
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+UID:f-charlotte-rv-expo-33637-1@eventseye.impio-vault
+DESCRIPTION:CHARLOTTE RV EXPO features camping car\, travel trailers\, SUV\
+ , Tow vehicles\, all recreational vehicles\, automobile parts\, car access
+ ories\, tools...\\nVenue: Cabarrus Arena & Events Center\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-charlotte-rv-expo-3363
+ 7-1.html
+LOCATION:Concord\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-charlotte-rv-expo-33637-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLASSIC MADRID — Madrid\, Spain
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+UID:f-classic-madrid-26774-1@eventseye.impio-vault
+DESCRIPTION:The largest exhibition and commercial event dedicated to the cl
+ assic motor segment in Spain\, bringing together national and internationa
+ l professionals\, companies\, clubs\, and enthusiasts\\nVenue: Casa de Cam
+ po\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cl
+ assic-madrid-26774-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-classic-madrid-26774-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLUMBIA RV EXPO — Columbia\, SC\, USA
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+UID:f-columbia-rv-expo-31379-1@eventseye.impio-vault
+DESCRIPTION:Recreational Vehicles Show in Columbia\, SC. The event features
+  the best inventory of RVs\, RV destinations and supplies\, as well as loc
+ al attractions\\nVenue: South Carolina State Fairgrounds\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-columbia-rv-expo-31379
+ -1.html
+LOCATION:Columbia\, SC\, USA
+URL:https://www.eventseye.com/fairs/f-columbia-rv-expo-31379-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BC BIKE SHOW — Vancouver\, BC\, Canada
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:f-bc-bike-show-17609-1@eventseye.impio-vault
+DESCRIPTION:Western Canada's Ultimate Cycling Event. Explore the latest bik
+ es and special offers from some of the best cycling brands and retailers\,
+  ride our test track\, learn about the hottest cycling destinations\, meet
+  pro riders\, learn from the experts...\\nVenue: Vancouver Convention Cent
+ re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-bc
+ -bike-show-17609-1.html
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-bc-bike-show-17609-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE OUTDOOR ADVENTURE SHOW - VANCOUVER — Vancouver\, BC\, Canada
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270301
+UID:f-the-outdoor-adventure-show-vancouver-17944-1@eventseye.impio-vault
+DESCRIPTION:Show for outdoor and adventure enthusiasts. The Outdoors Show f
+ eatures products for Walking\, hiking\, mountaineering\, camping\, photogr
+ aphy\, canoeing\, cycling\, mountain biking & sailing. Great deals from re
+ tailers like new products\, outdoor organisations\\nVenue: Vancouver Conve
+ ntion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-the-outdoor-adventure-show-vancouver-17944-1.html
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-the-outdoor-adventure-show-vancouver-
+ 17944-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL LNG CONGRESS — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270303
+UID:f-international-lng-congress-27501-1@eventseye.impio-vault
+DESCRIPTION:International LNG Congress covers the hot topics of the LNG (Li
+ quefied Natural Gas) industry - from liquefaction and LNG Storage and Tran
+ sportation to the questions of LNG usage as a fuel\, developing LNG infras
+ tructure and LNG to end users\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-international-lng-congress-27501-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-international-lng-congress-27501-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADDITIVE MANUFACTURING FORUM — Berlin\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-additive-manufacturing-forum-29314-1@eventseye.impio-vault
+DESCRIPTION:Forum dedicated to additive manufacturing technology. It is aim
+ ed at both beginners and advanced users of the technology from the automot
+ ive\, railway\, construction and agriculture\, aerospace\, mechanical engi
+ neering\, medical technology & science industries\\nVenue: Estrel Berlin H
+ otel & Convention Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-additive-manufacturing-forum-29314-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-additive-manufacturing-forum-29314-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEC WORLD — Paris\, France
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-jec-world-1638-1@eventseye.impio-vault
+DESCRIPTION:JEC World is a leading International Composites Show\, activati
+ ng a global community from the business\, manufacturing\, research and aca
+ demic worlds and enabling networking for new ideas and creates growth oppo
+ rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIRE TECHNOLOGY EXPO — Hannover\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-tire-technology-expo-4676-1@eventseye.impio-vault
+DESCRIPTION:Tire Technology Expo is Europe’s most important tire manufact
+ uring technology exhibition and conference\\nVenue: Deutsche Messe Hannove
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tir
+ e-technology-expo-4676-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-tire-technology-expo-4676-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD SUSTAINABLE ENERGY DAYS — Wels\, Austria
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270306
+UID:f-world-sustainable-energy-days-11979-1@eventseye.impio-vault
+DESCRIPTION:World Sustainable Energy Days\, aiming no more fossil fuels. Eu
+ ropean Pellet Conference\, Energy Efficiency Conference\, Industrial Energ
+ y Transition\, Smart E-Mobility...\\nVenue: Messe Wels\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-world-sustainable-energy
+ -days-11979-1.html
+LOCATION:Wels\, Austria
+URL:https://www.eventseye.com/fairs/f-world-sustainable-energy-days-11979-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIMEXPO - AMERICAN INTERNATIONAL MOTORCYCLE EXPO — Orlando\, FL\,
   USA
 DTSTART;VALUE=DATE:20270303
@@ -8314,6 +8537,19 @@ LOCATION:Minneapolis\, MN\, USA
 URL:https://www.eventseye.com/fairs/f-northwest-sportshow-19778-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AUTOEXOSYSTEMS — Shenzhen\, China
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270316
+UID:f-autoexosystems-33922-1@eventseye.impio-vault
+DESCRIPTION:An Annual Launch and Trade Platform Covering Both the Passenger
+  and Commercial Vehicle Markets focusing on Vehicle Releases\, Auto Techno
+ logy\, Auto Aftermarket\, Auto Modification\, Auto Culture\\nVenue: Shenzh
+ en World Exhibition & Convention Center\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-autoexosystems-33922-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-autoexosystems-33922-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOR BIKES — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270315
@@ -8407,6 +8643,21 @@ DESCRIPTION:The Plástico Brasil Fair brings together innovative technologi
  brasil-23597-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-plastico-brasil-23597-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE LOGISTICS EUROPE CONFERENCE — Bonn\, Germany
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+UID:f-automotive-logistics-europe-conference-9247-1@eventseye.impio-vault
+DESCRIPTION:Automotive conference for senior logistics executives worldwide
+ \, debating the future direction of the automotive industry\, with direct 
+ access to top-level speakers\, panelists and key industry decision makers\
+ \nVenue: Kameha Grand Hotel Bonn\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-automotive-logistics-europe-conference-9247-1.
+ html
+LOCATION:Bonn\, Germany
+URL:https://www.eventseye.com/fairs/f-automotive-logistics-europe-conferenc
+ e-9247-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COMPOSITE-EXPO — Moscow\, Russia
@@ -8514,6 +8765,19 @@ DESCRIPTION:Motorcycles\, Scooters\, Bicycles\, Spare Parts\, Equipment and
 LOCATION:Belgrade\, Serbia
 URL:https://www.eventseye.com/fairs/f-motopassion-international-motocycle-s
  how-11531-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAUTICAMPO — Lisbon\, Portugal
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-nauticampo-4558-1@eventseye.impio-vault
+DESCRIPTION:International Fair for Recreational Navigation\, Adventure Spor
+ ts\, Caravanning and Swimming Pools. Nauticampo is the largest and most pr
+ estigious outdoor activity event held in Portugal\\nVenue: Feira Internaci
+ onal de Lisboa\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-nauticampo-4558-1.html
+LOCATION:Lisbon\, Portugal
+URL:https://www.eventseye.com/fairs/f-nauticampo-4558-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:URLAUB FREIZEIT REISEN — Friedrichshafen\, Germany
@@ -8767,142 +9031,6 @@ LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-battery-japan-tokyo-17023-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CHARLOTTE RV EXPO — Concord\, NC\, USA
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270301
-UID:f-charlotte-rv-expo-33637-1@eventseye.impio-vault
-DESCRIPTION:CHARLOTTE RV EXPO features camping car\, travel trailers\, SUV\
- , Tow vehicles\, all recreational vehicles\, automobile parts\, car access
- ories\, tools...\\nVenue: Cabarrus Arena & Events Center\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-charlotte-rv-expo-3363
- 7-1.html
-LOCATION:Concord\, NC\, USA
-URL:https://www.eventseye.com/fairs/f-charlotte-rv-expo-33637-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CLASSIC MADRID — Madrid\, Spain
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270301
-UID:f-classic-madrid-26774-1@eventseye.impio-vault
-DESCRIPTION:The largest exhibition and commercial event dedicated to the cl
- assic motor segment in Spain\, bringing together national and internationa
- l professionals\, companies\, clubs\, and enthusiasts\\nVenue: Casa de Cam
- po\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cl
- assic-madrid-26774-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-classic-madrid-26774-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLUMBIA RV EXPO — Columbia\, SC\, USA
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270301
-UID:f-columbia-rv-expo-31379-1@eventseye.impio-vault
-DESCRIPTION:Recreational Vehicles Show in Columbia\, SC. The event features
-  the best inventory of RVs\, RV destinations and supplies\, as well as loc
- al attractions\\nVenue: South Carolina State Fairgrounds\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-columbia-rv-expo-31379
- -1.html
-LOCATION:Columbia\, SC\, USA
-URL:https://www.eventseye.com/fairs/f-columbia-rv-expo-31379-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BC BIKE SHOW — Vancouver\, BC\, Canada
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270301
-UID:f-bc-bike-show-17609-1@eventseye.impio-vault
-DESCRIPTION:Western Canada's Ultimate Cycling Event. Explore the latest bik
- es and special offers from some of the best cycling brands and retailers\,
-  ride our test track\, learn about the hottest cycling destinations\, meet
-  pro riders\, learn from the experts...\\nVenue: Vancouver Convention Cent
- re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-bc
- -bike-show-17609-1.html
-LOCATION:Vancouver\, BC\, Canada
-URL:https://www.eventseye.com/fairs/f-bc-bike-show-17609-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE OUTDOOR ADVENTURE SHOW - VANCOUVER — Vancouver\, BC\, Canada
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270301
-UID:f-the-outdoor-adventure-show-vancouver-17944-1@eventseye.impio-vault
-DESCRIPTION:Show for outdoor and adventure enthusiasts. The Outdoors Show f
- eatures products for Walking\, hiking\, mountaineering\, camping\, photogr
- aphy\, canoeing\, cycling\, mountain biking & sailing. Great deals from re
- tailers like new products\, outdoor organisations\\nVenue: Vancouver Conve
- ntion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-the-outdoor-adventure-show-vancouver-17944-1.html
-LOCATION:Vancouver\, BC\, Canada
-URL:https://www.eventseye.com/fairs/f-the-outdoor-adventure-show-vancouver-
- 17944-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL LNG CONGRESS — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270303
-UID:f-international-lng-congress-27501-1@eventseye.impio-vault
-DESCRIPTION:International LNG Congress covers the hot topics of the LNG (Li
- quefied Natural Gas) industry - from liquefaction and LNG Storage and Tran
- sportation to the questions of LNG usage as a fuel\, developing LNG infras
- tructure and LNG to end users\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-international-lng-congress-27501-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-international-lng-congress-27501-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADDITIVE MANUFACTURING FORUM — Berlin\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-additive-manufacturing-forum-29314-1@eventseye.impio-vault
-DESCRIPTION:Forum dedicated to additive manufacturing technology. It is aim
- ed at both beginners and advanced users of the technology from the automot
- ive\, railway\, construction and agriculture\, aerospace\, mechanical engi
- neering\, medical technology & science industries\\nVenue: Estrel Berlin H
- otel & Convention Center\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-additive-manufacturing-forum-29314-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-additive-manufacturing-forum-29314-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEC WORLD — Paris\, France
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-jec-world-1638-1@eventseye.impio-vault
-DESCRIPTION:JEC World is a leading International Composites Show\, activati
- ng a global community from the business\, manufacturing\, research and aca
- demic worlds and enabling networking for new ideas and creates growth oppo
- rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIRE TECHNOLOGY EXPO — Hannover\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-tire-technology-expo-4676-1@eventseye.impio-vault
-DESCRIPTION:Tire Technology Expo is Europe’s most important tire manufact
- uring technology exhibition and conference\\nVenue: Deutsche Messe Hannove
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tir
- e-technology-expo-4676-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-tire-technology-expo-4676-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD SUSTAINABLE ENERGY DAYS — Wels\, Austria
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270306
-UID:f-world-sustainable-energy-days-11979-1@eventseye.impio-vault
-DESCRIPTION:World Sustainable Energy Days\, aiming no more fossil fuels. Eu
- ropean Pellet Conference\, Energy Efficiency Conference\, Industrial Energ
- y Transition\, Smart E-Mobility...\\nVenue: Messe Wels\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-world-sustainable-energy
- -days-11979-1.html
-LOCATION:Wels\, Austria
-URL:https://www.eventseye.com/fairs/f-world-sustainable-energy-days-11979-1
- .html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COATING KOREA — Incheon\, Korea South
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270328
@@ -9119,113 +9247,6 @@ DESCRIPTION:Hydrogen & Fuel Cells & Batteries Expo. Group Exhibit Hydrogen
 LOCATION:Hannover\, Germany
 URL:https://www.eventseye.com/fairs/f-hydrogen-fuel-cells-batteries-19324-1
  .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWDER & BULK SOLIDS — Rosemont\, IL\, USA
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-powder-bulk-solids-2158-1@eventseye.impio-vault
-DESCRIPTION:Powder Processing & Automation Exhibition. Powder & Bulk Solids
-  Texas is for processing & production engineers\, plant & operations manag
- ers who process\, handle\, package\, transport\, test & store dry particul
- ates & bulk solids across many industries\\nVenue: Donald E. Stephens Conv
- ention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
- om/fairs/f-powder-bulk-solids-2158-1.html
-LOCATION:Rosemont\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-powder-bulk-solids-2158-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WCX — Novi\, MI\, USA
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-wcx-2310-1@eventseye.impio-vault
-DESCRIPTION:WCX convenes the global mobility engineering community. From ve
- hicle systems and propulsion to connectivity\, automation\, and materials\
- , this is where engineers\, OEMs\, suppliers\, and technical leaders align
-  real challenges and real solutions\\nVenue: Suburban Collection Showplace
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-wcx-
- 2310-1.html
-LOCATION:Novi\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-wcx-2310-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMLOGISTICS INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-chemlogistics-india-24586-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Chemical Warehousing\, Transport & 
- Logistics. India's large coastline\, land area and the largest rail networ
- k provide an immense opportunity to logistics and warehousing companies\\n
- Venue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1
- .html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFRASTRUKTUR — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-infrastruktur-31882-1@eventseye.impio-vault
-DESCRIPTION:Infrastruktur addresses every aspect of public infrastructure: 
- Civil engineering\, road\, tunnel and bridge construction\, landscaping\, 
- utilities\, water & sewage\, supply & maintenance\, public space design & 
- mobility\, digitalisation\, energy & environment\\nVenue: Kista Mässan\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-infrast
- ruktur-31882-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-infrastruktur-31882-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NORDIC MOBILITY — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-nordic-mobility-31881-1@eventseye.impio-vault
-DESCRIPTION:The Nordic region's largest meeting place for future urban mobi
- lity models and smart transport. 250+ exhibitors show the way to tomorrow'
- s transport for people and goods\\nVenue: Kista Mässan\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-nordic-mobility-31881-1
- .html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-nordic-mobility-31881-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PUYALLUP RV SHOW — Puyallup\, WA\, USA
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270503
-UID:f-puyallup-rv-show-32517-1@eventseye.impio-vault
-DESCRIPTION:At the PUYALLUP RV SHOW\, you can see and compare the most popu
- lar RVs on the market today along with some new innovative floor plans and
-  custom models\\nVenue: Washington State Fair Events Center\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-puyallup-rv-show-32
- 517-1.html
-LOCATION:Puyallup\, WA\, USA
-URL:https://www.eventseye.com/fairs/f-puyallup-rv-show-32517-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RETRO CLASSICS — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270503
-UID:f-retro-classics-2283-1@eventseye.impio-vault
-DESCRIPTION:International Exchange for Veteran Cars\, Vintage Cars and Clas
- sic Cars\, motorcycles\, Spare Parts and Restauration\\nVenue: New Stuttga
- rt Trade Fair Centre\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-retro-classics-2283-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-retro-classics-2283-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RETRO CLASSICS STUTTGART — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20270429
-DTEND;VALUE=DATE:20270503
-UID:f-retro-classics-stuttgart-28846-1@eventseye.impio-vault
-DESCRIPTION:RETRO CLASSICS\, the world's largest and most beautiful meeting
-  place for lovers of automobile legends from days long past as well as cla
- ssic car gems of tomorrow\\nVenue: New Stuttgart Trade Fair Centre\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-retro-classi
- cs-stuttgart-28846-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-retro-classics-stuttgart-28846-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3D PRINTING DAYS — Kielce\, Poland
@@ -9885,6 +9906,654 @@ LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-miningworld-russia-6537-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POWDER & BULK SOLIDS — Rosemont\, IL\, USA
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-powder-bulk-solids-2158-1@eventseye.impio-vault
+DESCRIPTION:Powder Processing & Automation Exhibition. Powder & Bulk Solids
+  Texas is for processing & production engineers\, plant & operations manag
+ ers who process\, handle\, package\, transport\, test & store dry particul
+ ates & bulk solids across many industries\\nVenue: Donald E. Stephens Conv
+ ention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
+ om/fairs/f-powder-bulk-solids-2158-1.html
+LOCATION:Rosemont\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-powder-bulk-solids-2158-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WCX — Novi\, MI\, USA
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-wcx-2310-1@eventseye.impio-vault
+DESCRIPTION:WCX convenes the global mobility engineering community. From ve
+ hicle systems and propulsion to connectivity\, automation\, and materials\
+ , this is where engineers\, OEMs\, suppliers\, and technical leaders align
+  real challenges and real solutions\\nVenue: Suburban Collection Showplace
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-wcx-
+ 2310-1.html
+LOCATION:Novi\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-wcx-2310-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMLOGISTICS INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-chemlogistics-india-24586-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Chemical Warehousing\, Transport & 
+ Logistics. India's large coastline\, land area and the largest rail networ
+ k provide an immense opportunity to logistics and warehousing companies\\n
+ Venue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1
+ .html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INFRASTRUKTUR — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-infrastruktur-31882-1@eventseye.impio-vault
+DESCRIPTION:Infrastruktur addresses every aspect of public infrastructure: 
+ Civil engineering\, road\, tunnel and bridge construction\, landscaping\, 
+ utilities\, water & sewage\, supply & maintenance\, public space design & 
+ mobility\, digitalisation\, energy & environment\\nVenue: Kista Mässan\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-infrast
+ ruktur-31882-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-infrastruktur-31882-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NORDIC MOBILITY — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-nordic-mobility-31881-1@eventseye.impio-vault
+DESCRIPTION:The Nordic region's largest meeting place for future urban mobi
+ lity models and smart transport. 250+ exhibitors show the way to tomorrow'
+ s transport for people and goods\\nVenue: Kista Mässan\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-nordic-mobility-31881-1
+ .html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-nordic-mobility-31881-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PUYALLUP RV SHOW — Puyallup\, WA\, USA
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+UID:f-puyallup-rv-show-32517-1@eventseye.impio-vault
+DESCRIPTION:At the PUYALLUP RV SHOW\, you can see and compare the most popu
+ lar RVs on the market today along with some new innovative floor plans and
+  custom models\\nVenue: Washington State Fair Events Center\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-puyallup-rv-show-32
+ 517-1.html
+LOCATION:Puyallup\, WA\, USA
+URL:https://www.eventseye.com/fairs/f-puyallup-rv-show-32517-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RETRO CLASSICS — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+UID:f-retro-classics-2283-1@eventseye.impio-vault
+DESCRIPTION:International Exchange for Veteran Cars\, Vintage Cars and Clas
+ sic Cars\, motorcycles\, Spare Parts and Restauration\\nVenue: New Stuttga
+ rt Trade Fair Centre\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-retro-classics-2283-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-retro-classics-2283-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RETRO CLASSICS STUTTGART — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+UID:f-retro-classics-stuttgart-28846-1@eventseye.impio-vault
+DESCRIPTION:RETRO CLASSICS\, the world's largest and most beautiful meeting
+  place for lovers of automobile legends from days long past as well as cla
+ ssic car gems of tomorrow\\nVenue: New Stuttgart Trade Fair Centre\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-retro-classi
+ cs-stuttgart-28846-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-retro-classics-stuttgart-28846-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE HUNGARY — Budapest\, Hungary
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270508
+UID:f-automotive-hungary-3955-1@eventseye.impio-vault
+DESCRIPTION:Hungarian International Trade Exhibition for Automotive Industr
+ y Suppliers. Part of INDUSTRY DAYS\, international industrial trade exhibi
+ tion in Hungary\\nVenue: Budapest Fair Centre\\nFrequency: every 2 years\\
+ nSource: https://www.eventseye.com/fairs/f-automotive-hungary-3955-1.html
+LOCATION:Budapest\, Hungary
+URL:https://www.eventseye.com/fairs/f-automotive-hungary-3955-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FABTECH MEXICO — Monterrey\, Mexico
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+UID:f-fabtech-mexico-3911-1@eventseye.impio-vault
+DESCRIPTION:Showcasing Metal Stamping\, Forming\, and Fabricating Equipment
+  and Services in Mexico\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-fabtech-mexico-3911-1.html
+LOCATION:Monterrey\, Mexico
+URL:https://www.eventseye.com/fairs/f-fabtech-mexico-3911-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIGHT + LED EXPO - MUMBAI — Mumbai\, India
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270509
+UID:f-light-led-expo-mumbai-22914-1@eventseye.impio-vault
+DESCRIPTION:LIGHT + LED EXPO INDIA is a platform that embraces the entire L
+ ighting and Smart Home Automation Technology\, The event stands as the bea
+ con for Innovation\, Inspiration and Business growth\\nVenue: Bombay Conve
+ ntion & Exhibition Centre (BCEC)\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-light-led-expo-mumbai-22914-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-light-led-expo-mumbai-22914-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TUNING WORLD BODENSEE — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+UID:f-tuning-world-bodensee-13924-1@eventseye.impio-vault
+DESCRIPTION:The Tuning World Bodensee is Europe's largest trade fair event 
+ for car tuning\, lifestyle\, and the club scene. The benchmark for tuning 
+ events in Germany and all of Europe\\nVenue: Messegelände Friedrichshafen
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tuni
+ ng-world-bodensee-13924-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-tuning-world-bodensee-13924-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATLANTIC TRUCK SHOW — Moncton\, NB\, Canada
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270509
+UID:f-atlantic-truck-show-12219-1@eventseye.impio-vault
+DESCRIPTION:Atlantic Coast Largest Transportation & Logistics Trade Showcas
+ e\, welcoming thousands of industry professionals. In partnership with 'At
+ lantic Provinces Trucking Association' (APTA)\\nVenue: Moncton Coliseum Co
+ mplex\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs
+ /f-atlantic-truck-show-12219-1.html
+LOCATION:Moncton\, NB\, Canada
+URL:https://www.eventseye.com/fairs/f-atlantic-truck-show-12219-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OLDTIMERTAGE MÜHLENGEEZ — Gülzow-Prüzen\, Germany
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270510
+UID:f-oldtimertage-muhlengeez-28545-1@eventseye.impio-vault
+DESCRIPTION:Meeting of Historical Vehicles. Over 800 classic car enthusiast
+ s with their own vehicles\, various exhibitors and dealers. Spare parts an
+ d Accessories Market\\nVenue: Messe- und Ausstellungszentrum Mühlengeez\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-oldtim
+ ertage-muhlengeez-28545-1.html
+LOCATION:Gülzow-Prüzen\, Germany
+URL:https://www.eventseye.com/fairs/f-oldtimertage-muhlengeez-28545-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALÓN INTERNACIONAL DEL AUTOMÓVIL Y VEHÍCULO COMERCIAL — Barce
+ lona\, Spain
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270517
+UID:f-salon-internacional-del-automovil-y-vehiculo-comercial-2318-1@eventseye.impio-vault
+DESCRIPTION:International Automobile\, Industrial Vehicle and Motorcycle Ex
+ hibition. Automobile Barcelona is an unmissable event and a unique experie
+ nce based on the automobile sector: new features\, exclusive offers and Te
+ st Drive\\nVenue: Fira de Barcelona - Recinto Montjuïc\\nFrequency: every
+  2 years\\nSource: https://www.eventseye.com/fairs/f-salon-internacional-d
+ el-automovil-y-vehiculo-comercial-2318-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-salon-internacional-del-automovil-y-v
+ ehiculo-comercial-2318-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOTECHSERVICE - COMAUTOTRANS — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-autotechservice-comautotrans-26688-1@eventseye.impio-vault
+DESCRIPTION:The AutoTechService and ComAutoTrans exhibitions cover all area
+ s of servicing cars\, road infrastructure facilities\, commercial and spec
+ ial vehicles in Ukraine\\nVenue: Kiev International Exhibition Center\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-autotechs
+ ervice-comautotrans-26688-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-autotechservice-comautotrans-26688-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WAAS - WEST AFRICA AUTOMOTIVE SHOW — Lagos\, Nigeria
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-waas-west-africa-automotive-show-27411-1@eventseye.impio-vault
+DESCRIPTION:WAAS is an event dedicated to the West African automotive indus
+ try. It will showcase the range of vehicle parts and accessories needed to
+  keep cars\, trucks\, buses\, motorbikes and commercial vehicles on Nigeri
+ a and West Africa’s roads\\nVenue: The Landmark Events Centre\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-waas-west-afric
+ a-automotive-show-27411-1.html
+LOCATION:Lagos\, Nigeria
+URL:https://www.eventseye.com/fairs/f-waas-west-africa-automotive-show-2741
+ 1-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZUKUNFT PERSONAL SÜD — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270513
+UID:f-zukunft-personal-sud-31300-1@eventseye.impio-vault
+DESCRIPTION:ZUKUNFT PERSONAL Süd in Stuttgart is the largest HR event in s
+ outhern Germany. As the HR landscape in the southwest is dominated by the 
+ automotive industry and mechanical engineering\, ZP Süd dedicates particu
+ lar focus to these industries\\nVenue: New Stuttgart Trade Fair Centre\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-zukunft-
+ personal-sud-31300-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-zukunft-personal-sud-31300-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE ENGINEERING ASIA — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270516
+UID:f-automotive-engineering-asia-14133-1@eventseye.impio-vault
+DESCRIPTION:International Automotive Design\, Manufacturing and Engineering
+  Exhibition. Part of INTERMACH\, ASEAN's Leading Advanced Industrial Machi
+ nery and Subcontracting Exhibition\\nVenue: Bangkok International Trade & 
+ Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-automotive-engineering-asia-14133-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-automotive-engineering-asia-14133-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MINING CONGRESS QAZAQSTAN — Astana\, Kazakhstan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270514
+UID:f-mining-congress-qazaqstan-30039-1@eventseye.impio-vault
+DESCRIPTION:MINING CONGRESS QAZAQSTAN is an international platform devoted 
+ to sharing experiences between key mining companies\, to discussing flagsh
+ ip investment projects for the construction and modernisation of productio
+ n and infrastructure facilities\\nVenue: The Ritz-Carlton\, Astana\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-mining-congr
+ ess-qazaqstan-30039-1.html
+LOCATION:Astana\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-mining-congress-qazaqstan-30039-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBBCON THAILAND — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270516
+UID:f-subbcon-thailand-31812-1@eventseye.impio-vault
+DESCRIPTION:SUBCON Thailand is an important international industrial part-s
+ ourcing and business-matching event. Automotive\, electrics\, electronics\
+ , machinery\, aviation\, medical equipment\, robotics\, automation and dig
+ ital...\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\
+ nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-subb
+ con-thailand-31812-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-subbcon-thailand-31812-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OVERLAND EXPO WEST — Flagstaff\, AZ\, USA
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270517
+UID:f-overland-expo-west-32407-1@eventseye.impio-vault
+DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
+ ld\, brings together all the camping and vehicle and motorcycle equipment 
+ and services you need to Get Outfitted\\nVenue: Ft. Tuthill County Park\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-overlan
+ d-expo-west-32407-1.html
+LOCATION:Flagstaff\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-overland-expo-west-32407-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA (GUANGZHOU) INTERNATIONAL SPRING INDUSTRY EXHIBITION — Guan
+ gzhou\, China
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270519
+UID:f-china-(guangzhou)-international-spring-industry-exhibition-22645-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition dedicated to Springs. All kinds of bea
+ ring spring\, roll bar\, valve spring\, motorcycle damping spring\, pressu
+ re spring\, draught spring\, torsion spring\, die spring\, special shaped 
+ spring\, rectangular spring\, cylinder spring...\\nVenue: China Import and
+  Export Fair Pazhou Complex\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-china-(guangzhou)-international-spring-industry-exh
+ ibition-22645-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-china-(guangzhou)-international-sprin
+ g-industry-exhibition-22645-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUVSI'S XPONENTIAL — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-auvsi-s-xponential-23783-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and conference on the latest developments in the unm
+ anned systems technologies for air\, land and sea\\nVenue: Miami Beach Con
+ vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-auvsi-s-xponential-23783-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-auvsi-s-xponential-23783-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-sampe-north-america-33820-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition and Conference on Composite Materials 
+ and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
+ s from industrial companies\, research institutes\, and suppliers of moder
+ n materials and advanced technologies\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOTECHNIKA EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-autotechnika-expo-33198-1@eventseye.impio-vault
+DESCRIPTION:AUTOTECHNIKA EXPO is a polish event where industry leaders show
+ case innovative servicing technologies and automotive solutions\\nVenue: P
+ tak Warsaw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-autotechnika-expo-33198-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-autotechnika-expo-33198-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PARKING TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-parking-tech-expo-33688-1@eventseye.impio-vault
+DESCRIPTION:ParkingTECH Expo is a key industry event showcasing prefabricat
+ ed parking structures\, intelligent entry and toll collection systems\, oc
+ cupancy sensors\, parking lot lighting\, EV chargers\, and infrastructure 
+ management software\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-parking-tech-expo-33688-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-parking-tech-expo-33688-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRANSFORMIT EUROPE — Brussels\, Belgium
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270522
+UID:f-transformit-europe-33737-1@eventseye.impio-vault
+DESCRIPTION:TransformIT Europe is an Europe’s new leading trade fair conn
+ ecting technology\, business\, and policy – where sustainable innovation
+  becomes real-world business. From consumer products to infrastructure sol
+ utions\\nVenue: Brussels Exhibition Centre\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-transformit-europe-33737-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-transformit-europe-33737-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATSA INDEPENDENT LIVING - PERTH — Perth\, Australia
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-atsa-independent-living-perth-25439-1@eventseye.impio-vault
+DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
+ ucts and services in assistive technology\, mobility solutions\, pressure 
+ care\, employment support\, accessible recreation/holiday ideas\, modified
+  motor vehicles and a lot more\\nVenue: Claremont Showground\\nFrequency: 
+ every 2 years\\nSource: https://www.eventseye.com/fairs/f-atsa-independent
+ -living-perth-25439-1.html
+LOCATION:Perth\, Australia
+URL:https://www.eventseye.com/fairs/f-atsa-independent-living-perth-25439-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTENER FAIR USA — Louisville\, KY\, USA
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-fastener-fair-usa-29924-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Fastener and Fixing Technology. Fr
+ om automotive to aerospace\, construction to HVAC\, furniture to appliance
+ s\, fastener professionals from every segment of the market find the lates
+ t products they need at Fastener Fair USA\\nVenue: Kentucky International 
+ Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-fastener-fair-usa-29924-1.html
+LOCATION:Louisville\, KY\, USA
+URL:https://www.eventseye.com/fairs/f-fastener-fair-usa-29924-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCLE WEEK — Zurich\, Switzerland
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+UID:f-cycle-week-31332-1@eventseye.impio-vault
+DESCRIPTION:CYCLE WEEK\, the major Swiss cycling festival\, brings together
+  fans and professionals of cycling and tourism. There you will find new tr
+ ends\, but also workshops\, competitions and shows. Around 80\, 000 partic
+ ipants\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-cycle-week-31332-1.html
+LOCATION:Zurich\, Switzerland
+URL:https://www.eventseye.com/fairs/f-cycle-week-31332-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL FASTENER SHOW CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+UID:f-international-fastener-show-china-26911-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Fastener Trade Show. Machinery\, Fastener
+  materials\, Moulds and consumption goods\, Fastener manufacturing machine
+ ry\, Installation / Measurement and maintenance...\\nVenue: Shanghai World
+  Expo Exhibition & Convention Center\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-international-fastener-show-china-26911-1.
+ html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-international-fastener-show-china-269
+ 11-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CERAMIC NETWORK — Limoges\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-ceramic-network-21543-1@eventseye.impio-vault
+DESCRIPTION:International Business Convention on industrial and engineering
+  applications of ceramics. CERAMIC Network aims to gather together contrac
+ tors and suppliers in the field of technical ceramics in the same place to
+  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
+ -network-21543-1.html
+LOCATION:Limoges\, France
+URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATSA INDEPENDENT LIVING - MELBOURNE — Melbourne\, Australia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+UID:f-atsa-independent-living-melbourne-25438-1@eventseye.impio-vault
+DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
+ ucts and services in assistive technology\, mobility solutions\, pressure 
+ care\, employment support\, accessible recreation/holiday ideas\, modified
+  motor vehicles and a lot more\\nVenue: Melbourne Showgrounds\\nFrequency:
+  every 2 years\\nSource: https://www.eventseye.com/fairs/f-atsa-independen
+ t-living-melbourne-25438-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-atsa-independent-living-melbourne-254
+ 38-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOPROMOTEC — Bologna\, Italy
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270530
+UID:f-autopromotec-3752-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Automotive Equipment & Aftermarket 
+ Products\, featuring the world’s leading suppliers of automotive service
+ s\, an innovation. Mechatronics\, mechanics\, tires\, body shops\, car dea
+ lers\, auto repair centers\, service stations...\\nVenue: Bologna Exhibiti
+ on Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
+ airs/f-autopromotec-3752-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-autopromotec-3752-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORKLIFT INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-forklift-indonesia-28444-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Forklift\, Lifting Equipment\, Parts & 
+ Services Exhibition. Part of "Transport & Logistics Indonesia"\\nVenue: Ja
+ karta International Expo (JIExpo)\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOME DELIVERY WORLD — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+UID:f-home-delivery-world-21343-1@eventseye.impio-vault
+DESCRIPTION:Home Delivery World USA encompasses every aspect of the retail 
+ logistics and supply chain process\, starting from inventory management an
+ d fulfillment in the warehouse to delivery and the customer experience at 
+ the final destination\\nVenue: Orange County Convention Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-home-delivery-wo
+ rld-21343-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-home-delivery-world-21343-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOME DELIVERY WORLD WEST — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+UID:f-home-delivery-world-west-21427-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for Home Delivery & Shipping. Home Delivery World is
+  a conference and free exhibition where big retailers\, SMEs\, and cutting
+  edge solutions providers in the home delivery space gather for 2 days of 
+ learning and networking\\nVenue: Orange County Convention Center\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-home-delivery-
+ world-west-21427-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-home-delivery-world-west-21427-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INABIKE — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-inabike-19541-1@eventseye.impio-vault
+DESCRIPTION:International trade show for Bicycle\, Motorcycle\, Scooter\, P
+ arts and Accessories in Indonesia\\nVenue: Jakarta International Expo (JIE
+ xpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ inabike-19541-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inabike-19541-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INAPA JAKARTA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-inapa-jakarta-19623-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Auto Parts\, Accessories & Equipment Ex
+ hibition. INAPA showcases the latest auto components & parts\, equipment\,
+  tools\, technology & method to target maintenance professional audiences 
+ from across Asia and other countries\\nVenue: Jakarta International Expo (
+ JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-inapa-jakarta-19623-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-inapa-jakarta-19623-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INFASTENER — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-infastener-28441-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Fastener and Fixing Technology Exhibiti
+ on. The fastener industry is facing steady growth driven by automotive\, c
+ onstruction\, and manufacturing sectors\\nVenue: Jakarta International Exp
+ o (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-infastener-28441-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-infastener-28441-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUBE INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-lube-indonesia-28438-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Lubricants\, Grease\, Maintenance & Tec
+ hnology Exhibition. LUBE INDONESIA is valuable patform for key players in 
+ lubricants\, grease\, oil distribition\, maintenance and related technolog
+ ies\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-lube-indonesia-28438-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-lube-indonesia-28438-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRANSPORT & LOGISTICS INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-transport-logistics-indonesia-26310-1@eventseye.impio-vault
+DESCRIPTION:Indonesia's international Transport\, Logistics\, Equipment & S
+ ervices Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-transport-logis
+ tics-indonesia-26310-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-transport-logistics-indonesia-26310-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRUCK & TRAILER INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-truck-trailer-indonesia-20540-1@eventseye.impio-vault
+DESCRIPTION:Indonesian International Bus\, Truck\, Heavy equipment & Compon
+ ents exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-truck-trailer-indo
+ nesia-20540-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-truck-trailer-indonesia-20540-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TYRE & RUBBER INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-tyre-rubber-indonesia-19544-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Tyre & Rubber and Auto Part Exhibition\
+ , showcasing products and innovations in tires\, wheels\, casings\, tubes\
+ , tire accessories\, automotive rubber\, chemicals\, machinery...\\nVenue:
+  Jakarta International Expo (JIExpo)\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-tyre-rubber-indonesia-19544-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-tyre-rubber-indonesia-19544-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCT ASIA — Shanghai\, China
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-tct-asia-21068-1@eventseye.impio-vault
+DESCRIPTION:Additive Manufacturing\, 3D printing and product development te
+ chnology Expo. TCT ASIA is a leading event dedicated to 3D printing\, addi
+ tive manufacturing and product development\\nVenue: National Exhibition an
+ d Convention Center\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-tct-asia-21068-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-tct-asia-21068-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANADA NORTH RESOURCES EXPO — Prince George\, BC\, Canada
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270530
+UID:f-canada-north-resources-expo-18082-1@eventseye.impio-vault
+DESCRIPTION:The Canada North Resources Expo will surely be a must attend ev
+ ent for industry workers\, decision makers and buyers. Forestry\, Mining\,
+  Oil & Gas\, Land & Sea Transportation\, Power Generation & Distribution..
+ .\\nVenue: CN Centre\\nFrequency: every 2 years\\nSource: https://www.even
+ tseye.com/fairs/f-canada-north-resources-expo-18082-1.html
+LOCATION:Prince George\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-canada-north-resources-expo-18082-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITS CANADA ANNUAL CONFERENCE — Montreal\, QC\, Canada
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+UID:f-its-canada-annual-conference-16987-1@eventseye.impio-vault
+DESCRIPTION:ITS Canada defines Intelligent Transportation Systems (ITS) as 
+ the application of advanced and emerging technologies (computers\, sensors
+ \, control\, communications\, and electronic devices) in transportation\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-its-can
+ ada-annual-conference-16987-1.html
+LOCATION:Montreal\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-its-canada-annual-conference-16987-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INTERTRAFFIC AMERICAS — Mexico City\, Mexico
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
@@ -10450,500 +11119,5 @@ DESCRIPTION:The meeting point for the automotive service and after market i
  nSource: https://www.eventseye.com/fairs/f-auto-massan-6044-1.html
 LOCATION:Gothenburg\, Sweden
 URL:https://www.eventseye.com/fairs/f-auto-massan-6044-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE HUNGARY — Budapest\, Hungary
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270508
-UID:f-automotive-hungary-3955-1@eventseye.impio-vault
-DESCRIPTION:Hungarian International Trade Exhibition for Automotive Industr
- y Suppliers. Part of INDUSTRY DAYS\, international industrial trade exhibi
- tion in Hungary\\nVenue: Budapest Fair Centre\\nFrequency: every 2 years\\
- nSource: https://www.eventseye.com/fairs/f-automotive-hungary-3955-1.html
-LOCATION:Budapest\, Hungary
-URL:https://www.eventseye.com/fairs/f-automotive-hungary-3955-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FABTECH MEXICO — Monterrey\, Mexico
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270507
-UID:f-fabtech-mexico-3911-1@eventseye.impio-vault
-DESCRIPTION:Showcasing Metal Stamping\, Forming\, and Fabricating Equipment
-  and Services in Mexico\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-fabtech-mexico-3911-1.html
-LOCATION:Monterrey\, Mexico
-URL:https://www.eventseye.com/fairs/f-fabtech-mexico-3911-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIGHT + LED EXPO - MUMBAI — Mumbai\, India
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270509
-UID:f-light-led-expo-mumbai-22914-1@eventseye.impio-vault
-DESCRIPTION:LIGHT + LED EXPO INDIA is a platform that embraces the entire L
- ighting and Smart Home Automation Technology\, The event stands as the bea
- con for Innovation\, Inspiration and Business growth\\nVenue: Bombay Conve
- ntion & Exhibition Centre (BCEC)\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-light-led-expo-mumbai-22914-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-light-led-expo-mumbai-22914-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TUNING WORLD BODENSEE — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270506
-DTEND;VALUE=DATE:20270510
-UID:f-tuning-world-bodensee-13924-1@eventseye.impio-vault
-DESCRIPTION:The Tuning World Bodensee is Europe's largest trade fair event 
- for car tuning\, lifestyle\, and the club scene. The benchmark for tuning 
- events in Germany and all of Europe\\nVenue: Messegelände Friedrichshafen
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tuni
- ng-world-bodensee-13924-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-tuning-world-bodensee-13924-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATLANTIC TRUCK SHOW — Moncton\, NB\, Canada
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270509
-UID:f-atlantic-truck-show-12219-1@eventseye.impio-vault
-DESCRIPTION:Atlantic Coast Largest Transportation & Logistics Trade Showcas
- e\, welcoming thousands of industry professionals. In partnership with 'At
- lantic Provinces Trucking Association' (APTA)\\nVenue: Moncton Coliseum Co
- mplex\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs
- /f-atlantic-truck-show-12219-1.html
-LOCATION:Moncton\, NB\, Canada
-URL:https://www.eventseye.com/fairs/f-atlantic-truck-show-12219-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OLDTIMERTAGE MÜHLENGEEZ — Gülzow-Prüzen\, Germany
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270510
-UID:f-oldtimertage-muhlengeez-28545-1@eventseye.impio-vault
-DESCRIPTION:Meeting of Historical Vehicles. Over 800 classic car enthusiast
- s with their own vehicles\, various exhibitors and dealers. Spare parts an
- d Accessories Market\\nVenue: Messe- und Ausstellungszentrum Mühlengeez\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-oldtim
- ertage-muhlengeez-28545-1.html
-LOCATION:Gülzow-Prüzen\, Germany
-URL:https://www.eventseye.com/fairs/f-oldtimertage-muhlengeez-28545-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALÓN INTERNACIONAL DEL AUTOMÓVIL Y VEHÍCULO COMERCIAL — Barce
- lona\, Spain
-DTSTART;VALUE=DATE:20270508
-DTEND;VALUE=DATE:20270517
-UID:f-salon-internacional-del-automovil-y-vehiculo-comercial-2318-1@eventseye.impio-vault
-DESCRIPTION:International Automobile\, Industrial Vehicle and Motorcycle Ex
- hibition. Automobile Barcelona is an unmissable event and a unique experie
- nce based on the automobile sector: new features\, exclusive offers and Te
- st Drive\\nVenue: Fira de Barcelona - Recinto Montjuïc\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-salon-internacional-d
- el-automovil-y-vehiculo-comercial-2318-1.html
-LOCATION:Barcelona\, Spain
-URL:https://www.eventseye.com/fairs/f-salon-internacional-del-automovil-y-v
- ehiculo-comercial-2318-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WAAS - WEST AFRICA AUTOMOTIVE SHOW — Lagos\, Nigeria
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-waas-west-africa-automotive-show-27411-1@eventseye.impio-vault
-DESCRIPTION:WAAS is an event dedicated to the West African automotive indus
- try. It will showcase the range of vehicle parts and accessories needed to
-  keep cars\, trucks\, buses\, motorbikes and commercial vehicles on Nigeri
- a and West Africa’s roads\\nVenue: The Landmark Events Centre\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-waas-west-afric
- a-automotive-show-27411-1.html
-LOCATION:Lagos\, Nigeria
-URL:https://www.eventseye.com/fairs/f-waas-west-africa-automotive-show-2741
- 1-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZUKUNFT PERSONAL SÜD — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270513
-UID:f-zukunft-personal-sud-31300-1@eventseye.impio-vault
-DESCRIPTION:ZUKUNFT PERSONAL Süd in Stuttgart is the largest HR event in s
- outhern Germany. As the HR landscape in the southwest is dominated by the 
- automotive industry and mechanical engineering\, ZP Süd dedicates particu
- lar focus to these industries\\nVenue: New Stuttgart Trade Fair Centre\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-zukunft-
- personal-sud-31300-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-zukunft-personal-sud-31300-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE ENGINEERING ASIA — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270516
-UID:f-automotive-engineering-asia-14133-1@eventseye.impio-vault
-DESCRIPTION:International Automotive Design\, Manufacturing and Engineering
-  Exhibition. Part of INTERMACH\, ASEAN's Leading Advanced Industrial Machi
- nery and Subcontracting Exhibition\\nVenue: Bangkok International Trade & 
- Exhibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-automotive-engineering-asia-14133-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-automotive-engineering-asia-14133-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MINING CONGRESS QAZAQSTAN — Astana\, Kazakhstan
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270514
-UID:f-mining-congress-qazaqstan-30039-1@eventseye.impio-vault
-DESCRIPTION:MINING CONGRESS QAZAQSTAN is an international platform devoted 
- to sharing experiences between key mining companies\, to discussing flagsh
- ip investment projects for the construction and modernisation of productio
- n and infrastructure facilities\\nVenue: The Ritz-Carlton\, Astana\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-mining-congr
- ess-qazaqstan-30039-1.html
-LOCATION:Astana\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-mining-congress-qazaqstan-30039-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBBCON THAILAND — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270516
-UID:f-subbcon-thailand-31812-1@eventseye.impio-vault
-DESCRIPTION:SUBCON Thailand is an important international industrial part-s
- ourcing and business-matching event. Automotive\, electrics\, electronics\
- , machinery\, aviation\, medical equipment\, robotics\, automation and dig
- ital...\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\
- nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-subb
- con-thailand-31812-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-subbcon-thailand-31812-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OVERLAND EXPO WEST — Flagstaff\, AZ\, USA
-DTSTART;VALUE=DATE:20270514
-DTEND;VALUE=DATE:20270517
-UID:f-overland-expo-west-32407-1@eventseye.impio-vault
-DESCRIPTION:Overland Expo\, premier outdoor leisure event series in the wor
- ld\, brings together all the camping and vehicle and motorcycle equipment 
- and services you need to Get Outfitted\\nVenue: Ft. Tuthill County Park\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-overlan
- d-expo-west-32407-1.html
-LOCATION:Flagstaff\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-overland-expo-west-32407-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUVSI'S XPONENTIAL — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-auvsi-s-xponential-23783-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and conference on the latest developments in the unm
- anned systems technologies for air\, land and sea\\nVenue: Miami Beach Con
- vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-auvsi-s-xponential-23783-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-auvsi-s-xponential-23783-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-sampe-north-america-33820-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition and Conference on Composite Materials 
- and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
- s from industrial companies\, research institutes\, and suppliers of moder
- n materials and advanced technologies\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-LOCATION:Salt Lake City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOTECHNIKA EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-autotechnika-expo-33198-1@eventseye.impio-vault
-DESCRIPTION:AUTOTECHNIKA EXPO is a polish event where industry leaders show
- case innovative servicing technologies and automotive solutions\\nVenue: P
- tak Warsaw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-autotechnika-expo-33198-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-autotechnika-expo-33198-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PARKING TECH EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-parking-tech-expo-33688-1@eventseye.impio-vault
-DESCRIPTION:ParkingTECH Expo is a key industry event showcasing prefabricat
- ed parking structures\, intelligent entry and toll collection systems\, oc
- cupancy sensors\, parking lot lighting\, EV chargers\, and infrastructure 
- management software\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-parking-tech-expo-33688-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-parking-tech-expo-33688-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRANSFORMIT EUROPE — Brussels\, Belgium
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270522
-UID:f-transformit-europe-33737-1@eventseye.impio-vault
-DESCRIPTION:TransformIT Europe is an Europe’s new leading trade fair conn
- ecting technology\, business\, and policy – where sustainable innovation
-  becomes real-world business. From consumer products to infrastructure sol
- utions\\nVenue: Brussels Exhibition Centre\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-transformit-europe-33737-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-transformit-europe-33737-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATSA INDEPENDENT LIVING - PERTH — Perth\, Australia
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-atsa-independent-living-perth-25439-1@eventseye.impio-vault
-DESCRIPTION:ATSA Independent Living Expo is displaying a wide range of prod
- ucts and services in assistive technology\, mobility solutions\, pressure 
- care\, employment support\, accessible recreation/holiday ideas\, modified
-  motor vehicles and a lot more\\nVenue: Claremont Showground\\nFrequency: 
- every 2 years\\nSource: https://www.eventseye.com/fairs/f-atsa-independent
- -living-perth-25439-1.html
-LOCATION:Perth\, Australia
-URL:https://www.eventseye.com/fairs/f-atsa-independent-living-perth-25439-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTENER FAIR USA — Louisville\, KY\, USA
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-fastener-fair-usa-29924-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Fastener and Fixing Technology. Fr
- om automotive to aerospace\, construction to HVAC\, furniture to appliance
- s\, fastener professionals from every segment of the market find the lates
- t products they need at Fastener Fair USA\\nVenue: Kentucky International 
- Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-fastener-fair-usa-29924-1.html
-LOCATION:Louisville\, KY\, USA
-URL:https://www.eventseye.com/fairs/f-fastener-fair-usa-29924-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCLE WEEK — Zurich\, Switzerland
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270524
-UID:f-cycle-week-31332-1@eventseye.impio-vault
-DESCRIPTION:CYCLE WEEK\, the major Swiss cycling festival\, brings together
-  fans and professionals of cycling and tourism. There you will find new tr
- ends\, but also workshops\, competitions and shows. Around 80\, 000 partic
- ipants\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-cycle-week-31332-1.html
-LOCATION:Zurich\, Switzerland
-URL:https://www.eventseye.com/fairs/f-cycle-week-31332-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL FASTENER SHOW CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270523
-UID:f-international-fastener-show-china-26911-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Fastener Trade Show. Machinery\, Fastener
-  materials\, Moulds and consumption goods\, Fastener manufacturing machine
- ry\, Installation / Measurement and maintenance...\\nVenue: Shanghai World
-  Expo Exhibition & Convention Center\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-international-fastener-show-china-26911-1.
- html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-international-fastener-show-china-269
- 11-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CERAMIC NETWORK — Limoges\, France
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-ceramic-network-21543-1@eventseye.impio-vault
-DESCRIPTION:International Business Convention on industrial and engineering
-  applications of ceramics. CERAMIC Network aims to gather together contrac
- tors and suppliers in the field of technical ceramics in the same place to
-  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
- -network-21543-1.html
-LOCATION:Limoges\, France
-URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOPROMOTEC — Bologna\, Italy
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270530
-UID:f-autopromotec-3752-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Automotive Equipment & Aftermarket 
- Products\, featuring the world’s leading suppliers of automotive service
- s\, an innovation. Mechatronics\, mechanics\, tires\, body shops\, car dea
- lers\, auto repair centers\, service stations...\\nVenue: Bologna Exhibiti
- on Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
- airs/f-autopromotec-3752-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-autopromotec-3752-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FORKLIFT INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-forklift-indonesia-28444-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Forklift\, Lifting Equipment\, Parts & 
- Services Exhibition. Part of "Transport & Logistics Indonesia"\\nVenue: Ja
- karta International Expo (JIExpo)\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-forklift-indonesia-28444-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOME DELIVERY WORLD — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270528
-UID:f-home-delivery-world-21343-1@eventseye.impio-vault
-DESCRIPTION:Home Delivery World USA encompasses every aspect of the retail 
- logistics and supply chain process\, starting from inventory management an
- d fulfillment in the warehouse to delivery and the customer experience at 
- the final destination\\nVenue: Orange County Convention Center\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-home-delivery-wo
- rld-21343-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-home-delivery-world-21343-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOME DELIVERY WORLD WEST — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270528
-UID:f-home-delivery-world-west-21427-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for Home Delivery & Shipping. Home Delivery World is
-  a conference and free exhibition where big retailers\, SMEs\, and cutting
-  edge solutions providers in the home delivery space gather for 2 days of 
- learning and networking\\nVenue: Orange County Convention Center\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-home-delivery-
- world-west-21427-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-home-delivery-world-west-21427-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INABIKE — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-inabike-19541-1@eventseye.impio-vault
-DESCRIPTION:International trade show for Bicycle\, Motorcycle\, Scooter\, P
- arts and Accessories in Indonesia\\nVenue: Jakarta International Expo (JIE
- xpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- inabike-19541-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inabike-19541-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INAPA JAKARTA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-inapa-jakarta-19623-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Auto Parts\, Accessories & Equipment Ex
- hibition. INAPA showcases the latest auto components & parts\, equipment\,
-  tools\, technology & method to target maintenance professional audiences 
- from across Asia and other countries\\nVenue: Jakarta International Expo (
- JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-inapa-jakarta-19623-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-inapa-jakarta-19623-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFASTENER — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-infastener-28441-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Fastener and Fixing Technology Exhibiti
- on. The fastener industry is facing steady growth driven by automotive\, c
- onstruction\, and manufacturing sectors\\nVenue: Jakarta International Exp
- o (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-infastener-28441-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-infastener-28441-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUBE INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-lube-indonesia-28438-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Lubricants\, Grease\, Maintenance & Tec
- hnology Exhibition. LUBE INDONESIA is valuable patform for key players in 
- lubricants\, grease\, oil distribition\, maintenance and related technolog
- ies\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-lube-indonesia-28438-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-lube-indonesia-28438-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRANSPORT & LOGISTICS INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-transport-logistics-indonesia-26310-1@eventseye.impio-vault
-DESCRIPTION:Indonesia's international Transport\, Logistics\, Equipment & S
- ervices Exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-transport-logis
- tics-indonesia-26310-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-transport-logistics-indonesia-26310-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRUCK & TRAILER INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-truck-trailer-indonesia-20540-1@eventseye.impio-vault
-DESCRIPTION:Indonesian International Bus\, Truck\, Heavy equipment & Compon
- ents exhibition\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-truck-trailer-indo
- nesia-20540-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-truck-trailer-indonesia-20540-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TYRE & RUBBER INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-tyre-rubber-indonesia-19544-1@eventseye.impio-vault
-DESCRIPTION:Indonesia International Tyre & Rubber and Auto Part Exhibition\
- , showcasing products and innovations in tires\, wheels\, casings\, tubes\
- , tire accessories\, automotive rubber\, chemicals\, machinery...\\nVenue:
-  Jakarta International Expo (JIExpo)\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-tyre-rubber-indonesia-19544-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-tyre-rubber-indonesia-19544-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TCT ASIA — Shanghai\, China
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270530
-UID:f-tct-asia-21068-1@eventseye.impio-vault
-DESCRIPTION:Additive Manufacturing\, 3D printing and product development te
- chnology Expo. TCT ASIA is a leading event dedicated to 3D printing\, addi
- tive manufacturing and product development\\nVenue: National Exhibition an
- d Convention Center\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-tct-asia-21068-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-tct-asia-21068-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANADA NORTH RESOURCES EXPO — Prince George\, BC\, Canada
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270530
-UID:f-canada-north-resources-expo-18082-1@eventseye.impio-vault
-DESCRIPTION:The Canada North Resources Expo will surely be a must attend ev
- ent for industry workers\, decision makers and buyers. Forestry\, Mining\,
-  Oil & Gas\, Land & Sea Transportation\, Power Generation & Distribution..
- .\\nVenue: CN Centre\\nFrequency: every 2 years\\nSource: https://www.even
- tseye.com/fairs/f-canada-north-resources-expo-18082-1.html
-LOCATION:Prince George\, BC\, Canada
-URL:https://www.eventseye.com/fairs/f-canada-north-resources-expo-18082-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ITS CANADA ANNUAL CONFERENCE — Montreal\, QC\, Canada
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270604
-UID:f-its-canada-annual-conference-16987-1@eventseye.impio-vault
-DESCRIPTION:ITS Canada defines Intelligent Transportation Systems (ITS) as 
- the application of advanced and emerging technologies (computers\, sensors
- \, control\, communications\, and electronic devices) in transportation\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-its-can
- ada-annual-conference-16987-1.html
-LOCATION:Montreal\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-its-canada-annual-conference-16987-1.
- html
 END:VEVENT
 END:VCALENDAR

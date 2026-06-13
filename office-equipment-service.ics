@@ -21,20 +21,6 @@ URL:https://www.eventseye.com/fairs/f-china-yiwu-stationery-gift-exhibition
  -33815-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAPER ONE SHOW UAE — Abu Dhabi\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260606
-UID:f-paper-one-show-uae-28768-1@eventseye.impio-vault
-DESCRIPTION:International paper exhibition in the MENA region. Paper One Sh
- ow is dedicated to all kinds of paper and paper manufacturing\, paper jumb
- o rolls\, finished products\, printing\, writing\, tissue\, and hygienic p
- aper\, converters\, cartons\, paperboard\, and more\\nVenue: Abu-Dhabi Nat
- ional Exhibition Center - ADNEC\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
-LOCATION:Abu Dhabi\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CENTRAL ASIA OFFICE — Almaty\, Kazakhstan
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260625
@@ -64,19 +50,19 @@ URL:https://www.eventseye.com/fairs/f-isot-international-stationery-office-
  products-fair-tokyo-6734-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LIFESTYLE WEEK JAPAN - TOKYO - SUMMER — Tokyo\, Japan
+SUMMARY:LIFESTYLE WEEK JAPAN - TOKYO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260627
-UID:f-lifestyle-week-japan-tokyo-summer-27841-1@eventseye.impio-vault
+UID:f-lifestyle-week-japan-tokyo-27841-1@eventseye.impio-vault
 DESCRIPTION:LIFESTYLE Week is a comprehensive lifestyle exhibition consiste
  d of specialised shows\, covering gifts\, interior goods\, stationery\, fa
  shion goods\, beauty & healthcare products\, food gifts\, etc.\\nVenue: To
- kyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-toky
- o-summer-27841-1.html
+ kyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a
+  year\\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-tok
+ yo-27841-1.html
 LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-summer-278
- 41-1.html
+URL:https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-27841-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MALAYSIA GIFTS FAIR — Kuala Lumpur\, Malaysia
@@ -292,6 +278,20 @@ DESCRIPTION:Lario Creativa is a creative fair dedicated to DIY\, crafts and
  f-lario-creativa-34065-1.html
 LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-lario-creativa-34065-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAPER ONE SHOW UAE — Abu Dhabi\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260924
+UID:f-paper-one-show-uae-28768-1@eventseye.impio-vault
+DESCRIPTION:International paper exhibition in the MENA region. Paper One Sh
+ ow is dedicated to all kinds of paper and paper manufacturing\, paper jumb
+ o rolls\, finished products\, printing\, writing\, tissue\, and hygienic p
+ aper\, converters\, cartons\, paperboard\, and more\\nVenue: Abu-Dhabi Nat
+ ional Exhibition Center - ADNEC\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
+LOCATION:Abu Dhabi\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BIRO-EXPO — Belgrade\, Serbia
@@ -592,6 +592,20 @@ DESCRIPTION:China (Ningbo) International Stationery Industry Fair\, coverin
  ntseye.com/fairs/f-school-office-live-china-33911-1.html
 LOCATION:Ningbo\, China
 URL:https://www.eventseye.com/fairs/f-school-office-live-china-33911-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKSPACE EXPO EGYPT — Cairo\, Egypt
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-workspace-expo-egypt-30332-1@eventseye.impio-vault
+DESCRIPTION:The "Workspace Projects & Design Solutions Exhibition” is the
+  only event in Egypt & Middle East specialized for showcasing the latest m
+ ega administrative & workspace projects with recent unique design solution
+ s in a business environment\\nVenue: EIEC (Egypt International Exhibition 
+ Center)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-workspace-expo-egypt-30332-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-workspace-expo-egypt-30332-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OFFICE SERVICE EXPO - NAGOYA — Nagoya\, Japan

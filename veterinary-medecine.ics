@@ -745,18 +745,6 @@ URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
  -leipzig-24877-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VETFORUM USA — Fort Worth\, TX\, USA
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260918
-UID:f-vetforum-usa-31390-1@eventseye.impio-vault
-DESCRIPTION:VetForum USA brings you the opportunity to connect and meet wit
- h other veterinary industry players over two days of meetings and informal
-  networking\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-vetforum-usa-31390-1.html
-LOCATION:Fort Worth\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-vetforum-usa-31390-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - GUANGZHOU — Guangzhou\, China
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
@@ -772,7 +760,7 @@ URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-guangzho
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MY FANTASTIC PETS - LARIO — Erba\, Italy
-DTSTART;VALUE=DATE:20260918
+DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 UID:f-my-fantastic-pets-lario-26748-1@eventseye.impio-vault
 DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
@@ -1505,6 +1493,19 @@ URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
  -kassel-24881-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AGROS EXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270123
+UID:f-agros-expo-29123-1@eventseye.impio-vault
+DESCRIPTION:Russia's Leading Livestock & Poultry Fair. Genetics\, Mevchiner
+ y\, Equipment\, Technologies\, Feed Stuffs\, Animal Health\, Products\, An
+ imal Husbandry\, Health & Nutrition\, Forage Harvesting\, Feed Mill & Grai
+ n Industry...\\nVenue: Crocus-Expo IEC\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-agros-expo-29123-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-agros-expo-29123-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INTERNATIONAL FAIR OF EXOTIC ANIMALS — Nitra\, Slovakia
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
@@ -1743,6 +1744,19 @@ DESCRIPTION:Exhibition for professionals of the pet market in France. Part
  ye.com/fairs/f-expozoo-18828-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-expozoo-18828-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MY FANTASTIC PETS - UDINE — Udine\, Italy
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+UID:f-my-fantastic-pets-udine-33807-1@eventseye.impio-vault
+DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
+ f pets (dogs\, cats\, fish\, reptiles\, poultry\, small animals\, and farm
+  animals)\, as well as a wide range of products and services for animals\\
+ nVenue: Udine e Gorizia Fiere\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
+LOCATION:Udine\, Italy
+URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOR PETS — Prague\, Czech Republic

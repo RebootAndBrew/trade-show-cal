@@ -644,6 +644,20 @@ URL:https://www.eventseye.com/fairs/f-conference-of-u.s.-mayors-17391-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SENSOR + TEST — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260612
+UID:f-sensor-test-2429-1@eventseye.impio-vault
+DESCRIPTION:International trade show + congress for Sensors\, Transducers &
+  Systems. Sensor systems and sensory measuring equipment\, equipment\, com
+ ponents and software\, Laboratory measuring equipment\, calibration\, anal
+ ytical and testing equipment...\\nVenue: Exhibition Centre Nuremberg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-sensor-tes
+ t-2429-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AIAC WEST AFRICA — Lagos\, Nigeria
 DTSTART;VALUE=DATE:20260609
 DTEND;VALUE=DATE:20260611
@@ -1127,22 +1141,6 @@ DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
 LOCATION:Dearborn\, MI\, USA
 URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-de
  troit-34271-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL TRENCHLESS EXHIBITION & CONFERENCE — Riyadh\, Saudi
-  Arabia
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260619
-UID:f-international-trenchless-exhibition-conference-32564-1@eventseye.impio-vault
-DESCRIPTION:Forum for advancing trenchless technology within Saudi Arabia
- ’s rapidly evolving infrastructure landscape. These methods are crucial 
- for enabling sustainable growth in the Kingdom’s cities\, such as Jeddah
-  and Riyadh by protecting vital infrastructure\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-international-trenchless-exhibit
- ion-conference-32564-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-international-trenchless-exhibition-c
- onference-32564-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JAS LA ROCHELLE — La Rochelle\, France
@@ -3592,6 +3590,22 @@ LOCATION:Kielce\, Poland
 URL:https://www.eventseye.com/fairs/f-hol-expo-23542-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INTERNATIONAL TRENCHLESS EXHIBITION & CONFERENCE — Riyadh\, Saudi
+  Arabia
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261016
+UID:f-international-trenchless-exhibition-conference-32564-1@eventseye.impio-vault
+DESCRIPTION:Forum for advancing trenchless technology within Saudi Arabia
+ ’s rapidly evolving infrastructure landscape. These methods are crucial 
+ for enabling sustainable growth in the Kingdom’s cities\, such as Jeddah
+  and Riyadh by protecting vital infrastructure\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-international-trenchless-exhibit
+ ion-conference-32564-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-international-trenchless-exhibition-c
+ onference-32564-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LLJ JAPAN - FOOD LONG LIFE JAPAN — Tokyo\, Japan
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261017
@@ -4337,649 +4351,6 @@ URL:https://www.eventseye.com/fairs/f-cdao-community-executive-summit-usa-s
  an-francisco-34286-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DATA CENTER & STORAGE EXPO - OSAKA — Osaka\, Japan
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-data-center-storage-expo-osaka-28750-1@eventseye.impio-vault
-DESCRIPTION:Data Center & Storage Expo. Data Center Facilities\, Cloud Mana
- gement\, Server/Network Monitoring\, Operation Agency\, Network Operation 
- Management\, IT Infrastructure Construction and Management...\\nVenue: Int
- ex Osaka\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-data-center-storage-expo-osaka-28750-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-data-center-storage-expo-osaka-28750-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DATA CENTRE WORLD EUROPE - PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:f-data-centre-world-europe-paris-31349-1@eventseye.impio-vault
-DESCRIPTION:The world’s largest gathering of Data Centre World Industry p
- rofessionals and end-users. Data Centre World is featuring world-renowned 
- speakers and exhibitors. They come together to present the most cutting-ed
- ge cloud technologies and high-quality servic\\nVenue: Paris Expo Porte de
-  Versailles\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-data-centre-world-europe-paris-31349-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-data-centre-world-europe-paris-31349-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DATACENTRES IRELAND — Dublin\, Ireland
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:f-datacentres-ireland-30124-1@eventseye.impio-vault
-DESCRIPTION:DataCentres Ireland is a free event bringing together owners\, 
- operators\, suppliers\, investors and innovators under one roof. Infrastru
- cture\, Services\, Solutions\\nVenue: Royal Dublin Society\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-datacentres-ireland-
- 30124-1.html
-LOCATION:Dublin\, Ireland
-URL:https://www.eventseye.com/fairs/f-datacentres-ireland-30124-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDO DEFENCE EXPO & FORUM — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261122
-UID:f-indo-defence-expo-forum-9091-1@eventseye.impio-vault
-DESCRIPTION:International Indonesia’s Official Tri-Services Defense Event
-  for Defense/ Security Equipment & Solution Show\\nVenue: Jakarta Internat
- ional Expo (JIExpo)\\nFrequency: every 2 years\\nSource: https://www.event
- seye.com/fairs/f-indo-defence-expo-forum-9091-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indo-defence-expo-forum-9091-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFORMATION SECURITY EXPO (IST OSAKA) — Osaka\, Japan
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-information-security-expo-(ist-osaka)-24603-1@eventseye.impio-vault
-DESCRIPTION:Information Security related Products & Services Expo. Informat
- ion Security Expo (IST Osaka) features Information Protection\, Internal I
- ntrusion Protection\, Hacking & DoS Prevention\, Fraud / WEB Defacing / Ea
- vesdropping Prevention\, Anti-Virus solutions\\nVenue: Intex Osaka\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-information-
- security-expo-(ist-osaka)-24603-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-information-security-expo-(ist-osaka)
- -24603-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHARMACOVIGILANCE INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:f-pharmacovigilance-india-32764-1@eventseye.impio-vault
-DESCRIPTION:International Conference dedicated to pharmacovigilance. Ensuri
- ng safer drugs to market. Gain insights from experts\, researchers\, and p
- rofessionals on the latest pharma advancements\\nVenue: Hotel Kohinoor Con
- tinental\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-pharmacovigilance-india-32764-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-pharmacovigilance-india-32764-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RETAIL SHOW POLAND — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:f-retail-show-poland-30839-1@eventseye.impio-vault
-DESCRIPTION:The biggest\, annual\, B2B retail event in Poland - Exhibition 
- of Equipment\, Technology and Services for Retail. Shop fittings\, cash re
- gisters\, scales\, security and protection systems\, IT systems for retail
-  chain management\, e-commerce solutions\, etc\\nVenue: Warszawskie Centru
- m EXPO XXI\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-retail-show-poland-30839-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-retail-show-poland-30839-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECURITEC — Beirut\, Lebanon
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261121
-UID:f-securitec-33342-1@eventseye.impio-vault
-DESCRIPTION:Securitec showcases the world's leading security brands\, lates
- t innovations and cutting-edge technologies. Public Safety & Security\, Fi
- re & Rescue\, Access Control & Perimeter Protection\, Cybersecurity\, Biom
- etrics & Identification...\\nVenue: Habtoor Grand Hotel\, Beirut\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-securitec-3334
- 2-1.html
-LOCATION:Beirut\, Lebanon
-URL:https://www.eventseye.com/fairs/f-securitec-33342-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECH SHOW PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261120
-UID:f-tech-show-paris-31370-1@eventseye.impio-vault
-DESCRIPTION:TECH SHOW PARIS\, international cutting-edge technology Expo + 
- conference\, regroups. - Cloud Expo Europe\n- Devops Live\n- Cloud & Cyber
-  Security Expo\n- Big Data & AI World\n- Data Centre World\\nVenue: Paris 
- Expo Porte de Versailles\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-tech-show-paris-31370-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-tech-show-paris-31370-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIAIRPORT — Gandhinagar\, India
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261121
-UID:f-indiairport-33107-1@eventseye.impio-vault
-DESCRIPTION:India’s leading platform dedicated to airport technology\, in
- frastructure\, and aviation services. IndiAirport Expo & Conference will g
- ive a future focused unmissable opportunity to all sectors of airport rela
- ted technology\, equipment & services\\nVenue: Helipad Exhibition Centre (
- HEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- indiairport-33107-1.html
-LOCATION:Gandhinagar\, India
-URL:https://www.eventseye.com/fairs/f-indiairport-33107-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORGATEC INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261122
-UID:f-orgatec-india-33463-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Furnishing and Management of Offic
- es and Office Facilities. Buyers seek a wide range of products and solutio
- ns for offices and institutional buildings\, from furniture and equipment 
- to work processes and software\\nVenue: Jio World Centre\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-orgatec-india-33463-
- 1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-orgatec-india-33463-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EURASIA DOOR FAIR — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261125
-UID:f-eurasia-door-fair-31041-1@eventseye.impio-vault
-DESCRIPTION:International Interior Door and Door Systems\, Lock\, Panel\, B
- oard\, Partition Systems and Accessories Fair in Turkey\\nVenue: Tüyap Fa
- ir Convention and Congress Center\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-eurasia-door-fair-31041-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-eurasia-door-fair-31041-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIG 5 GLOBAL — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261127
-UID:f-big-5-global-5181-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Building\, Water Technology & Envi
- ronment\, Air Conditioning & Refrigeration\, Cleaning & Maintenance\, Glas
- s & Metal\\nVenue: Dubai World Trade Centre (Dubai Exhibition Centre)\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-big-5-glo
- bal-5181-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-big-5-global-5181-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CITYSCAPE BAHRAIN — Manama\, Bahrain
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261129
-UID:f-cityscape-bahrain-30623-1@eventseye.impio-vault
-DESCRIPTION:Bahrain's leading real estate event\, Cityscape Bahrain\, bring
- s together thousands of industry professionals\, homebuyers\, and investor
- s to explore opportunities\, trends\, and insights in the real estate indu
- stry\\nVenue: Exhibition World Bahrain\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-cityscape-bahrain-30623-1.html
-LOCATION:Manama\, Bahrain
-URL:https://www.eventseye.com/fairs/f-cityscape-bahrain-30623-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-CRIME & CYBERSECURITY BENELUX — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-UID:f-e-crime-cybersecurity-benelux-29667-1@eventseye.impio-vault
-DESCRIPTION:Congress on cybercriminality and online-protection. E-Crime con
- gress designed to meet the needs of professionals from the private sector 
- & government enterprise IT departments\, delivers critical information\, e
- xamples of practice & practical case studies\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-e-crime-cybersecurity-benelux-2966
- 7-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-e-crime-cybersecurity-benelux-29667-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIRE PROTECTIOBN EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-fire-protectiobn-expo-33780-1@eventseye.impio-vault
-DESCRIPTION:'FireProtection Expo' is the only industry trade fair in Poland
-  dedicated exclusively to fire protection systems. Companies will present 
- alarms and detection systems\, extinguishing systems\, smoke extraction an
- d evacuation systems\, equipment servicing...\\nVenue: Ptak Warsaw Expo\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fire-pr
- otectiobn-expo-33780-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-fire-protectiobn-expo-33780-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HEALTHCARE MEETINGS — Cannes\, France
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-healthcare-meetings-32804-1@eventseye.impio-vault
-DESCRIPTION:From logistics to hygiene\, including IT protection\, cybersecu
- rity and the patient environment\, Healthcare Meetings will give you the o
- pportunity to discover all the changes in health\, social and medico-socia
- l establishments\\nVenue: Palais des Festivals de Cannes\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-healthcare-meetings-32
- 804-1.html
-LOCATION:Cannes\, France
-URL:https://www.eventseye.com/fairs/f-healthcare-meetings-32804-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDEAS — Karachi\, Pakistan
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261128
-UID:f-ideas-3205-1@eventseye.impio-vault
-DESCRIPTION:IDEAS brings together international manufacturers and suppliers
-  of products and services to explore the opportunities for cooperation in 
- the field of defence production through joint ventures\, outsourcing\, and
-  collaboration\\nVenue: Karachi Expo Centre\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-ideas-3205-1.html
-LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-ideas-3205-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDUSTRIE & MAINTENANCE — Namur\, Belgium
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-UID:f-industrie-maintenance-31835-1@eventseye.impio-vault
-DESCRIPTION:Meeting of players in industrial maintenance\, asset management
-  and production reliability. Fluid and gas technologies\, Measurement & re
- gulation instrumentation\, Industrial maintenance\, Powder and bulk produc
- ts industry...\\nVenue: Namur expo\\nFrequency: every 2 years\\nSource: ht
- tps://www.eventseye.com/fairs/f-industrie-maintenance-31835-1.html
-LOCATION:Namur\, Belgium
-URL:https://www.eventseye.com/fairs/f-industrie-maintenance-31835-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DES MAIRES ET DES COLLECTIVITÉS LOCALES — Paris\, France
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-salon-des-maires-et-des-collectivites-locales-12195-1@eventseye.impio-vault
-DESCRIPTION:Exhibition dedicated to Mayors and Local Authorities - the grea
- t French meeting for public procurement\\nVenue: Paris Expo Porte de Versa
- illes\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -salon-des-maires-et-des-collectivites-locales-12195-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-salon-des-maires-et-des-collectivites
- -locales-12195-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES AUVERGNE RHÔNE ALPES — Grenoble\, France
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-sepem-industries-auvergne-rhone-alpes-27269-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Alpe
- xpo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
- -sepem-industries-auvergne-rhone-alpes-27269-1.html
-LOCATION:Grenoble\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-auvergne-rhone-alpes
- -27269-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SFITEX — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261127
-UID:f-sfitex-13819-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of security and fire protection equipm
- ent and products\, facilitating the establishment of new partnerships\, as
-  well as the exchange of experience in practical solutions to the challeng
- es facing the security industry\\nVenue: ExpoForum Convention and Exhibiti
- on Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-sfitex-13819-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-sfitex-13819-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTOMOTIVE WORLD - NAGOYA — Nagoya\, Japan
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261128
-UID:f-automotive-world-nagoya-33802-1@eventseye.impio-vault
-DESCRIPTION:AUTOMOTIVE WORLD is the premier expo showcasing the latest adva
- ncements in the automotive industry. A global hub for the latest technolog
- ies in key areas such as carbon neutrality\, electrification\, autonomous 
- driving\, connected cars\, weight reduction\\nVenue: Nagoya International 
- Exhibition Hall (Port Messe Nagoya)\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-automotive-world-nagoya-33802-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-automotive-world-nagoya-33802-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELECTROTEST JAPAN - NAGOYA — Nagoya\, Japan
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261128
-UID:f-electrotest-japan-nagoya-31421-1@eventseye.impio-vault
-DESCRIPTION:Asia's Leading Exhibition specialised in Test\, Inspection\, Me
- asurement and Analysis for Electronics Manufacturing and R&D\\nVenue: Aich
- i Sky Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-electrotest-japan-nagoya-31421-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-electrotest-japan-nagoya-31421-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERMAINTENANCE — Lyon\, France
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261127
-UID:f-intermaintenance-23739-1@eventseye.impio-vault
-DESCRIPTION:Meetings for solutions and innovations in Maintenance. INTERMAI
- NTENANCE brings together all the players in the sector: equipment manufact
- urers\, CMMS software publishers\, augmented reality\, remote maintenance\
- , etc.\\nVenue: Double Mixte\, Lyon\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-intermaintenance-23739-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-intermaintenance-23739-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PWB EXPO - PRINTED WIRING BOARDS EXPO - NAGOYA — Nagoya\, Japan
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261128
-UID:f-pwb-expo-printed-wiring-boards-expo-nagoya-31422-1@eventseye.impio-vault
-DESCRIPTION:Japanese International Exhibition Featuring all kinds of PCBs/P
- WBs and technologie. - PCB Materials\, Design & Development Services\, and
-  Digital Design Tools\\nVenue: Nagoya International Exhibition Hall (Port 
- Messe Nagoya)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-pwb-expo-printed-wiring-boards-expo-nagoya-31422-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-expo-n
- agoya-31422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PWB EXPO - PRINTED WIRING BOARDS EXPO JAPAN - NAGOYA — Nagoya\, J
- apan
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261128
-UID:f-pwb-expo-printed-wiring-boards-expo-japan-nagoya-31520-1@eventseye.impio-vault
-DESCRIPTION:Japanese International Exhibition Featuring all kinds of PCBs/P
- WBs and technologie. - PCB Materials\, Design & Development Services\, and
-  Digital Design Tools\\nVenue: Aichi Sky Expo\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-ex
- po-japan-nagoya-31520-1.html
-LOCATION:Nagoya\, Japan
-URL:https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-expo-j
- apan-nagoya-31520-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIFT CITY EXPO RIYADH — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261129
-UID:f-lift-city-expo-riyadh-30980-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition & Conference For Elevators & Escalator
- s Technologies\, Attachments and Accessories\\nVenue: The Arena Riyadh\\nF
- requency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-lift-c
- ity-expo-riyadh-30980-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-lift-city-expo-riyadh-30980-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON SOLUCUP - NICE — Nice\, France
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261128
-UID:f-salon-solucup-nice-32740-1@eventseye.impio-vault
-DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
- p\, committed to improving the comfort and security of collective housing\
- \nVenue: Palais Nikaïa\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-salon-solucup-nice-32740-1.html
-LOCATION:Nice\, France
-URL:https://www.eventseye.com/fairs/f-salon-solucup-nice-32740-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORKSAFE NAMUR — Namur\, Belgium
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-UID:f-worksafe-namur-31854-1@eventseye.impio-vault
-DESCRIPTION:The largest meeting point for safety coordinators & facility ma
- nagers in Belgium. Health\, (fire) safety\, well-being at work: 80 experts
- \, a full day of professional conferences\, demonstrations and networking\
- \nVenue: Namur expo\\nFrequency: every 2 years\\nSource: https://www.event
- seye.com/fairs/f-worksafe-namur-31854-1.html
-LOCATION:Namur\, Belgium
-URL:https://www.eventseye.com/fairs/f-worksafe-namur-31854-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIAN\, MIDDLE EAST AND AFRICAN HIGH SECURITY PRINTING CONFERENCE 
- — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261203
-UID:f-asian-middle-east-and-african-high-security-printing-conference-7459-1@eventseye.impio-vault
-DESCRIPTION:From the industry for the industry - the Asian High Security Pr
- inting Conference specialises in the production\, protection and issue of 
- currency\, fiduciary documents\, ID cards\, e-passports\, visas\, vehicle 
- documents and licences\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-asian-middle-east-and-african-high-security-printing-con
- ference-7459-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-asian-middle-east-and-african-high-se
- curity-printing-conference-7459-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLOBAL AIRPORTS FORUM — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261202
-UID:f-global-airports-forum-32718-1@eventseye.impio-vault
-DESCRIPTION:As the Kingdom’s largest dedicated airport exhibition\, GLOBA
- L AIRPORTS FORUM serves as a key platform for aviation leaders\, industry 
- experts\, and global innovators to connect and explore new business opport
- unities\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-global-air
- ports-forum-32718-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-global-airports-forum-32718-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECH FOR RETAIL — Paris\, France
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261202
-UID:f-tech-for-retail-28212-1@eventseye.impio-vault
-DESCRIPTION:European exhibition of Innovative Retail. The entire show is de
- signed and conceived to multiply exchanges between the major players in Re
- tail and the creators of innovation\\nVenue: Paris Expo Porte de Versaille
- s\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tec
- h-for-retail-28212-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-tech-for-retail-28212-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CDAO COMMUNITY EXECUTIVE SUMMIT - CANADA - TORONTO — Toronto\, ON
- \, Canada
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-UID:f-cdao-community-executive-summit-canada-toronto-34288-1@eventseye.impio-vault
-DESCRIPTION:Executive summit for Chief Data & Analytics Officers\, focused 
- on data architecture\, trusted AI decisions\, and the buy-versus-build deb
- ate\, featuring boardrooms\, breakouts\, and a peer community format\\nVen
- ue: Toronto Marriott Downtown Eaton Centre\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-cdao-community-executive-summit-cana
- da-toronto-34288-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-cdao-community-executive-summit-canad
- a-toronto-34288-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - CHICAGO — Chicago\, IL\, U
- SA
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-UID:f-cio-community-executive-summit-usa-chicago-34280-1@eventseye.impio-vault
-DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
- O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
- and governance of data integrity. On the agenda: interactive sessions\, ne
- tworking\, and private meetings\\nVenue: Convene Willis Tower\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-cio-community-exe
- cutive-summit-usa-chicago-34280-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-ch
- icago-34280-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECURA NORTH AFRICA — Algiers\, Algeria
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-secura-north-africa-27477-1@eventseye.impio-vault
-DESCRIPTION:The largest Safety & Security event in North Africa. Industrial
- \, commercial and homeland security\, work safety\, firefighting\, cyber s
- ecurity and emergency\\nVenue: Palais des Expositions d'Alger - Safex\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-secura-no
- rth-africa-27477-1.html
-LOCATION:Algiers\, Algeria
-URL:https://www.eventseye.com/fairs/f-secura-north-africa-27477-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRUSTECH — Paris\, France
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-trustech-22348-1@eventseye.impio-vault
-DESCRIPTION:An international event dedicated to innovative payments and ide
- ntification. TRUSTECH brings together all the key players in tech\, smartc
- ards\, innovative payments\, and financial and governmental institutions\\
- nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-trustech-22348-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-trustech-22348-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW SECURITY EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-warsaw-security-expo-29981-1@eventseye.impio-vault
-DESCRIPTION:International fair of safeguard and security systems. The 'Wars
- aw Security Expo' will feature manufacturers and service providers of data
-  analytics\, industrial security\, cyber security\, VIP protection\, rescu
- e equipment\, and convoys...\\nVenue: Ptak Warsaw Expo\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-warsaw-security-expo-299
- 81-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-security-expo-29981-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - BOSTON — Boston\, MA\, USA
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-UID:f-cio-community-executive-summit-usa-boston-34279-1@eventseye.impio-vault
-DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
- O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
- and governance of data integrity. On the agenda: interactive sessions\, ne
- tworking\, and private meetings\\nVenue: Renaissance Boston Seaport Distri
- ct\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ci
- o-community-executive-summit-usa-boston-34279-1.html
-LOCATION:Boston\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-bo
- ston-34279-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MANUFACTURING INDONESIA — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261206
-UID:f-manufacturing-indonesia-4938-1@eventseye.impio-vault
-DESCRIPTION:International Manufacturing Machinery\, Equipment\, Materials a
- nd Services Exhibitions in Indonesia\\nVenue: Jakarta International Expo (
- JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-manufacturing-indonesia-4938-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-manufacturing-indonesia-4938-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - HOUSTON — Houston\, TX\, U
- SA
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-UID:f-cio-community-executive-summit-usa-houston-34277-1@eventseye.impio-vault
-DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
- O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
- and governance of data integrity. On the agenda: interactive sessions\, ne
- tworking\, and private meetings\\nVenue: Hyatt Regency Houston\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-cio-community-ex
- ecutive-summit-usa-houston-34277-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-ho
- uston-34277-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IFSEC INDIA — New Delhi\, India
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261206
-UID:f-ifsec-india-10178-1@eventseye.impio-vault
-DESCRIPTION:South Asia's largest Exhibition & Conference for the Global Sec
- urity Industry. Bringing together global security experts\, industry leade
- rs and decision-makers\, IFSEC India is the ultimate platform for innovati
- on\, collaboration\, and growth\\nVenue: Bharat Mandapam Convention Centre
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ifse
- c-india-10178-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-ifsec-india-10178-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLACK HAT EUROPE — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261211
-UID:f-black-hat-europe-22380-1@eventseye.impio-vault
-DESCRIPTION:Black Hat Briefings is a computer security conference that brin
- gs together a variety of people interested in InfoSec (Information Securit
- y)\\nVenue: ExCeL\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-black-hat-europe-22380-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-black-hat-europe-22380-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BLACK HAT MEA — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261211
-UID:f-black-hat-mea-30625-1@eventseye.impio-vault
-DESCRIPTION:Black Hat Briefings is a computer security conference that brin
- gs together a variety of people interested in InfoSec (Information Securit
- y)\\nVenue: Riyadh International Exhibition Centre\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-black-hat-mea-30625-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-black-hat-mea-30625-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WIND TURBINE BLADE MANUFACTURE — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261211
-UID:f-wind-turbine-blade-manufacture-28358-1@eventseye.impio-vault
-DESCRIPTION:Global conference on MW wind blade design\, composites\, manufa
- cturing and performance\\nVenue: InterContinental Düsseldorf\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-wind-turbine-blad
- e-manufacture-28358-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-manufacture-28358-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WIND TURBINE BLADE SERVICE & MAINTENANCE — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261211
-UID:f-wind-turbine-blade-service-maintenance-28357-1@eventseye.impio-vault
-DESCRIPTION:Forum for increasing asset profitability by decreasing blade do
- wntime: service\, inspection\, maintenance and repair\\nVenue: Maritim Hot
- el\, Düsseldorf\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-wind-turbine-blade-service-maintenance-28357-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-service-maintenanc
- e-28357-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
- — Shanghai\, China
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261212
-UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
- ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
- , rail security technology & equipment\, rail transportation power & new e
- nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
- ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
- xhibition-31545-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
- sit-technology-exhibition-31545-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EXPOPROTECTION — Paris\, France
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261106
@@ -5677,6 +5048,649 @@ URL:https://www.eventseye.com/fairs/f-cybersecvn-conference-vietnam-32346-1
  .html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DATA CENTER & STORAGE EXPO - OSAKA — Osaka\, Japan
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-data-center-storage-expo-osaka-28750-1@eventseye.impio-vault
+DESCRIPTION:Data Center & Storage Expo. Data Center Facilities\, Cloud Mana
+ gement\, Server/Network Monitoring\, Operation Agency\, Network Operation 
+ Management\, IT Infrastructure Construction and Management...\\nVenue: Int
+ ex Osaka\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-data-center-storage-expo-osaka-28750-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-data-center-storage-expo-osaka-28750-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DATA CENTRE WORLD EUROPE - PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-data-centre-world-europe-paris-31349-1@eventseye.impio-vault
+DESCRIPTION:The world’s largest gathering of Data Centre World Industry p
+ rofessionals and end-users. Data Centre World is featuring world-renowned 
+ speakers and exhibitors. They come together to present the most cutting-ed
+ ge cloud technologies and high-quality servic\\nVenue: Paris Expo Porte de
+  Versailles\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-data-centre-world-europe-paris-31349-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-data-centre-world-europe-paris-31349-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DATACENTRES IRELAND — Dublin\, Ireland
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-datacentres-ireland-30124-1@eventseye.impio-vault
+DESCRIPTION:DataCentres Ireland is a free event bringing together owners\, 
+ operators\, suppliers\, investors and innovators under one roof. Infrastru
+ cture\, Services\, Solutions\\nVenue: Royal Dublin Society\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-datacentres-ireland-
+ 30124-1.html
+LOCATION:Dublin\, Ireland
+URL:https://www.eventseye.com/fairs/f-datacentres-ireland-30124-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO DEFENCE EXPO & FORUM — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+UID:f-indo-defence-expo-forum-9091-1@eventseye.impio-vault
+DESCRIPTION:International Indonesia’s Official Tri-Services Defense Event
+  for Defense/ Security Equipment & Solution Show\\nVenue: Jakarta Internat
+ ional Expo (JIExpo)\\nFrequency: every 2 years\\nSource: https://www.event
+ seye.com/fairs/f-indo-defence-expo-forum-9091-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-defence-expo-forum-9091-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INFORMATION SECURITY EXPO (IST OSAKA) — Osaka\, Japan
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-information-security-expo-(ist-osaka)-24603-1@eventseye.impio-vault
+DESCRIPTION:Information Security related Products & Services Expo. Informat
+ ion Security Expo (IST Osaka) features Information Protection\, Internal I
+ ntrusion Protection\, Hacking & DoS Prevention\, Fraud / WEB Defacing / Ea
+ vesdropping Prevention\, Anti-Virus solutions\\nVenue: Intex Osaka\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-information-
+ security-expo-(ist-osaka)-24603-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-information-security-expo-(ist-osaka)
+ -24603-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHARMACOVIGILANCE INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-pharmacovigilance-india-32764-1@eventseye.impio-vault
+DESCRIPTION:International Conference dedicated to pharmacovigilance. Ensuri
+ ng safer drugs to market. Gain insights from experts\, researchers\, and p
+ rofessionals on the latest pharma advancements\\nVenue: Hotel Kohinoor Con
+ tinental\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-pharmacovigilance-india-32764-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-pharmacovigilance-india-32764-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RETAIL SHOW POLAND — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-retail-show-poland-30839-1@eventseye.impio-vault
+DESCRIPTION:The biggest\, annual\, B2B retail event in Poland - Exhibition 
+ of Equipment\, Technology and Services for Retail. Shop fittings\, cash re
+ gisters\, scales\, security and protection systems\, IT systems for retail
+  chain management\, e-commerce solutions\, etc\\nVenue: Warszawskie Centru
+ m EXPO XXI\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-retail-show-poland-30839-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-retail-show-poland-30839-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECURITEC — Beirut\, Lebanon
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+UID:f-securitec-33342-1@eventseye.impio-vault
+DESCRIPTION:Securitec showcases the world's leading security brands\, lates
+ t innovations and cutting-edge technologies. Public Safety & Security\, Fi
+ re & Rescue\, Access Control & Perimeter Protection\, Cybersecurity\, Biom
+ etrics & Identification...\\nVenue: Habtoor Grand Hotel\, Beirut\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-securitec-3334
+ 2-1.html
+LOCATION:Beirut\, Lebanon
+URL:https://www.eventseye.com/fairs/f-securitec-33342-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECH SHOW PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-tech-show-paris-31370-1@eventseye.impio-vault
+DESCRIPTION:TECH SHOW PARIS\, international cutting-edge technology Expo + 
+ conference\, regroups. - Cloud Expo Europe\n- Devops Live\n- Cloud & Cyber
+  Security Expo\n- Big Data & AI World\n- Data Centre World\\nVenue: Paris 
+ Expo Porte de Versailles\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-tech-show-paris-31370-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-tech-show-paris-31370-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIAIRPORT — Gandhinagar\, India
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+UID:f-indiairport-33107-1@eventseye.impio-vault
+DESCRIPTION:India’s leading platform dedicated to airport technology\, in
+ frastructure\, and aviation services. IndiAirport Expo & Conference will g
+ ive a future focused unmissable opportunity to all sectors of airport rela
+ ted technology\, equipment & services\\nVenue: Helipad Exhibition Centre (
+ HEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ indiairport-33107-1.html
+LOCATION:Gandhinagar\, India
+URL:https://www.eventseye.com/fairs/f-indiairport-33107-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ORGATEC INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261122
+UID:f-orgatec-india-33463-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Furnishing and Management of Offic
+ es and Office Facilities. Buyers seek a wide range of products and solutio
+ ns for offices and institutional buildings\, from furniture and equipment 
+ to work processes and software\\nVenue: Jio World Centre\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-orgatec-india-33463-
+ 1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-orgatec-india-33463-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EURASIA DOOR FAIR — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261125
+UID:f-eurasia-door-fair-31041-1@eventseye.impio-vault
+DESCRIPTION:International Interior Door and Door Systems\, Lock\, Panel\, B
+ oard\, Partition Systems and Accessories Fair in Turkey\\nVenue: Tüyap Fa
+ ir Convention and Congress Center\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-eurasia-door-fair-31041-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-eurasia-door-fair-31041-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIG 5 GLOBAL — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261127
+UID:f-big-5-global-5181-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Building\, Water Technology & Envi
+ ronment\, Air Conditioning & Refrigeration\, Cleaning & Maintenance\, Glas
+ s & Metal\\nVenue: Dubai World Trade Centre (Dubai Exhibition Centre)\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-big-5-glo
+ bal-5181-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-big-5-global-5181-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CITYSCAPE BAHRAIN — Manama\, Bahrain
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261129
+UID:f-cityscape-bahrain-30623-1@eventseye.impio-vault
+DESCRIPTION:Bahrain's leading real estate event\, Cityscape Bahrain\, bring
+ s together thousands of industry professionals\, homebuyers\, and investor
+ s to explore opportunities\, trends\, and insights in the real estate indu
+ stry\\nVenue: Exhibition World Bahrain\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-cityscape-bahrain-30623-1.html
+LOCATION:Manama\, Bahrain
+URL:https://www.eventseye.com/fairs/f-cityscape-bahrain-30623-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E-CRIME & CYBERSECURITY BENELUX — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:f-e-crime-cybersecurity-benelux-29667-1@eventseye.impio-vault
+DESCRIPTION:Congress on cybercriminality and online-protection. E-Crime con
+ gress designed to meet the needs of professionals from the private sector 
+ & government enterprise IT departments\, delivers critical information\, e
+ xamples of practice & practical case studies\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-e-crime-cybersecurity-benelux-2966
+ 7-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-e-crime-cybersecurity-benelux-29667-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIRE PROTECTIOBN EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-fire-protectiobn-expo-33780-1@eventseye.impio-vault
+DESCRIPTION:'FireProtection Expo' is the only industry trade fair in Poland
+  dedicated exclusively to fire protection systems. Companies will present 
+ alarms and detection systems\, extinguishing systems\, smoke extraction an
+ d evacuation systems\, equipment servicing...\\nVenue: Ptak Warsaw Expo\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fire-pr
+ otectiobn-expo-33780-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-fire-protectiobn-expo-33780-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HEALTHCARE MEETINGS — Cannes\, France
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-healthcare-meetings-32804-1@eventseye.impio-vault
+DESCRIPTION:From logistics to hygiene\, including IT protection\, cybersecu
+ rity and the patient environment\, Healthcare Meetings will give you the o
+ pportunity to discover all the changes in health\, social and medico-socia
+ l establishments\\nVenue: Palais des Festivals de Cannes\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-healthcare-meetings-32
+ 804-1.html
+LOCATION:Cannes\, France
+URL:https://www.eventseye.com/fairs/f-healthcare-meetings-32804-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IDEAS — Karachi\, Pakistan
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261128
+UID:f-ideas-3205-1@eventseye.impio-vault
+DESCRIPTION:IDEAS brings together international manufacturers and suppliers
+  of products and services to explore the opportunities for cooperation in 
+ the field of defence production through joint ventures\, outsourcing\, and
+  collaboration\\nVenue: Karachi Expo Centre\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-ideas-3205-1.html
+LOCATION:Karachi\, Pakistan
+URL:https://www.eventseye.com/fairs/f-ideas-3205-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDUSTRIE & MAINTENANCE — Namur\, Belgium
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+UID:f-industrie-maintenance-31835-1@eventseye.impio-vault
+DESCRIPTION:Meeting of players in industrial maintenance\, asset management
+  and production reliability. Fluid and gas technologies\, Measurement & re
+ gulation instrumentation\, Industrial maintenance\, Powder and bulk produc
+ ts industry...\\nVenue: Namur expo\\nFrequency: every 2 years\\nSource: ht
+ tps://www.eventseye.com/fairs/f-industrie-maintenance-31835-1.html
+LOCATION:Namur\, Belgium
+URL:https://www.eventseye.com/fairs/f-industrie-maintenance-31835-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DES MAIRES ET DES COLLECTIVITÉS LOCALES — Paris\, France
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-salon-des-maires-et-des-collectivites-locales-12195-1@eventseye.impio-vault
+DESCRIPTION:Exhibition dedicated to Mayors and Local Authorities - the grea
+ t French meeting for public procurement\\nVenue: Paris Expo Porte de Versa
+ illes\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -salon-des-maires-et-des-collectivites-locales-12195-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-salon-des-maires-et-des-collectivites
+ -locales-12195-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES AUVERGNE RHÔNE ALPES — Grenoble\, France
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-sepem-industries-auvergne-rhone-alpes-27269-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Alpe
+ xpo\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -sepem-industries-auvergne-rhone-alpes-27269-1.html
+LOCATION:Grenoble\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-auvergne-rhone-alpes
+ -27269-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SFITEX — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261127
+UID:f-sfitex-13819-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of security and fire protection equipm
+ ent and products\, facilitating the establishment of new partnerships\, as
+  well as the exchange of experience in practical solutions to the challeng
+ es facing the security industry\\nVenue: ExpoForum Convention and Exhibiti
+ on Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-sfitex-13819-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-sfitex-13819-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE WORLD - NAGOYA — Nagoya\, Japan
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+UID:f-automotive-world-nagoya-33802-1@eventseye.impio-vault
+DESCRIPTION:AUTOMOTIVE WORLD is the premier expo showcasing the latest adva
+ ncements in the automotive industry. A global hub for the latest technolog
+ ies in key areas such as carbon neutrality\, electrification\, autonomous 
+ driving\, connected cars\, weight reduction\\nVenue: Nagoya International 
+ Exhibition Hall (Port Messe Nagoya)\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-automotive-world-nagoya-33802-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-automotive-world-nagoya-33802-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELECTROTEST JAPAN - NAGOYA — Nagoya\, Japan
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+UID:f-electrotest-japan-nagoya-31421-1@eventseye.impio-vault
+DESCRIPTION:Asia's Leading Exhibition specialised in Test\, Inspection\, Me
+ asurement and Analysis for Electronics Manufacturing and R&D\\nVenue: Aich
+ i Sky Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-electrotest-japan-nagoya-31421-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-electrotest-japan-nagoya-31421-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERMAINTENANCE — Lyon\, France
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261127
+UID:f-intermaintenance-23739-1@eventseye.impio-vault
+DESCRIPTION:Meetings for solutions and innovations in Maintenance. INTERMAI
+ NTENANCE brings together all the players in the sector: equipment manufact
+ urers\, CMMS software publishers\, augmented reality\, remote maintenance\
+ , etc.\\nVenue: Double Mixte\, Lyon\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-intermaintenance-23739-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-intermaintenance-23739-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PWB EXPO - PRINTED WIRING BOARDS EXPO - NAGOYA — Nagoya\, Japan
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+UID:f-pwb-expo-printed-wiring-boards-expo-nagoya-31422-1@eventseye.impio-vault
+DESCRIPTION:Japanese International Exhibition Featuring all kinds of PCBs/P
+ WBs and technologie. - PCB Materials\, Design & Development Services\, and
+  Digital Design Tools\\nVenue: Nagoya International Exhibition Hall (Port 
+ Messe Nagoya)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-pwb-expo-printed-wiring-boards-expo-nagoya-31422-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-expo-n
+ agoya-31422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PWB EXPO - PRINTED WIRING BOARDS EXPO JAPAN - NAGOYA — Nagoya\, J
+ apan
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+UID:f-pwb-expo-printed-wiring-boards-expo-japan-nagoya-31520-1@eventseye.impio-vault
+DESCRIPTION:Japanese International Exhibition Featuring all kinds of PCBs/P
+ WBs and technologie. - PCB Materials\, Design & Development Services\, and
+  Digital Design Tools\\nVenue: Aichi Sky Expo\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-ex
+ po-japan-nagoya-31520-1.html
+LOCATION:Nagoya\, Japan
+URL:https://www.eventseye.com/fairs/f-pwb-expo-printed-wiring-boards-expo-j
+ apan-nagoya-31520-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIFT CITY EXPO RIYADH — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261129
+UID:f-lift-city-expo-riyadh-30980-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition & Conference For Elevators & Escalator
+ s Technologies\, Attachments and Accessories\\nVenue: The Arena Riyadh\\nF
+ requency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-lift-c
+ ity-expo-riyadh-30980-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-lift-city-expo-riyadh-30980-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON SOLUCUP - NICE — Nice\, France
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+UID:f-salon-solucup-nice-32740-1@eventseye.impio-vault
+DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
+ p\, committed to improving the comfort and security of collective housing\
+ \nVenue: Palais Nikaïa\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-salon-solucup-nice-32740-1.html
+LOCATION:Nice\, France
+URL:https://www.eventseye.com/fairs/f-salon-solucup-nice-32740-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKSAFE NAMUR — Namur\, Belgium
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+UID:f-worksafe-namur-31854-1@eventseye.impio-vault
+DESCRIPTION:The largest meeting point for safety coordinators & facility ma
+ nagers in Belgium. Health\, (fire) safety\, well-being at work: 80 experts
+ \, a full day of professional conferences\, demonstrations and networking\
+ \nVenue: Namur expo\\nFrequency: every 2 years\\nSource: https://www.event
+ seye.com/fairs/f-worksafe-namur-31854-1.html
+LOCATION:Namur\, Belgium
+URL:https://www.eventseye.com/fairs/f-worksafe-namur-31854-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIAN\, MIDDLE EAST AND AFRICAN HIGH SECURITY PRINTING CONFERENCE 
+ — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261203
+UID:f-asian-middle-east-and-african-high-security-printing-conference-7459-1@eventseye.impio-vault
+DESCRIPTION:From the industry for the industry - the Asian High Security Pr
+ inting Conference specialises in the production\, protection and issue of 
+ currency\, fiduciary documents\, ID cards\, e-passports\, visas\, vehicle 
+ documents and licences\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-asian-middle-east-and-african-high-security-printing-con
+ ference-7459-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-asian-middle-east-and-african-high-se
+ curity-printing-conference-7459-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL AIRPORTS FORUM — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261202
+UID:f-global-airports-forum-32718-1@eventseye.impio-vault
+DESCRIPTION:As the Kingdom’s largest dedicated airport exhibition\, GLOBA
+ L AIRPORTS FORUM serves as a key platform for aviation leaders\, industry 
+ experts\, and global innovators to connect and explore new business opport
+ unities\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-global-air
+ ports-forum-32718-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-global-airports-forum-32718-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECH FOR RETAIL — Paris\, France
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261202
+UID:f-tech-for-retail-28212-1@eventseye.impio-vault
+DESCRIPTION:European exhibition of Innovative Retail. The entire show is de
+ signed and conceived to multiply exchanges between the major players in Re
+ tail and the creators of innovation\\nVenue: Paris Expo Porte de Versaille
+ s\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tec
+ h-for-retail-28212-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-tech-for-retail-28212-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CDAO COMMUNITY EXECUTIVE SUMMIT - CANADA - TORONTO — Toronto\, ON
+ \, Canada
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:f-cdao-community-executive-summit-canada-toronto-34288-1@eventseye.impio-vault
+DESCRIPTION:Executive summit for Chief Data & Analytics Officers\, focused 
+ on data architecture\, trusted AI decisions\, and the buy-versus-build deb
+ ate\, featuring boardrooms\, breakouts\, and a peer community format\\nVen
+ ue: Toronto Marriott Downtown Eaton Centre\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-cdao-community-executive-summit-cana
+ da-toronto-34288-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-cdao-community-executive-summit-canad
+ a-toronto-34288-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - CHICAGO — Chicago\, IL\, U
+ SA
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:f-cio-community-executive-summit-usa-chicago-34280-1@eventseye.impio-vault
+DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
+ O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
+ and governance of data integrity. On the agenda: interactive sessions\, ne
+ tworking\, and private meetings\\nVenue: Convene Willis Tower\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-cio-community-exe
+ cutive-summit-usa-chicago-34280-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-ch
+ icago-34280-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECURA NORTH AFRICA — Algiers\, Algeria
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-secura-north-africa-27477-1@eventseye.impio-vault
+DESCRIPTION:The largest Safety & Security event in North Africa. Industrial
+ \, commercial and homeland security\, work safety\, firefighting\, cyber s
+ ecurity and emergency\\nVenue: Palais des Expositions d'Alger - Safex\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-secura-no
+ rth-africa-27477-1.html
+LOCATION:Algiers\, Algeria
+URL:https://www.eventseye.com/fairs/f-secura-north-africa-27477-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRUSTECH — Paris\, France
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-trustech-22348-1@eventseye.impio-vault
+DESCRIPTION:An international event dedicated to innovative payments and ide
+ ntification. TRUSTECH brings together all the key players in tech\, smartc
+ ards\, innovative payments\, and financial and governmental institutions\\
+ nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-trustech-22348-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-trustech-22348-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW SECURITY EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-warsaw-security-expo-29981-1@eventseye.impio-vault
+DESCRIPTION:International fair of safeguard and security systems. The 'Wars
+ aw Security Expo' will feature manufacturers and service providers of data
+  analytics\, industrial security\, cyber security\, VIP protection\, rescu
+ e equipment\, and convoys...\\nVenue: Ptak Warsaw Expo\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-warsaw-security-expo-299
+ 81-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-security-expo-29981-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - BOSTON — Boston\, MA\, USA
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+UID:f-cio-community-executive-summit-usa-boston-34279-1@eventseye.impio-vault
+DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
+ O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
+ and governance of data integrity. On the agenda: interactive sessions\, ne
+ tworking\, and private meetings\\nVenue: Renaissance Boston Seaport Distri
+ ct\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ci
+ o-community-executive-summit-usa-boston-34279-1.html
+LOCATION:Boston\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-bo
+ ston-34279-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MANUFACTURING INDONESIA — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261206
+UID:f-manufacturing-indonesia-4938-1@eventseye.impio-vault
+DESCRIPTION:International Manufacturing Machinery\, Equipment\, Materials a
+ nd Services Exhibitions in Indonesia\\nVenue: Jakarta International Expo (
+ JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-manufacturing-indonesia-4938-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-manufacturing-indonesia-4938-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIO COMMUNITY EXECUTIVE SUMMIT - USA - HOUSTON — Houston\, TX\, U
+ SA
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+UID:f-cio-community-executive-summit-usa-houston-34277-1@eventseye.impio-vault
+DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
+ O leadership\, enterprise‑ scale AI (deployment\, scaling\, security)\, 
+ and governance of data integrity. On the agenda: interactive sessions\, ne
+ tworking\, and private meetings\\nVenue: Hyatt Regency Houston\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-cio-community-ex
+ ecutive-summit-usa-houston-34277-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-ho
+ uston-34277-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFSEC INDIA — New Delhi\, India
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261206
+UID:f-ifsec-india-10178-1@eventseye.impio-vault
+DESCRIPTION:South Asia's largest Exhibition & Conference for the Global Sec
+ urity Industry. Bringing together global security experts\, industry leade
+ rs and decision-makers\, IFSEC India is the ultimate platform for innovati
+ on\, collaboration\, and growth\\nVenue: Bharat Mandapam Convention Centre
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ifse
+ c-india-10178-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-ifsec-india-10178-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLACK HAT EUROPE — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261211
+UID:f-black-hat-europe-22380-1@eventseye.impio-vault
+DESCRIPTION:Black Hat Briefings is a computer security conference that brin
+ gs together a variety of people interested in InfoSec (Information Securit
+ y)\\nVenue: ExCeL\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-black-hat-europe-22380-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-black-hat-europe-22380-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BLACK HAT MEA — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+UID:f-black-hat-mea-30625-1@eventseye.impio-vault
+DESCRIPTION:Black Hat Briefings is a computer security conference that brin
+ gs together a variety of people interested in InfoSec (Information Securit
+ y)\\nVenue: Riyadh International Exhibition Centre\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-black-hat-mea-30625-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-black-hat-mea-30625-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WIND TURBINE BLADE MANUFACTURE — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+UID:f-wind-turbine-blade-manufacture-28358-1@eventseye.impio-vault
+DESCRIPTION:Global conference on MW wind blade design\, composites\, manufa
+ cturing and performance\\nVenue: InterContinental Düsseldorf\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-wind-turbine-blad
+ e-manufacture-28358-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-manufacture-28358-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WIND TURBINE BLADE SERVICE & MAINTENANCE — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261211
+UID:f-wind-turbine-blade-service-maintenance-28357-1@eventseye.impio-vault
+DESCRIPTION:Forum for increasing asset profitability by decreasing blade do
+ wntime: service\, inspection\, maintenance and repair\\nVenue: Maritim Hot
+ el\, Düsseldorf\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-wind-turbine-blade-service-maintenance-28357-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-wind-turbine-blade-service-maintenanc
+ e-28357-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTS - INTERNATIONAL ADVANCED RAIL TRANSIT TECHNOLOGY EXHIBITION 
+ — Shanghai\, China
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261212
+UID:f-arts-international-advanced-rail-transit-technology-exhibition-31545-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Advanced Rail Transit Technology Exhibit
+ ion. The expo includes: vehicles & parts\, rail transit vehicle interiors\
+ , rail security technology & equipment\, rail transportation power & new e
+ nergy\, communication\, signals\, tunnel...\\nVenue: Shanghai New Internat
+ ional Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-arts-international-advanced-rail-transit-technology-e
+ xhibition-31545-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-arts-international-advanced-rail-tran
+ sit-technology-exhibition-31545-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CIBE - CHINA INTERNATIONAL BUS EXPO — Shanghai\, China
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261212
@@ -5942,6 +5956,19 @@ DESCRIPTION:FUTURE CITY EXPO is a comprehensive industry event dedicated to
  y-expo-33695-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-futurecity-expo-33695-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PIPELINE COATING EUROPE — Vienna\, Austria
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270211
+UID:f-pipeline-coating-europe-29278-1@eventseye.impio-vault
+DESCRIPTION:Congress dedicated to Pipeline Coating. The forum for the steel
+  pipeline community\, exploring pipeline coatings\, hydrogen transportatio
+ n\, new technology and markets\\nVenue: Austria Trend Hotel Savoyen\, Vien
+ na\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pi
+ peline-coating-europe-29278-1.html
+LOCATION:Vienna\, Austria
+URL:https://www.eventseye.com/fairs/f-pipeline-coating-europe-29278-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EUROCIS — Dusseldorf\, Germany
@@ -6380,6 +6407,21 @@ DESCRIPTION:The Summit serves as a vital platform for the convergence of ex
  ich-new-space-summit-31562-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-munich-new-space-summit-31562-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AERO-ENGINES ASIA-PACIFIC — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-aero-engines-asia-pacific-30606-1@eventseye.impio-vault
+DESCRIPTION:Aero-Engines Asia-Pacific is the only event in the region to sp
+ ecifically focus on the aero engine market and brings together key stakeho
+ lders from across the engine community to discuss and debate latest trends
+ \, developments and strategic challenges\\nVenue: Hopewell hotel\, Hong Ko
+ ng\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ae
+ ro-engines-asia-pacific-30606-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-aero-engines-asia-pacific-30606-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BIG DATA & AI WORLD LONDON — London\, UK - United Kingdom
@@ -6839,6 +6881,18 @@ DESCRIPTION:A Comprehensive Showcase on Safe & Sustainable Construction\, B
  Source: https://www.eventseye.com/fairs/f-safecon-26043-1.html
 LOCATION:Dhaka\, Bangladesh
 URL:https://www.eventseye.com/fairs/f-safecon-26043-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON SOLUCUP - TOULOUSE — Toulouse\, France
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+UID:f-salon-solucup-toulouse-32743-1@eventseye.impio-vault
+DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
+ p\, committed to improving the comfort and security of collective housing\
+ \nVenue: Stade Ernest Wallon\,Toulouse\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-salon-solucup-toulouse-32743-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-salon-solucup-toulouse-32743-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISC WEST — Las Vegas\, NV\, USA
@@ -7435,166 +7489,6 @@ URL:https://www.eventseye.com/fairs/f-kazakhstan-security-systems-27558-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES CENTRE-OUEST — Angers\, France
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271015
-UID:f-sepem-industries-centre-ouest-15375-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Ange
- rs Parc Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
- m/fairs/f-sepem-industries-centre-ouest-15375-1.html
-LOCATION:Angers\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-centre-ouest-15375-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A+A — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271023
-UID:f-a-a-1-1@eventseye.impio-vault
-DESCRIPTION:The A+A Trade Fair takes place every 2 years in Dusseldorf. It 
- is the leading and world's largest exhibition when it comes to occupationa
- l security and health at work\\nVenue: Düsseldorf Exhibition Centre\\nFre
- quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-a-a-1-1.
- html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-a-a-1-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECTECH SWEDEN — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20271026
-DTEND;VALUE=DATE:20271028
-UID:f-sectech-sweden-16914-1@eventseye.impio-vault
-DESCRIPTION:The meeting point for suppliers\, installers\, consultants and 
- end user purchasing managers within the field of security. SECTECH SWEDEN 
- and the seminars are focused entirely on security technologies\\nVenue: St
- ockholmsmässan - Stockholm International Fairs\\nFrequency: every 2 years
- \\nSource: https://www.eventseye.com/fairs/f-sectech-sweden-16914-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-sectech-sweden-16914-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEFENSE & SECURITY — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20271108
-DTEND;VALUE=DATE:20271112
-UID:f-defense-security-4293-1@eventseye.impio-vault
-DESCRIPTION:Tri-Service Asian Defense & Security Exhibition\, Conference an
- d Networking Event. For 20 years\, Defense & Security has been an importan
- t biennial as ASEAN's Leading Tri-Service defence and internal security ev
- ent\, in Bangkok\, Thailand\\nVenue: Impact Exhibition & Convention Center
- \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-de
- fense-security-4293-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-defense-security-4293-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MILIPOL PARIS — Paris\, France
-DTSTART;VALUE=DATE:20271116
-DTEND;VALUE=DATE:20271120
-UID:f-milipol-paris-1864-1@eventseye.impio-vault
-DESCRIPTION:Worldwide Exhibition of Internal State Security. MILIPOL presen
- ts the latest technological innovations in the safety and internal securit
- y sector of States and allows debate on the present and future of the indu
- stry\\nVenue: Paris Nord Villepinte\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-milipol-paris-1864-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-milipol-paris-1864-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SICUREZZA — Milan\, Italy
-DTSTART;VALUE=DATE:20271117
-DTEND;VALUE=DATE:20271120
-UID:f-sicurezza-2469-1@eventseye.impio-vault
-DESCRIPTION:A leading event in Italy and one of the most important in Europ
- e\, SICUREZZA is a showcase of new products and a meeting and discussion t
- ool for all those involved in security and fire-fighting technologies\\nVe
- nue: Fiera Milano\, Rho\\nFrequency: every 2 years\\nSource: https://www.e
- ventseye.com/fairs/f-sicurezza-2469-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-sicurezza-2469-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMART BUILDING EXPO — Milan\, Italy
-DTSTART;VALUE=DATE:20271117
-DTEND;VALUE=DATE:20271120
-UID:f-smart-building-expo-16744-1@eventseye.impio-vault
-DESCRIPTION:On of the most important expo-forum dedicated to digital techno
- logies in Building Industry. Interoperability\, news and previews on the u
- ltimate digital devices for security\, entertainment and interactivity\\nV
- enue: Fiera Milano City\\nFrequency: every 2 years\\nSource: https://www.e
- ventseye.com/fairs/f-smart-building-expo-16744-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-smart-building-expo-16744-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WNE - WORLD NUCLEAR EXHIBITION — Paris\, France
-DTSTART;VALUE=DATE:20271207
-DTEND;VALUE=DATE:20271210
-UID:f-wne-world-nuclear-exhibition-20326-1@eventseye.impio-vault
-DESCRIPTION:The world's leading civil nuclear exhibition. With around 780 a
- ctors from all over the world\, WNE is covering the whole nuclear supply c
- hain\\nVenue: Paris Nord Villepinte\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-wne-world-nuclear-exhibition-20326-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-wne-world-nuclear-exhibition-20326-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES NORD — Douai\, France
-DTSTART;VALUE=DATE:20280125
-DTEND;VALUE=DATE:20280128
-UID:f-sepem-industries-nord-28840-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
-  des Expositions du Rivage Gayant\\nFrequency: every 2 years\\nSource: htt
- ps://www.eventseye.com/fairs/f-sepem-industries-nord-28840-1.html
-LOCATION:Douai\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-nord-28840-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERTRAFFIC AMSTERDAM — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20280307
-DTEND;VALUE=DATE:20280311
-UID:f-intertraffic-amsterdam-1538-1@eventseye.impio-vault
-DESCRIPTION:International event in the field of Traffic and Transport. Disc
- over emerging trends\, experience innovative solutions\, and connect with 
- business leaders and government decision-makers shaping the future of mobi
- lity\\nVenue: RAI International Exhibition and Congress Centre\\nFrequency
- : every 2 years\\nSource: https://www.eventseye.com/fairs/f-intertraffic-a
- msterdam-1538-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-intertraffic-amsterdam-1538-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUSTAINABLE MAINTENANCE — Gothenburg\, Sweden
-DTSTART;VALUE=DATE:20280314
-DTEND;VALUE=DATE:20280318
-UID:f-sustainable-maintenance-18091-1@eventseye.impio-vault
-DESCRIPTION:Sustainable Maintenance - Scandinavia's leading maintenance fai
- r. The arena for the future of sustainable maintenance\\nVenue: Svenska M
- ässan - Swedish Exhibition & Congress Centre\\nFrequency: every 2 years\\
- nSource: https://www.eventseye.com/fairs/f-sustainable-maintenance-18091-1
- .html
-LOCATION:Gothenburg\, Sweden
-URL:https://www.eventseye.com/fairs/f-sustainable-maintenance-18091-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MINEXPO INTERNATIONAL — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20280926
-DTEND;VALUE=DATE:20280929
-UID:f-minexpo-international-1873-1@eventseye.impio-vault
-DESCRIPTION:American Mining Congress and Exposition. MINExpo INTERNATIONAL 
- is a large mining show where more than 1800 exhibitors will display the la
- test technology\, equipment\, components\, parts and services for explorat
- ion\, extraction\, safety\, etc\\nVenue: Las Vegas Convention Center\\nFre
- quency: every 4 years\\nSource: https://www.eventseye.com/fairs/f-minexpo-
- international-1873-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-minexpo-international-1873-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MTA ASIA — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270516
@@ -7836,6 +7730,56 @@ DESCRIPTION:Cloud & Cybersecurity Expo is the most important cybersecurity
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-cloud-cyber-8203-8203-security-expo-3
  1998-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPERT SECURITY — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-expert-security-26933-1@eventseye.impio-vault
+DESCRIPTION:International exhibition devoted to Security. Safety and securi
+ ty equipment and services. Video surveillance\, access control\, alarm sys
+ tems\, perimeter security\, building automation\, information security\\nV
+ enue: Kiev International Exhibition Center\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-expert-security-26933-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-expert-security-26933-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOPITAL EXPO & GERONT HANDICAP EXPO — Paris\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-hopital-expo-geront-handicap-expo-23631-1@eventseye.impio-vault
+DESCRIPTION:Trade fair dedicated to equipment and solutions for managing an
+ d transforming healthcare facilities\\nVenue: Paris Expo Porte de Versaill
+ es\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ho
+ pital-expo-geront-handicap-expo-23631-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-hopital-expo-geront-handicap-expo-236
+ 31-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROTECTION TECHNOLOGIES — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-protection-technologies-6904-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Emergency Safety Facilities & Fire
+  Protection Systems and Technologies\\nVenue: Kiev International Exhibitio
+ n Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-protection-technologies-6904-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-protection-technologies-6904-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SANTEXPO — Paris\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-santexpo-1231-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Innovative Health Technologies. San
+ texpo brings together:\n- HopitalExpo\n- GerontHandicapExpo\n- Salon HIT\\
+ nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-santexpo-1231-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-santexpo-1231-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIRE & SAFETY EXPO KOREA — Daegu\, Korea South
@@ -8157,5 +8101,165 @@ DESCRIPTION:International Exhibition for Airport Equipment\, Technology and
  ource: https://www.eventseye.com/fairs/f-inter-airport-europe-1397-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-inter-airport-europe-1397-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES CENTRE-OUEST — Angers\, France
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271015
+UID:f-sepem-industries-centre-ouest-15375-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Ange
+ rs Parc Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
+ m/fairs/f-sepem-industries-centre-ouest-15375-1.html
+LOCATION:Angers\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-centre-ouest-15375-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A+A — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271023
+UID:f-a-a-1-1@eventseye.impio-vault
+DESCRIPTION:The A+A Trade Fair takes place every 2 years in Dusseldorf. It 
+ is the leading and world's largest exhibition when it comes to occupationa
+ l security and health at work\\nVenue: Düsseldorf Exhibition Centre\\nFre
+ quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-a-a-1-1.
+ html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-a-a-1-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECTECH SWEDEN — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271028
+UID:f-sectech-sweden-16914-1@eventseye.impio-vault
+DESCRIPTION:The meeting point for suppliers\, installers\, consultants and 
+ end user purchasing managers within the field of security. SECTECH SWEDEN 
+ and the seminars are focused entirely on security technologies\\nVenue: St
+ ockholmsmässan - Stockholm International Fairs\\nFrequency: every 2 years
+ \\nSource: https://www.eventseye.com/fairs/f-sectech-sweden-16914-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-sectech-sweden-16914-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEFENSE & SECURITY — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20271108
+DTEND;VALUE=DATE:20271112
+UID:f-defense-security-4293-1@eventseye.impio-vault
+DESCRIPTION:Tri-Service Asian Defense & Security Exhibition\, Conference an
+ d Networking Event. For 20 years\, Defense & Security has been an importan
+ t biennial as ASEAN's Leading Tri-Service defence and internal security ev
+ ent\, in Bangkok\, Thailand\\nVenue: Impact Exhibition & Convention Center
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-de
+ fense-security-4293-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-defense-security-4293-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MILIPOL PARIS — Paris\, France
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271120
+UID:f-milipol-paris-1864-1@eventseye.impio-vault
+DESCRIPTION:Worldwide Exhibition of Internal State Security. MILIPOL presen
+ ts the latest technological innovations in the safety and internal securit
+ y sector of States and allows debate on the present and future of the indu
+ stry\\nVenue: Paris Nord Villepinte\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-milipol-paris-1864-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-milipol-paris-1864-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SICUREZZA — Milan\, Italy
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271120
+UID:f-sicurezza-2469-1@eventseye.impio-vault
+DESCRIPTION:A leading event in Italy and one of the most important in Europ
+ e\, SICUREZZA is a showcase of new products and a meeting and discussion t
+ ool for all those involved in security and fire-fighting technologies\\nVe
+ nue: Fiera Milano\, Rho\\nFrequency: every 2 years\\nSource: https://www.e
+ ventseye.com/fairs/f-sicurezza-2469-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-sicurezza-2469-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMART BUILDING EXPO — Milan\, Italy
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271120
+UID:f-smart-building-expo-16744-1@eventseye.impio-vault
+DESCRIPTION:On of the most important expo-forum dedicated to digital techno
+ logies in Building Industry. Interoperability\, news and previews on the u
+ ltimate digital devices for security\, entertainment and interactivity\\nV
+ enue: Fiera Milano City\\nFrequency: every 2 years\\nSource: https://www.e
+ ventseye.com/fairs/f-smart-building-expo-16744-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-smart-building-expo-16744-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WNE - WORLD NUCLEAR EXHIBITION — Paris\, France
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271210
+UID:f-wne-world-nuclear-exhibition-20326-1@eventseye.impio-vault
+DESCRIPTION:The world's leading civil nuclear exhibition. With around 780 a
+ ctors from all over the world\, WNE is covering the whole nuclear supply c
+ hain\\nVenue: Paris Nord Villepinte\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-wne-world-nuclear-exhibition-20326-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-wne-world-nuclear-exhibition-20326-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES NORD — Douai\, France
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280128
+UID:f-sepem-industries-nord-28840-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
+  des Expositions du Rivage Gayant\\nFrequency: every 2 years\\nSource: htt
+ ps://www.eventseye.com/fairs/f-sepem-industries-nord-28840-1.html
+LOCATION:Douai\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-nord-28840-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERTRAFFIC AMSTERDAM — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280311
+UID:f-intertraffic-amsterdam-1538-1@eventseye.impio-vault
+DESCRIPTION:International event in the field of Traffic and Transport. Disc
+ over emerging trends\, experience innovative solutions\, and connect with 
+ business leaders and government decision-makers shaping the future of mobi
+ lity\\nVenue: RAI International Exhibition and Congress Centre\\nFrequency
+ : every 2 years\\nSource: https://www.eventseye.com/fairs/f-intertraffic-a
+ msterdam-1538-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-intertraffic-amsterdam-1538-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUSTAINABLE MAINTENANCE — Gothenburg\, Sweden
+DTSTART;VALUE=DATE:20280314
+DTEND;VALUE=DATE:20280318
+UID:f-sustainable-maintenance-18091-1@eventseye.impio-vault
+DESCRIPTION:Sustainable Maintenance - Scandinavia's leading maintenance fai
+ r. The arena for the future of sustainable maintenance\\nVenue: Svenska M
+ ässan - Swedish Exhibition & Congress Centre\\nFrequency: every 2 years\\
+ nSource: https://www.eventseye.com/fairs/f-sustainable-maintenance-18091-1
+ .html
+LOCATION:Gothenburg\, Sweden
+URL:https://www.eventseye.com/fairs/f-sustainable-maintenance-18091-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MINEXPO INTERNATIONAL — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20280926
+DTEND;VALUE=DATE:20280929
+UID:f-minexpo-international-1873-1@eventseye.impio-vault
+DESCRIPTION:American Mining Congress and Exposition. MINExpo INTERNATIONAL 
+ is a large mining show where more than 1800 exhibitors will display the la
+ test technology\, equipment\, components\, parts and services for explorat
+ ion\, extraction\, safety\, etc\\nVenue: Las Vegas Convention Center\\nFre
+ quency: every 4 years\\nSource: https://www.eventseye.com/fairs/f-minexpo-
+ international-1873-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-minexpo-international-1873-1.html
 END:VEVENT
 END:VCALENDAR

@@ -713,15 +713,18 @@ LOCATION:Barcelona\, Spain
 URL:https://www.eventseye.com/fairs/f-expoquimia-912-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FIP SOLUTION PLASTIQUE — Lyon\, France
+SUMMARY:FIP - FRANCE INNOVATION PLASTURGIE — Lyon\, France
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260606
-UID:f-fip-solution-plastique-1001-1@eventseye.impio-vault
-DESCRIPTION:The exhibition for the Plastics\, Composites & Rubber industry 
- in France\\nVenue: Eurexpo\\nFrequency: every 2 years\\nSource: https://ww
- w.eventseye.com/fairs/f-fip-solution-plastique-1001-1.html
+UID:f-fip-france-innovation-plasturgie-1001-1@eventseye.impio-vault
+DESCRIPTION:FIP - France Innovation Plasturgie i. the essential event for t
+ he plastics industry in France. A business networking platform that brings
+  together the most innovative industrial players in the sector\\nVenue: Eu
+ rexpo\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs
+ /f-fip-france-innovation-plasturgie-1001-1.html
 LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-fip-solution-plastique-1001-1.html
+URL:https://www.eventseye.com/fairs/f-fip-france-innovation-plasturgie-1001
+ -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAS\, LNG & THE FUTURE OF ENERGY CONFERENCE — London\, UK - Unite
@@ -1714,6 +1717,21 @@ DESCRIPTION:FiltraTEC Expo is the largest industrial filtration trade fair
  entseye.com/fairs/f-filtratec-expo-33197-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-filtratec-expo-33197-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTURE ENERGY WEEK POLAND — Warsaw\, Poland
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260620
+UID:f-future-energy-week-poland-34411-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Energy Transformation and Low-Emission Technolog
+ ies. 'Future Energy Week Poland' is an event where leaders in the energy s
+ ector will present the latest technologies and innovative solutions for su
+ stainable energy management\\nVenue: Ptak Warsaw Expo\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-future-energy-week-poland
+ -34411-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-future-energy-week-poland-34411-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INDEXPO - MUMBAI — Mumbai\, India
@@ -7390,6 +7408,19 @@ URL:https://www.eventseye.com/fairs/f-saudi-international-pharma-expo-26523
  -1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WORLD LP GAS FORUM — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+UID:f-world-lp-gas-forum-4323-1@eventseye.impio-vault
+DESCRIPTION:At LPG Week\, you gain valuable insights into the LPG business\
+ , explore new growth opportunities\, cutting-edge innovations and make imp
+ ortant business connections that could transform your company's future\\nV
+ enue: Istanbul Congress Center\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-world-lp-gas-forum-4323-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-world-lp-gas-forum-4323-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:5E - INTERNATIONAL ENERGY BUSINESS FORUM — Kiev\, Ukraine
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261016
@@ -11841,6 +11872,109 @@ LOCATION:Islamabad\, Pakistan
 URL:https://www.eventseye.com/fairs/f-pogee-pakistan-4191-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INTERNATIONAL LNG CONGRESS — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270303
+UID:f-international-lng-congress-27501-1@eventseye.impio-vault
+DESCRIPTION:International LNG Congress covers the hot topics of the LNG (Li
+ quefied Natural Gas) industry - from liquefaction and LNG Storage and Tran
+ sportation to the questions of LNG usage as a fuel\, developing LNG infras
+ tructure and LNG to end users\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-international-lng-congress-27501-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-international-lng-congress-27501-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AM MEDICAL DAYS — Berlin\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-am-medical-days-29317-1@eventseye.impio-vault
+DESCRIPTION:The hybrid decision-maker and expert conference brings together
+  the entire value-added system related to 3D-printed medicine: Doctors\, h
+ ospital chains\, medical technology manufacturers\, regulatory authorities
+ \, health insurance companies...\\nVenue: Estrel Berlin Hotel & Convention
+  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-am-medical-days-29317-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-am-medical-days-29317-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CABLES EUROPE — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-cables-europe-28365-1@eventseye.impio-vault
+DESCRIPTION:Forum identifying opportunities for polymeric materials in wire
+  and cable in Europe\\nVenue: Hotel Hilton Düsseldorf\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-cables-europe-28365-1.ht
+ ml
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-cables-europe-28365-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
+DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
+ nd dam owners are searching for new and innovative ways to inspect\, maint
+ ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
+ ml
+LOCATION:Palm Springs\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DISTRIBUTECH — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-distributech-584-1@eventseye.impio-vault
+DESCRIPTION:From cutting-edge solutions in grid automation\, energy efficie
+ ncy\, and demand response to breakthroughs in DER management\, smart citie
+ s\, transportation electrification\, and cybersecurity\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-distributech-584-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-distributech-584-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEC WORLD — Paris\, France
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-jec-world-1638-1@eventseye.impio-vault
+DESCRIPTION:JEC World is a leading International Composites Show\, activati
+ ng a global community from the business\, manufacturing\, research and aca
+ demic worlds and enabling networking for new ideas and creates growth oppo
+ rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROPAK EAST AFRICA — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-propak-east-africa-27678-1@eventseye.impio-vault
+DESCRIPTION:PROPAK EAST AFRICA is the largest industry exhibition in East A
+ frica dedicated to innovation in packaging\, plastics\, printing\, process
+ ing and labelling\\nVenue: The Sarit Centre\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-propak-east-africa-27678-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-propak-east-africa-27678-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIRE TECHNOLOGY EXPO — Hannover\, Germany
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-tire-technology-expo-4676-1@eventseye.impio-vault
+DESCRIPTION:Tire Technology Expo is Europe’s most important tire manufact
+ uring technology exhibition and conference\\nVenue: Deutsche Messe Hannove
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tir
+ e-technology-expo-4676-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-tire-technology-expo-4676-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SLAS — San Diego\, CA\, USA
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270204
@@ -12348,109 +12482,6 @@ DESCRIPTION:Technical Program and Exhibition for all Scientists who utilize
  l
 LOCATION:San Diego\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-pittcon-2130-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL LNG CONGRESS — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270301
-DTEND;VALUE=DATE:20270303
-UID:f-international-lng-congress-27501-1@eventseye.impio-vault
-DESCRIPTION:International LNG Congress covers the hot topics of the LNG (Li
- quefied Natural Gas) industry - from liquefaction and LNG Storage and Tran
- sportation to the questions of LNG usage as a fuel\, developing LNG infras
- tructure and LNG to end users\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-international-lng-congress-27501-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-international-lng-congress-27501-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AM MEDICAL DAYS — Berlin\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-am-medical-days-29317-1@eventseye.impio-vault
-DESCRIPTION:The hybrid decision-maker and expert conference brings together
-  the entire value-added system related to 3D-printed medicine: Doctors\, h
- ospital chains\, medical technology manufacturers\, regulatory authorities
- \, health insurance companies...\\nVenue: Estrel Berlin Hotel & Convention
-  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-am-medical-days-29317-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-am-medical-days-29317-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CABLES EUROPE — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-cables-europe-28365-1@eventseye.impio-vault
-DESCRIPTION:Forum identifying opportunities for polymeric materials in wire
-  and cable in Europe\\nVenue: Hotel Hilton Düsseldorf\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-cables-europe-28365-1.ht
- ml
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-cables-europe-28365-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
-DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
- nd dam owners are searching for new and innovative ways to inspect\, maint
- ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
- ml
-LOCATION:Palm Springs\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DISTRIBUTECH — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-distributech-584-1@eventseye.impio-vault
-DESCRIPTION:From cutting-edge solutions in grid automation\, energy efficie
- ncy\, and demand response to breakthroughs in DER management\, smart citie
- s\, transportation electrification\, and cybersecurity\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-distributech-584-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-distributech-584-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEC WORLD — Paris\, France
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-jec-world-1638-1@eventseye.impio-vault
-DESCRIPTION:JEC World is a leading International Composites Show\, activati
- ng a global community from the business\, manufacturing\, research and aca
- demic worlds and enabling networking for new ideas and creates growth oppo
- rtunities\\nVenue: Paris Nord Villepinte\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-jec-world-1638-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROPAK EAST AFRICA — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-propak-east-africa-27678-1@eventseye.impio-vault
-DESCRIPTION:PROPAK EAST AFRICA is the largest industry exhibition in East A
- frica dedicated to innovation in packaging\, plastics\, printing\, process
- ing and labelling\\nVenue: The Sarit Centre\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-propak-east-africa-27678-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-propak-east-africa-27678-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIRE TECHNOLOGY EXPO — Hannover\, Germany
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-tire-technology-expo-4676-1@eventseye.impio-vault
-DESCRIPTION:Tire Technology Expo is Europe’s most important tire manufact
- uring technology exhibition and conference\\nVenue: Deutsche Messe Hannove
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tir
- e-technology-expo-4676-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-tire-technology-expo-4676-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WORLD SUSTAINABLE ENERGY DAYS — Wels\, Austria
@@ -14535,6 +14566,176 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-labotech-33863-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MININGWORLD RUSSIA — Moscow\, Russia
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-miningworld-russia-6537-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of technologies and equipment for mini
+ ng and processing of minerals\\nVenue: Crocus-Expo IEC\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-miningworld-russia-6537-
+ 1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-miningworld-russia-6537-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NDT DEFECTOSCOPY — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270429
+UID:f-ndt-defectoscopy-22185-1@eventseye.impio-vault
+DESCRIPTION:International specialised exhibition of devices and equipment f
+ or industrial non-destructive testing\\nVenue: Petrocongress Centre\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ndt-defecto
+ scopy-22185-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-ndt-defectoscopy-22185-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NDT ST. PERTERSBURG - DEFECTOSCOPY — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270429
+UID:f-ndt-st.-pertersburg-defectoscopy-3773-1@eventseye.impio-vault
+DESCRIPTION:International Specialized Exhibition of Instruments and Equipme
+ nt for Industrial Non-Destructive Testing\\nVenue: Petrocongress Centre\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ndt-st.
+ -pertersburg-defectoscopy-3773-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-ndt-st.-pertersburg-defectoscopy-3773
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLAST ALGER — Algiers\, Algeria
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-plast-alger-10028-1@eventseye.impio-vault
+DESCRIPTION:International Plastics and Rubber Industry Exhibition for Alger
+ ia and North Africa\\nVenue: Palais des Expositions d'Alger - Safex\\nFreq
+ uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-plast-alg
+ er-10028-1.html
+LOCATION:Algiers\, Algeria
+URL:https://www.eventseye.com/fairs/f-plast-alger-10028-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE FIRE SAFETY EVENT — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270430
+UID:f-the-fire-safety-event-33159-1@eventseye.impio-vault
+DESCRIPTION:The Fire Safety Event is dedicated to supporting industry pract
+ itioners\, professionals and organisations in achieving and maintaining th
+ e very highest standards of fire safety management\\nVenue: National Exhib
+ ition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-the-fire-safety-event-33159-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-the-fire-safety-event-33159-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMEXPO INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-chemexpo-india-32250-1@eventseye.impio-vault
+DESCRIPTION:India’s most comprehensive trade show for the chemical & alli
+ ed industries\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-chemexpo-in
+ dia-32250-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-chemexpo-india-32250-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMLOGISTICS INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-chemlogistics-india-24586-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Chemical Warehousing\, Transport & 
+ Logistics. India's large coastline\, land area and the largest rail networ
+ k provide an immense opportunity to logistics and warehousing companies\\n
+ Venue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1
+ .html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMPROTECH INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-chemprotech-india-32251-1@eventseye.impio-vault
+DESCRIPTION:ChemProTech India will showcase comprehensive capabilities in c
+ hemical plant & equipment\, as well as process technologies for making bul
+ k\, fine and speciality chemicals\, drugs\, agrochemicals\, dyes & pigment
+ s etc.\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-chemprotech-india-
+ 32251-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-chemprotech-india-32251-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMPROTECH INDIA\, — Mumbai\, India
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-chemprotech-india-26145-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Chemical Processing Technology\, E
+ quipment and Supplies. Process technologies for making bulk\, fine and spe
+ ciality chemicals\, drugs\, agrochemicals\, dyes & pigments...\\nVenue: Bo
+ mbay Convention & Exhibition Centre (BCEC)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-chemprotech-india-26145-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-chemprotech-india-26145-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERGIMÄSSAN — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-energimassan-31880-1@eventseye.impio-vault
+DESCRIPTION:Energimässan is a trade fair and congress dedicated to the ene
+ rgy of the future. Thought leaders and innovators from across the value ch
+ ain present trends and innovations in the energy sector\\nVenue: Kista Mä
+ ssan\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ energimassan-31880-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-energimassan-31880-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INFRASTRUKTUR — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-infrastruktur-31882-1@eventseye.impio-vault
+DESCRIPTION:Infrastruktur addresses every aspect of public infrastructure: 
+ Civil engineering\, road\, tunnel and bridge construction\, landscaping\, 
+ utilities\, water & sewage\, supply & maintenance\, public space design & 
+ mobility\, digitalisation\, energy & environment\\nVenue: Kista Mässan\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-infrast
+ ruktur-31882-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-infrastruktur-31882-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWER & WATER NIGERIA — Lagos\, Nigeria
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-power-water-nigeria-28956-1@eventseye.impio-vault
+DESCRIPTION:Power & Water Nigeria Exhibition & Conference offers global sta
+ keholders to access and engage in technical discussion to do on the spot a
+ ssessment of region’s opportunities in power generation\, distribution\,
+  renewables\, and water & utilities sectors\\nVenue: The Landmark Events C
+ entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -power-water-nigeria-28956-1.html
+LOCATION:Lagos\, Nigeria
+URL:https://www.eventseye.com/fairs/f-power-water-nigeria-28956-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR & ENERGY STORAGE SUMMIT — Denver\, CO\, USA
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270430
+UID:f-solar-energy-storage-summit-32765-1@eventseye.impio-vault
+DESCRIPTION:Solar & Energy Storage Summit aims to develop relationships wit
+ h decision makers in technology\, finance\, operations\, development\, eng
+ ineering\, origination\, and procurement\\nVenue: Omni Interlock Resort\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-solar-e
+ nergy-storage-summit-32765-1.html
+LOCATION:Denver\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-solar-energy-storage-summit-32765-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CIM — Montreal\, QC\, Canada
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270506
@@ -14767,176 +14968,6 @@ DESCRIPTION:Africa faces significant energy challenges\, with many people l
  entseye.com/fairs/f-enlit-africa-14318-1.html
 LOCATION:Cape Town\, South Africa
 URL:https://www.eventseye.com/fairs/f-enlit-africa-14318-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MININGWORLD RUSSIA — Moscow\, Russia
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-miningworld-russia-6537-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of technologies and equipment for mini
- ng and processing of minerals\\nVenue: Crocus-Expo IEC\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-miningworld-russia-6537-
- 1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-miningworld-russia-6537-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NDT DEFECTOSCOPY — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270429
-UID:f-ndt-defectoscopy-22185-1@eventseye.impio-vault
-DESCRIPTION:International specialised exhibition of devices and equipment f
- or industrial non-destructive testing\\nVenue: Petrocongress Centre\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ndt-defecto
- scopy-22185-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-ndt-defectoscopy-22185-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NDT ST. PERTERSBURG - DEFECTOSCOPY — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270429
-UID:f-ndt-st.-pertersburg-defectoscopy-3773-1@eventseye.impio-vault
-DESCRIPTION:International Specialized Exhibition of Instruments and Equipme
- nt for Industrial Non-Destructive Testing\\nVenue: Petrocongress Centre\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ndt-st.
- -pertersburg-defectoscopy-3773-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-ndt-st.-pertersburg-defectoscopy-3773
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLAST ALGER — Algiers\, Algeria
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-plast-alger-10028-1@eventseye.impio-vault
-DESCRIPTION:International Plastics and Rubber Industry Exhibition for Alger
- ia and North Africa\\nVenue: Palais des Expositions d'Alger - Safex\\nFreq
- uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-plast-alg
- er-10028-1.html
-LOCATION:Algiers\, Algeria
-URL:https://www.eventseye.com/fairs/f-plast-alger-10028-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE FIRE SAFETY EVENT — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270427
-DTEND;VALUE=DATE:20270430
-UID:f-the-fire-safety-event-33159-1@eventseye.impio-vault
-DESCRIPTION:The Fire Safety Event is dedicated to supporting industry pract
- itioners\, professionals and organisations in achieving and maintaining th
- e very highest standards of fire safety management\\nVenue: National Exhib
- ition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-the-fire-safety-event-33159-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-the-fire-safety-event-33159-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMEXPO INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-chemexpo-india-32250-1@eventseye.impio-vault
-DESCRIPTION:India’s most comprehensive trade show for the chemical & alli
- ed industries\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-chemexpo-in
- dia-32250-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-chemexpo-india-32250-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMLOGISTICS INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-chemlogistics-india-24586-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Chemical Warehousing\, Transport & 
- Logistics. India's large coastline\, land area and the largest rail networ
- k provide an immense opportunity to logistics and warehousing companies\\n
- Venue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1
- .html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-chemlogistics-india-24586-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMPROTECH INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-chemprotech-india-32251-1@eventseye.impio-vault
-DESCRIPTION:ChemProTech India will showcase comprehensive capabilities in c
- hemical plant & equipment\, as well as process technologies for making bul
- k\, fine and speciality chemicals\, drugs\, agrochemicals\, dyes & pigment
- s etc.\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-chemprotech-india-
- 32251-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-chemprotech-india-32251-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMPROTECH INDIA\, — Mumbai\, India
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-chemprotech-india-26145-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Chemical Processing Technology\, E
- quipment and Supplies. Process technologies for making bulk\, fine and spe
- ciality chemicals\, drugs\, agrochemicals\, dyes & pigments...\\nVenue: Bo
- mbay Convention & Exhibition Centre (BCEC)\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-chemprotech-india-26145-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-chemprotech-india-26145-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERGIMÄSSAN — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-energimassan-31880-1@eventseye.impio-vault
-DESCRIPTION:Energimässan is a trade fair and congress dedicated to the ene
- rgy of the future. Thought leaders and innovators from across the value ch
- ain present trends and innovations in the energy sector\\nVenue: Kista Mä
- ssan\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- energimassan-31880-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-energimassan-31880-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INFRASTRUKTUR — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-infrastruktur-31882-1@eventseye.impio-vault
-DESCRIPTION:Infrastruktur addresses every aspect of public infrastructure: 
- Civil engineering\, road\, tunnel and bridge construction\, landscaping\, 
- utilities\, water & sewage\, supply & maintenance\, public space design & 
- mobility\, digitalisation\, energy & environment\\nVenue: Kista Mässan\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-infrast
- ruktur-31882-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-infrastruktur-31882-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWER & WATER NIGERIA — Lagos\, Nigeria
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-power-water-nigeria-28956-1@eventseye.impio-vault
-DESCRIPTION:Power & Water Nigeria Exhibition & Conference offers global sta
- keholders to access and engage in technical discussion to do on the spot a
- ssessment of region’s opportunities in power generation\, distribution\,
-  renewables\, and water & utilities sectors\\nVenue: The Landmark Events C
- entre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -power-water-nigeria-28956-1.html
-LOCATION:Lagos\, Nigeria
-URL:https://www.eventseye.com/fairs/f-power-water-nigeria-28956-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLAR & ENERGY STORAGE SUMMIT — Denver\, CO\, USA
-DTSTART;VALUE=DATE:20270428
-DTEND;VALUE=DATE:20270430
-UID:f-solar-energy-storage-summit-32765-1@eventseye.impio-vault
-DESCRIPTION:Solar & Energy Storage Summit aims to develop relationships wit
- h decision makers in technology\, finance\, operations\, development\, eng
- ineering\, origination\, and procurement\\nVenue: Omni Interlock Resort\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-solar-e
- nergy-storage-summit-32765-1.html
-LOCATION:Denver\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-solar-energy-storage-summit-32765-1.h
- tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PACK SHOW ROMANIA — Bucharest\, Romania
@@ -15611,353 +15642,6 @@ URL:https://www.eventseye.com/fairs/f-japan-energy-summit-exhibition-29175-
  1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLATHINIUM — Antibes\, France
-DTSTART;VALUE=DATE:20270920
-DTEND;VALUE=DATE:20270925
-UID:f-plathinium-24577-1@eventseye.impio-vault
-DESCRIPTION:Plasma Thin film International Meeting. The latest developments
-  in the fields of surface treatment\, materials\, plasmas and coatings\, s
- urface analysis\, imaging and microscopy\, vacuum systems...\\nVenue: Pala
- is des Congrès d'Antibes-Juan les Pins\\nFrequency: every 2 years\\nSourc
- e: https://www.eventseye.com/fairs/f-plathinium-24577-1.html
-LOCATION:Antibes\, France
-URL:https://www.eventseye.com/fairs/f-plathinium-24577-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HEAT&ELECTRO | MACHINERY — Moscow\, Russia
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270924
-UID:f-heat-electro-machinery-30059-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of heat engineering\, power generating
-  and compressor equipment for industrial enterprises and utilities objects
- \\nVenue: VDNH Exhibition Center\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-heat-electro-machinery-30059-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-heat-electro-machinery-30059-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES EST — Colmar\, France
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270924
-UID:f-sepem-industries-est-9503-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
-  des Expositions de Colmar\\nFrequency: every 2 years\\nSource: https://ww
- w.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
-LOCATION:Colmar\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BICES — Beijing\, China
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270926
-UID:f-bices-14921-1@eventseye.impio-vault
-DESCRIPTION:China (Beijing) International Construction Machinery\, Building
-  Material Machines and Mining Machines Exhibition & Congress. One of the b
- iggest world-renowned professional exhibitions in China\\nVenue: China Int
- ernational Exhibition Centre (CIEC)\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-bices-14921-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-bices-14921-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INMEX INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270925
-UID:f-inmex-india-10005-1@eventseye.impio-vault
-DESCRIPTION:South Asia's largest Maritime Industry Expo & Conference. INMEX
-  will enable you to meet with serious buyers\, boost your brand in front o
- f thousands of maritime & shipping professionals\, Network with government
-  & industry authorities\, launch new products\\nVenue: Bombay Convention &
-  Exhibition Centre (BCEC)\\nFrequency: every 2 years\\nSource: https://www
- .eventseye.com/fairs/f-inmex-india-10005-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-inmex-india-10005-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VALVE WORLD SOUTH EAST ASIA EXPO & CONFERENCE — Singapore\, Singa
- pore
-DTSTART;VALUE=DATE:20270923
-DTEND;VALUE=DATE:20270925
-UID:f-valve-world-south-east-asia-expo-conference-32588-1@eventseye.impio-vault
-DESCRIPTION:Piping and Valve Professionals Conference & Expo in Singapore. 
- Valve World Expo & Conference South East Asia is a valuable meeting point 
- for valve professionals from all over the world with a special emphasis on
-  recent developments in South East Asia\\nVenue: Singapore Expo\\nFrequenc
- y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-valve-world-s
- outh-east-asia-expo-conference-32588-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-valve-world-south-east-asia-expo-conf
- erence-32588-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACK EXPO LAS VEGAS — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270927
-DTEND;VALUE=DATE:20270930
-UID:f-pack-expo-las-vegas-28709-1@eventseye.impio-vault
-DESCRIPTION:International Packaging Process Show. For end users and supplie
- rs around the world\, PACK EXPO LAS VEGAS offers a quality professional ex
- perience and a wide range of packaging innovations for each vertical marke
- t\\nVenue: Las Vegas Convention Center\\nFrequency: every 2 years\\nSource
- : https://www.eventseye.com/fairs/f-pack-expo-las-vegas-28709-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-pack-expo-las-vegas-28709-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANALITICA LATIN AMERICA — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270928
-DTEND;VALUE=DATE:20271001
-UID:f-analitica-latin-america-99-1@eventseye.impio-vault
-DESCRIPTION:Analitica Latin America is a main fair for the analytical chemi
- stry industry. Bringing together the industry's biggest players\, it conne
- cts companies\, professionals and experts working in instrumental analysis
- \, quality control\, and laboratory solutions\\nVenue: São Paulo Expo Exh
- ibition & Convention Center\\nFrequency: every 2 years\\nSource: https://w
- ww.eventseye.com/fairs/f-analitica-latin-america-99-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-analitica-latin-america-99-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO BIOMASA — Valladolid\, Spain
-DTSTART;VALUE=DATE:20270928
-DTEND;VALUE=DATE:20271001
-UID:f-expo-biomasa-10236-1@eventseye.impio-vault
-DESCRIPTION:Expobiomasa brings together professionals related to the boomin
- g biomass market: forestry machinery companies and solid and pellet biofue
- l industries\, manufacturers\, distributors and installers of air conditio
- ning systems\,...\\nVenue: Feria de Valladolid\\nFrequency: every 2 years\
- \nSource: https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
-LOCATION:Valladolid\, Spain
-URL:https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEDICAL JAPAN - OSAKA — Osaka\, Japan
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20271002
-UID:f-medical-japan-osaka-33482-1@eventseye.impio-vault
-DESCRIPTION:MEDICAL JAPAN is a dedicated BtoB business event covering all a
- bout the Medical\, Elderly Care\, and Pharmacy industries to showcase the 
- latest products/technologies\, discover new industry trends\, and provide 
- essential networking opportunities\\nVenue: Intex Osaka\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-medical-japan-osaka-334
- 82-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-medical-japan-osaka-33482-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEDIX OSAKA - MEDICAL DEVICE DEVELOPMENT & MANUFACTURING EXPO — O
- saka\, Japan
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20271002
-UID:f-medix-osaka-medical-device-development-manufacturing-expo-17031-1@eventseye.impio-vault
-DESCRIPTION:MEDICAL JAPAN is a dedicated BtoB business event covering all a
- bout the Medical\, Elderly Care\, and Pharmacy industries to showcase the 
- latest products/technologies\, discover new industry trends\, and provide 
- essential networking opportunities\\nVenue: Intex Osaka\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-medix-osaka-medical-dev
- ice-development-manufacturing-expo-17031-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-medix-osaka-medical-device-developmen
- t-manufacturing-expo-17031-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LABELEXPO EUROPE — Barcelona\, Spain
-DTSTART;VALUE=DATE:20271005
-DTEND;VALUE=DATE:20271009
-UID:f-labelexpo-europe-22116-1@eventseye.impio-vault
-DESCRIPTION:International Label and Package Printing Industry Trade Show. L
- abelexpo Europe will feature hundreds of new product launches and live dem
- onstrations\, Packprint Workshops\, Digital Printing\, Print Processes\, F
- urure Label & Packaging Technology\\nVenue: Fira de Barcelona - Recinto Gr
- an Via\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
- s/f-labelexpo-europe-22116-1.html
-LOCATION:Barcelona\, Spain
-URL:https://www.eventseye.com/fairs/f-labelexpo-europe-22116-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PUMPS & VALVES ROTTERDAM — Rotterdam\, Netherlands
-DTSTART;VALUE=DATE:20271006
-DTEND;VALUE=DATE:20271008
-UID:f-pumps-valves-rotterdam-31987-1@eventseye.impio-vault
-DESCRIPTION:Pumps & Valves Rotterdam is a Trade Fair for Industrial Liquid-
-  and Gas Technology. Look for knowledge\, products and the latest innovati
- ons in the field of process technology\\nVenue: Ahoy Rotterdam\\nFrequency
- : every 2 years\\nSource: https://www.eventseye.com/fairs/f-pumps-valves-r
- otterdam-31987-1.html
-LOCATION:Rotterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-pumps-valves-rotterdam-31987-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOLIDS ROTTERDAM — Rotterdam\, Netherlands
-DTSTART;VALUE=DATE:20271006
-DTEND;VALUE=DATE:20271008
-UID:f-solids-rotterdam-9290-1@eventseye.impio-vault
-DESCRIPTION:Industry Forum for suppliers and for buyers from end-user indus
- tries that manufacture and process powder\, granules and bulk solids (incl
- uding food & beverage manufacturing\, chemicals\, cosmetics\, animal feed 
- and pet food). Handling\, Storage\, Logistics\\nVenue: Ahoy Rotterdam\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-solids-
- rotterdam-9290-1.html
-LOCATION:Rotterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-solids-rotterdam-9290-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEPEM INDUSTRIES CENTRE-OUEST — Angers\, France
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271015
-UID:f-sepem-industries-centre-ouest-15375-1@eventseye.impio-vault
-DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
- d maintenance. Experience industry in action with machine demonstrations a
- nd the major trends that will shape the industry of tomorrow\\nVenue: Ange
- rs Parc Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
- m/fairs/f-sepem-industries-centre-ouest-15375-1.html
-LOCATION:Angers\, France
-URL:https://www.eventseye.com/fairs/f-sepem-industries-centre-ouest-15375-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO PLASTICOS — Guadalajara\, Mexico
-DTSTART;VALUE=DATE:20271013
-DTEND;VALUE=DATE:20271016
-UID:f-expo-plasticos-16224-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Technology & Solutions for the Plas
- tic Industry\\nVenue: Expo Guadalajara\\nFrequency: every 2 years\\nSource
- : https://www.eventseye.com/fairs/f-expo-plasticos-16224-1.html
-LOCATION:Guadalajara\, Mexico
-URL:https://www.eventseye.com/fairs/f-expo-plasticos-16224-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIE OPTIFAB — Rochester\, NY\, USA
-DTSTART;VALUE=DATE:20271018
-DTEND;VALUE=DATE:20271022
-UID:f-spie-optifab-12020-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Event for Optical Fabrication. Optifab\, a un
- ique technical focus on classical & advanced optical manufacturing technol
- ogies\, offers attendees a great opportunity to interact with worldwide ex
- perts in the field of optical fabrication\\nVenue: Rochester Riverside Con
- vention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.
- com/fairs/f-spie-optifab-12020-1.html
-LOCATION:Rochester\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-spie-optifab-12020-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KORMARINE — Busan\, Korea South
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271023
-UID:f-kormarine-6727-1@eventseye.impio-vault
-DESCRIPTION:Korean International Marine\, Shipbuilding\, Offshore\, Oil & G
- as Exhibition. Since its first event in 1980\, KORMARINE has been constant
- ly developing itself to become on of the best shows in today’s marine in
- dustry\\nVenue: Bexco (Busan Exhibition & Convention Center)\\nFrequency: 
- every 2 years\\nSource: https://www.eventseye.com/fairs/f-kormarine-6727-1
- .html
-LOCATION:Busan\, Korea South
-URL:https://www.eventseye.com/fairs/f-kormarine-6727-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OTC BRASIL — Rio de Janeiro\, Brazil
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271022
-UID:f-otc-brasil-14665-1@eventseye.impio-vault
-DESCRIPTION:OTC Asia is where energy professionals meet to exchange ideas a
- nd opinions to advance scientific and technical knowledge for offshore res
- ources and environmental matters\\nVenue: SulAmerica Business Center\\nFre
- quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-otc-bras
- il-14665-1.html
-LOCATION:Rio de Janeiro\, Brazil
-URL:https://www.eventseye.com/fairs/f-otc-brasil-14665-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OTC BRAZIL CONFERENCE — Rio de Janeiro\, Brazil
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271022
-UID:f-otc-brazil-conference-12679-1@eventseye.impio-vault
-DESCRIPTION:OTC Brazil Conference gather offshore professionals from many c
- ountries around the world to share ideas and innovations\, discuss\, debat
- e\, and build consensus around the most pressing topics facing the energy 
- sector\\nVenue: ExpoMag Convention Center\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
-LOCATION:Rio de Janeiro\, Brazil
-URL:https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOUTH-TEC — Greenville\, NC\, USA
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271022
-UID:f-south-tec-3065-1@eventseye.impio-vault
-DESCRIPTION:South-Tec connects decision makers from diverse industries with
-  leading suppliers of advanced manufacturing technology\, equipment and to
- oling\\nVenue: Greenville Convention Center\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-south-tec-3065-1.html
-LOCATION:Greenville\, NC\, USA
-URL:https://www.eventseye.com/fairs/f-south-tec-3065-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIT - SALON INDUSTRIEL DE TERREBONNE — Terrebonne\, QC\, Canada
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271022
-UID:f-sit-salon-industriel-de-terrebonne-30163-1@eventseye.impio-vault
-DESCRIPTION:Industrial Expo in Terrebonne\, QC. The event brings together d
- istributors\, suppliers and service companies with the know-how needed for
-  development and growth of businesses in the region\\nVenue: Centre Expo T
- errebonne\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
- airs/f-sit-salon-industriel-de-terrebonne-30163-1.html
-LOCATION:Terrebonne\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-sit-salon-industriel-de-terrebonne-30
- 163-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EMPACK BRUSSELS — Brussels\, Belgium
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271029
-UID:f-empack-brussels-11836-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
- s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
- and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
- e: Nekkerhal-Brussels North\\nFrequency: every 2 years\\nSource: https://w
- ww.eventseye.com/fairs/f-empack-brussels-11836-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-empack-brussels-11836-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFF-GRID EXPERTS WORKSHOP — Augsburg\, Germany
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271029
-UID:f-off-grid-experts-workshop-6315-1@eventseye.impio-vault
-DESCRIPTION:OFF-GRID Experts Workshop is a three-day program around self-su
- fficient solar\, wind and hydro power systems and the off-grid power suppl
- y\\nVenue: Augsburger Messezentrum\\nFrequency: unknown\\nSource: https://
- www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
-LOCATION:Augsburg\, Germany
-URL:https://www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACIFIC COATINGS SHOW — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271030
-UID:f-pacific-coatings-show-30105-1@eventseye.impio-vault
-DESCRIPTION:Asia & Pacific Region platform for for paints\, coatings\, seal
- ants\, construction chemicals and adhesives Industry\\nVenue: Jakarta Inte
- rnational Expo (JIExpo)\\nFrequency: every 2 years\\nSource: https://www.e
- ventseye.com/fairs/f-pacific-coatings-show-30105-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-pacific-coatings-show-30105-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOUSTEX — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20271102
-DTEND;VALUE=DATE:20271105
-UID:f-houstex-3067-1@eventseye.impio-vault
-DESCRIPTION:Houstex draws together key decision makers\, major tool and tec
- hnology suppliers and thought leaders from across a broad spectrum of manu
- facturing disciplines for an unparalleled three-day experience\\nVenue: Ge
- orge R. Brown Convention Center\\nFrequency: every 2 years\\nSource: https
- ://www.eventseye.com/fairs/f-houstex-3067-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-houstex-3067-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MEDIMA KRASNODAR — Krasnodar\, Russia
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270529
@@ -15969,6 +15653,19 @@ DESCRIPTION:Krasnodar Exhibition of medical equipment. Medina annually gath
  edima-krasnodar-18350-1.html
 LOCATION:Krasnodar\, Russia
 URL:https://www.eventseye.com/fairs/f-medima-krasnodar-18350-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PICK & PACK — Bilbao\, Spain
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270528
+UID:f-pick-pack-27712-1@eventseye.impio-vault
+DESCRIPTION:Intralogistics\, Packaging\, Processing & Printing Trade Show. 
+ PICK&PACK proposes to embrace digitalization\, artificial intelligence\, r
+ obotics\, 3D printing\, new processing systems or more sustainable materia
+ ls for packaging...\\nVenue: Bilbao Exhibition Centre\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-pick-pack-27712-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-pick-pack-27712-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOUTHMACH CHRISTCHURCH — Christchurch\, New Zealand
@@ -16414,6 +16111,353 @@ DESCRIPTION:MEOS GEO drives growth and addresses the critical challenges fa
  ce: https://www.eventseye.com/fairs/f-meos-geo-1805-1.html
 LOCATION:Manama\, Bahrain
 URL:https://www.eventseye.com/fairs/f-meos-geo-1805-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLATHINIUM — Antibes\, France
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+UID:f-plathinium-24577-1@eventseye.impio-vault
+DESCRIPTION:Plasma Thin film International Meeting. The latest developments
+  in the fields of surface treatment\, materials\, plasmas and coatings\, s
+ urface analysis\, imaging and microscopy\, vacuum systems...\\nVenue: Pala
+ is des Congrès d'Antibes-Juan les Pins\\nFrequency: every 2 years\\nSourc
+ e: https://www.eventseye.com/fairs/f-plathinium-24577-1.html
+LOCATION:Antibes\, France
+URL:https://www.eventseye.com/fairs/f-plathinium-24577-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HEAT&ELECTRO | MACHINERY — Moscow\, Russia
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+UID:f-heat-electro-machinery-30059-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of heat engineering\, power generating
+  and compressor equipment for industrial enterprises and utilities objects
+ \\nVenue: VDNH Exhibition Center\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-heat-electro-machinery-30059-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-heat-electro-machinery-30059-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES EST — Colmar\, France
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+UID:f-sepem-industries-est-9503-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Parc
+  des Expositions de Colmar\\nFrequency: every 2 years\\nSource: https://ww
+ w.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
+LOCATION:Colmar\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-est-9503-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BICES — Beijing\, China
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270926
+UID:f-bices-14921-1@eventseye.impio-vault
+DESCRIPTION:China (Beijing) International Construction Machinery\, Building
+  Material Machines and Mining Machines Exhibition & Congress. One of the b
+ iggest world-renowned professional exhibitions in China\\nVenue: China Int
+ ernational Exhibition Centre (CIEC)\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-bices-14921-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-bices-14921-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INMEX INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270925
+UID:f-inmex-india-10005-1@eventseye.impio-vault
+DESCRIPTION:South Asia's largest Maritime Industry Expo & Conference. INMEX
+  will enable you to meet with serious buyers\, boost your brand in front o
+ f thousands of maritime & shipping professionals\, Network with government
+  & industry authorities\, launch new products\\nVenue: Bombay Convention &
+  Exhibition Centre (BCEC)\\nFrequency: every 2 years\\nSource: https://www
+ .eventseye.com/fairs/f-inmex-india-10005-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-inmex-india-10005-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VALVE WORLD SOUTH EAST ASIA EXPO & CONFERENCE — Singapore\, Singa
+ pore
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270925
+UID:f-valve-world-south-east-asia-expo-conference-32588-1@eventseye.impio-vault
+DESCRIPTION:Piping and Valve Professionals Conference & Expo in Singapore. 
+ Valve World Expo & Conference South East Asia is a valuable meeting point 
+ for valve professionals from all over the world with a special emphasis on
+  recent developments in South East Asia\\nVenue: Singapore Expo\\nFrequenc
+ y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-valve-world-s
+ outh-east-asia-expo-conference-32588-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-valve-world-south-east-asia-expo-conf
+ erence-32588-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACK EXPO LAS VEGAS — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270930
+UID:f-pack-expo-las-vegas-28709-1@eventseye.impio-vault
+DESCRIPTION:International Packaging Process Show. For end users and supplie
+ rs around the world\, PACK EXPO LAS VEGAS offers a quality professional ex
+ perience and a wide range of packaging innovations for each vertical marke
+ t\\nVenue: Las Vegas Convention Center\\nFrequency: every 2 years\\nSource
+ : https://www.eventseye.com/fairs/f-pack-expo-las-vegas-28709-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-pack-expo-las-vegas-28709-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANALITICA LATIN AMERICA — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271001
+UID:f-analitica-latin-america-99-1@eventseye.impio-vault
+DESCRIPTION:Analitica Latin America is a main fair for the analytical chemi
+ stry industry. Bringing together the industry's biggest players\, it conne
+ cts companies\, professionals and experts working in instrumental analysis
+ \, quality control\, and laboratory solutions\\nVenue: São Paulo Expo Exh
+ ibition & Convention Center\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-analitica-latin-america-99-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-analitica-latin-america-99-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO BIOMASA — Valladolid\, Spain
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271001
+UID:f-expo-biomasa-10236-1@eventseye.impio-vault
+DESCRIPTION:Expobiomasa brings together professionals related to the boomin
+ g biomass market: forestry machinery companies and solid and pellet biofue
+ l industries\, manufacturers\, distributors and installers of air conditio
+ ning systems\,...\\nVenue: Feria de Valladolid\\nFrequency: every 2 years\
+ \nSource: https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
+LOCATION:Valladolid\, Spain
+URL:https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEDICAL JAPAN - OSAKA — Osaka\, Japan
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271002
+UID:f-medical-japan-osaka-33482-1@eventseye.impio-vault
+DESCRIPTION:MEDICAL JAPAN is a dedicated BtoB business event covering all a
+ bout the Medical\, Elderly Care\, and Pharmacy industries to showcase the 
+ latest products/technologies\, discover new industry trends\, and provide 
+ essential networking opportunities\\nVenue: Intex Osaka\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-medical-japan-osaka-334
+ 82-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-medical-japan-osaka-33482-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEDIX OSAKA - MEDICAL DEVICE DEVELOPMENT & MANUFACTURING EXPO — O
+ saka\, Japan
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271002
+UID:f-medix-osaka-medical-device-development-manufacturing-expo-17031-1@eventseye.impio-vault
+DESCRIPTION:MEDICAL JAPAN is a dedicated BtoB business event covering all a
+ bout the Medical\, Elderly Care\, and Pharmacy industries to showcase the 
+ latest products/technologies\, discover new industry trends\, and provide 
+ essential networking opportunities\\nVenue: Intex Osaka\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-medix-osaka-medical-dev
+ ice-development-manufacturing-expo-17031-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-medix-osaka-medical-device-developmen
+ t-manufacturing-expo-17031-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABELEXPO EUROPE — Barcelona\, Spain
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271009
+UID:f-labelexpo-europe-22116-1@eventseye.impio-vault
+DESCRIPTION:International Label and Package Printing Industry Trade Show. L
+ abelexpo Europe will feature hundreds of new product launches and live dem
+ onstrations\, Packprint Workshops\, Digital Printing\, Print Processes\, F
+ urure Label & Packaging Technology\\nVenue: Fira de Barcelona - Recinto Gr
+ an Via\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
+ s/f-labelexpo-europe-22116-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-labelexpo-europe-22116-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PUMPS & VALVES ROTTERDAM — Rotterdam\, Netherlands
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271008
+UID:f-pumps-valves-rotterdam-31987-1@eventseye.impio-vault
+DESCRIPTION:Pumps & Valves Rotterdam is a Trade Fair for Industrial Liquid-
+  and Gas Technology. Look for knowledge\, products and the latest innovati
+ ons in the field of process technology\\nVenue: Ahoy Rotterdam\\nFrequency
+ : every 2 years\\nSource: https://www.eventseye.com/fairs/f-pumps-valves-r
+ otterdam-31987-1.html
+LOCATION:Rotterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-pumps-valves-rotterdam-31987-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLIDS ROTTERDAM — Rotterdam\, Netherlands
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271008
+UID:f-solids-rotterdam-9290-1@eventseye.impio-vault
+DESCRIPTION:Industry Forum for suppliers and for buyers from end-user indus
+ tries that manufacture and process powder\, granules and bulk solids (incl
+ uding food & beverage manufacturing\, chemicals\, cosmetics\, animal feed 
+ and pet food). Handling\, Storage\, Logistics\\nVenue: Ahoy Rotterdam\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-solids-
+ rotterdam-9290-1.html
+LOCATION:Rotterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-solids-rotterdam-9290-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEPEM INDUSTRIES CENTRE-OUEST — Angers\, France
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271015
+UID:f-sepem-industries-centre-ouest-15375-1@eventseye.impio-vault
+DESCRIPTION:Industrial trade show for services\, equipment\, processes\, an
+ d maintenance. Experience industry in action with machine demonstrations a
+ nd the major trends that will shape the industry of tomorrow\\nVenue: Ange
+ rs Parc Expo\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
+ m/fairs/f-sepem-industries-centre-ouest-15375-1.html
+LOCATION:Angers\, France
+URL:https://www.eventseye.com/fairs/f-sepem-industries-centre-ouest-15375-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO PLASTICOS — Guadalajara\, Mexico
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271016
+UID:f-expo-plasticos-16224-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Technology & Solutions for the Plas
+ tic Industry\\nVenue: Expo Guadalajara\\nFrequency: every 2 years\\nSource
+ : https://www.eventseye.com/fairs/f-expo-plasticos-16224-1.html
+LOCATION:Guadalajara\, Mexico
+URL:https://www.eventseye.com/fairs/f-expo-plasticos-16224-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPIE OPTIFAB — Rochester\, NY\, USA
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+UID:f-spie-optifab-12020-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Event for Optical Fabrication. Optifab\, a un
+ ique technical focus on classical & advanced optical manufacturing technol
+ ogies\, offers attendees a great opportunity to interact with worldwide ex
+ perts in the field of optical fabrication\\nVenue: Rochester Riverside Con
+ vention Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.
+ com/fairs/f-spie-optifab-12020-1.html
+LOCATION:Rochester\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-spie-optifab-12020-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KORMARINE — Busan\, Korea South
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271023
+UID:f-kormarine-6727-1@eventseye.impio-vault
+DESCRIPTION:Korean International Marine\, Shipbuilding\, Offshore\, Oil & G
+ as Exhibition. Since its first event in 1980\, KORMARINE has been constant
+ ly developing itself to become on of the best shows in today’s marine in
+ dustry\\nVenue: Bexco (Busan Exhibition & Convention Center)\\nFrequency: 
+ every 2 years\\nSource: https://www.eventseye.com/fairs/f-kormarine-6727-1
+ .html
+LOCATION:Busan\, Korea South
+URL:https://www.eventseye.com/fairs/f-kormarine-6727-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTC BRASIL — Rio de Janeiro\, Brazil
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+UID:f-otc-brasil-14665-1@eventseye.impio-vault
+DESCRIPTION:OTC Asia is where energy professionals meet to exchange ideas a
+ nd opinions to advance scientific and technical knowledge for offshore res
+ ources and environmental matters\\nVenue: SulAmerica Business Center\\nFre
+ quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-otc-bras
+ il-14665-1.html
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.eventseye.com/fairs/f-otc-brasil-14665-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTC BRAZIL CONFERENCE — Rio de Janeiro\, Brazil
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+UID:f-otc-brazil-conference-12679-1@eventseye.impio-vault
+DESCRIPTION:OTC Brazil Conference gather offshore professionals from many c
+ ountries around the world to share ideas and innovations\, discuss\, debat
+ e\, and build consensus around the most pressing topics facing the energy 
+ sector\\nVenue: ExpoMag Convention Center\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.eventseye.com/fairs/f-otc-brazil-conference-12679-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOUTH-TEC — Greenville\, NC\, USA
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+UID:f-south-tec-3065-1@eventseye.impio-vault
+DESCRIPTION:South-Tec connects decision makers from diverse industries with
+  leading suppliers of advanced manufacturing technology\, equipment and to
+ oling\\nVenue: Greenville Convention Center\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-south-tec-3065-1.html
+LOCATION:Greenville\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-south-tec-3065-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIT - SALON INDUSTRIEL DE TERREBONNE — Terrebonne\, QC\, Canada
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271022
+UID:f-sit-salon-industriel-de-terrebonne-30163-1@eventseye.impio-vault
+DESCRIPTION:Industrial Expo in Terrebonne\, QC. The event brings together d
+ istributors\, suppliers and service companies with the know-how needed for
+  development and growth of businesses in the region\\nVenue: Centre Expo T
+ errebonne\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
+ airs/f-sit-salon-industriel-de-terrebonne-30163-1.html
+LOCATION:Terrebonne\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-sit-salon-industriel-de-terrebonne-30
+ 163-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMPACK BRUSSELS — Brussels\, Belgium
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271029
+UID:f-empack-brussels-11836-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
+ s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
+ and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
+ e: Nekkerhal-Brussels North\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-empack-brussels-11836-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-empack-brussels-11836-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFF-GRID EXPERTS WORKSHOP — Augsburg\, Germany
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271029
+UID:f-off-grid-experts-workshop-6315-1@eventseye.impio-vault
+DESCRIPTION:OFF-GRID Experts Workshop is a three-day program around self-su
+ fficient solar\, wind and hydro power systems and the off-grid power suppl
+ y\\nVenue: Augsburger Messezentrum\\nFrequency: unknown\\nSource: https://
+ www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
+LOCATION:Augsburg\, Germany
+URL:https://www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACIFIC COATINGS SHOW — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271030
+UID:f-pacific-coatings-show-30105-1@eventseye.impio-vault
+DESCRIPTION:Asia & Pacific Region platform for for paints\, coatings\, seal
+ ants\, construction chemicals and adhesives Industry\\nVenue: Jakarta Inte
+ rnational Expo (JIExpo)\\nFrequency: every 2 years\\nSource: https://www.e
+ ventseye.com/fairs/f-pacific-coatings-show-30105-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-pacific-coatings-show-30105-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOUSTEX — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271105
+UID:f-houstex-3067-1@eventseye.impio-vault
+DESCRIPTION:Houstex draws together key decision makers\, major tool and tec
+ hnology suppliers and thought leaders from across a broad spectrum of manu
+ facturing disciplines for an unparalleled three-day experience\\nVenue: Ge
+ orge R. Brown Convention Center\\nFrequency: every 2 years\\nSource: https
+ ://www.eventseye.com/fairs/f-houstex-3067-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-houstex-3067-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIM SENEGAL — Dakar\, Senegal

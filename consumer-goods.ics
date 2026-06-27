@@ -1169,6 +1169,20 @@ LOCATION:Nuremberg\, Germany
 URL:https://www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TIRANA INTERNATIONAL FAIR — Tirana\, Albania
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261107
+UID:f-tirana-international-fair-23712-1@eventseye.impio-vault
+DESCRIPTION:The Tirana International Fair is more than thirty years old. It
+  highlights trade relations within and beyond the Balkans. Discover cuttin
+ g-edge technologies that are reshaping industries\\nVenue: ExpoCity Albani
+ a\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tir
+ ana-international-fair-23712-1.html
+LOCATION:Tirana\, Albania
+URL:https://www.eventseye.com/fairs/f-tirana-international-fair-23712-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAZAAR BERLIN — Berlin\, Germany
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261109
@@ -1207,49 +1221,6 @@ DESCRIPTION:International Fair of Geneva. House\, wellness\, leisure\, flav
  nales-5040-1.html
 LOCATION:Geneve\, Switzerland
 URL:https://www.eventseye.com/fairs/f-les-automnales-5040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270527
-UID:f-plma-international-6592-1@eventseye.impio-vault
-DESCRIPTION:World of Private Label International Trade Show & Conference. P
- LMA INTERNATIONAL will be the focal point of the largest concentration of 
- private label professionals in the industry. will be the focal point of th
- e largest concentration of private label pr\\nVenue: RAI International Exh
- ibition and Congress Centre\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-plma-international-6592-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
@@ -2048,5 +2019,62 @@ DESCRIPTION:Showcase Ireland is the place to discover unique\, design-led f
 LOCATION:Dublin\, Ireland
 URL:https://www.eventseye.com/fairs/f-showcase-ireland-s-creative-expo-3973
  -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DE NÎMES — Nîmes\, France
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+UID:f-foire-de-nimes-22852-1@eventseye.impio-vault
+DESCRIPTION:Fair of Nîmes. The fair of Nîmes proposes a rich and varied c
+ ommercial offer in many domains such as the habitat\, the gastronomy\, the
+  leisures\, the well-being\, the household articles\, the automobile\, the
+  motor-homes and many others\\nVenue: Parc des expositions de Nîmes\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-de-n
+ imes-22852-1.html
+LOCATION:Nîmes\, France
+URL:https://www.eventseye.com/fairs/f-foire-de-nimes-22852-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+UID:f-plma-international-6592-1@eventseye.impio-vault
+DESCRIPTION:World of Private Label International Trade Show & Conference. P
+ LMA INTERNATIONAL will be the focal point of the largest concentration of 
+ private label professionals in the industry. will be the focal point of th
+ e largest concentration of private label pr\\nVenue: RAI International Exh
+ ibition and Congress Centre\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-plma-international-6592-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
 END:VEVENT
 END:VCALENDAR

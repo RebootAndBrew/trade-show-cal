@@ -772,6 +772,18 @@ LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-lario-26748-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PETFOOD TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260925
+UID:f-petfood-tech-expo-34473-1@eventseye.impio-vault
+DESCRIPTION:PETFOOD Tech Expo is a key industry event showcasing the latest
+  production lines\, ingredients\, and technologies for pet food manufactur
+ ing\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-petfood-tech-expo-34473-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-petfood-tech-expo-34473-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ESOTIKA PET SHOW - MASSA CARRARA — Carrara\, Italy
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
@@ -1158,17 +1170,18 @@ URL:https://www.eventseye.com/fairs/f-esotika-pet-show-bustio-arizo-30702-1
  .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SAUDI PET EXPO — Riyadh\, Saudi Arabia
+SUMMARY:SAUDI PET & VET EXPO — Riyadh\, Saudi Arabia
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261112
-UID:f-saudi-pet-expo-28967-1@eventseye.impio-vault
-DESCRIPTION:Saudi Pet Expo\, is the first and only pet exhibition in the Ki
- ngdom of Saudi Arabia\, which will be held annually due to the current and
-  prospective promising market for pet supplies and veterinary medicine\\nV
- enue: Riyadh International Exhibition Centre\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-saudi-pet-expo-28967-1.html
+UID:f-saudi-pet-vet-expo-28967-1@eventseye.impio-vault
+DESCRIPTION:SAUDI PET & VET EXPO is the first and only pet exhibition in th
+ e Kingdom of Saudi Arabia\, which will be held annually due to the current
+  and prospective promising market for pet supplies and veterinary medicine
+ \\nVenue: Riyadh International Exhibition Centre\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.htm
+ l
 LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-pet-expo-28967-1.html
+URL:https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EUROTIER HANNOVER — Hannover\, Germany
@@ -1757,6 +1770,21 @@ DESCRIPTION:Italian Pet Show. The exhibition area features all categories o
  ww.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
 LOCATION:Udine\, Italy
 URL:https://www.eventseye.com/fairs/f-my-fantastic-pets-udine-33807-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIVESTOCK FUTURE EXPO & CONF. — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270331
+UID:f-livestock-future-expo-conf-34467-1@eventseye.impio-vault
+DESCRIPTION:Livestock expo & Conference. Animal Nutrition‭ & ‬ Feed\, V
+ eterinary Health‭ & ‬ Pharmaceuticals\, Biotechnology\, Farm Equipment
+ ‭ & ‬ Technology\, Livestock Processed Products‭\, Sustainability‭
+  & ‬ Enviro\\nVenue: Riyadh International Exhibition Centre\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-livestock-future-
+ expo-conf-34467-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-livestock-future-expo-conf-34467-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOR PETS — Prague\, Czech Republic

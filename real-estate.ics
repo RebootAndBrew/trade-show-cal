@@ -932,6 +932,32 @@ URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -new-delhi-22486-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VIMO - VITRINA IMMOBILIARIA DEL CARIBE — Barranquilla\, Colombia
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-vimo-vitrina-immobiliaria-del-caribe-26308-1@eventseye.impio-vault
+DESCRIPTION:The 'Vitrina Inmobiliaria del Caribe' is the fair that presents
+  the largest offer of housing projects\, as well as commercial\, industria
+ l and tourist real estate in the region...\\nVenue: Puerta de Oro\, Centro
+  de Convenciones del Caribe\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-vimo-vitrina-immobiliaria-del-caribe-26308-1.html
+LOCATION:Barranquilla\, Colombia
+URL:https://www.eventseye.com/fairs/f-vimo-vitrina-immobiliaria-del-caribe-
+ 26308-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRIX EXPO — Amman\, Jordan
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+UID:f-grix-expo-34449-1@eventseye.impio-vault
+DESCRIPTION:ALSAFEER EXPO is the biggest exhibition specializing in real es
+ tate\, residency\, and citizenship by investment in Jordan\\nVenue: Mecal 
+ Mall (Jordan International Exhibition Center)\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-grix-expo-34449-1.html
+LOCATION:Amman\, Jordan
+URL:https://www.eventseye.com/fairs/f-grix-expo-34449-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - KAZAKHSTAN - ASTANA — Astana\, Ka
  zakhstan
 DTSTART;VALUE=DATE:20261029
@@ -1197,18 +1223,17 @@ LOCATION:Manama\, Bahrain
 URL:https://www.eventseye.com/fairs/f-cityscape-bahrain-30623-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ETHEXPO EURASIA — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261129
-UID:f-ethexpo-eurasia-32043-1@eventseye.impio-vault
-DESCRIPTION:Ethexpo\, Eurasia Tourism & Health Fair\, aims to create an env
- ironment for important business connections between two main sectors such 
- as Tourism and Health. It invites you to meet qualified buyers for new bus
- iness opportunities\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi 
- / CNR Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-ethexpo-eurasia-32043-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-ethexpo-eurasia-32043-1.html
+SUMMARY:NATMALLEXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270415
+UID:f-natmallexpo-29707-1@eventseye.impio-vault
+DESCRIPTION:International Expo for Commercial Real Estate. Here Russian and
+  CIS developers of commercial real estate meet retail companies\, who sear
+ ch for new retail space and plan to expand sales geography\\nVenue: Crocus
+ -Expo IEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-natmallexpo-29707-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-natmallexpo-29707-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OMAN DESIGN & BUILD WEEK — Muscat\, Oman
@@ -1339,6 +1364,20 @@ DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
  etsmassan-syd-31912-1.html
 LOCATION:Malmö\, Sweden
 URL:https://www.eventseye.com/fairs/f-fastighetsmassan-syd-31912-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETHEXPO EURASIA — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261129
+UID:f-ethexpo-eurasia-32043-1@eventseye.impio-vault
+DESCRIPTION:Ethexpo\, Eurasia Tourism & Health Fair\, aims to create an env
+ ironment for important business connections between two main sectors such 
+ as Tourism and Health. It invites you to meet qualified buyers for new bus
+ iness opportunities\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi 
+ / CNR Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-ethexpo-eurasia-32043-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-ethexpo-eurasia-32043-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALON SOLUCUP - NICE — Nice\, France
@@ -1763,18 +1802,5 @@ DESCRIPTION:Exhibition of Investment and acquisitions of real estate in Afr
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-siimea-salon-de-l-investissement-de-l
  -immobilier-et-des-energies-pour-l-afrique-32697-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATMALLEXPO — Moscow\, Russia
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270415
-UID:f-natmallexpo-29707-1@eventseye.impio-vault
-DESCRIPTION:International Expo for Commercial Real Estate. Here Russian and
-  CIS developers of commercial real estate meet retail companies\, who sear
- ch for new retail space and plan to expand sales geography\\nVenue: Crocus
- -Expo IEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-natmallexpo-29707-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-natmallexpo-29707-1.html
 END:VEVENT
 END:VCALENDAR

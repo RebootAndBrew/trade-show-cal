@@ -6,64 +6,6 @@ X-WR-CALNAME:Optik - Brillen
 X-WR-CALDESC:Trade shows: Optik - Brillen — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:EXPOÓPTICA — Madrid\, Spain
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260413
-UID:f-expooptica-907-1@eventseye.impio-vault
-DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands 
- of the optical and audiology sector\, opening a more digital\, modern envi
- ronment\, with new national and international brands\, focused on fashion 
- and health\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPIE PHOTONICS EUROPE — Strasbourg\, France
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260417
-UID:f-spie-photonics-europe-12028-1@eventseye.impio-vault
-DESCRIPTION:European Photonics Trade Event & Conference. SPIE PHOTONICS EUR
- OPE will focus on technology ranging from optical components to fibre opti
- cs\, lasers\, sensors\, cameras\, detectors\, and other optics & photonics
-  products\\nVenue: Palais de la Musique et des Congrès\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-spie-photonics-europe
- -12028-1.html
-LOCATION:Strasbourg\, France
-URL:https://www.eventseye.com/fairs/f-spie-photonics-europe-12028-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHOTONICS NORTH — Quebec City\, QC\, Canada
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260605
-UID:f-photonics-north-6111-1@eventseye.impio-vault
-DESCRIPTION:Commercial Exhibition on Optics\, Lasers\, Biomedical Optics\, 
- Opto-electronic Components\, and Imaging Technologies. Photonics North is 
- unique opportunity to show off your products and technology to an internat
- ional audience of potential customers\\nVenue: Centre de Foires - ExpoCit
- é\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ph
- otonics-north-6111-1.html
-LOCATION:Quebec City\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-photonics-north-6111-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ICOVS - INTERNATIONAL CONFERENCE ON OPHTHALMOLOGY & VISION SCIENCE 
- — Paris\, France
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260607
-UID:f-icovs-international-conference-on-ophthalmology-vision-science-33924-1@eventseye.impio-vault
-DESCRIPTION:ICOVS (International Conference on Ophthalmology & Vision Scien
- ce) aims to provide a premier platform where you can explore the latest re
- search & engage in networking with ophthalmologists\, doctors\, clinicians
- \, academicians\, medical experts...\\nVenue: Millennium Hotel Paris Charl
- es De Gaulle\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-icovs-international-conference-on-ophthalmology-vision-science-339
- 24-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-icovs-international-conference-on-oph
- thalmology-vision-science-33924-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WOC - WORLD OPHTHALMOLOGY CONGRESS — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260630
@@ -777,6 +719,22 @@ LOCATION:Osaka\, Japan
 URL:https://www.eventseye.com/fairs/f-photonix-osaka-27803-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ICOVS - INTERNATIONAL CONFERENCE ON OPHTHALMOLOGY & VISION SCIENCE 
+ — Berlin\, Germany
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270619
+UID:f-icovs-international-conference-on-ophthalmology-vision-science-33924-1@eventseye.impio-vault
+DESCRIPTION:ICOVS (International Conference on Ophthalmology & Vision Scien
+ ce) aims to provide a premier platform where you can explore the latest re
+ search & engage in networking with ophthalmologists\, doctors\, clinicians
+ \, academicians\, medical experts...\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-icovs-international-conference-on-ophthalm
+ ology-vision-science-33924-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-icovs-international-conference-on-oph
+ thalmology-vision-science-33924-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LASER. WORLD OF PHOTONICS — Munich\, Germany
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270626
@@ -801,5 +759,18 @@ DESCRIPTION:America's Premier Event for Optical Fabrication. Optifab\, a un
  com/fairs/f-spie-optifab-12020-1.html
 LOCATION:Rochester\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-spie-optifab-12020-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOÓPTICA — Madrid\, Spain
+DTSTART;VALUE=DATE:20280423
+DTEND;VALUE=DATE:20280426
+UID:f-expooptica-907-1@eventseye.impio-vault
+DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands 
+ of the optical and audiology sector\, opening a more digital\, modern envi
+ ronment\, with new national and international brands\, focused on fashion 
+ and health\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every
+  2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
 END:VEVENT
 END:VCALENDAR

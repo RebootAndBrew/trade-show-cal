@@ -6,18 +6,6 @@ X-WR-CALNAME:Consumer Goods
 X-WR-CALDESC:Trade shows: Consumer Goods — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:FEICAP — Três Passos\, Brazil
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260422
-UID:f-feicap-27635-1@eventseye.impio-vault
-DESCRIPTION:Industrial\, Commercial and Agricultural Exhibition. Commerce\,
-  industry\, services\, agriculture\, entertainment\, culture and leisure\\
- nVenue: Egon Júlio Goelzer Exhibition Park\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-feicap-27635-1.html
-LOCATION:Três Passos\, Brazil
-URL:https://www.eventseye.com/fairs/f-feicap-27635-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CLERMONT FÈIRA — Clermont-Ferrand\, France
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260602
@@ -29,203 +17,6 @@ DESCRIPTION:A public fair organized around five themes: housing\, mobility\
  ww.eventseye.com/fairs/f-clermont-feira-34119-1.html
 LOCATION:Clermont-Ferrand\, France
 URL:https://www.eventseye.com/fairs/f-clermont-feira-34119-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIBCO — Bucharest\, Romania
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260608
-UID:f-tibco-2704-1@eventseye.impio-vault
-DESCRIPTION:Bucharest International Fair for Consumer Goods. Cosmetics\, pe
- rfumes\, clothing\, shoes\, jewelry\, drinks\, natural products\, sweets\,
-  coffee\, gifts\, interior decor\, electronics\, appliances\, furniture\, 
- household goods...\\nVenue: Romexpo\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-tibco-2704-1.html
-LOCATION:Bucharest\, Romania
-URL:https://www.eventseye.com/fairs/f-tibco-2704-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EXPOSITION DE PICARDIE — Amiens\, France
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260615
-UID:f-foire-exposition-de-picardie-19736-1@eventseye.impio-vault
-DESCRIPTION:Picardy International Fair. Housing\, Furnishing\, Furniture\, 
- Garden\, Swimming pool\, Tourism & Leisure\, Sport\, Auto\, Motorhome\, Wi
- ne\, Gastronomy\, Shopping\, Crafts\, Women's well-being\, etc.\\nVenue: M
- égaCité\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-foire-exposition-de-picardie-19736-1.html
-LOCATION:Amiens\, France
-URL:https://www.eventseye.com/fairs/f-foire-exposition-de-picardie-19736-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EXPO INTERNATIONALE DE NANCY — Nancy\, France
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260615
-UID:f-foire-expo-internationale-de-nancy-22372-1@eventseye.impio-vault
-DESCRIPTION:The Nancy International Fair is a huge shopping center offering
-  visitors a general range of capital goods\, consumer goods and services\,
-  punctuated by festive and convivial moments\\nVenue: Parc des Expositions
-  de Nancy\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-foire-expo-internationale-de-nancy-22372-1.html
-LOCATION:Nancy\, France
-URL:https://www.eventseye.com/fairs/f-foire-expo-internationale-de-nancy-22
- 372-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTER GIFT & HOMEWARE FAIR — Auckland\, New Zealand
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260616
-UID:f-winter-gift-homeware-fair-12912-1@eventseye.impio-vault
-DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
- orm for thousands of retailers and buyers in attendance exploring the late
- st products from hundreds of local and international exhibiting wholesaler
- s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-winter-gift-homeware-fair-12912-1.html
-LOCATION:Auckland\, New Zealand
-URL:https://www.eventseye.com/fairs/f-winter-gift-homeware-fair-12912-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA HOMELIFE DUBAI — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260620
-UID:f-china-homelife-dubai-20906-1@eventseye.impio-vault
-DESCRIPTION:China Homelife Dubai has grown into the biggest sourcing platfo
- rm of Chinese products in Middle East and North Africa area\\nVenue: Dubai
-  World Trade Centre (Dubai Exhibition Centre)\\nFrequency: twice a year\\n
- Source: https://www.eventseye.com/fairs/f-china-homelife-dubai-20906-1.htm
- l
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-china-homelife-dubai-20906-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA BRAND FAIR - CENTRAL AND EASTERN EUROPE — Budapest\, Hungar
- y
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260621
-UID:f-china-brand-fair-central-and-eastern-europe-34229-1@eventseye.impio-vault
-DESCRIPTION:China Brand Fair in Central and Eastern Europe. Electronics & H
- ome Appliances\, Office Supplies\, Food & Beverages\, Hotel Supplies\, Pac
- kaging Machinery\, Textiles & Apparel\, Automotive & Parts\, Electrical Eq
- uipment\, Home & Bathroom Products\, Building...\\nVenue: Budapest Fair Ce
- ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- china-brand-fair-central-and-eastern-europe-34229-1.html
-LOCATION:Budapest\, Hungary
-URL:https://www.eventseye.com/fairs/f-china-brand-fair-central-and-eastern-
- europe-34229-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DU GRAND MORVAN SAULIEU — Saulieu\, France
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260622
-UID:f-foire-du-grand-morvan-saulieu-33993-1@eventseye.impio-vault
-DESCRIPTION:The Grand Morvan Fair features over 50 exhibitors showcasing cr
- afts\, local produce\, furniture\, and home renovation. Visitors can also 
- enjoy a car show\, a funfair\, live music\, and a tasting area\\nVenue: Ha
- ll des Exposition Jean Bertin\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-foire-du-grand-morvan-saulieu-33993-1.html
-LOCATION:Saulieu\, France
-URL:https://www.eventseye.com/fairs/f-foire-du-grand-morvan-saulieu-33993-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE HOMEWARE EXPO — Hyderabad\, India
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260623
-UID:f-the-homeware-expo-33755-1@eventseye.impio-vault
-DESCRIPTION:THE HOMEWARE EXPO is an indian premier trade platform that conn
- ects global brands\, India manufacturers\, leading distributors\, and prof
- essional trade buyers in the homeware & kitchenware sector\\nVenue: Hydera
- bad International Trade Exposition Centre (HITEX)\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-the-homeware-expo-33755-1.htm
- l
-LOCATION:Hyderabad\, India
-URL:https://www.eventseye.com/fairs/f-the-homeware-expo-33755-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA HOME LIFE — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-china-home-life-29983-1@eventseye.impio-vault
-DESCRIPTION:China Homelife is the largest fair of Chinese producers in Euro
- pe. More than 500 exhibitors from sectors such as consumer electronics\, f
- ashion\, textiles and leather\, household appliances\, lighting\, home and
-  garden\, hobby...\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-china-home-life-29983-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-china-home-life-29983-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA HOMELIFE SHOW POLAND — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260626
-UID:f-china-homelife-show-poland-20905-1@eventseye.impio-vault
-DESCRIPTION:China Homelife Show is an event to facilitate making business c
- ontacts\, to inspire for action and support the development of companies\\
- nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-china-homelife-show-poland-20905-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-china-homelife-show-poland-20905-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GHANA INTERNATIONAL TRADE EXHIBITION — Accra\, Ghana
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-ghana-international-trade-exhibition-33563-1@eventseye.impio-vault
-DESCRIPTION:Ghana Trade Show is the biggest international trade fair for Gh
- ana and West & Central Africa. Automotive\, IT\, Electronics\, Constructio
- n\, Medical\, Pharmaceutical\, Food\, Hotel Supplies\, Consumer\, Househol
- d\, Industrial Machinery\, Packaging\, Printing...\\nVenue: Accra Internat
- ional Conference Centre – Grand Arena\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-ghana-international-trade-exhibition-33
- 563-1.html
-LOCATION:Accra\, Ghana
-URL:https://www.eventseye.com/fairs/f-ghana-international-trade-exhibition-
- 33563-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GHANA TRADE SHOW — Accra\, Ghana
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-ghana-trade-show-23356-1@eventseye.impio-vault
-DESCRIPTION:The Largest Commercial & Industrial Fair in Ghana. GHANA TRADE 
- SHOW features Automotive\, Building & Construction\, Consumer & Household 
- products\, Food & Hotel Supplies\, Industrial & Machinery\, IT & Electroni
- cs\, Medical & Pharma\, Plasics & Rubber\, Packagin\\nVenue: Accra Interna
- tional Conference Centre – Grand Arena\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-ghana-trade-show-23356-1.html
-LOCATION:Accra\, Ghana
-URL:https://www.eventseye.com/fairs/f-ghana-trade-show-23356-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CGHE - CHINA GIFTS HOME EXPO - SHANGHAI — Shanghai\, China
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260629
-UID:f-cghe-china-gifts-home-expo-shanghai-31845-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Gift & Household Goods Exhibition. Brand
-  gifts\, household products\, daily necessities\, Suppliers of kitchen sup
- plies\, business gifts\, environmentally friendly products\, digital appli
- ances\, cultural and creative products...\\nVenue: Shanghai New Internatio
- nal Expo Centre - SNIEC\\nFrequency: twice a year\\nSource: https://www.ev
- entseye.com/fairs/f-cghe-china-gifts-home-expo-shanghai-31845-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-cghe-china-gifts-home-expo-shanghai-3
- 1845-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WOW - WORLD OF WIPES — Nashville\, TN\, USA
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260703
-UID:f-wow-world-of-wipes-13211-1@eventseye.impio-vault
-DESCRIPTION:Conference dedicated to Wipes. Attend WOW & network with key co
- mpanies. Topics such as: community & healthare acquired infections\, trend
- s around the world\, consumer insights for new packaging solutions\, innov
- ative raw materials & additives\, airlaid wipes\\nVenue: Grand Hyatt\, Nas
- hville\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-wow-world-of-wipes-13211-1.html
-LOCATION:Nashville\, TN\, USA
-URL:https://www.eventseye.com/fairs/f-wow-world-of-wipes-13211-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZAMBIA INTERNATIONAL TRADE FAIR — Ndola\, Zambia
@@ -836,6 +627,35 @@ LOCATION:Romans-sur-Isère\, France
 URL:https://www.eventseye.com/fairs/f-foire-du-dauphine-romans-22373-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20261005
@@ -1221,364 +1041,6 @@ DESCRIPTION:International Fair of Geneva. House\, wellness\, leisure\, flav
  nales-5040-1.html
 LOCATION:Geneve\, Switzerland
 URL:https://www.eventseye.com/fairs/f-les-automnales-5040-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
-DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
-  exciting product lines will include: apparel\, bath & body\, gifts\, home
-  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
- Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
- 2-1.html
-LOCATION:Kalamazoo\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
- w-31612-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CCF - CHINA CONSUMER GOODS FAIR — Shanghai\, China
-DTSTART;VALUE=DATE:20270308
-DTEND;VALUE=DATE:20270311
-UID:f-ccf-china-consumer-goods-fair-31324-1@eventseye.impio-vault
-DESCRIPTION:Based in Shanghai and radiating through out China\, CCF is the 
- largest one-stop purchasing platform for all categories of consumer goods.
-  It also leads and demonstrates the market trends in the general merchandi
- se retail industry\\nVenue: Shanghai New International Expo Centre - SNIEC
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ccf-
- china-consumer-goods-fair-31324-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-ccf-china-consumer-goods-fair-31324-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIA-PACIFIC SOURCING — Cologne\, Germany
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270312
-UID:f-asia-pacific-sourcing-16759-1@eventseye.impio-vault
-DESCRIPTION:ASIA-PACIFIC SOURCING offers buyers from Europe and America a u
- nique opportunity to access the Asiatic offer and establish valuable busin
- ess contacts to the Far East. Tools and Products for Home and Garden\\nVen
- ue: Exhibition Centre Cologne\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270309
-DTEND;VALUE=DATE:20270311
-UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
-DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
- s Industry. Encompassing the entire supply chain of the magnetic material 
- and rare earth industries. From energy conversion\, aerospace\, to the mod
- est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-the-magnetics-show-europe-31716-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE EXPO DE NEVERS — Nevers\, France
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270322
-UID:f-foire-expo-de-nevers-26715-1@eventseye.impio-vault
-DESCRIPTION:Nevers trade fair. The opportunity to demonstrate your know-how
- \, develop your professional network and conquer new markets\\nVenue: Cent
- re des Expositions de Nevers\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
-LOCATION:Nevers\, France
-URL:https://www.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTUMN GIFT & HOMEWARE FAIR — Auckland\, New Zealand
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270317
-UID:f-autumn-gift-homeware-fair-12911-1@eventseye.impio-vault
-DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
- orm for thousands of retailers and buyers in attendance exploring the late
- st products from hundreds of local and international exhibiting wholesaler
- s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.html
-LOCATION:Auckland\, New Zealand
-URL:https://www.eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMA AARGAUER MESSE — Aarau\, Switzerland
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-ama-aargauer-messe-17839-1@eventseye.impio-vault
-DESCRIPTION:Every year in spring\, AMA is the meeting place of social life 
- within the canton of Aargau. The heart of the fair is formed by 200+ exhib
- itors. They present their innovative products and services in an attractiv
- e environment. Special shows every year\\nVenue: AMA Aargauer Messe Aarau 
- - Messegelände\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-ama-aargauer-messe-17839-1.html
-LOCATION:Aarau\, Switzerland
-URL:https://www.eventseye.com/fairs/f-ama-aargauer-messe-17839-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBO — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-ibo-5133-1@eventseye.impio-vault
-DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
- , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
- tyle... Meet\, have fun\, marvel at new things\, experience something toge
- ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE RENNES — Rennes\, France
-DTSTART;VALUE=DATE:20270320
-DTEND;VALUE=DATE:20270330
-UID:f-foire-internationale-de-rennes-1042-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Rennes. Furniture\, Home\, Garden\, Carav
- anning\, Gastronomy\, Agriculture...\\nVenue: Parc-Expo de Rennes-Aéropor
- t\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-foi
- re-internationale-de-rennes-1042-1.html
-LOCATION:Rennes\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-rennes-1042-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAND SHOW — Johannesburg\, South Africa
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270330
-UID:f-rand-show-13239-1@eventseye.impio-vault
-DESCRIPTION:The Rand Show is South Africa’s largest consumer show. From l
- ifestyle exhibits\, shopping and great deals\, to a top-class line-up of e
- ntertainment perfect for the whole family\\nVenue: Johannesburg Expo Centr
- e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ran
- d-show-13239-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-rand-show-13239-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE LYON — Lyon\, France
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270406
-UID:f-foire-internationale-de-lyon-1031-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Lyon. The International Fair of Lyon\, a 
- leading trade event for many companies\, a recreational place & a world of
-  exhibitors here to help you equip yourselves\, feast\, with your well bie
- ng & Lifestyle\, your Travels\, relooking & more\\nVenue: Eurexpo\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-interna
- tionale-de-lyon-1031-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-lyon-1031-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE-EXPOSITION D'ORLÉANS — Orleans\, France
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270412
-UID:f-foire-exposition-d-orleans-22368-1@eventseye.impio-vault
-DESCRIPTION:Orléans Fair & Exhibition. This unmissable event in the Centre
- -Val de Loire region brings together 250 exhibitors from all over France\,
-  for an original and diversified commercial offer\\nVenue: Parc des exposi
- tions d'Orléans\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-foire-exposition-d-orleans-22368-1.html
-LOCATION:Orleans\, France
-URL:https://www.eventseye.com/fairs/f-foire-exposition-d-orleans-22368-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FREIZEIT MESSE + VERGNÜGUNGSPARK — Klagenfurt\, Austria
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270405
-UID:f-freizeit-messe-vergnugungspark-18307-1@eventseye.impio-vault
-DESCRIPTION:Spring Fair for Travel\, Sports\, Fashion and Garden. Find out 
- about various holiday and excursion destinations\, or get tips for leisure
-  activities in your own garden\\nVenue: Klagenfurter Messe\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-freizeit-messe-vergn
- ugungspark-18307-1.html
-LOCATION:Klagenfurt\, Austria
-URL:https://www.eventseye.com/fairs/f-freizeit-messe-vergnugungspark-18307-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRIVATE LABEL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270409
-UID:f-private-label-25517-1@eventseye.impio-vault
-DESCRIPTION:Exclusively geared to the market of Private Brands and Outsourc
- ing\, Private Label offers companies operating in different segments – i
- ndustries\, wholesalers\, distributors\, retailers and service providers 
- – a rich space to meet potential customers\\nVenue: Parque Anhembi\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-private-la
- bel-25517-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-private-label-25517-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCHAU! — Dornbirn\, Austria
-DTSTART;VALUE=DATE:20270408
-DTEND;VALUE=DATE:20270412
-UID:f-schau!-28067-1@eventseye.impio-vault
-DESCRIPTION:Exhibition dedicated to garden\, living\, leisure\, enjoyment a
- nd mobility. Around 280 exhibitors present products related to gardening\,
-  health\, leisure\, food & wine\, home and household goods\\nVenue: Dornbi
- rner Messe\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-schau!-28067-1.html
-LOCATION:Dornbirn\, Austria
-URL:https://www.eventseye.com/fairs/f-schau!-28067-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE TOULOUSE — Toulouse\, France
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270419
-UID:f-foire-internationale-de-toulouse-12854-1@eventseye.impio-vault
-DESCRIPTION:Toulouse International Fair. Interior and Exterior Decoration a
- nd Fittings. Shopping\, Fashion\, DIY. Gastronomy\\nVenue: MEETT - Parc de
- s Expositions et Centre de Conventions\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-foire-internationale-de-toulouse-12854-1
- .html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-toulouse-1285
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ULTIMATE WOMEN'S SHOW - ARIZONA — Phoenix\, AZ\, USA
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270412
-UID:f-the-ultimate-women-s-show-arizona-25630-1@eventseye.impio-vault
-DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
-  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
- e Experience for women\\nVenue: Phoenix Convention Center\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-the-ultimate-women-s-
- show-arizona-25630-1.html
-LOCATION:Phoenix\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-arizona-256
- 30-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SOBMAEXPO — Moscow\, Russia
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270415
-UID:f-sobmaexpo-29706-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Contract Manufacturing and Private
-  Label Market. the key meeting point for retailers\, brand owners and cont
- ract manufacturers from all over Russia\, CIS and other countries\\nVenue:
-  Crocus-Expo IEC\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-sobmaexpo-29706-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-sobmaexpo-29706-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CIDPEX — Nanjing\, China
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270418
-UID:f-cidpex-13585-1@eventseye.impio-vault
-DESCRIPTION:CIDPEX is the world's largest exhibition of tissue and disposab
- le hygiene products. It covers upstream and downstream of the industry cha
- in of tissue paper\, baby/adult diapers\, sanitary napkins\, wipes\, raw/a
- uxiliary materials and machinery\\nVenue: Nanjing International Expo Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cid
- pex-13585-1.html
-LOCATION:Nanjing\, China
-URL:https://www.eventseye.com/fairs/f-cidpex-13585-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFFA — St. Gallen\, Switzerland
-DTSTART;VALUE=DATE:20270421
-DTEND;VALUE=DATE:20270426
-UID:f-offa-19018-1@eventseye.impio-vault
-DESCRIPTION:St. Gallen Spring Fair. Many attractions\, special shows and hi
- ghlights plus a wide range of products including local gourmet foods\\nVen
- ue: Olma Messen St. Gallen\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-offa-19018-1.html
-LOCATION:St. Gallen\, Switzerland
-URL:https://www.eventseye.com/fairs/f-offa-19018-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GLOBAL SOURCING FAIR VIETNAM — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270425
-UID:f-global-sourcing-fair-vietnam-31120-1@eventseye.impio-vault
-DESCRIPTION:GLOBAL SOURCING FAIR VIETNAM is the Must-Attend sourcing expo f
- or global buyers seeking verified suppliers. Fashion & Accessories\, Perso
- nal Care & Wellness\, Home & Gifts\, Décor & Furniture\, Handicrafts\, El
- ectronics & Home Appliances\, Gardening & Tools...\\nVenue: Saigon Exhibit
- ion & Convention Center - SECC\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-global-sourcing-fair-vietnam-31120-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-global-sourcing-fair-vietnam-31120-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RHEINTAL MESSE UND EVENT — St. Gallen\, Switzerland
-DTSTART;VALUE=DATE:20270423
-DTEND;VALUE=DATE:20270502
-UID:f-rheintal-messe-und-event-33785-1@eventseye.impio-vault
-DESCRIPTION:RHEMA (Rheintaler Messe Altstätten) is an important regional f
- air in Altstätten\, focused on trade\, crafts\, industry\, agriculture\, 
- tourism and gastronomy\\nVenue: Allmend Rheintal\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-rheintal-messe-und-event-33785
- -1.html
-LOCATION:St. Gallen\, Switzerland
-URL:https://www.eventseye.com/fairs/f-rheintal-messe-und-event-33785-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA (SHENZHEN) INTERNATIONAL GIFTS\, HANDICRAFTS\, WATCHES & HOUS
- EWARE FAIR - SPRING — Shenzhen\, China
-DTSTART;VALUE=DATE:20270425
-DTEND;VALUE=DATE:20270429
-UID:f-china-(shenzhen)-international-gifts-handicrafts-watches-houseware-fair-spring-20031-1@eventseye.impio-vault
-DESCRIPTION:China (Shenzhen) International Gifts\, Handicrafts\, Watches & 
- Houseware Fair. Over 5\, 000 exhibitors with more than 1\, 000\, 000 premi
- um brand gift and homeware products are expected on-site\\nVenue: Shenzhen
-  World Exhibition & Convention Center\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-hand
- icrafts-watches-houseware-fair-spring-20031-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-
- handicrafts-watches-houseware-fair-spring-20031-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE PARIS — Paris\, France
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270511
-UID:f-foire-internationale-de-paris-1041-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Paris. Home & Habitat\, Craft and Culture
-  of the World and Well-being\, Fashion and Accessories\, Leisure & Practic
- al Life\, Wines & Gastronomy\\nVenue: Paris Expo Porte de Versailles\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
- rnationale-de-paris-1041-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-paris-1041-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIETNAM EXPO - HANOI — Hanoi\, Vietnam
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270516
-UID:f-vietnam-expo-hanoi-10455-1@eventseye.impio-vault
-DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
- ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
- represent 20 countries\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-
- 10455-1.html
-LOCATION:Hanoi\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APAS SHOW — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-apas-show-27649-1@eventseye.impio-vault
-DESCRIPTION:Congress and trade fair for supermarkets. Food\, Beverages\, Be
- auty\, Health\, Hygiene\, Groceries\, Perishables\, Frozen\, Dairy\, Pet S
- tores\, Supplies and Packaging\, Automation and Technology\, Services...\\
- nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-apas-show-27649-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-apas-show-27649-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WINTERFAIR HARDENGERG — Hardenberg\, Netherlands
@@ -2035,6 +1497,378 @@ LOCATION:Nîmes\, France
 URL:https://www.eventseye.com/fairs/f-foire-de-nimes-22852-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
+DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
+  exciting product lines will include: apparel\, bath & body\, gifts\, home
+  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
+ Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
+ 2-1.html
+LOCATION:Kalamazoo\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
+ w-31612-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCF - CHINA CONSUMER GOODS FAIR — Shanghai\, China
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270311
+UID:f-ccf-china-consumer-goods-fair-31324-1@eventseye.impio-vault
+DESCRIPTION:Based in Shanghai and radiating through out China\, CCF is the 
+ largest one-stop purchasing platform for all categories of consumer goods.
+  It also leads and demonstrates the market trends in the general merchandi
+ se retail industry\\nVenue: Shanghai New International Expo Centre - SNIEC
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ccf-
+ china-consumer-goods-fair-31324-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-ccf-china-consumer-goods-fair-31324-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASIA-PACIFIC SOURCING — Cologne\, Germany
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270312
+UID:f-asia-pacific-sourcing-16759-1@eventseye.impio-vault
+DESCRIPTION:ASIA-PACIFIC SOURCING offers buyers from Europe and America a u
+ nique opportunity to access the Asiatic offer and establish valuable busin
+ ess contacts to the Far East. Tools and Products for Home and Garden\\nVen
+ ue: Exhibition Centre Cologne\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-asia-pacific-sourcing-16759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE MAGNETICS SHOW EUROPE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270311
+UID:f-the-magnetics-show-europe-31716-1@eventseye.impio-vault
+DESCRIPTION:Supply Chain Expo & Technical Programme for the Global Magnetic
+ s Industry. Encompassing the entire supply chain of the magnetic material 
+ and rare earth industries. From energy conversion\, aerospace\, to the mod
+ est refrigerator magnet\\nVenue: RAI International Exhibition and Congress
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-the-magnetics-show-europe-31716-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-the-magnetics-show-europe-31716-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EXPO DE NEVERS — Nevers\, France
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270322
+UID:f-foire-expo-de-nevers-26715-1@eventseye.impio-vault
+DESCRIPTION:Nevers trade fair. The opportunity to demonstrate your know-how
+ \, develop your professional network and conquer new markets\\nVenue: Cent
+ re des Expositions de Nevers\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
+LOCATION:Nevers\, France
+URL:https://www.eventseye.com/fairs/f-foire-expo-de-nevers-26715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTUMN GIFT & HOMEWARE FAIR — Auckland\, New Zealand
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270317
+UID:f-autumn-gift-homeware-fair-12911-1@eventseye.impio-vault
+DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
+ orm for thousands of retailers and buyers in attendance exploring the late
+ st products from hundreds of local and international exhibiting wholesaler
+ s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.html
+LOCATION:Auckland\, New Zealand
+URL:https://www.eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMA AARGAUER MESSE — Aarau\, Switzerland
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-ama-aargauer-messe-17839-1@eventseye.impio-vault
+DESCRIPTION:Every year in spring\, AMA is the meeting place of social life 
+ within the canton of Aargau. The heart of the fair is formed by 200+ exhib
+ itors. They present their innovative products and services in an attractiv
+ e environment. Special shows every year\\nVenue: AMA Aargauer Messe Aarau 
+ - Messegelände\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-ama-aargauer-messe-17839-1.html
+LOCATION:Aarau\, Switzerland
+URL:https://www.eventseye.com/fairs/f-ama-aargauer-messe-17839-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBO — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-ibo-5133-1@eventseye.impio-vault
+DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
+ , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
+ tyle... Meet\, have fun\, marvel at new things\, experience something toge
+ ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE RENNES — Rennes\, France
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270330
+UID:f-foire-internationale-de-rennes-1042-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Rennes. Furniture\, Home\, Garden\, Carav
+ anning\, Gastronomy\, Agriculture...\\nVenue: Parc-Expo de Rennes-Aéropor
+ t\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-foi
+ re-internationale-de-rennes-1042-1.html
+LOCATION:Rennes\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-rennes-1042-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAND SHOW — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270330
+UID:f-rand-show-13239-1@eventseye.impio-vault
+DESCRIPTION:The Rand Show is South Africa’s largest consumer show. From l
+ ifestyle exhibits\, shopping and great deals\, to a top-class line-up of e
+ ntertainment perfect for the whole family\\nVenue: Johannesburg Expo Centr
+ e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ran
+ d-show-13239-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-rand-show-13239-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE LYON — Lyon\, France
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270406
+UID:f-foire-internationale-de-lyon-1031-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Lyon. The International Fair of Lyon\, a 
+ leading trade event for many companies\, a recreational place & a world of
+  exhibitors here to help you equip yourselves\, feast\, with your well bie
+ ng & Lifestyle\, your Travels\, relooking & more\\nVenue: Eurexpo\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-interna
+ tionale-de-lyon-1031-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-lyon-1031-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE-EXPOSITION D'ORLÉANS — Orleans\, France
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270412
+UID:f-foire-exposition-d-orleans-22368-1@eventseye.impio-vault
+DESCRIPTION:Orléans Fair & Exhibition. This unmissable event in the Centre
+ -Val de Loire region brings together 250 exhibitors from all over France\,
+  for an original and diversified commercial offer\\nVenue: Parc des exposi
+ tions d'Orléans\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-foire-exposition-d-orleans-22368-1.html
+LOCATION:Orleans\, France
+URL:https://www.eventseye.com/fairs/f-foire-exposition-d-orleans-22368-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREIZEIT MESSE + VERGNÜGUNGSPARK — Klagenfurt\, Austria
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+UID:f-freizeit-messe-vergnugungspark-18307-1@eventseye.impio-vault
+DESCRIPTION:Spring Fair for Travel\, Sports\, Fashion and Garden. Find out 
+ about various holiday and excursion destinations\, or get tips for leisure
+  activities in your own garden\\nVenue: Klagenfurter Messe\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-freizeit-messe-vergn
+ ugungspark-18307-1.html
+LOCATION:Klagenfurt\, Austria
+URL:https://www.eventseye.com/fairs/f-freizeit-messe-vergnugungspark-18307-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRIVATE LABEL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270409
+UID:f-private-label-25517-1@eventseye.impio-vault
+DESCRIPTION:Exclusively geared to the market of Private Brands and Outsourc
+ ing\, Private Label offers companies operating in different segments – i
+ ndustries\, wholesalers\, distributors\, retailers and service providers 
+ – a rich space to meet potential customers\\nVenue: Parque Anhembi\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-private-la
+ bel-25517-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-private-label-25517-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCHAU! — Dornbirn\, Austria
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+UID:f-schau!-28067-1@eventseye.impio-vault
+DESCRIPTION:Exhibition dedicated to garden\, living\, leisure\, enjoyment a
+ nd mobility. Around 280 exhibitors present products related to gardening\,
+  health\, leisure\, food & wine\, home and household goods\\nVenue: Dornbi
+ rner Messe\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-schau!-28067-1.html
+LOCATION:Dornbirn\, Austria
+URL:https://www.eventseye.com/fairs/f-schau!-28067-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE TOULOUSE — Toulouse\, France
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270419
+UID:f-foire-internationale-de-toulouse-12854-1@eventseye.impio-vault
+DESCRIPTION:Toulouse International Fair. Interior and Exterior Decoration a
+ nd Fittings. Shopping\, Fashion\, DIY. Gastronomy\\nVenue: MEETT - Parc de
+ s Expositions et Centre de Conventions\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-foire-internationale-de-toulouse-12854-1
+ .html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-toulouse-1285
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ULTIMATE WOMEN'S SHOW - ARIZONA — Phoenix\, AZ\, USA
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270412
+UID:f-the-ultimate-women-s-show-arizona-25630-1@eventseye.impio-vault
+DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
+  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
+ e Experience for women\\nVenue: Phoenix Convention Center\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-the-ultimate-women-s-
+ show-arizona-25630-1.html
+LOCATION:Phoenix\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-arizona-256
+ 30-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOBMAEXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270415
+UID:f-sobmaexpo-29706-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Contract Manufacturing and Private
+  Label Market. the key meeting point for retailers\, brand owners and cont
+ ract manufacturers from all over Russia\, CIS and other countries\\nVenue:
+  Crocus-Expo IEC\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-sobmaexpo-29706-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-sobmaexpo-29706-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CIDPEX — Nanjing\, China
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270418
+UID:f-cidpex-13585-1@eventseye.impio-vault
+DESCRIPTION:CIDPEX is the world's largest exhibition of tissue and disposab
+ le hygiene products. It covers upstream and downstream of the industry cha
+ in of tissue paper\, baby/adult diapers\, sanitary napkins\, wipes\, raw/a
+ uxiliary materials and machinery\\nVenue: Nanjing International Expo Cente
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cid
+ pex-13585-1.html
+LOCATION:Nanjing\, China
+URL:https://www.eventseye.com/fairs/f-cidpex-13585-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EXPOSITION D'ANGERS — Angers\, France
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270420
+UID:f-foire-exposition-d-angers-3160-1@eventseye.impio-vault
+DESCRIPTION:Angers Trade Fair. Housing\, Furniture\, Real Estate\, Garden\,
+  Swimming Pool\, Tourism\, Leisure & Motorhomes\, Shopping\, Crafts\, Wine
+ \, Gastronomy\, Mobility\, Workshops & Creative Leisure\, Personal Service
+ s\, Higher Education...\\nVenue: Angers Parc Expo\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-foire-exposition-d-angers-316
+ 0-1.html
+LOCATION:Angers\, France
+URL:https://www.eventseye.com/fairs/f-foire-exposition-d-angers-3160-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFFA — St. Gallen\, Switzerland
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270426
+UID:f-offa-19018-1@eventseye.impio-vault
+DESCRIPTION:St. Gallen Spring Fair. Many attractions\, special shows and hi
+ ghlights plus a wide range of products including local gourmet foods\\nVen
+ ue: Olma Messen St. Gallen\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-offa-19018-1.html
+LOCATION:St. Gallen\, Switzerland
+URL:https://www.eventseye.com/fairs/f-offa-19018-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL SOURCING FAIR VIETNAM — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270425
+UID:f-global-sourcing-fair-vietnam-31120-1@eventseye.impio-vault
+DESCRIPTION:GLOBAL SOURCING FAIR VIETNAM is the Must-Attend sourcing expo f
+ or global buyers seeking verified suppliers. Fashion & Accessories\, Perso
+ nal Care & Wellness\, Home & Gifts\, Décor & Furniture\, Handicrafts\, El
+ ectronics & Home Appliances\, Gardening & Tools...\\nVenue: Saigon Exhibit
+ ion & Convention Center - SECC\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-global-sourcing-fair-vietnam-31120-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-global-sourcing-fair-vietnam-31120-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RHEINTAL MESSE UND EVENT — St. Gallen\, Switzerland
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270502
+UID:f-rheintal-messe-und-event-33785-1@eventseye.impio-vault
+DESCRIPTION:RHEMA (Rheintaler Messe Altstätten) is an important regional f
+ air in Altstätten\, focused on trade\, crafts\, industry\, agriculture\, 
+ tourism and gastronomy\\nVenue: Allmend Rheintal\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-rheintal-messe-und-event-33785
+ -1.html
+LOCATION:St. Gallen\, Switzerland
+URL:https://www.eventseye.com/fairs/f-rheintal-messe-und-event-33785-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA (SHENZHEN) INTERNATIONAL GIFTS\, HANDICRAFTS\, WATCHES & HOUS
+ EWARE FAIR - SPRING — Shenzhen\, China
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270429
+UID:f-china-(shenzhen)-international-gifts-handicrafts-watches-houseware-fair-spring-20031-1@eventseye.impio-vault
+DESCRIPTION:China (Shenzhen) International Gifts\, Handicrafts\, Watches & 
+ Houseware Fair. Over 5\, 000 exhibitors with more than 1\, 000\, 000 premi
+ um brand gift and homeware products are expected on-site\\nVenue: Shenzhen
+  World Exhibition & Convention Center\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-hand
+ icrafts-watches-houseware-fair-spring-20031-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-china-(shenzhen)-international-gifts-
+ handicrafts-watches-houseware-fair-spring-20031-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE PARIS — Paris\, France
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270511
+UID:f-foire-internationale-de-paris-1041-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Paris. Home & Habitat\, Craft and Culture
+  of the World and Well-being\, Fashion and Accessories\, Leisure & Practic
+ al Life\, Wines & Gastronomy\\nVenue: Paris Expo Porte de Versailles\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-inte
+ rnationale-de-paris-1041-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-paris-1041-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM EXPO - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+UID:f-vietnam-expo-hanoi-10455-1@eventseye.impio-vault
+DESCRIPTION:VIETNAM EXPO\, Vietnam's international fair\, presents a wide v
+ ariety of advanced products and innovative solutions. 1\, 200+ exhibitors 
+ represent 20 countries\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-
+ 10455-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-expo-hanoi-10455-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APAS SHOW — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-apas-show-27649-1@eventseye.impio-vault
+DESCRIPTION:Congress and trade fair for supermarkets. Food\, Beverages\, Be
+ auty\, Health\, Hygiene\, Groceries\, Perishables\, Frozen\, Dairy\, Pet S
+ tores\, Supplies and Packaging\, Automation and Technology\, Services...\\
+ nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-apas-show-27649-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-apas-show-27649-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270527
@@ -2047,34 +1881,5 @@ DESCRIPTION:World of Private Label International Trade Show & Conference. P
  .eventseye.com/fairs/f-plma-international-6592-1.html
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
 END:VEVENT
 END:VCALENDAR

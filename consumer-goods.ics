@@ -627,35 +627,6 @@ LOCATION:Romans-sur-Isère\, France
 URL:https://www.eventseye.com/fairs/f-foire-du-dauphine-romans-22373-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20261005
@@ -1054,6 +1025,21 @@ DESCRIPTION:Hardenberg Winter Fair. Shopping\, fashion\, home accessories\,
  .html
 LOCATION:Hardenberg\, Netherlands
 URL:https://www.eventseye.com/fairs/f-winterfair-hardengerg-31962-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CGHE - CHINA GIFTS HOME EXPO - SHANGHAI — Shanghai\, China
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261113
+UID:f-cghe-china-gifts-home-expo-shanghai-31845-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Gift & Household Goods Exhibition. Brand
+  gifts\, household products\, daily necessities\, Suppliers of kitchen sup
+ plies\, business gifts\, environmentally friendly products\, digital appli
+ ances\, cultural and creative products...\\nVenue: Shanghai New Internatio
+ nal Expo Centre - SNIEC\\nFrequency: twice a year\\nSource: https://www.ev
+ entseye.com/fairs/f-cghe-china-gifts-home-expo-shanghai-31845-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-cghe-china-gifts-home-expo-shanghai-3
+ 1845-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FAMILIENMESSE + FRAUENMESSE — Klagenfurt\, Austria
@@ -1881,5 +1867,34 @@ DESCRIPTION:World of Private Label International Trade Show & Conference. P
  .eventseye.com/fairs/f-plma-international-6592-1.html
 LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
 END:VEVENT
 END:VCALENDAR

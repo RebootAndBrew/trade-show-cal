@@ -1449,6 +1449,23 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-weld-tech-30000-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AMTXP - ASEAN INTERNATIONAL MACHINERY EQUIPMENT & TECHNOLOGY EXHIBI
+ TION — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+UID:f-amtxp-asean-international-machinery-equipment-technology-exhibition-34502-1@eventseye.impio-vault
+DESCRIPTION:AMTXP focuses on printing & packaging machinery\, rubber & plas
+ tic equipment\, smart manufacturing and industrial processing machinery\, 
+ gathering hundreds of exhibitors and thousands of professional buyers from
+  Southeast Asia and global markets\\nVenue: Impact Exhibition & Convention
+  Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-amtxp-asean-international-machinery-equipment-technology-exhibition-345
+ 02-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-amtxp-asean-international-machinery-e
+ quipment-technology-exhibition-34502-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IDENTITY WEEK - AMERICA — Washington D.C.\, USA
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260904
@@ -3470,8 +3487,9 @@ UID:f-izb-internationale-zuliefererborse-34042-1@eventseye.impio-vault
 DESCRIPTION:IZB\, International Suppliers Fair\, is aimed at automotive sup
  pliers and enjoys a high reputation in the international industry. It is o
  ne of the most important communication and business platforms in the autom
- obile sector\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-izb-internationale-zuliefererborse-34042-1.html
+ obile sector\\nVenue: Allerpark Wolfsburg\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-
+ 34042-1.html
 LOCATION:Wolfsburg\, Germany
 URL:https://www.eventseye.com/fairs/f-izb-internationale-zuliefererborse-34
  042-1.html
@@ -6356,6 +6374,20 @@ LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-data-centre-world-31305-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOOD PACK ASIA — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270314
+UID:f-food-pack-asia-17883-1@eventseye.impio-vault
+DESCRIPTION:Food Processing and Packaging Industry International Exhibition
+ . FOOD PACK ASIA features Food Processing & Drink Technologies\, Packaging
+  Technology\, Confectionery machinery & Bakery Equipment\, Hotel & Restaur
+ ant Equipment\, Food & Beverage\\nVenue: Bangkok International Trade & Exh
+ ibition Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-food-pack-asia-17883-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-food-pack-asia-17883-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INTELLIGENT ASIA THAILAND — Bangkok\, Thailand
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270313
@@ -7422,6 +7454,48 @@ LOCATION:Seoul\, Korea South
 URL:https://www.eventseye.com/fairs/f-korea-mat-19438-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AMK - AUTOTRONICS MANUFACTURING KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-amk-autotronics-manufacturing-korea-26063-1@eventseye.impio-vault
+DESCRIPTION:AMK encompasses the latest automotive electronics and its manuf
+ acturing process. As part of EMK (Electronics Manufacturing Korea)\\nVenue
+ : COEX Exhibition Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-amk-autotronics-manufacturing-korea-26063-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-amk-autotronics-manufacturing-korea-2
+ 6063-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTOMOTIVE WORLD KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-automotive-world-korea-30490-1@eventseye.impio-vault
+DESCRIPTION:Automotive World Korea is specialized in automobile manufacturi
+ ng where all the products/technologies that make up automobiles. Automobil
+ e parts/processing technologies\, lightweight parts/technologies\, automob
+ ile electronics\, EV/HV/FCV\, autonomous drivin\\nVenue: COEX Exhibition C
+ enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -automotive-world-korea-30490-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-automotive-world-korea-30490-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMK - ELECTRONICS MANUFACTURING KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-emk-electronics-manufacturing-korea-26064-1@eventseye.impio-vault
+DESCRIPTION:EMK (Electronics Manufacturing Korea) is renowned as the larges
+ t show within the industry\, and has been representing the Korean electron
+ ics manufacturing market with the latest technological trends in all of it
+ s related fields\\nVenue: COEX Exhibition Center\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-emk-electronics-manufacturing-
+ korea-26064-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-emk-electronics-manufacturing-korea-2
+ 6064-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INATRONICS — Jakarta\, Indonesia
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270424
@@ -7485,6 +7559,18 @@ DESCRIPTION:Korea Factory Automation System Show. Automation & Smart Factor
  w.eventseye.com/fairs/f-kofas-32829-1.html
 LOCATION:Changwon\, Korea South
 URL:https://www.eventseye.com/fairs/f-kofas-32829-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LED PACKAGING EXPO — Seoul\, Korea South
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270424
+UID:f-led-packaging-expo-15420-1@eventseye.impio-vault
+DESCRIPTION:LED\, BLU\, Electronic Components Manufacturing Equipment & Mat
+ erials International Tradeshow\\nVenue: COEX Exhibition Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-led-packaging-ex
+ po-15420-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-led-packaging-expo-15420-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SMART HOME+CITY INDONESIA — Jakarta\, Indonesia
@@ -7715,16 +7801,17 @@ LOCATION:Kuala Lumpur\, Malaysia
 URL:https://www.eventseye.com/fairs/f-metaltech-malaysia-8079-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PLASTASIA — Bangalore\, India
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270511
-UID:f-plastasia-26704-1@eventseye.impio-vault
-DESCRIPTION:PLASTASIA will showcase the latest technology and machineries u
- sed in manufacturing of plastics and petrochemicals\\nVenue: Bangalore Int
- ernational Exhibition Centre (BIEC)\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-plastasia-26704-1.html
-LOCATION:Bangalore\, India
-URL:https://www.eventseye.com/fairs/f-plastasia-26704-1.html
+SUMMARY:WORLD RECYCLING CONVENTION — Milan\, Italy
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270507
+UID:f-world-recycling-convention-30989-1@eventseye.impio-vault
+DESCRIPTION:The World Recycling Convention (Recycling Week) is an internati
+ onal educational & business conference for recycling\, circular economy\, 
+ and material science professionals\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-world-recycling-convention-30989-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-world-recycling-convention-30989-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ASIAN BUILDTEX — Hong Kong\, Hong Kong
@@ -8311,6 +8398,18 @@ LOCATION:Malmö\, Sweden
 URL:https://www.eventseye.com/fairs/f-underhallsteknik-32385-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PLASTASIA — New Delhi\, India
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+UID:f-plastasia-26704-1@eventseye.impio-vault
+DESCRIPTION:PLASTASIA will showcase the latest technology and machineries u
+ sed in manufacturing of plastics and petrochemicals\\nVenue: Pragati Maida
+ n\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-p
+ lastasia-26704-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-plastasia-26704-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FA&M (FOOD AUTOMATION & MANUFACTURING CONFERENCE & EXPO) — Rosemo
  nt\, IL\, USA
 DTSTART;VALUE=DATE:20270524
@@ -8501,6 +8600,21 @@ URL:https://www.eventseye.com/fairs/f-logistics-automation-hamburg-30077-1.
  html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ADAS & AUTONOMOUS VEHICLE TECHNOLOGY EXPO EUROPE — Stuttgart\, Ge
+ rmany
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270604
+UID:f-adas-autonomous-vehicle-technology-expo-europe-31377-1@eventseye.impio-vault
+DESCRIPTION:ADAS & Autonomous Vehicle Technology Expo is Europe's most infl
+ uential hub for automotive innovation\, research and development\\nVenue: 
+ Liederhalle Stuttgart\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-adas-autonomous-vehicle-technology-expo-europe-31377-1.ht
+ ml
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-adas-autonomous-vehicle-technology-ex
+ po-europe-31377-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI & BIG DATA SHOW — Seoul\, Korea South
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270605
@@ -8604,6 +8718,18 @@ DESCRIPTION:International Machine Components and Metal Working Fair. Part o
  23178-1.html
 LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-win-metal-working-23178-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELEKTRO — Moscow\, Russia
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270610
+UID:f-elektro-14949-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Electrical Equipment for Power and
+  Electrical Engineering\, Automation\, Lighting Engineering\\nVenue: Crocu
+ s-Expo IEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-elektro-14949-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-elektro-14949-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISC - HIGH PERFORMANCE — Hamburg\, Germany

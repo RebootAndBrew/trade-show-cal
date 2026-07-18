@@ -630,18 +630,6 @@ LOCATION:Lima\, Peru
 URL:https://www.eventseye.com/fairs/f-gastromaq-33560-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INDOBUILDTECH EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260713
-UID:f-indobuildtech-expo-26833-1@eventseye.impio-vault
-DESCRIPTION:Indonesian Building and Interiors Industry Expo. The Biggest Bu
- ilding Material\, Architecture & Interior Expo in Indonesia\\nVenue: ICE -
-  Indonesian Convention Exhibition\\nFrequency: twice a year\\nSource: http
- s://www.eventseye.com/fairs/f-indobuildtech-expo-26833-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indobuildtech-expo-26833-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LIGHTEXPO AFRICA - KENYA — Nairobi\, Kenya
 DTSTART;VALUE=DATE:20260708
 DTEND;VALUE=DATE:20260711
@@ -719,9 +707,9 @@ UID:f-affair-of-the-heart-tulsa-32933-1@eventseye.impio-vault
 DESCRIPTION:The Affair of the Heart shows are committed to showcasing talen
  ted artisans\, crafters and independent retailers to the public in support
   of their crafts and the entire arts and crafts industry\\nVenue: Exchange
-  Center - Expo Square - Tulsa Expo Center\\nFrequency: twice a year\\nSour
- ce: https://www.eventseye.com/fairs/f-affair-of-the-heart-tulsa-32933-1.ht
- ml
+  Center - Expo Square - Tulsa Expo Center\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-affair-of-the-heart-tulsa-32933-1.htm
+ l
 LOCATION:Tulsa\, OK\, USA
 URL:https://www.eventseye.com/fairs/f-affair-of-the-heart-tulsa-32933-1.htm
  l
@@ -1638,19 +1626,6 @@ URL:https://www.eventseye.com/fairs/f-wedding-service-banquet-expo-beauty-f
  iesta-5724-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KNOKKE ART FAIR — Knokke-Heist\, Belgium
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260817
-UID:f-knokke-art-fair-29098-1@eventseye.impio-vault
-DESCRIPTION:​ The KNOKKE ART FAIR is a fully independent art fair\, focus
- sing on quality with a competent vetting taking place. An international wi
- ndow onto the current high-end scene of modern & contemporary art\\nVenue:
-  Grand Casino Knokke\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-knokke-art-fair-29098-1.html
-LOCATION:Knokke-Heist\, Belgium
-URL:https://www.eventseye.com/fairs/f-knokke-art-fair-29098-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:REED GIFT FAIRS - MELBOURNE — Melbourne\, Australia
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260813
@@ -1804,6 +1779,19 @@ DESCRIPTION:International Antiques & Collectors Fair. Newark International
 LOCATION:Newark-on-Trent\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-newark-international-antiques-collect
  ors-fair-10117-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KNOKKE ART FAIR — Knokke-Heist\, Belgium
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+UID:f-knokke-art-fair-29098-1@eventseye.impio-vault
+DESCRIPTION:​ The KNOKKE ART FAIR is a fully independent art fair\, focus
+ sing on quality with a competent vetting taking place. An international wi
+ ndow onto the current high-end scene of modern & contemporary art\\nVenue:
+  Hôtel La Réserve - Knokke\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-knokke-art-fair-29098-1.html
+LOCATION:Knokke-Heist\, Belgium
+URL:https://www.eventseye.com/fairs/f-knokke-art-fair-29098-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LEBENSART MESSE - BEETZSEEHEIDE — Beetzseeheide\, Germany
@@ -2502,9 +2490,11 @@ DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 UID:f-building-a-country-house-29144-1@eventseye.impio-vault
 DESCRIPTION:Exhibition of suburban housing construction\, building material
- s and engineering systems\\nVenue: ExpoForum Convention and Exhibition Cen
- tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-b
- uilding-a-country-house-29144-1.html
+ s and engineering systems. Prefabricated homes and construction services\,
+  Heating\, water supply\, sewerage\, finishing materials\, Fireplaces and 
+ stoves...\\nVenue: ExpoForum Convention and Exhibition Centre\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-building-a-countr
+ y-house-29144-1.html
 LOCATION:St. Petersburg\, Russia
 URL:https://www.eventseye.com/fairs/f-building-a-country-house-29144-1.html
 END:VEVENT
@@ -2546,6 +2536,20 @@ DESCRIPTION:Enjoy the end of summer in the beautiful surroundings of Staats
  el-28017-1.html
 LOCATION:Kassel\, Germany
 URL:https://www.eventseye.com/fairs/f-herbstzauber-kassel-28017-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HERBSTZAUBER - LAUBACH — Laubach\, Germany
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-herbstzauber-laubach-31934-1@eventseye.impio-vault
+DESCRIPTION:Enjoy the end of summer in the beautiful surroundings of Laubac
+ h Castle. Perennial plants\, rare ornamental shrubs\, winter herbs and flo
+ wers\, vegetable garden plants. A regional culinary offer. Lots of ideas f
+ or the garden and the house\\nVenue: Schloss Laubach\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-herbstzauber-laubach-31934
+ -1.html
+LOCATION:Laubach\, Germany
+URL:https://www.eventseye.com/fairs/f-herbstzauber-laubach-31934-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LEBENSART MESSE - BURG STARGARD — Burg Stargard\, Germany
@@ -3750,6 +3754,18 @@ URL:https://www.eventseye.com/fairs/f-hotel-food-service-suppliers-show-man
  ila-23107-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INDOBUILDTECH EXPO — Surabaya\, Indonesia
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260921
+UID:f-indobuildtech-expo-26833-1@eventseye.impio-vault
+DESCRIPTION:Indonesian Building and Interiors Industry Expo. The Biggest Bu
+ ilding Material\, Architecture & Interior Expo in Indonesia\\nVenue: Grand
+  City Convention & Exhibition Centre\\nFrequency: twice a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-indobuildtech-expo-26833-1.html
+LOCATION:Surabaya\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indobuildtech-expo-26833-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:INTERMOB — Istanbul\, Turkey
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260921
@@ -3827,6 +3843,17 @@ DESCRIPTION:Raleigh\, NC Home Show. Innovative Products and Hundreds of Exp
 LOCATION:Raleigh\, NC\, USA
 URL:https://www.eventseye.com/fairs/f-fairgrounds-southern-ideal-home-show-
  (fall)-28308-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIRANOAIA — Igualada\, Spain
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260921
+UID:f-firanoaia-20627-1@eventseye.impio-vault
+DESCRIPTION:Igualada Multisectorial Fair. The great economic showcase of th
+ e Anoia region\\nVenue: Passeig Verdaguer\, Igualada\\nFrequency: unknown\
+ \nSource: https://www.eventseye.com/fairs/f-firanoaia-20627-1.html
+LOCATION:Igualada\, Spain
+URL:https://www.eventseye.com/fairs/f-firanoaia-20627-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOIRE EXPO DE DOLE — Dole\, France
@@ -7209,6 +7236,19 @@ URL:https://www.eventseye.com/fairs/f-abilmente-milano-primavera-autunno-28
  555-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BUILDEX — Aleppo\, Syria
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+UID:f-buildex-28523-1@eventseye.impio-vault
+DESCRIPTION:International Construction Fair. BUILDEX provides the best plat
+ form for companies to capitalize on the active and promising Syrian market
+ \, specifically by facilitating productive interaction between suppliers\,
+  manufacturers\, buyers\, decision makers...\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-buildex-28523-1.html
+LOCATION:Aleppo\, Syria
+URL:https://www.eventseye.com/fairs/f-buildex-28523-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EGYPT FABRIC & YARN — Cairo\, Egypt
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
@@ -7633,6 +7673,19 @@ LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-beautiful-houses-19101-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIG CHINA EXPO — Astana\, Kazakhstan
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261031
+UID:f-big-china-expo-34521-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of gifts\, premium goods and household
+  products from China. The largest event in Central Asia dedicated to the w
+ orld of consumer goods\, gifts and home solutions\\nVenue: IEC Expo Astana
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-big-
+ china-expo-34521-1.html
+LOCATION:Astana\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-big-china-expo-34521-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHICAGO BUILD EXPO — Chicago\, IL\, USA
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
@@ -7973,186 +8026,6 @@ DESCRIPTION:The Dijon Gastronomic Fair is a popular event awaited with enth
 LOCATION:Dijon\, France
 URL:https://www.eventseye.com/fairs/f-foire-internationale-et-gastronomique
  -de-dijon-22422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WESTCHESTER FALL HOME SHOW — Westchester\, NY\, USA
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-westchester-fall-home-show-29537-1@eventseye.impio-vault
-DESCRIPTION:Westchester\, NY Home Show. If you’re planning on remodeling 
- or renovating your home\, this is the home improvement event you can’t a
- fford to miss\\nVenue: Westchester County Center\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-westchester-fall-home-show-295
- 37-1.html
-LOCATION:Westchester\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-westchester-fall-home-show-29537-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MALVERN ANTIQUES & COLLECTORS FAIRS — Malvern\, UK - United Kingd
- om
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-UID:f-malvern-antiques-collectors-fairs-14706-1@eventseye.impio-vault
-DESCRIPTION:Antiques & Collectors Fair. Explore the diverse stalls\, each o
- ffering a unique selection of vintage wonders waiting to be rediscovered\\
- nVenue: Three Counties Showground\\nFrequency: unknown\\nSource: https://w
- ww.eventseye.com/fairs/f-malvern-antiques-collectors-fairs-14706-1.html
-LOCATION:Malvern\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-malvern-antiques-collectors-fairs-147
- 06-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAN AMSTERDAM — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261109
-UID:f-pan-amsterdam-32506-1@eventseye.impio-vault
-DESCRIPTION:PAN Amsterdam is the Netherland's leading Fair in Art\, Antique
- s and Design. Whether your interest lies in classical antiquity\, old mast
- ers\, photography\, contemporary art\, antiques\, designer furniture or de
- corative objects...\\nVenue: RAI International Exhibition and Congress Cen
- tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-p
- an-amsterdam-32506-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-pan-amsterdam-32506-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EQUIPHOTEL PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261106
-UID:f-equiphotel-paris-739-1@eventseye.impio-vault
-DESCRIPTION:EquipHotel is a leading European trade fair for sourcing and ne
- tworking in the hospitality industry. It connects investors\, owners\, ope
- rators\, and specifiers with the worlds of interior/exterior design\, rest
- aurants\, wellness\, and technology\\nVenue: Paris Expo Porte de Versaille
- s\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-e
- quiphotel-paris-739-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-equiphotel-paris-739-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAUDI STONE TECH — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261106
-UID:f-saudi-stone-tech-5523-1@eventseye.impio-vault
-DESCRIPTION:International Stone and Stone Technology Exhibition. As part of
-  Saudi Build\\nVenue: Riyadh International Exhibition Centre\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-saudi-stone-tech-5
- 523-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-stone-tech-5523-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ART & ANTIQUES FAIR — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261109
-UID:f-the-art-antiques-fair-10666-1@eventseye.impio-vault
-DESCRIPTION:Finest Works of Art and Antiques International Fair. Whether yo
- u are a dealer\, seasoned collector\, first time buyer or an interiors ent
- husiast\, the Art & Antiques Fair provides you with the best choice in Lon
- don if your budget is £100 or £1million\\nVenue: Olympia Exhibition Cent
- re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-th
- e-art-antiques-fair-10666-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-the-art-antiques-fair-10666-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTER ART & ANTIQUES FAIR - OLYMPIA LONDON — London\, UK - Unite
- d Kingdom
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261109
-UID:f-winter-art-antiques-fair-olympia-london-22174-1@eventseye.impio-vault
-DESCRIPTION:The Winter Art & Antiques Fair is a premier showcase of the fin
- est\, established and knowledgeable art and antique dealers\, offering a w
- ide range of high-quality objects worldwide and spanning centuries\\nVenue
- : Olympia Exhibition Centre\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-winter-art-antiques-fair-olympia-london-22174-1.htm
- l
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-winter-art-antiques-fair-olympia-lond
- on-22174-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADVANCED TEXTILES EXPO — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-advanced-textiles-expo-11738-1@eventseye.impio-vault
-DESCRIPTION:For a century\, Advanced Textiles Expo has been the industrial 
- fabrics industry’s flagship show. It is the place where industry stakeho
- lders and leaders connect\, dicover\, and source in order to grow their bu
- sinesses\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-advanced-textiles-expo-11738-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-advanced-textiles-expo-11738-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DYE+CHEM MOROCCO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-dye-chem-morocco-26298-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
- and Fine & Specialty Chemicals for the Moroccan industry\\nVenue: Foire In
- ternationale de Casablanca\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IGES - INTERNATIONAL GIFT EXPOSITION IN THE SMOKIES - SEVIERVILLE 
- — Sevierville\, TN\, USA
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-iges-international-gift-exposition-in-the-smokies-sevierville-33759-1@eventseye.impio-vault
-DESCRIPTION:IGES is one of the most popular specialty souvenir and gift sho
- ws in the U.S.\, bringing together buyers from zoos\, aquariums\, amusemen
- t parks\, national parks\, museums\, campgrounds\, hotels\, and resorts...
- \\nVenue: Sevierville Convention Center\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-iges-international-gift-exposition-in-t
- he-smokies-sevierville-33759-1.html
-LOCATION:Sevierville\, TN\, USA
-URL:https://www.eventseye.com/fairs/f-iges-international-gift-exposition-in
- -the-smokies-sevierville-33759-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUN SHADING EXPO NORTH AMERICA — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-sun-shading-expo-north-america-33319-1@eventseye.impio-vault
-DESCRIPTION:At the 'Sun Shading Expo'\, find the newest products of exterio
- r and interior sun shading systems\, awnings\, shutters and accessories\, 
- technical textiles for interior and exterior sun shading systems\, drives 
- and much more\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-sun-shading-expo-north-america-33319-1.html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-sun-shading-expo-north-america-33319-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAZAAR BERLIN — Berlin\, Germany
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261109
-UID:f-bazaar-berlin-3552-1@eventseye.impio-vault
-DESCRIPTION:Shopping World with Special Shops "Christmas"\, "Country Style"
- . With unique products and regional specialities\, BAZAAR BERLIN grounds a
- re transformed into a lively\, sensory experience\\nVenue: Messegelände B
- erlin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -bazaar-berlin-3552-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-bazaar-berlin-3552-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - LOS ANGELES — Los Angeles\, CA\, USA
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261106
-UID:f-build-expo-usa-los-angeles-32702-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Los Angeles Convention Center\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-build-expo-usa-los-angeles
- -32702-1.html
-LOCATION:Los Angeles\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-los-angeles-32702-1.ht
- ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHRISTMAS VILLAGE FESTIVAL — Birmingham\, AL\, USA
@@ -10712,6 +10585,22 @@ URL:https://www.eventseye.com/fairs/f-hospitality-design-dallas-cityscene-3
  4175-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IESD CHINA - INTERNATIONAL EXHIBITION ON SURFACTANT AND DETERGENT 
+ — Shanghai\, China
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261212
+UID:f-iesd-china-international-exhibition-on-surfactant-and-detergent-34509-1@eventseye.impio-vault
+DESCRIPTION:China International Exhibition on Surfactant and Detergent. IES
+ D China focuses on cutting-edge academic trends\, innovative technologies\
+ , and industrial applications within the surfactant and detergent fields\\
+ nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-iesd-china-international
+ -exhibition-on-surfactant-and-detergent-34509-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-iesd-china-international-exhibition-o
+ n-surfactant-and-detergent-34509-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALON DES ARTISANS D’ART ET DES JEUNES CRÉATEURS — Toulouse\, 
  France
 DTSTART;VALUE=DATE:20261209
@@ -10736,6 +10625,22 @@ DESCRIPTION:Togliatti consumer goods exhibition fair. New Year's holiday gi
  ttps://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
 LOCATION:Togliatti\, Russia
 URL:https://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBTE VIETNAM - VIETNAM INTERNATIONAL BABY PRODUCTS & TOYS EXPO — 
+ Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-ibte-vietnam-vietnam-international-baby-products-toys-expo-31118-1@eventseye.impio-vault
+DESCRIPTION:Vietnam International Baby Products & Toys Expo. Meet Import/Ex
+ port Trading entreprises\, Manufacturing & Supplying entreprises\, Owners 
+ of Distribution Systems\, Local Suppliers\, Consumers...\\nVenue: Saigon E
+ xhibition & Convention Center - SECC\\nFrequency: twice a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-baby-p
+ roducts-toys-expo-31118-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-ba
+ by-products-toys-expo-31118-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IGHE VIETNAM - THE VIETNAM INTERNATIONAL GIFTS & HOUSEWARES EXPO 
@@ -11976,6 +11881,17 @@ URL:https://www.eventseye.com/fairs/f-hotel-restaurant-meetings-marbella-32
  806-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:STONE POZNAN — Poznan\, Poland
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270130
+UID:f-stone-poznan-27530-1@eventseye.impio-vault
+DESCRIPTION:The most important business event for stone industry in central
+  and eastern Europe\\nVenue: Poznan Congress Center\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-stone-poznan-27530-1.html
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-stone-poznan-27530-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WINDOOR-TECH — Poznan\, Poland
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270130
@@ -12053,6 +11969,21 @@ DESCRIPTION:Palm Beach Modern + Contemporary Art Fair. The most important w
 LOCATION:Palm Beach\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-palm-beach-modern-contemporary-30659-
  1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTIQUES & ART FAIR LUXEMBOURG — Luxembourg\, Luxembourg
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+UID:f-antiques-art-fair-luxembourg-18418-1@eventseye.impio-vault
+DESCRIPTION:Antiques & Art Fair Luxembourg is one of the most visited antiq
+ ues fairs in Europe. The event welcomes around a hundred international gal
+ leries and antique dealers each year. From Archeology to Modern and Contem
+ porary Art\\nVenue: Parc des Expositions Luxexpo Kirchberg\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-antiques-art-fair-lu
+ xembourg-18418-1.html
+LOCATION:Luxembourg\, Luxembourg
+URL:https://www.eventseye.com/fairs/f-antiques-art-fair-luxembourg-18418-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AQUAFUN — Istanbul\, Turkey
@@ -13174,6 +13105,20 @@ URL:https://www.eventseye.com/fairs/f-the-retail-quarter-sydney-26021-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GIFT + HOME MARKET ALBERTA — Edmonton\, AB\, Canada
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270224
+UID:f-gift-home-market-alberta-4374-1@eventseye.impio-vault
+DESCRIPTION:Home\, gift and lifestyle show. At Gift + Home Market Alberta d
+ iscover the finest mix of gifts\; from jewellery & fashion accessories to 
+ gourmet food\, home décor and gardening\, bath & body products\, items bo
+ th manufactured and made by hand in Canada\\nVenue: Edmonton Expo Centre\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-gift-h
+ ome-market-alberta-4374-1.html
+LOCATION:Edmonton\, AB\, Canada
+URL:https://www.eventseye.com/fairs/f-gift-home-market-alberta-4374-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LED CHINA - SHENZHEN — Shenzhen\, China
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270224
@@ -13930,6 +13875,19 @@ LOCATION:Braunschweig\, Germany
 URL:https://www.eventseye.com/fairs/f-baumesse-braunschweig-26465-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIOCULTURA A CORUÑA — A Coruña\, Spain
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+UID:f-biocultura-a-coruna-32539-1@eventseye.impio-vault
+DESCRIPTION:Organic Products and Responsible Consumption Fair. The sectors 
+ will be: Organic food\, Certified eco-natural cosmetics and hygiene\, Heal
+ thy house\, Sustainable fashion\, Eco Lifestyle\, Health and Wellbeing\, N
+ GOs...\\nVenue: ExpoCoruña\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-biocultura-a-coruna-32539-1.html
+LOCATION:A Coruña\, Spain
+URL:https://www.eventseye.com/fairs/f-biocultura-a-coruna-32539-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BUFFALO HOME SHOW — Buffalo\, NY\, USA
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270315
@@ -14194,6 +14152,17 @@ LOCATION:Saint-Malo\, France
 URL:https://www.eventseye.com/fairs/f-viving-saint-malo-29958-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BÂTIR — Nice\, France
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270315
+UID:f-batir-20245-1@eventseye.impio-vault
+DESCRIPTION:Construction\, renovation and home decoration exhibition. As pa
+ rt of the Nice Fair\\nVenue: Palais des Expositions de Nice\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-batir-20245-1.html
+LOCATION:Nice\, France
+URL:https://www.eventseye.com/fairs/f-batir-20245-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAUEN WOHNEN GARTEN — Offenburg\, Germany
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270308
@@ -14220,6 +14189,20 @@ LOCATION:Bastia Umbra\, Italy
 URL:https://www.eventseye.com/fairs/f-expo-casa-umbria-16833-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE NICE — Nice\, France
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270315
+UID:f-foire-internationale-de-nice-1040-1@eventseye.impio-vault
+DESCRIPTION:Nice International fair. It is orchestrated around 4 universes.
+  - The daily life area\n- The outside space of the house\n- The automotive
+  space\n- The house space: build\, renovate\, equip the habitat\\nVenue: P
+ alais des Expositions de Nice\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-foire-internationale-de-nice-1040-1.html
+LOCATION:Nice\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-nice-1040-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GARTENZEIT — Offenburg\, Germany
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270308
@@ -14243,6 +14226,19 @@ DESCRIPTION:Worcester\, MA Home Show. If you’re planning on remodeling or
 LOCATION:Worcester\, MA\, USA
 URL:https://www.eventseye.com/fairs/f-worcester-spring-home-show-18441-1.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RETAILSPACES - CARLSBAD\, CA — Carlsbad\, CA\, USA
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270310
+UID:f-retailspaces-carlsbad-ca-34372-1@eventseye.impio-vault
+DESCRIPTION:RetailSpaces is an experiential retreat for store development +
+  design leaders. Provocative Content. Casual Conversations. Unforgettable 
+ Networking\\nVenue: Omni La Costa Resort & Spa\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-retailspaces-carlsbad-ca-34372-1
+ .html
+LOCATION:Carlsbad\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-retailspaces-carlsbad-ca-34372-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CCF - CHINA CONSUMER GOODS FAIR — Shanghai\, China
@@ -14759,6 +14755,20 @@ URL:https://www.eventseye.com/fairs/f-indiana-flower-patio-show-28309-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SALON DE L'HABITAT DE CHARTRES — Chartres\, France
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+UID:f-salon-de-l-habitat-de-chartres-21334-1@eventseye.impio-vault
+DESCRIPTION:Chartres Home Show. Single-family home builders\, developers\, 
+ real estate agents and experts\, banks and property managers\, notaries...
+ \\nVenue: Parc des Expositions Chartrexpo\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-salon-de-l-habitat-de-chartres-21334-
+ 1.html
+LOCATION:Chartres\, France
+URL:https://www.eventseye.com/fairs/f-salon-de-l-habitat-de-chartres-21334-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEFAF MAASTRICHT — Maastricht\, Netherlands
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270319
@@ -15200,6 +15210,128 @@ DESCRIPTION:International Contemporary Art Expo in Reims. Art3f hosts galle
  ntseye.com/fairs/f-art3f-reims-25394-1.html
 LOCATION:Reims\, France
 URL:https://www.eventseye.com/fairs/f-art3f-reims-25394-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMFORTHOME — Riga\, Latvia
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-comforthome-27916-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for heating\, energy efficiency\, comfort technologi
+ es and finishing solutions. Part of the Building Industry Trade Fair\\nVen
+ ue: Riga International Exhibition Centre\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-comforthome-27916-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-comforthome-27916-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOME. APARTMENT — Riga\, Latvia
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-home.-apartment-6619-1@eventseye.impio-vault
+DESCRIPTION:Architecture\, Design and Reconstruction of Apartments. Repairs
+  and Refurbishment. Finishing and Decoration Materials. Plumbing and Therm
+ o Techniques. Lighting. Home Security and Alarm Systems. Consumer Electron
+ ics\, Electric Appliances and Equipment\\nVenue: Riga International Exhibi
+ tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-home.-apartment-6619-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-home.-apartment-6619-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOUSE - MÂJA — Riga\, Latvia
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-house-maja-9259-1@eventseye.impio-vault
+DESCRIPTION:International Building Industry Trade Fair. Architecture. Desig
+ n. Planning. Reconstruction. Building machinery and materials. Plumbing an
+ d thermal engineering. Lighting and wiring. Home technology & equipment. E
+ nvironmentally safe construction\\nVenue: Riga International Exhibition Ce
+ ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ house-maja-9259-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-house-maja-9259-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOROCCO FASHION STYLE & TEX — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-morocco-fashion-style-tex-32690-1@eventseye.impio-vault
+DESCRIPTION:At MOROCCO FASHION STYLE & TEX\, the most prestigious textile m
+ anufacturers of African and Mediterranean Region meet buyers\, presenting 
+ the latest technology and design textile products\\nVenue: Foire Internati
+ onale de Casablanca\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-morocco-fashion-style-tex-32690-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-morocco-fashion-style-tex-32690-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOROCCO HOME TEXTILES EXPO — El Jadida\, Morocco
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+UID:f-morocco-home-textiles-expo-21390-1@eventseye.impio-vault
+DESCRIPTION:Morocco International Home Textile Fair. With the participation
+  of domestic and international home textile professionals Morocco Hometex 
+ presents high quality products\\nVenue: Parc d'Exposition Mohammed VI\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-morocco-h
+ ome-textiles-expo-21390-1.html
+LOCATION:El Jadida\, Morocco
+URL:https://www.eventseye.com/fairs/f-morocco-home-textiles-expo-21390-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TIMBER TECH BANGLADESH — Dhaka\, Bangladesh
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270404
+UID:f-timber-tech-bangladesh-33547-1@eventseye.impio-vault
+DESCRIPTION:Timber Tech is the global timber and engineered wood industry F
+ air in Bangladesh\, driven by the demand for sustainable construction mate
+ rials\, cost effective building solutions\, and innovative manufacturing t
+ echnologies\\nVenue: ICCB - International Convention City Bashundhara\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-timber-te
+ ch-bangladesh-33547-1.html
+LOCATION:Dhaka\, Bangladesh
+URL:https://www.eventseye.com/fairs/f-timber-tech-bangladesh-33547-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ART3F LYON — Lyon\, France
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+UID:f-art3f-lyon-21675-1@eventseye.impio-vault
+DESCRIPTION:International Contemporary Art Expo in Lyon. Art3f hosts galler
+ ies\, painters\, sculptors\, photographers and performers\\nVenue: Halle T
+ ony Garnier\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-art3f-lyon-21675-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-art3f-lyon-21675-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLUMBUS HOME IMPROVEMENT SHOW — Columbus\, OH\, USA
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+UID:f-columbus-home-improvement-show-11135-1@eventseye.impio-vault
+DESCRIPTION:Home Improvement Show. Columbus Home Improvement Show is compre
+ hensive home show that brings together homeowners and many of the most kno
+ wledgeable and experienced remodeling and building experts from the Columb
+ us area\\nVenue: Ohio Expo Center & State Fair\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-columbus-home-improvement-show-1
+ 1135-1.html
+LOCATION:Columbus\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-columbus-home-improvement-show-11135-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DENVER HOME SHOW — Denver\, CO\, USA
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+UID:f-denver-home-show-14701-1@eventseye.impio-vault
+DESCRIPTION:Home decoration\, remodelling & gardening Show. Denver Home Sho
+ w is the place where you will find fresh ideas and smart advice for garden
+ ing\, home improvement & decorating\\nVenue: National Western Complex\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-denver-ho
+ me-show-14701-1.html
+LOCATION:Denver\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-denver-home-show-14701-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAUMESSE MÖNCHENGLADBACH — Mönchengladbach\, Germany
@@ -15776,46 +15908,6 @@ URL:https://www.eventseye.com/fairs/f-arrowhead-home-builders-show-18605-1.
  html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ART3F LYON — Lyon\, France
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270405
-UID:f-art3f-lyon-21675-1@eventseye.impio-vault
-DESCRIPTION:International Contemporary Art Expo in Lyon. Art3f hosts galler
- ies\, painters\, sculptors\, photographers and performers\\nVenue: Halle T
- ony Garnier\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-art3f-lyon-21675-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-art3f-lyon-21675-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLUMBUS HOME IMPROVEMENT SHOW — Columbus\, OH\, USA
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270405
-UID:f-columbus-home-improvement-show-11135-1@eventseye.impio-vault
-DESCRIPTION:Home Improvement Show. Columbus Home Improvement Show is compre
- hensive home show that brings together homeowners and many of the most kno
- wledgeable and experienced remodeling and building experts from the Columb
- us area\\nVenue: Ohio Expo Center & State Fair\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-columbus-home-improvement-show-1
- 1135-1.html
-LOCATION:Columbus\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-columbus-home-improvement-show-11135-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DENVER HOME SHOW — Denver\, CO\, USA
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270405
-UID:f-denver-home-show-14701-1@eventseye.impio-vault
-DESCRIPTION:Home decoration\, remodelling & gardening Show. Denver Home Sho
- w is the place where you will find fresh ideas and smart advice for garden
- ing\, home improvement & decorating\\nVenue: National Western Complex\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-denver-ho
- me-show-14701-1.html
-LOCATION:Denver\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-denver-home-show-14701-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOIRE-EXPOSITION D'ORLÉANS — Orleans\, France
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270412
@@ -16028,6 +16120,20 @@ DESCRIPTION:Exhibition dedicated to garden\, living\, leisure\, enjoyment a
  irs/f-schau!-28067-1.html
 LOCATION:Dornbirn\, Austria
 URL:https://www.eventseye.com/fairs/f-schau!-28067-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BIG 5 CONSTRUCT ETHIOPIA — Addis Ababa\, Ethiopia
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270411
+UID:f-the-big-5-construct-ethiopia-16195-1@eventseye.impio-vault
+DESCRIPTION:The largest construction event in Ethiopia. Big 5 Construct Eth
+ iopia showcases the transformative power of collaboration\, paving the way
+  for an empowered construction industry in the region\\nVenue: Addis Ababa
+  Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-the-big-5-construct-ethiopia-16195-1.html
+LOCATION:Addis Ababa\, Ethiopia
+URL:https://www.eventseye.com/fairs/f-the-big-5-construct-ethiopia-16195-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WINNIPEG HOME + GARDEN SHOW — Winnipeg\, MB\, Canada
@@ -16960,88 +17066,6 @@ LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-home-co-paris-15612-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:COMFORTHOME — Riga\, Latvia
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-comforthome-27916-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for heating\, energy efficiency\, comfort technologi
- es and finishing solutions. Part of the Building Industry Trade Fair\\nVen
- ue: Riga International Exhibition Centre\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-comforthome-27916-1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-comforthome-27916-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOME. APARTMENT — Riga\, Latvia
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-home.-apartment-6619-1@eventseye.impio-vault
-DESCRIPTION:Architecture\, Design and Reconstruction of Apartments. Repairs
-  and Refurbishment. Finishing and Decoration Materials. Plumbing and Therm
- o Techniques. Lighting. Home Security and Alarm Systems. Consumer Electron
- ics\, Electric Appliances and Equipment\\nVenue: Riga International Exhibi
- tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-home.-apartment-6619-1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-home.-apartment-6619-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOUSE - MÂJA — Riga\, Latvia
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-house-maja-9259-1@eventseye.impio-vault
-DESCRIPTION:International Building Industry Trade Fair. Architecture. Desig
- n. Planning. Reconstruction. Building machinery and materials. Plumbing an
- d thermal engineering. Lighting and wiring. Home technology & equipment. E
- nvironmentally safe construction\\nVenue: Riga International Exhibition Ce
- ntre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- house-maja-9259-1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-house-maja-9259-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOROCCO FASHION STYLE & TEX — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-morocco-fashion-style-tex-32690-1@eventseye.impio-vault
-DESCRIPTION:At MOROCCO FASHION STYLE & TEX\, the most prestigious textile m
- anufacturers of African and Mediterranean Region meet buyers\, presenting 
- the latest technology and design textile products\\nVenue: Foire Internati
- onale de Casablanca\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-morocco-fashion-style-tex-32690-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-morocco-fashion-style-tex-32690-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOROCCO HOME TEXTILES EXPO — El Jadida\, Morocco
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-morocco-home-textiles-expo-21390-1@eventseye.impio-vault
-DESCRIPTION:Morocco International Home Textile Fair. With the participation
-  of domestic and international home textile professionals Morocco Hometex 
- presents high quality products\\nVenue: Parc d'Exposition Mohammed VI\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-morocco-h
- ome-textiles-expo-21390-1.html
-LOCATION:El Jadida\, Morocco
-URL:https://www.eventseye.com/fairs/f-morocco-home-textiles-expo-21390-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TIMBER TECH BANGLADESH — Dhaka\, Bangladesh
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270404
-UID:f-timber-tech-bangladesh-33547-1@eventseye.impio-vault
-DESCRIPTION:Timber Tech is the global timber and engineered wood industry F
- air in Bangladesh\, driven by the demand for sustainable construction mate
- rials\, cost effective building solutions\, and innovative manufacturing t
- echnologies\\nVenue: ICCB - International Convention City Bashundhara\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-timber-te
- ch-bangladesh-33547-1.html
-LOCATION:Dhaka\, Bangladesh
-URL:https://www.eventseye.com/fairs/f-timber-tech-bangladesh-33547-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:COMMERCIAL KITCHEN SHOW — Melbourne\, Australia
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270505
@@ -17173,6 +17197,19 @@ DESCRIPTION:International Exhibition on Glass\, Aluminium\, Windows\, Doors
  l
 LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-windoorex-16413-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIOCULTURA BARCELONA — Barcelona\, Spain
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270511
+UID:f-biocultura-barcelona-14954-1@eventseye.impio-vault
+DESCRIPTION:Organic Products and Responsible Consumption Fair. The sectors 
+ will be: Organic food\, Certified eco-natural cosmetics and hygiene\, Heal
+ thy house\, Sustainable fashion\, Eco Lifestyle\, Health and Wellbeing\, N
+ GOs...\\nVenue: La Farga l'Hospitalet\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-biocultura-barcelona-14954-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-biocultura-barcelona-14954-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE BABY SHOW - BIRMINGHAM — Birmingham\, UK - United Kingdom
@@ -17397,6 +17434,18 @@ DESCRIPTION:Saint-Raphaël Senior Citizens' Fair. The program includes: Gas
 LOCATION:Saint-Raphaël\, France
 URL:https://www.eventseye.com/fairs/f-salon-sud-senior-saint-raphael-33169-
  1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HEALTHSPACES — Broomfield\, CO\, USA
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270519
+UID:f-healthspaces-31433-1@eventseye.impio-vault
+DESCRIPTION:HealthSpaces is a community for healthcare real estate and faci
+ lities leaders. They connect and inform those transforming the healthcare 
+ experience\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-healthspaces-31433-1.html
+LOCATION:Broomfield\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-healthspaces-31433-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CONSTRUMAT — Barcelona\, Spain
@@ -17672,6 +17721,323 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-door-tec-30196-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ARTIBAT — Rennes\, France
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271023
+UID:f-artibat-138-1@eventseye.impio-vault
+DESCRIPTION:Construction and Public Works Exhibition for the Greater West o
+ f France. ArtiBat brings together all construction professionals every two
+  years. The focus is on technological innovation\\nVenue: Parc-Expo de Ren
+ nes-Aéroport\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
+ om/fairs/f-artibat-138-1.html
+LOCATION:Rennes\, France
+URL:https://www.eventseye.com/fairs/f-artibat-138-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYGG REIS DEG — Lillestrøm\, Norway
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271024
+UID:f-bygg-reis-deg-4840-1@eventseye.impio-vault
+DESCRIPTION:Norwegian Building Exhibition. Bygg Reis Deg is the most import
+ ant meeting point for the construction industry at Norges Varemesse in Lil
+ lestrøm since 1954\\nVenue: Norges Varemesse - Norway Trade Fairs\\nFrequ
+ ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-bygg-reis-
+ deg-4840-1.html
+LOCATION:Lillestrøm\, Norway
+URL:https://www.eventseye.com/fairs/f-bygg-reis-deg-4840-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM FURNITEC — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271024
+UID:f-vietnam-furnitec-26108-1@eventseye.impio-vault
+DESCRIPTION:Vietnam International Furniture Accessories\, Hardware & Tools 
+ Exhibition. Furniture hardware\, Fasteners\, Locks\, Tools & Accessories\,
+  Bathroom fittings\, Hardware machinery and equipment...\\nVenue: Saigon E
+ xhibition & Convention Center - SECC\\nFrequency: every 2 years\\nSource: 
+ https://www.eventseye.com/fairs/f-vietnam-furnitec-26108-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-furnitec-26108-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETNAM WOOD — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271024
+UID:f-vietnam-wood-8476-1@eventseye.impio-vault
+DESCRIPTION:Vietnamwood is the foremost platform within the Vietnamese wood
+ working industry. A diverse array of cutting-edge digital machinery\, tran
+ sformation solutions & innovative raw materials. Facilitate knowledge exch
+ ange among wood industry stakeholders\\nVenue: Saigon Exhibition & Convent
+ ion Center - SECC\\nFrequency: every 2 years\\nSource: https://www.eventse
+ ye.com/fairs/f-vietnam-wood-8476-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietnam-wood-8476-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON MAISON DE COLMAR — Colmar\, France
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271025
+UID:f-salon-maison-de-colmar-34380-1@eventseye.impio-vault
+DESCRIPTION:Home Show. Salon Maison brings together specialists in construc
+ tion\, renovation\, home equipment and interior and exterior decoration\\n
+ Venue: Parc des Expositions de Colmar\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-salon-maison-de-colmar-34380-1.html
+LOCATION:Colmar\, France
+URL:https://www.eventseye.com/fairs/f-salon-maison-de-colmar-34380-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAMHOTEL — Phnom Penh\, Cambodia
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271106
+UID:f-camhotel-14447-1@eventseye.impio-vault
+DESCRIPTION:Cambodia International Hotel\, Restaurant and Catering Industry
+  Show. CAMFOOD & CAMHOTEL is Cambodia’s International Hospitality and Fo
+ od & Drinks Exhibition\\nVenue: Diamond Island Convention & Exhibition Cen
+ ter\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -camhotel-14447-1.html
+LOCATION:Phnom Penh\, Cambodia
+URL:https://www.eventseye.com/fairs/f-camhotel-14447-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AFBOUW VAKDAGEN — Gorinchem\, Netherlands
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271112
+UID:f-afbouw-vakdagen-31988-1@eventseye.impio-vault
+DESCRIPTION:Dutch trade fair for professionals in the finishing\, painting 
+ and maintenance sectors. Plastering\, installation of ceilings and walls\,
+  painting and maintenance\, floor coverings and terraces\, natural stone..
+ .\\nVenue: Evenementenhal Gorinchem\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-afbouw-vakdagen-31988-1.html
+LOCATION:Gorinchem\, Netherlands
+URL:https://www.eventseye.com/fairs/f-afbouw-vakdagen-31988-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARCHITECT @ WORK - GERMANY - STUTTGART — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271112
+UID:f-architect-@-work-germany-stuttgart-19577-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for Architecture & Interior Design. ARCHITECT@WORK g
+ ives you the opportunity to get into contact with: architects\, interior a
+ rchitects\, designers\, engineering bureaus\, project developers\, technic
+ al services\, towns & district councils\\nVenue: New Stuttgart Trade Fair 
+ Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
+ s/f-architect-@-work-germany-stuttgart-19577-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-architect-@-work-germany-stuttgart-19
+ 577-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:APUVÄLINE — Tampere\, Finland
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271114
+UID:f-apuvaline-14201-1@eventseye.impio-vault
+DESCRIPTION:Apuväline brings together professionals from the fields of ass
+ istive technology\, rehabilitation\, health and social services\, as well 
+ as users of assistive devices\\nVenue: Tampereen Messu\\nFrequency: every 
+ 2 years\\nSource: https://www.eventseye.com/fairs/f-apuvaline-14201-1.html
+LOCATION:Tampere\, Finland
+URL:https://www.eventseye.com/fairs/f-apuvaline-14201-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIME - AIRCRAFT INTERIORS MIDDLE EAST — Dubai\, UAE - United Arab
+  Emirates
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271120
+UID:f-aime-aircraft-interiors-middle-east-11363-1@eventseye.impio-vault
+DESCRIPTION:The newest Middle East Aviation Show\, focusing on Cabin & VIP 
+ Interiors\, In-Flight Entertainment and In-Flight Catering\\nVenue: Dubai 
+ World Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-aime-aircraft-interiors-middle-eas
+ t-11363-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-aime-aircraft-interiors-middle-east-1
+ 1363-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAINLESS — Maastricht\, Netherlands
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271119
+UID:f-stainless-12716-1@eventseye.impio-vault
+DESCRIPTION:International Stainless Steel Fair and Congress. The range of u
+ se for stainless steel is very wide\, covering practically all sectors of 
+ industry – from construction and automotive to healthcare\, sanitary\, d
+ esign and decoration\\nFrequency: every 2 years\\nSource: https://www.even
+ tseye.com/fairs/f-stainless-12716-1.html
+LOCATION:Maastricht\, Netherlands
+URL:https://www.eventseye.com/fairs/f-stainless-12716-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARCHITECT @ WORK - FRANCE - BORDEAUX — Bordeaux\, France
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271120
+UID:f-architect-@-work-france-bordeaux-27719-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for Architecture & Interior Design. ARCHITECT@WORK g
+ ives you the opportunity to get into contact with: architects\, interior a
+ rchitects\, designers\, engineering bureaus\, project developers\, technic
+ al services\, towns & district councils\\nVenue: Parc des expositions de B
+ ordeaux-Lac\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
+ /fairs/f-architect-@-work-france-bordeaux-27719-1.html
+LOCATION:Bordeaux\, France
+URL:https://www.eventseye.com/fairs/f-architect-@-work-france-bordeaux-2771
+ 9-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOTOMERCATO — Pordenone\, Italy
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271122
+UID:f-fotomercato-29440-1@eventseye.impio-vault
+DESCRIPTION:Exhibition-exchange of antiques\, second-hand goods and digital
+  photography\\nVenue: Pordenone Fiere\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-fotomercato-29440-1.html
+LOCATION:Pordenone\, Italy
+URL:https://www.eventseye.com/fairs/f-fotomercato-29440-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCALIA — Lyon\, France
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271203
+UID:f-rocalia-33770-1@eventseye.impio-vault
+DESCRIPTION:International Natural Stone Exhibition. Explore innovations and
+  sustainable solutions\, showcase traditional and modern expertise\, and c
+ reate opportunities and partnerships\\nVenue: Eurexpo\\nFrequency: every 2
+  years\\nSource: https://www.eventseye.com/fairs/f-rocalia-33770-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-rocalia-33770-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOMOTEX HANNOVER — Hannover\, Germany
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280121
+UID:f-domotex-hannover-594-1@eventseye.impio-vault
+DESCRIPTION:World trade Fair for Carpets and Floor Coverings. DOMOTEX offer
+ s you a unique overview of market trends and outlook on future development
+ s across the entire floor coverings industry\\nVenue: Deutsche Messe Hanno
+ ver\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -domotex-hannover-594-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-domotex-hannover-594-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWISSBAU — Basel\, Switzerland
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280123
+UID:f-swissbau-2618-1@eventseye.impio-vault
+DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
+ lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
+ Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
+ bau-2618-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STONEMART — Jaipur\, India
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280221
+UID:f-stonemart-12372-1@eventseye.impio-vault
+DESCRIPTION:India Stonemart is an international exposition on stone industr
+ y which showcases the world of natural dimensional stones\, ancillary prod
+ ucts and services comprehensively\\nVenue: Jaipur Exhibition & Convention 
+ Centre (JECC)\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
+ om/fairs/f-stonemart-12372-1.html
+LOCATION:Jaipur\, India
+URL:https://www.eventseye.com/fairs/f-stonemart-12372-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IFEX IRELAND — Lisburn\, UK - United Kingdom
+DTSTART;VALUE=DATE:20280222
+DTEND;VALUE=DATE:20280225
+UID:f-ifex-ireland-18530-1@eventseye.impio-vault
+DESCRIPTION:IFEX is Northern Ireland’s premier food\, drink\, retail and 
+ hospitality trade event\, showcasing the latest food & drink products\, ca
+ tering equipment\, interiors\, technology and services to the food\, retai
+ l and hospitality industries\\nVenue: Eikon Exhibition Centre\\nFrequency:
+  every 2 years\\nSource: https://www.eventseye.com/fairs/f-ifex-ireland-18
+ 530-1.html
+LOCATION:Lisburn\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-ifex-ireland-18530-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KBB BIRMINGHAM — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280309
+UID:f-kbb-birmingham-32910-1@eventseye.impio-vault
+DESCRIPTION:The UK's Meeting Place for the KBB Industry. KBB hosts leading 
+ kitchen\, bedroom and bathroom brands all under one roof\\nVenue: National
+  Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www.events
+ eye.com/fairs/f-kbb-birmingham-32910-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-kbb-birmingham-32910-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAF - FARBE\, AUSBAU & FASSADE — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280311
+UID:f-faf-farbe-ausbau-fassade-949-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Facade Design\, Interior Architect
+ ure\, Paint\, Decorating\, Building Protection. From interior designers\, 
+ architects and planners to floor layers - this is where the industry meets
+ \\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every 3 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-faf-farbe-ausbau-fassade-949-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-faf-farbe-ausbau-fassade-949-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROOF+TIMBER INTERNATIONAL — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280311
+UID:f-roof-timber-international-18796-1@eventseye.impio-vault
+DESCRIPTION:DACH+HOLZ International\, the leading trade fair for the roofin
+ g and timber construction industry\, is an absolute must for all professio
+ nals in the trade: carpenters\, roofers\, plumbers\, architects\, planners
+  and engineers\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every
+  2 years\\nSource: https://www.eventseye.com/fairs/f-roof-timber-internati
+ onal-18796-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-roof-timber-international-18796-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FENSTERBAU FRONTALE — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20280328
+DTEND;VALUE=DATE:20280401
+UID:f-fensterbau-frontale-968-1@eventseye.impio-vault
+DESCRIPTION:The wide range of products and solutions at FENSTERBAU FRONTALE
+  showcases the latest trends and innovations in the fields of windows\, do
+ ors and facades. From structural and profile systems to machines\, systems
+  and tools\\nVenue: Exhibition Centre Nuremberg\\nFrequency: every 2 years
+ \\nSource: https://www.eventseye.com/fairs/f-fensterbau-frontale-968-1.htm
+ l
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-fensterbau-frontale-968-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOLZ — Basel\, Switzerland
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281015
+UID:f-holz-1221-1@eventseye.impio-vault
+DESCRIPTION:Swiss Fair for carpentry & woodworking. Holz is the business ev
+ ent with over 35\, 000 carpenters\, builders & timber trade representative
+ s & industry\, distributors\, suppliers of machinery\, tools\, materials a
+ nd accessories...\\nVenue: Basel Fairground\\nFrequency: every 3 years\\nS
+ ource: https://www.eventseye.com/fairs/f-holz-1221-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-holz-1221-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUROSHOP — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20290218
+DTEND;VALUE=DATE:20290223
+UID:f-euroshop-801-1@eventseye.impio-vault
+DESCRIPTION:International trade show dedicated to the latest trends in Shop
+  Fitting\, Display\, Merchandising\, Technology\, Marketing\, Lighting\, F
+ ood Service... Every three years\, Düsseldorf transforms into the interna
+ tional hotspot for retail innovation\\nVenue: Düsseldorf Exhibition Centr
+ e\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-e
+ uroshop-801-1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-euroshop-801-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WARSAW FLOOR EXPO — Warsaw\, Poland
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270604
@@ -17694,6 +18060,19 @@ DESCRIPTION:International Trade Fair for Technology and Products of the Win
  ventseye.com/fairs/f-window-expo-30197-1.html
 LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-window-expo-30197-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKSPACE — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+UID:f-workspace-23315-1@eventseye.impio-vault
+DESCRIPTION:International Workspace Design Exhibiton. Workspace at INDEX is
+  the regions only exhibition dedicated to commercial interior design and o
+ ffice furniture and is the largest sourcing platform in the region\\nVenue
+ : Dubai World Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-workspace-23315-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-workspace-23315-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DESIGN SHOW AUSTRALIA - MELBOURNE — Melbourne\, Australia
@@ -18158,6 +18537,18 @@ URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TECHNOTEXTIL — Moscow\, Russia
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271001
+UID:f-technotextil-5243-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Technical Textiles\, Nonwovens\, T
+ extile Processing and Equipment\\nVenue: VDNH Exhibition Center\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-technotextil-52
+ 43-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-technotextil-5243-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IRAQ HOME & HOTEL EXPO — Baghdad\, Iraq
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271011
@@ -18181,320 +18572,196 @@ LOCATION:Ghent\, Belgium
 URL:https://www.eventseye.com/fairs/f-prowood-13735-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ARTIBAT — Rennes\, France
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271023
-UID:f-artibat-138-1@eventseye.impio-vault
-DESCRIPTION:Construction and Public Works Exhibition for the Greater West o
- f France. ArtiBat brings together all construction professionals every two
-  years. The focus is on technological innovation\\nVenue: Parc-Expo de Ren
- nes-Aéroport\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
- om/fairs/f-artibat-138-1.html
-LOCATION:Rennes\, France
-URL:https://www.eventseye.com/fairs/f-artibat-138-1.html
+SUMMARY:SERBOTEL — Nantes\, France
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271021
+UID:f-serbotel-2432-1@eventseye.impio-vault
+DESCRIPTION:Catering Show. At Serbotel all the Catering Professions are pre
+ sent: Hotel Business\, Food Processing Industry\, Mass Catering\, Bakery\,
+  the Pastry Making\, Meat and Pork Butchers…\\nVenue: Exponantes - La Be
+ aujoire\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-serbotel-2432-1.html
+LOCATION:Nantes\, France
+URL:https://www.eventseye.com/fairs/f-serbotel-2432-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BYGG REIS DEG — Lillestrøm\, Norway
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271024
-UID:f-bygg-reis-deg-4840-1@eventseye.impio-vault
-DESCRIPTION:Norwegian Building Exhibition. Bygg Reis Deg is the most import
- ant meeting point for the construction industry at Norges Varemesse in Lil
- lestrøm since 1954\\nVenue: Norges Varemesse - Norway Trade Fairs\\nFrequ
- ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-bygg-reis-
- deg-4840-1.html
-LOCATION:Lillestrøm\, Norway
-URL:https://www.eventseye.com/fairs/f-bygg-reis-deg-4840-1.html
+SUMMARY:WESTCHESTER FALL HOME SHOW — Westchester\, NY\, USA
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-westchester-fall-home-show-29537-1@eventseye.impio-vault
+DESCRIPTION:Westchester\, NY Home Show. If you’re planning on remodeling 
+ or renovating your home\, this is the home improvement event you can’t a
+ fford to miss\\nVenue: Westchester County Center\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-westchester-fall-home-show-295
+ 37-1.html
+LOCATION:Westchester\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-westchester-fall-home-show-29537-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIETNAM FURNITEC — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271024
-UID:f-vietnam-furnitec-26108-1@eventseye.impio-vault
-DESCRIPTION:Vietnam International Furniture Accessories\, Hardware & Tools 
- Exhibition. Furniture hardware\, Fasteners\, Locks\, Tools & Accessories\,
-  Bathroom fittings\, Hardware machinery and equipment...\\nVenue: Saigon E
- xhibition & Convention Center - SECC\\nFrequency: every 2 years\\nSource: 
- https://www.eventseye.com/fairs/f-vietnam-furnitec-26108-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-furnitec-26108-1.html
+SUMMARY:MALVERN ANTIQUES & COLLECTORS FAIRS — Malvern\, UK - United Kingd
+ om
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+UID:f-malvern-antiques-collectors-fairs-14706-1@eventseye.impio-vault
+DESCRIPTION:Antiques & Collectors Fair. Explore the diverse stalls\, each o
+ ffering a unique selection of vintage wonders waiting to be rediscovered\\
+ nVenue: Three Counties Showground\\nFrequency: unknown\\nSource: https://w
+ ww.eventseye.com/fairs/f-malvern-antiques-collectors-fairs-14706-1.html
+LOCATION:Malvern\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-malvern-antiques-collectors-fairs-147
+ 06-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VIETNAM WOOD — Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271024
-UID:f-vietnam-wood-8476-1@eventseye.impio-vault
-DESCRIPTION:Vietnamwood is the foremost platform within the Vietnamese wood
- working industry. A diverse array of cutting-edge digital machinery\, tran
- sformation solutions & innovative raw materials. Facilitate knowledge exch
- ange among wood industry stakeholders\\nVenue: Saigon Exhibition & Convent
- ion Center - SECC\\nFrequency: every 2 years\\nSource: https://www.eventse
- ye.com/fairs/f-vietnam-wood-8476-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-vietnam-wood-8476-1.html
+SUMMARY:PAN AMSTERDAM — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261109
+UID:f-pan-amsterdam-32506-1@eventseye.impio-vault
+DESCRIPTION:PAN Amsterdam is the Netherland's leading Fair in Art\, Antique
+ s and Design. Whether your interest lies in classical antiquity\, old mast
+ ers\, photography\, contemporary art\, antiques\, designer furniture or de
+ corative objects...\\nVenue: RAI International Exhibition and Congress Cen
+ tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-p
+ an-amsterdam-32506-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-pan-amsterdam-32506-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SALON MAISON DE COLMAR — Colmar\, France
-DTSTART;VALUE=DATE:20271022
-DTEND;VALUE=DATE:20271025
-UID:f-salon-maison-de-colmar-34380-1@eventseye.impio-vault
-DESCRIPTION:Home Show. Salon Maison brings together specialists in construc
- tion\, renovation\, home equipment and interior and exterior decoration\\n
- Venue: Parc des Expositions de Colmar\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-salon-maison-de-colmar-34380-1.html
-LOCATION:Colmar\, France
-URL:https://www.eventseye.com/fairs/f-salon-maison-de-colmar-34380-1.html
+SUMMARY:EQUIPHOTEL PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261106
+UID:f-equiphotel-paris-739-1@eventseye.impio-vault
+DESCRIPTION:EquipHotel is a leading European trade fair for sourcing and ne
+ tworking in the hospitality industry. It connects investors\, owners\, ope
+ rators\, and specifiers with the worlds of interior/exterior design\, rest
+ aurants\, wellness\, and technology\\nVenue: Paris Expo Porte de Versaille
+ s\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-e
+ quiphotel-paris-739-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-equiphotel-paris-739-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CAMHOTEL — Phnom Penh\, Cambodia
-DTSTART;VALUE=DATE:20271103
-DTEND;VALUE=DATE:20271106
-UID:f-camhotel-14447-1@eventseye.impio-vault
-DESCRIPTION:Cambodia International Hotel\, Restaurant and Catering Industry
-  Show. CAMFOOD & CAMHOTEL is Cambodia’s International Hospitality and Fo
- od & Drinks Exhibition\\nVenue: Diamond Island Convention & Exhibition Cen
- ter\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
- -camhotel-14447-1.html
-LOCATION:Phnom Penh\, Cambodia
-URL:https://www.eventseye.com/fairs/f-camhotel-14447-1.html
+SUMMARY:SAUDI STONE TECH — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261106
+UID:f-saudi-stone-tech-5523-1@eventseye.impio-vault
+DESCRIPTION:International Stone and Stone Technology Exhibition. As part of
+  Saudi Build\\nVenue: Riyadh International Exhibition Centre\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-saudi-stone-tech-5
+ 523-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-saudi-stone-tech-5523-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AFBOUW VAKDAGEN — Gorinchem\, Netherlands
-DTSTART;VALUE=DATE:20271110
-DTEND;VALUE=DATE:20271112
-UID:f-afbouw-vakdagen-31988-1@eventseye.impio-vault
-DESCRIPTION:Dutch trade fair for professionals in the finishing\, painting 
- and maintenance sectors. Plastering\, installation of ceilings and walls\,
-  painting and maintenance\, floor coverings and terraces\, natural stone..
- .\\nVenue: Evenementenhal Gorinchem\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-afbouw-vakdagen-31988-1.html
-LOCATION:Gorinchem\, Netherlands
-URL:https://www.eventseye.com/fairs/f-afbouw-vakdagen-31988-1.html
+SUMMARY:THE ART & ANTIQUES FAIR — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+UID:f-the-art-antiques-fair-10666-1@eventseye.impio-vault
+DESCRIPTION:Finest Works of Art and Antiques International Fair. Whether yo
+ u are a dealer\, seasoned collector\, first time buyer or an interiors ent
+ husiast\, the Art & Antiques Fair provides you with the best choice in Lon
+ don if your budget is £100 or £1million\\nVenue: Olympia Exhibition Cent
+ re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-th
+ e-art-antiques-fair-10666-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-the-art-antiques-fair-10666-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ARCHITECT @ WORK - GERMANY - STUTTGART — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20271110
-DTEND;VALUE=DATE:20271112
-UID:f-architect-@-work-germany-stuttgart-19577-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for Architecture & Interior Design. ARCHITECT@WORK g
- ives you the opportunity to get into contact with: architects\, interior a
- rchitects\, designers\, engineering bureaus\, project developers\, technic
- al services\, towns & district councils\\nVenue: New Stuttgart Trade Fair 
- Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fair
- s/f-architect-@-work-germany-stuttgart-19577-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-architect-@-work-germany-stuttgart-19
- 577-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:APUVÄLINE — Tampere\, Finland
-DTSTART;VALUE=DATE:20271111
-DTEND;VALUE=DATE:20271114
-UID:f-apuvaline-14201-1@eventseye.impio-vault
-DESCRIPTION:Apuväline brings together professionals from the fields of ass
- istive technology\, rehabilitation\, health and social services\, as well 
- as users of assistive devices\\nVenue: Tampereen Messu\\nFrequency: every 
- 2 years\\nSource: https://www.eventseye.com/fairs/f-apuvaline-14201-1.html
-LOCATION:Tampere\, Finland
-URL:https://www.eventseye.com/fairs/f-apuvaline-14201-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIME - AIRCRAFT INTERIORS MIDDLE EAST — Dubai\, UAE - United Arab
-  Emirates
-DTSTART;VALUE=DATE:20271115
-DTEND;VALUE=DATE:20271120
-UID:f-aime-aircraft-interiors-middle-east-11363-1@eventseye.impio-vault
-DESCRIPTION:The newest Middle East Aviation Show\, focusing on Cabin & VIP 
- Interiors\, In-Flight Entertainment and In-Flight Catering\\nVenue: Dubai 
- World Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-aime-aircraft-interiors-middle-eas
- t-11363-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-aime-aircraft-interiors-middle-east-1
- 1363-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAINLESS — Maastricht\, Netherlands
-DTSTART;VALUE=DATE:20271116
-DTEND;VALUE=DATE:20271119
-UID:f-stainless-12716-1@eventseye.impio-vault
-DESCRIPTION:International Stainless Steel Fair and Congress. The range of u
- se for stainless steel is very wide\, covering practically all sectors of 
- industry – from construction and automotive to healthcare\, sanitary\, d
- esign and decoration\\nFrequency: every 2 years\\nSource: https://www.even
- tseye.com/fairs/f-stainless-12716-1.html
-LOCATION:Maastricht\, Netherlands
-URL:https://www.eventseye.com/fairs/f-stainless-12716-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARCHITECT @ WORK - FRANCE - BORDEAUX — Bordeaux\, France
-DTSTART;VALUE=DATE:20271118
-DTEND;VALUE=DATE:20271120
-UID:f-architect-@-work-france-bordeaux-27719-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for Architecture & Interior Design. ARCHITECT@WORK g
- ives you the opportunity to get into contact with: architects\, interior a
- rchitects\, designers\, engineering bureaus\, project developers\, technic
- al services\, towns & district councils\\nVenue: Parc des expositions de B
- ordeaux-Lac\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
- /fairs/f-architect-@-work-france-bordeaux-27719-1.html
-LOCATION:Bordeaux\, France
-URL:https://www.eventseye.com/fairs/f-architect-@-work-france-bordeaux-2771
- 9-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOTOMERCATO — Pordenone\, Italy
-DTSTART;VALUE=DATE:20271120
-DTEND;VALUE=DATE:20271122
-UID:f-fotomercato-29440-1@eventseye.impio-vault
-DESCRIPTION:Exhibition-exchange of antiques\, second-hand goods and digital
-  photography\\nVenue: Pordenone Fiere\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-fotomercato-29440-1.html
-LOCATION:Pordenone\, Italy
-URL:https://www.eventseye.com/fairs/f-fotomercato-29440-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROCALIA — Lyon\, France
-DTSTART;VALUE=DATE:20271130
-DTEND;VALUE=DATE:20271203
-UID:f-rocalia-33770-1@eventseye.impio-vault
-DESCRIPTION:International Natural Stone Exhibition. Explore innovations and
-  sustainable solutions\, showcase traditional and modern expertise\, and c
- reate opportunities and partnerships\\nVenue: Eurexpo\\nFrequency: every 2
-  years\\nSource: https://www.eventseye.com/fairs/f-rocalia-33770-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-rocalia-33770-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DOMOTEX HANNOVER — Hannover\, Germany
-DTSTART;VALUE=DATE:20280117
-DTEND;VALUE=DATE:20280121
-UID:f-domotex-hannover-594-1@eventseye.impio-vault
-DESCRIPTION:World trade Fair for Carpets and Floor Coverings. DOMOTEX offer
- s you a unique overview of market trends and outlook on future development
- s across the entire floor coverings industry\\nVenue: Deutsche Messe Hanno
- ver\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
- -domotex-hannover-594-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-domotex-hannover-594-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SWISSBAU — Basel\, Switzerland
-DTSTART;VALUE=DATE:20280118
-DTEND;VALUE=DATE:20280123
-UID:f-swissbau-2618-1@eventseye.impio-vault
-DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
- lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
- Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
- bau-2618-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STONEMART — Jaipur\, India
-DTSTART;VALUE=DATE:20280217
-DTEND;VALUE=DATE:20280221
-UID:f-stonemart-12372-1@eventseye.impio-vault
-DESCRIPTION:India Stonemart is an international exposition on stone industr
- y which showcases the world of natural dimensional stones\, ancillary prod
- ucts and services comprehensively\\nVenue: Jaipur Exhibition & Convention 
- Centre (JECC)\\nFrequency: every 2 years\\nSource: https://www.eventseye.c
- om/fairs/f-stonemart-12372-1.html
-LOCATION:Jaipur\, India
-URL:https://www.eventseye.com/fairs/f-stonemart-12372-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IFEX IRELAND — Lisburn\, UK - United Kingdom
-DTSTART;VALUE=DATE:20280222
-DTEND;VALUE=DATE:20280225
-UID:f-ifex-ireland-18530-1@eventseye.impio-vault
-DESCRIPTION:IFEX is Northern Ireland’s premier food\, drink\, retail and 
- hospitality trade event\, showcasing the latest food & drink products\, ca
- tering equipment\, interiors\, technology and services to the food\, retai
- l and hospitality industries\\nVenue: Eikon Exhibition Centre\\nFrequency:
-  every 2 years\\nSource: https://www.eventseye.com/fairs/f-ifex-ireland-18
- 530-1.html
-LOCATION:Lisburn\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-ifex-ireland-18530-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KBB BIRMINGHAM — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20280305
-DTEND;VALUE=DATE:20280309
-UID:f-kbb-birmingham-32910-1@eventseye.impio-vault
-DESCRIPTION:The UK's Meeting Place for the KBB Industry. KBB hosts leading 
- kitchen\, bedroom and bathroom brands all under one roof\\nVenue: National
-  Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www.events
- eye.com/fairs/f-kbb-birmingham-32910-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-kbb-birmingham-32910-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAF - FARBE\, AUSBAU & FASSADE — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20280307
-DTEND;VALUE=DATE:20280311
-UID:f-faf-farbe-ausbau-fassade-949-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Facade Design\, Interior Architect
- ure\, Paint\, Decorating\, Building Protection. From interior designers\, 
- architects and planners to floor layers - this is where the industry meets
- \\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every 3 years\\nSou
- rce: https://www.eventseye.com/fairs/f-faf-farbe-ausbau-fassade-949-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-faf-farbe-ausbau-fassade-949-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROOF+TIMBER INTERNATIONAL — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20280307
-DTEND;VALUE=DATE:20280311
-UID:f-roof-timber-international-18796-1@eventseye.impio-vault
-DESCRIPTION:DACH+HOLZ International\, the leading trade fair for the roofin
- g and timber construction industry\, is an absolute must for all professio
- nals in the trade: carpenters\, roofers\, plumbers\, architects\, planners
-  and engineers\\nVenue: New Stuttgart Trade Fair Centre\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-roof-timber-internati
- onal-18796-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-roof-timber-international-18796-1.htm
+SUMMARY:WINTER ART & ANTIQUES FAIR - OLYMPIA LONDON — London\, UK - Unite
+ d Kingdom
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261109
+UID:f-winter-art-antiques-fair-olympia-london-22174-1@eventseye.impio-vault
+DESCRIPTION:The Winter Art & Antiques Fair is a premier showcase of the fin
+ est\, established and knowledgeable art and antique dealers\, offering a w
+ ide range of high-quality objects worldwide and spanning centuries\\nVenue
+ : Olympia Exhibition Centre\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-winter-art-antiques-fair-olympia-london-22174-1.htm
  l
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-winter-art-antiques-fair-olympia-lond
+ on-22174-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FENSTERBAU FRONTALE — Nuremberg\, Germany
-DTSTART;VALUE=DATE:20280328
-DTEND;VALUE=DATE:20280401
-UID:f-fensterbau-frontale-968-1@eventseye.impio-vault
-DESCRIPTION:The wide range of products and solutions at FENSTERBAU FRONTALE
-  showcases the latest trends and innovations in the fields of windows\, do
- ors and facades. From structural and profile systems to machines\, systems
-  and tools\\nVenue: Exhibition Centre Nuremberg\\nFrequency: every 2 years
- \\nSource: https://www.eventseye.com/fairs/f-fensterbau-frontale-968-1.htm
- l
-LOCATION:Nuremberg\, Germany
-URL:https://www.eventseye.com/fairs/f-fensterbau-frontale-968-1.html
+SUMMARY:ADVANCED TEXTILES EXPO — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-advanced-textiles-expo-11738-1@eventseye.impio-vault
+DESCRIPTION:For a century\, Advanced Textiles Expo has been the industrial 
+ fabrics industry’s flagship show. It is the place where industry stakeho
+ lders and leaders connect\, dicover\, and source in order to grow their bu
+ sinesses\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-advanced-textiles-expo-11738-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-advanced-textiles-expo-11738-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HOLZ — Basel\, Switzerland
-DTSTART;VALUE=DATE:20281010
-DTEND;VALUE=DATE:20281015
-UID:f-holz-1221-1@eventseye.impio-vault
-DESCRIPTION:Swiss Fair for carpentry & woodworking. Holz is the business ev
- ent with over 35\, 000 carpenters\, builders & timber trade representative
- s & industry\, distributors\, suppliers of machinery\, tools\, materials a
- nd accessories...\\nVenue: Basel Fairground\\nFrequency: every 3 years\\nS
- ource: https://www.eventseye.com/fairs/f-holz-1221-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-holz-1221-1.html
+SUMMARY:DYE+CHEM MOROCCO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-dye-chem-morocco-26298-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
+ and Fine & Specialty Chemicals for the Moroccan industry\\nVenue: Foire In
+ ternationale de Casablanca\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EUROSHOP — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20290218
-DTEND;VALUE=DATE:20290223
-UID:f-euroshop-801-1@eventseye.impio-vault
-DESCRIPTION:International trade show dedicated to the latest trends in Shop
-  Fitting\, Display\, Merchandising\, Technology\, Marketing\, Lighting\, F
- ood Service... Every three years\, Düsseldorf transforms into the interna
- tional hotspot for retail innovation\\nVenue: Düsseldorf Exhibition Centr
- e\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-e
- uroshop-801-1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-euroshop-801-1.html
+SUMMARY:IGES - INTERNATIONAL GIFT EXPOSITION IN THE SMOKIES - SEVIERVILLE 
+ — Sevierville\, TN\, USA
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-iges-international-gift-exposition-in-the-smokies-sevierville-33759-1@eventseye.impio-vault
+DESCRIPTION:IGES is one of the most popular specialty souvenir and gift sho
+ ws in the U.S.\, bringing together buyers from zoos\, aquariums\, amusemen
+ t parks\, national parks\, museums\, campgrounds\, hotels\, and resorts...
+ \\nVenue: Sevierville Convention Center\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-iges-international-gift-exposition-in-t
+ he-smokies-sevierville-33759-1.html
+LOCATION:Sevierville\, TN\, USA
+URL:https://www.eventseye.com/fairs/f-iges-international-gift-exposition-in
+ -the-smokies-sevierville-33759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUN SHADING EXPO NORTH AMERICA — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-sun-shading-expo-north-america-33319-1@eventseye.impio-vault
+DESCRIPTION:At the 'Sun Shading Expo'\, find the newest products of exterio
+ r and interior sun shading systems\, awnings\, shutters and accessories\, 
+ technical textiles for interior and exterior sun shading systems\, drives 
+ and much more\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-sun-shading-expo-north-america-33319-1.html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-sun-shading-expo-north-america-33319-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAZAAR BERLIN — Berlin\, Germany
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261109
+UID:f-bazaar-berlin-3552-1@eventseye.impio-vault
+DESCRIPTION:Shopping World with Special Shops "Christmas"\, "Country Style"
+ . With unique products and regional specialities\, BAZAAR BERLIN grounds a
+ re transformed into a lively\, sensory experience\\nVenue: Messegelände B
+ erlin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -bazaar-berlin-3552-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-bazaar-berlin-3552-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - LOS ANGELES — Los Angeles\, CA\, USA
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+UID:f-build-expo-usa-los-angeles-32702-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Los Angeles Convention Center\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-build-expo-usa-los-angeles
+ -32702-1.html
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-los-angeles-32702-1.ht
+ ml
 END:VEVENT
 END:VCALENDAR

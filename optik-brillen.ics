@@ -640,20 +640,6 @@ URL:https://www.eventseye.com/fairs/f-photonics.-world-of-lasers-and-optics
  -18783-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MOROCCO MEDICAL EXPO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270405
-UID:f-morocco-medical-expo-33327-1@eventseye.impio-vault
-DESCRIPTION:MOROCCO MEDICAL EXPO is the largest medical sector event in Afr
- ica. It brings together professionals from numerous health disciplines at 
- the national\, continental\, and international levels. A high-quality scie
- ntific program\\nVenue: ICEC (International Corporate Events Center)\, Cas
- ablanca\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-morocco-medical-expo-33327-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-morocco-medical-expo-33327-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SPIE OPTICS + OPTOELECTRONICS — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
@@ -667,6 +653,20 @@ DESCRIPTION:Exhibition\, Conference & Workshops on Optics and Optoelectroni
 LOCATION:Prague\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-spie-optics-optoelectronics-21110-1.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOROCCO MEDICAL EXPO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+UID:f-morocco-medical-expo-33327-1@eventseye.impio-vault
+DESCRIPTION:MOROCCO MEDICAL EXPO is the largest medical sector event in Afr
+ ica. It brings together professionals from numerous health disciplines at 
+ the national\, continental\, and international levels. A high-quality scie
+ ntific program\\nVenue: ICEC (International Corporate Events Center)\, Cas
+ ablanca\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-morocco-medical-expo-33327-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-morocco-medical-expo-33327-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COOC — Shanghai\, China

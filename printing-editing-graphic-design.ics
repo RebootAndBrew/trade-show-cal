@@ -75,19 +75,6 @@ URL:https://www.eventseye.com/fairs/f-expo-pack-latin-america-mexico-843-1.
  html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ETHIOPIA PLASTPRINTPACK — Addis Ababa\, Ethiopia
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260628
-UID:f-ethiopia-plastprintpack-25525-1@eventseye.impio-vault
-DESCRIPTION:Ethiopia’s International Plastics\, Printing and Packaging Tr
- ade Show\, showcasing the impressive growth and vast potential of Ethiopia
- ’s plastics\, printing and packaging sectors\\nVenue: Addis Ababa Exhibi
- tion Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
- /fairs/f-ethiopia-plastprintpack-25525-1.html
-LOCATION:Addis Ababa\, Ethiopia
-URL:https://www.eventseye.com/fairs/f-ethiopia-plastprintpack-25525-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HANOI PRINT PACK — Hanoi\, Vietnam
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260705
@@ -2027,9 +2014,11 @@ DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270307
 UID:f-printing-south-china-2194-1@eventseye.impio-vault
 DESCRIPTION:South China International Industry and Symposium on Pre-Press a
- nd Printing Industries\\nVenue: China Import and Export Fair Pazhou Comple
- x\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-pri
- nting-south-china-2194-1.html
+ nd Printing Industries. It brings together a comprehensive display of pre-
+ press & digital printing\, general printing\, post-press & packaging proce
+ ssing\, paper container packaging...\\nVenue: China Import and Export Fair
+  Pazhou Complex\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-printing-south-china-2194-1.html
 LOCATION:Guangzhou\, China
 URL:https://www.eventseye.com/fairs/f-printing-south-china-2194-1.html
 END:VEVENT
@@ -2315,6 +2304,19 @@ DESCRIPTION:Graphics Canada is the country’s largest\, longest running an
  Source: https://www.eventseye.com/fairs/f-graphics-canada-10121-1.html
 LOCATION:Toronto\, ON\, Canada
 URL:https://www.eventseye.com/fairs/f-graphics-canada-10121-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ETHIOPIA PLASTPRINTPACK — Addis Ababa\, Ethiopia
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+UID:f-ethiopia-plastprintpack-25525-1@eventseye.impio-vault
+DESCRIPTION:Ethiopia’s International Plastics\, Printing and Packaging Tr
+ ade Show\, showcasing the impressive growth and vast potential of Ethiopia
+ ’s plastics\, printing and packaging sectors\\nVenue: Addis Ababa Exhibi
+ tion Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
+ /fairs/f-ethiopia-plastprintpack-25525-1.html
+LOCATION:Addis Ababa\, Ethiopia
+URL:https://www.eventseye.com/fairs/f-ethiopia-plastprintpack-25525-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PRINT4ALL — Milan\, Italy

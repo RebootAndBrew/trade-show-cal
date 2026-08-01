@@ -1240,6 +1240,19 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-real-estate-poland-expo-34478-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SPRINGFEST — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+UID:f-springfest-17432-1@eventseye.impio-vault
+DESCRIPTION:This exclusive one-day event features educational seminars and 
+ top exhibits for building owners\, property managers\, facility managers a
+ nd others responsible for building maintenance and facility operations\\nV
+ enue: Metro Toronto Convention Centre\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-springfest-17432-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-springfest-17432-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SIMA - SALÓN INMOBILIARIO DE MADRID — Madrid\, Spain
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270530
@@ -1755,6 +1768,19 @@ LOCATION:Toulouse\, France
 URL:https://www.eventseye.com/fairs/f-salon-solucup-toulouse-32743-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PREMIUM REAL ESTATE EXPO — Athens\, Greece
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+UID:f-premium-real-estate-expo-27532-1@eventseye.impio-vault
+DESCRIPTION:Premium Real Estate Expo is the leading event for the real esta
+ te and investment industry in Greece. A meeting point for industry profess
+ ionals\, investors and stakeholders from Greece and abroad\\nVenue: Athens
+  Metropolitan Expo\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-premium-real-estate-expo-27532-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-premium-real-estate-expo-27532-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAUMESSE NRW — Dortmund\, Germany
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270412
@@ -1819,18 +1845,5 @@ DESCRIPTION:SIL is the Real Estate Marketplace in Portugal\, a meeting poin
  tml
 LOCATION:Lisbon\, Portugal
 URL:https://www.eventseye.com/fairs/f-salao-imobiliario-4587-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPRINGFEST — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
-UID:f-springfest-17432-1@eventseye.impio-vault
-DESCRIPTION:This exclusive one-day event features educational seminars and 
- top exhibits for building owners\, property managers\, facility managers a
- nd others responsible for building maintenance and facility operations\\nV
- enue: Metro Toronto Convention Centre\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-springfest-17432-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-springfest-17432-1.html
 END:VEVENT
 END:VCALENDAR

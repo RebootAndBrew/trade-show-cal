@@ -783,19 +783,6 @@ LOCATION:Orlando\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-icast-14501-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXPOPET COLOMBIA - BOGOTÁ — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260721
-UID:f-expopet-colombia-bogota-21378-1@eventseye.impio-vault
-DESCRIPTION:Colombian International Pet Show. Discover a wide range of prod
- ucts and services that will improve your pet's quality of life and enjoy a
- ctivities designed especially for animal lovers\\nVenue: Corferias - Centr
- o de Convenciones\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-expopet-colombia-bogota-21378-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-expopet-colombia-bogota-21378-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:G & S TEXAS GUNS & KNIFE SHOW - NACOGDOCHES — Nacogdoches\, TX\, 
  USA
 DTSTART;VALUE=DATE:20260717
@@ -1386,6 +1373,19 @@ LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-pet-south-america-3718-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EXPOPET COLOMBIA - BOGOTÁ — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260818
+UID:f-expopet-colombia-bogota-21378-1@eventseye.impio-vault
+DESCRIPTION:Colombian International Pet Show. Discover a wide range of prod
+ ucts and services that will improve your pet's quality of life and enjoy a
+ ctivities designed especially for animal lovers\\nVenue: Corferias - Centr
+ o de Convenciones\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-expopet-colombia-bogota-21378-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-expopet-colombia-bogota-21378-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VIETNAM CYCLE EXPO — Ho Chi Minh\, Vietnam
 DTSTART;VALUE=DATE:20260813
 DTEND;VALUE=DATE:20260816
@@ -1968,6 +1968,20 @@ DESCRIPTION:IBF is the International Bicycle Festival that has been capturi
 LOCATION:Rimini\, Italy
 URL:https://www.eventseye.com/fairs/f-ibf-italian-bike-festival-33357-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IIPE - INDONESIA INTERNATIONAL PET EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+UID:f-iipe-indonesia-international-pet-expo-29940-1@eventseye.impio-vault
+DESCRIPTION:Indonesia International Pet Expo. Pet owners will have the oppo
+ rtunity to speak directly with to pet industry professionals and research 
+ every type of pet service imaginable\\nVenue: ICE - Indonesian Convention 
+ Exhibition\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-iipe-indonesia-international-pet-expo-29940-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-iipe-indonesia-international-pet-expo
+ -29940-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REST & ENTERTAINMENT EXPO — Yerevan\, Armenia
@@ -2742,20 +2756,6 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-petfood-tech-expo-34473-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERBOOT — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260928
-UID:f-interboot-1403-1@eventseye.impio-vault
-DESCRIPTION:Every year\, INTERBOOT transforms the exhibition grounds into a
- n exciting world of experience for water sports enthusiasts of all kinds. 
- From motorboats and sailing boats to fun sports\, a wide range of equipmen
- t and captivating shows and talks\\nVenue: Messegelände Friedrichshafen\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-interb
- oot-1403-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-interboot-1403-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RUNNING.EXPO — Cologne\, Germany
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
@@ -3444,1157 +3444,6 @@ LOCATION:Birmingham\, AL\, USA
 URL:https://www.eventseye.com/fairs/f-teams-19318-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MONACO YACHT SHOW — Monaco\, Monaco
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260927
-UID:f-monaco-yacht-show-11069-1@eventseye.impio-vault
-DESCRIPTION:International Luxury Yachting Sector Exhibition. Each year\, th
- e MYS curates the exhibition of 120+ extraordinary one-off superyachts bui
- lt by the world’s most respected shipyards and welcomes nearly leading c
- ompanies from the yachting industry\\nVenue: Port Hercule\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-monaco-yacht-show-110
- 69-1.html
-LOCATION:Monaco\, Monaco
-URL:https://www.eventseye.com/fairs/f-monaco-yacht-show-11069-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERDIVE — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260928
-UID:f-interdive-29140-1@eventseye.impio-vault
-DESCRIPTION:International Diving\, Snorkeling and Travel Show. At the Inter
- Dive expo\, find Diving trips\, equipment\, diving training\, lectures and
-  exciting destinations\\nVenue: Messegelände Friedrichshafen\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-interdive-29140-1
- .html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-interdive-29140-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERDIVE - FRIEDRICHSHAFEN — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260928
-UID:f-interdive-friedrichshafen-29138-1@eventseye.impio-vault
-DESCRIPTION:Whether it's dive trips\, equipment\, dive training\, conferenc
- es or exciting destinations\, at InterDive you'll find everything that mak
- es a diver's heart beat faster\\nVenue: Messegelände Friedrichshafen\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-interdive
- -friedrichshafen-29138-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-interdive-friedrichshafen-29138-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NORWALK BOAT SHOW — Norwalk\, CT\, USA
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260928
-UID:f-norwalk-boat-show-16606-1@eventseye.impio-vault
-DESCRIPTION:Boat Show. Norwalk Boat Show offers an incredible line-up of bo
- ating education\, entertainment and special attractions\, including on-the
-  water demos and boat handling clinics\, boating fishing and sailing semin
- ars\, fun kids' activites and more\\nVenue: Norwalk Cove Marina\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-norwalk-boat-sh
- ow-16606-1.html
-LOCATION:Norwalk\, CT\, USA
-URL:https://www.eventseye.com/fairs/f-norwalk-boat-show-16606-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAO PAULO BOAT SHOW — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260930
-UID:f-sao-paulo-boat-show-12684-1@eventseye.impio-vault
-DESCRIPTION:The largest nautical event in Latin America. The great trends a
- nd releases with the best innovations in boats\, jets\, inflatables\, engi
- nes and equipment\, and also a complete range of products & services relat
- ed to the nautical universe\\nVenue: São Paulo Expo Exhibition & Conventi
- on Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-sao-paulo-boat-show-12684-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-sao-paulo-boat-show-12684-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DRT - DIVING\, RESORT AND TRAVEL SHOW - PHILIPPINES — Manila\, Ph
- ilippines
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260928
-UID:f-drt-diving-resort-and-travel-show-philippines-32294-1@eventseye.impio-vault
-DESCRIPTION:The No.1 Brand Diving Expo in Asia. DRT SHOW aims to provide gr
- eater support to business partners and encourage more people to become pas
- sionate divers who care about marine ecology\\nVenue: SMX Exhibition and C
- onvention Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-drt-diving-resort-and-travel-show-philippines-32294-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-drt-diving-resort-and-travel-show-phi
- lippines-32294-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDIANAPOLIS FALL BOAT & RV SHOW — Indianapolis\, IN\, USA
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260928
-UID:f-indianapolis-fall-boat-rv-show-18464-1@eventseye.impio-vault
-DESCRIPTION:The Indianapolis Fall Boat & RV Show offers the unique opportun
- ity for consumers to see\, try and buy from a wide selection of new\, used
-  and end-of-year boat and RV models at unbeatable prices\\nVenue: Indiana 
- State Fairgrounds\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-indianapolis-fall-boat-rv-show-18464-1.html
-LOCATION:Indianapolis\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-indianapolis-fall-boat-rv-show-18464-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JERSEY SHORE BOAT SALE & EXPO — Lakewood\, NJ\, USA
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260928
-UID:f-jersey-shore-boat-sale-expo-20176-1@eventseye.impio-vault
-DESCRIPTION:The Jersey Shore Boat Sale & Expo is completely outdoors\, offe
- ring a safe and convenient way for consumers to shop and board boats of al
- l types\\nVenue: FisrtEnergy Park\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-jersey-shore-boat-sale-expo-20176-1.html
-LOCATION:Lakewood\, NJ\, USA
-URL:https://www.eventseye.com/fairs/f-jersey-shore-boat-sale-expo-20176-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AKRON AREA GUN SHOW — Akron\, OH\, USA
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-UID:f-akron-area-gun-show-24458-1@eventseye.impio-vault
-DESCRIPTION:Self Defense Weapons Fair. AKRON AREA GUN SHOW presents antique
-  pistols\, rifles\, air guns\, combat knives\, gun magazines\, collectible
-  firearm\, hunting gears\, fishing gears\, holsters\, gun safes\, display 
- cases\, survival training and gun parts\\nVenue: Summit County Fairgrounds
- \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-akron-ar
- ea-gun-show-24458-1.html
-LOCATION:Akron\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-akron-area-gun-show-24458-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIG PITER SPORT SHOW — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-UID:f-big-piter-sport-show-15871-1@eventseye.impio-vault
-DESCRIPTION:The largest youth multisport festival of sports and health in t
- he northern capital of Russia\\nVenue: ExpoForum Convention and Exhibition
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-big-piter-sport-show-15871-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-big-piter-sport-show-15871-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CROWN POINT GUNS & KNIFE SHOW — Crown Point\, IN\, USA
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-UID:f-crown-point-guns-knife-show-24753-1@eventseye.impio-vault
-DESCRIPTION:Weapon Fair. CROWN POINT GUNS & KNIFE SHOW features hunting kni
- fe\, rifle\, rifle spoke\, sharpening tool\, outdoor equipments\, reloadin
- g supplies\, hunting & fishing gears\, laser sights\, hunting boots\, bull
- etproof jacket and Camouflage Related item\\nVenue: Lake County Fairground
- s\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-crown-p
- oint-guns-knife-show-24753-1.html
-LOCATION:Crown Point\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-crown-point-guns-knife-show-24753-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - MASSA CARRARA — Carrara\, Italy
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260928
-UID:f-esotika-pet-show-massa-carrara-31980-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: CarraraFiere\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika-pe
- t-show-massa-carrara-31980-1.html
-LOCATION:Carrara\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-massa-carrara-31980-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPEN SPACES — Ghent\, Belgium
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260930
-UID:f-open-spaces-31840-1@eventseye.impio-vault
-DESCRIPTION:International trade fair for the development of public space\, 
- sport and leisure\\nVenue: Flanders Expo\\nFrequency: every 2 years\\nSour
- ce: https://www.eventseye.com/fairs/f-open-spaces-31840-1.html
-LOCATION:Ghent\, Belgium
-URL:https://www.eventseye.com/fairs/f-open-spaces-31840-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE HOTEL & LEISURE SHOW DUBAI — Dubai\, UAE - United Arab Emirat
- es
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20261001
-UID:f-the-hotel-leisure-show-dubai-22006-1@eventseye.impio-vault
-DESCRIPTION:International Hotel\, Restaurant\, Kitchen\, Bathroom\, Decorat
- ion\, Material\, Industrial Activities and Equipments Fair\\nVenue: Dubai 
- World Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-the-hotel-leisure-show-dubai-22006
- -1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-the-hotel-leisure-show-dubai-22006-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOVI SAD FAIRS OF HUNTING\, FISHING AND SPORT — Novi Sad\, Serbia
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261005
-UID:f-novi-sad-fairs-of-hunting-fishing-and-sport-15002-1@eventseye.impio-vault
-DESCRIPTION:The Novi Sad International Hunting and Fishing Fair gathers all
-  the most important representatives\, importers\, and brands of basic and 
- supporting equipment for sports hunting and fishing\, spending time in nat
- ure\\nVenue: Novi Sad Fairground\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-novi-sad-fairs-of-hunting-fishing-and-sport-15
- 002-1.html
-LOCATION:Novi Sad\, Serbia
-URL:https://www.eventseye.com/fairs/f-novi-sad-fairs-of-hunting-fishing-and
- -sport-15002-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALONE NAUTICO INTERNAZIONALE — Genoa\, Italy
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261007
-UID:f-salone-nautico-internazionale-4262-1@eventseye.impio-vault
-DESCRIPTION:International Boat Show. More than 1\, 000 boats are on show\, 
- from the four traditional areas: sailing\, outboard engines and inflatable
-  boats\, power boats and motor yachts\\nVenue: Fiera di Genova\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-salone-nautico-i
- nternazionale-4262-1.html
-LOCATION:Genoa\, Italy
-URL:https://www.eventseye.com/fairs/f-salone-nautico-internazionale-4262-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DU UND DAS TIER TULLN — Tulln\, Austria
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-du-und-das-tier-tulln-23584-1@eventseye.impio-vault
-DESCRIPTION:Tulln international dog show with austria’s largest small ani
- mal show\\nVenue: Messe Tulln\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
-LOCATION:Tulln\, Austria
-URL:https://www.eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOSITION CANINE INTERNATIONALE DE GENÈVE — Geneve\, Switzerlan
- d
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-exposition-canine-internationale-de-geneve-33509-1@eventseye.impio-vault
-DESCRIPTION:Switzerland's largest dog show. 6\, 000 dogs of 200 different b
- reeds are judged by an international jury. A shopping village also offers 
- a wide range of dog products\\nVenue: Palexpo\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-exposition-canine-internationale-
- de-geneve-33509-1.html
-LOCATION:Geneve\, Switzerland
-URL:https://www.eventseye.com/fairs/f-exposition-canine-internationale-de-g
- eneve-33509-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JAGD & ANGELN — Leipzig\, Germany
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-jagd-angeln-25889-1@eventseye.impio-vault
-DESCRIPTION:East and Central Germany's largest Outdoor exhibition for Fores
- t\, Hunting\, Fishing and Sport Shooting\, Nature Enthusiasts\, and the wh
- ole family\\nVenue: Exhibition Centre Leipzig\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-jagd-angeln-25889-1.html
-LOCATION:Leipzig\, Germany
-URL:https://www.eventseye.com/fairs/f-jagd-angeln-25889-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POZNAN SPORT EXPO — Poznan\, Poland
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261005
-UID:f-poznan-sport-expo-17795-1@eventseye.impio-vault
-DESCRIPTION:POZNAŃ SPORT EXPO fair is an interesting event for all people 
- actively engaged in sports as well as marathon runners\\nVenue: Poznan Con
- gress Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com
- /fairs/f-poznan-sport-expo-17795-1.html
-LOCATION:Poznan\, Poland
-URL:https://www.eventseye.com/fairs/f-poznan-sport-expo-17795-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAIWAN OUTDOOR SHOW - TAICHUNG — Taichung\, Taiwan
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261006
-UID:f-taiwan-outdoor-show-taichung-33142-1@eventseye.impio-vault
-DESCRIPTION:Taiwan Outdoor Show. Outdoor and Mountain climbing sports\, Sle
- eping bags\, Camping equipment\, Tents\, Diving equipment\, Water skis\, B
- oats\, Bathing and beach wear\, Motor sport\, accessories\, Riding wear\, 
- Riding Equipment...\\nVenue: Greater Taichung International Expo Center\\n
- Frequency: unknown\\nSource: https://www.eventseye.com/fairs/f-taiwan-outd
- oor-show-taichung-33142-1.html
-LOCATION:Taichung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taiwan-outdoor-show-taichung-33142-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAIWAN OUTDOOR SHOW - TAIPEI — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261006
-UID:f-taiwan-outdoor-show-taipei-25542-1@eventseye.impio-vault
-DESCRIPTION:Taiwan Outdoor Show. Outdoor and Mountain climbing sports\, Sle
- eping bags\, Camping equipment\, Tents\, Diving equipment\, Water skis\, B
- oats\, Bathing and beach wear\, Motor sport\, accessories\, Riding wear\, 
- Riding Equipment...\\nVenue: Taipei Nangang Exhibition Center\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-taiwan-outdoor-sh
- ow-taipei-25542-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taiwan-outdoor-show-taipei-25542-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AZLE GUNS & KNIFE SHOW — Azle\, TX\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-azle-guns-knife-show-24400-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapons fair. AZLE GUNS & KNIFE SHOW showcases shooting 
- rifles\, self defense trainig\, all sizes of knives\, collectible firearms
- \, hunting & fishing accessories\, shotguns\, samurai swords\, cartridges\
- , gun cases & safe\, holsters\, carbines and antiques\\nFrequency: unknown
- \\nSource: https://www.eventseye.com/fairs/f-azle-guns-knife-show-24400-1.
- html
-LOCATION:Azle\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-azle-guns-knife-show-24400-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAYETTEVILLE GUN & KNIFE SHOW — Fayetteville\, NC\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-fayetteville-gun-knife-show-24236-1@eventseye.impio-vault
-DESCRIPTION:FAYETTEVILLE GUN & KNIFE SHOW showcases shooting rifles\, all s
- izes of knives\, samurai swords\, shotguns\, collectible firearms\, huntin
- g and fishing accessories\, Militaria of All Wars\, ammo\, carbines\, cart
- ridges and holsters\\nVenue: Crown Expo Center\, Fayetteville\\nFrequency:
-  unknown\\nSource: https://www.eventseye.com/fairs/f-fayetteville-gun-knif
- e-show-24236-1.html
-LOCATION:Fayetteville\, NC\, USA
-URL:https://www.eventseye.com/fairs/f-fayetteville-gun-knife-show-24236-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRANKLIN GUNS & KNIFE SHOW — Franklin\, IN\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-franklin-guns-knife-show-34137-1@eventseye.impio-vault
-DESCRIPTION:GUNS & KNIFE SHOW features hunting knife\, shooting rifle\, rif
- le spoke\, sharpening tool\, outdoor equipments\, reloading supplies\, hun
- ting & fishing gears\, laser sights\, hunting boots\, bulletproof jacket a
- nd Camouflage Related item\\nVenue: Johnson County Fairgrounds\, Indiana\\
- nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-franklin-g
- uns-knife-show-34137-1.html
-LOCATION:Franklin\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-franklin-guns-knife-show-34137-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FREDERICKSBURG GUN SHOW — Fredericksburg\, VA\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-fredericksburg-gun-show-33234-1@eventseye.impio-vault
-DESCRIPTION:Southeast United States Gun and Knife Show. This show offers a 
- wide selection of accessories and weapons. Exhibits range from rare and co
- llectible Civil War weapons to the latest hunting and shooting products\\n
- Venue: Fredericksburg Expo & Conference Center\\nFrequency: unknown\\nSour
- ce: https://www.eventseye.com/fairs/f-fredericksburg-gun-show-33234-1.html
-LOCATION:Fredericksburg\, VA\, USA
-URL:https://www.eventseye.com/fairs/f-fredericksburg-gun-show-33234-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDEAUSSTELLUNG — Rostock\, Germany
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-internationale-rassehundeausstellung-12147-1@eventseye.impio-vault
-DESCRIPTION:International Dog Fair of Rostock. The largest dog show in nort
- heastern Germany - a paradise for dogs\, their owners and owners\\nVenue: 
- HanseMesse Rostock\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-internationale-rassehundeausstellung-12147-1.html
-LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehundeausstellung-
- 12147-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - ROSTOCK — Rostock\, Germa
- ny
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-internationale-rassehunde-ausstellung-rostock-24879-1@eventseye.impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dogs
- . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
- main organization representing the interests of dog owners throughout Germ
- any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
- nternationale-rassehunde-ausstellung-rostock-24879-1.html
-LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
- -rostock-24879-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAUREL GUN SHOW — Laurel\, MS\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-laurel-gun-show-24423-1@eventseye.impio-vault
-DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
- , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
- mo\, holsters\, swords\, knives...\\nVenue: Laurel Fairgrounds\\nFrequency
- : twice a year\\nSource: https://www.eventseye.com/fairs/f-laurel-gun-show
- -24423-1.html
-LOCATION:Laurel\, MS\, USA
-URL:https://www.eventseye.com/fairs/f-laurel-gun-show-24423-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE MONTPELLIER —
-  Montpellier\, France
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-UID:f-le-salon-sante-social-paramedical-et-sport-de-montpellier-30462-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: Montpellier - Parc des Expositions\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-s
- ocial-paramedical-et-sport-de-montpellier-30462-1.html
-LOCATION:Montpellier\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-montpellier-30462-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE NANTES — Nant
- es\, France
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-UID:f-le-salon-sante-social-paramedical-et-sport-de-nantes-30470-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: La Cité Nantes Events Center\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-social
- -paramedical-et-sport-de-nantes-30470-1.html
-LOCATION:Nantes\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-nantes-30470-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROCK ‘N’ ROLL SAN JOSE — San Jose\, CA\, USA
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-rock-n-roll-san-jose-24043-1@eventseye.impio-vault
-DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
- \, so that everyone can enjoy the biggest running party in the country\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
- oll-san-jose-24043-1.html
-LOCATION:San Jose\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-rock-n-roll-san-jose-24043-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON STUDYRAMA DES FORMATIONS DE LA SANTÉ ET DU SPORT DE BORDEAUX
-  — Bordeaux\, France
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-UID:f-salon-studyrama-des-formations-de-la-sante-et-du-sport-de-bordeaux-34412-1@eventseye.impio-vault
-DESCRIPTION:Lyon Health and Sports Training Fair. To refine your career pla
- n\, meet with numerous professionals and specialists from Medical Preparat
- ory Courses\, Health Sciences Faculties\, and Health Schools\\nVenue: Parc
-  des expositions de Bordeaux-Lac\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-sante-et-
- du-sport-de-bordeaux-34412-1.html
-LOCATION:Bordeaux\, France
-URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-
- sante-et-du-sport-de-bordeaux-34412-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRUCKFEST ORIGINAL — Newark-on-Trent\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261005
-UID:f-truckfest-original-28834-1@eventseye.impio-vault
-DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
- pes and size\, top ranked freestyle motocross riders…\\nVenue: Newark & 
- Notts Showground\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-truckfest-original-28834-1.html
-LOCATION:Newark-on-Trent\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-truckfest-original-28834-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HATTIESBURG GUN SHOW — Hattiesburg\, MS\, USA
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-UID:f-hattiesburg-gun-show-28814-1@eventseye.impio-vault
-DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
- , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
- mo\, holsters\, swords\, knives...\\nVenue: Forrest County Multi-Purpose C
- enter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-hat
- tiesburg-gun-show-28814-1.html
-LOCATION:Hattiesburg\, MS\, USA
-URL:https://www.eventseye.com/fairs/f-hattiesburg-gun-show-28814-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE MARSEILLE — M
- arseille\, France
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-UID:f-le-salon-sante-social-paramedical-et-sport-de-marseille-30469-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: Parc Chanot\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-sp
- ort-de-marseille-30469-1.html
-LOCATION:Marseille\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-marseille-30469-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PÊCHE EXPO — Libramont-Chevigny\, Belgium
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-UID:f-peche-expo-22475-1@eventseye.impio-vault
-DESCRIPTION:Fishing Expo. Pêche Expo attracts visitors fascinated by the w
- orld of fishing as well as manufacturers and retailers of fishing products
-  & equipments as well as boat\, shelters and pontoons builders\\nVenue: Li
- bramont Exhibition & Congress - LEC\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-peche-expo-22475-1.html
-LOCATION:Libramont-Chevigny\, Belgium
-URL:https://www.eventseye.com/fairs/f-peche-expo-22475-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIPAC - SALON INTERNATIONAL DES PÊCHES AU COUP — Amiens\, France
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-UID:f-sipac-salon-international-des-peches-au-coup-27897-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Sport Fishing. For professionals an
- d enthusiasts\\nVenue: MégaCité\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-sipac-salon-international-des-peches-au-coup-
- 27897-1.html
-LOCATION:Amiens\, France
-URL:https://www.eventseye.com/fairs/f-sipac-salon-international-des-peches-
- au-coup-27897-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAUDI PET & VET EXPO — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261112
-UID:f-saudi-pet-vet-expo-28967-1@eventseye.impio-vault
-DESCRIPTION:SAUDI PET & VET EXPO is the first and only pet exhibition in th
- e Kingdom of Saudi Arabia\, which will be held annually due to the current
-  and prospective promising market for pet supplies and veterinary medicine
- \\nVenue: Riyadh International Exhibition Centre\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.htm
- l
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROFESSIONAL MOTORSPORT WORLD EXPO — Cologne\, Germany
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261112
-UID:f-professional-motorsport-world-expo-11436-1@eventseye.impio-vault
-DESCRIPTION:Professional Motor sport World Expo. The show for Motorsport an
- d Performance Automotive Engineering and Technology\\nVenue: Exhibition Ce
- ntre Cologne\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-professional-motorsport-world-expo-11436-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-professional-motorsport-world-expo-11
- 436-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALTEX — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261113
-UID:f-saltex-18162-1@eventseye.impio-vault
-DESCRIPTION:UK's leading event for grounds care\, sports\, amenities\, esta
- tes & green space management. SALTEX exhibitors cover the whole range of g
- rounds care services\, latest products\, equipment & expertise to Windsor 
- Racecourse\\nVenue: National Exhibition Centre\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-saltex-18162-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-saltex-18162-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ANNUAL FINNISH VETERINARY CONFERENCE — Helsinki\, Finland
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261114
-UID:f-the-annual-finnish-veterinary-conference-9512-1@eventseye.impio-vault
-DESCRIPTION:Congress organized by the Finnish Veterinary Association. The p
- rogram includes lectures in working life\, meat & food hygiene\, environme
- ntal health\, production animals\, small animals\, horses...\\nVenue: Hels
- inki Fair Centre\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-the-annual-finnish-veterinary-conference-9512-1.html
-LOCATION:Helsinki\, Finland
-URL:https://www.eventseye.com/fairs/f-the-annual-finnish-veterinary-confere
- nce-9512-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAVALIADA WARSZAWA — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-UID:f-cavaliada-warszawa-23674-1@eventseye.impio-vault
-DESCRIPTION:Warsaw Horse Fair (Poland). Equestrian equipment and accessorie
- s\, Four different equestrian competitions\, numerous shows and activities
- ...\\nVenue: Arena COS Torwar\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-cavaliada-warszawa-23674-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-cavaliada-warszawa-23674-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FORT MEYERS BOAT SHOW — Fort Myers\, FL\, USA
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-UID:f-fort-meyers-boat-show-18529-1@eventseye.impio-vault
-DESCRIPTION:Take a closer look at all the new makes and models in boats\, p
- ersonal watercraft\, and also marine financing\, insurance and education p
- roviders. With kids’ activities\, fishing and boating safety seminars\, 
- clothing and gifts for water lovers...\\nVenue: Centennial Park\, Fort Mye
- rs\, FL\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-fort-meyers-boat-show-18529-1.html
-LOCATION:Fort Myers\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-fort-meyers-boat-show-18529-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERPAEDAGOGICA — Linz\, Austria
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261115
-UID:f-interpaedagogica-7215-1@eventseye.impio-vault
-DESCRIPTION:Education Trade Fair for Teaching Materials\, Equipment\, Cultu
- re and Sport – from early childhood education to creative\, lifelong lea
- rning\\nVenue: Design Center Linz\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-interpaedagogica-7215-1.html
-LOCATION:Linz\, Austria
-URL:https://www.eventseye.com/fairs/f-interpaedagogica-7215-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOAT EXPO — Moscow\, Russia
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-boat-expo-33818-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Water Sports Enthusiasts. Yachts\,
-  boats\, motorboats\, water boards and everything related to them: from sc
- hools\, clubs and sports associations to the manufacturers\\nVenue: Patrio
- t Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-boat-expo-33818-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-boat-expo-33818-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAMILIENMESSE + FRAUENMESSE — Klagenfurt\, Austria
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-familienmesse-frauenmesse-18309-1@eventseye.impio-vault
-DESCRIPTION:Trade fair for the whole family. Exhibition sections dedicated 
- to a healthy lifestyle\, fitness and vitality\, practical information and 
- tips for your everyday life and its challenges\\nVenue: Klagenfurter Messe
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fami
- lienmesse-frauenmesse-18309-1.html
-LOCATION:Klagenfurt\, Austria
-URL:https://www.eventseye.com/fairs/f-familienmesse-frauenmesse-18309-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GESUND LEBEN MESSE + GESUND & GLÜCKLICH — Klagenfurt\, Austria
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-gesund-leben-messe-gesund-glucklich-18310-1@eventseye.impio-vault
-DESCRIPTION:GESUND LEBEN is Southern Austria's largest Health\, Beauty\, Fi
- tness & Wellbeing Fair. Fitness center & fitness Equipment\, Organic & nat
- ural products\, Naturopathy & Alternative Medicine\, Beauty & Well-being\,
-  Health & Therapy Centers...\\nVenue: Klagenfurter Messe\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-gesund-leben-messe-ges
- und-glucklich-18310-1.html
-LOCATION:Klagenfurt\, Austria
-URL:https://www.eventseye.com/fairs/f-gesund-leben-messe-gesund-glucklich-1
- 8310-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU CHEVAL D'ANGERS — Angers\, France
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-salon-du-cheval-d-angers-25745-1@eventseye.impio-vault
-DESCRIPTION:Angers Horse Show. Three days dedicated to practitioners\, hors
- e riding enthusiasts\, professionals or amateurs. Horse races\, equestrian
-  sports competitions\, activities and demonstrations...\\nVenue: Angers Pa
- rc Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-salon-du-cheval-d-angers-25745-1.html
-LOCATION:Angers\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-cheval-d-angers-25745-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAIWAN INTERNATIONAL BOAT SHOW — Kaohsiung\, Taiwan
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261116
-UID:f-taiwan-international-boat-show-19048-1@eventseye.impio-vault
-DESCRIPTION:Taiwan International Boat Show. A large variety of products and
-  services related to watercraft\, including yachts\, sailing and motorboat
- s\\nVenue: Pier-2 Art Center\\nFrequency: every 2 years\\nSource: https://
- www.eventseye.com/fairs/f-taiwan-international-boat-show-19048-1.html
-LOCATION:Kaohsiung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-taiwan-international-boat-show-19048-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERTICAL PRO — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261115
-UID:f-vertical-pro-9173-1@eventseye.impio-vault
-DESCRIPTION:VERTICAL PRO is the optimal meeting place for climbing gym and 
- ropes course operators\, rescue and aid organizations\, arborists and rope
-  access technicians\\nVenue: Messegelände Friedrichshafen\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-vertical-pro-9173-1.
- html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-vertical-pro-9173-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CASTLE ROCK GUN SHOW — Castle Rock\, CO\, USA
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-castle-rock-gun-show-28508-1@eventseye.impio-vault
-DESCRIPTION:Colorado's Largest Gun Show. Every Tanner Gun Show is buy\, sel
- l\, and trade\\nVenue: Douglas County Fairgrounds\\nFrequency: twice a yea
- r\\nSource: https://www.eventseye.com/fairs/f-castle-rock-gun-show-28508-1
- .html
-LOCATION:Castle Rock\, CO\, USA
-URL:https://www.eventseye.com/fairs/f-castle-rock-gun-show-28508-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLUMBIA GUN & KNIFE SHOW - 1 — Columbia\, SC\, USA
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-columbia-gun-knife-show-1-24488-1@eventseye.impio-vault
-DESCRIPTION:Arms & Ammunition Fair. COLUMBIA GUN & KNIFE SHOW presents all 
- types of firearms\, combat knife & sword\, Camouflage merchandise\, antiqu
- e pistols\, cartridges\, hunting accessories\, self protection weapons\, a
- larms\, outdoor equipment and survival training\\nVenue: Jamil Shrine Temp
- le\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-columb
- ia-gun-knife-show-1-24488-1.html
-LOCATION:Columbia\, SC\, USA
-URL:https://www.eventseye.com/fairs/f-columbia-gun-knife-show-1-24488-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOODGUYS AUTUMN GET-TOGETHER PLEASANTON — Pleasanton\, CA\, USA
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-goodguys-autumn-get-together-pleasanton-23958-1@eventseye.impio-vault
-DESCRIPTION:GOODGUYS AUTUMN GET-TOGETHER PLEASANTON features attractive hot
-  rods\, muscle automobiles\, classic vehicles\, vintage models\, trucks\, 
- Tools & kits\, Street machines\, automotive\, used cars\, customized perso
- nal vehicles\\nVenue: Alameda County Fairgrounds\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-goodguys-autumn-get-together-p
- leasanton-23958-1.html
-LOCATION:Pleasanton\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-goodguys-autumn-get-together-pleasant
- on-23958-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE LYON — Lyon\,
-  France
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-UID:f-le-salon-sante-social-paramedical-et-sport-de-lyon-30464-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: Centre de Congrès de Lyon (Cité Internationa
- le)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-l
- e-salon-sante-social-paramedical-et-sport-de-lyon-30464-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-lyon-30464-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE RENNES — Renn
- es\, France
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-UID:f-le-salon-sante-social-paramedical-et-sport-de-rennes-30468-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: Parc-Expo de Rennes-Aéroport\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-social
- -paramedical-et-sport-de-rennes-30468-1.html
-LOCATION:Rennes\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-rennes-30468-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON STUDYRAMA DES FORMATIONS DE LA SANTÉ\, SPORT ET SOCIAL DE MO
- NTPELLIER — Montpellier\, France
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-UID:f-salon-studyrama-des-formations-de-la-sante-sport-et-social-de-montpellier-33632-1@eventseye.impio-vault
-DESCRIPTION:Montpellier Health and Sports Training Fair. To refine your car
- eer plan\, meet with numerous professionals and specialists from Medical P
- reparatory Courses\, Health Sciences Faculties\, and Health Schools\\nVenu
- e: Montpellier - Parc des Expositions\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-sant
- e-sport-et-social-de-montpellier-33632-1.html
-LOCATION:Montpellier\, France
-URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-
- sante-sport-et-social-de-montpellier-33632-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WANENMACHER'S TULSA ARMS SHOW WINTER — Tulsa\, OK\, USA
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-wanenmacher-s-tulsa-arms-show-winter-24468-1@eventseye.impio-vault
-DESCRIPTION:WANENMACHER'S TULSA ARMS SHOW WINTER features hunting rifles\, 
- rifle spoke\, gun parts\, antique pistol\, custom knives & swords\, cartri
- dges\, muzzle load\, gun magazine\, sharpening tool\, holsters\, gun safes
- \, flashlight\, safety alarm...\\nVenue: Exchange Center - Expo Square - T
- ulsa Expo Center\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-wanenmacher-s-tulsa-arms-show-winter-24468-1.html
-LOCATION:Tulsa\, OK\, USA
-URL:https://www.eventseye.com/fairs/f-wanenmacher-s-tulsa-arms-show-winter-
- 24468-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZOOEXPO — Riga\, Latvia
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261116
-UID:f-zooexpo-9265-1@eventseye.impio-vault
-DESCRIPTION:International Pet Industry Fair. International competitions and
-  shows. Pet food. Veterinary medicine. Pet supplies and accessories. Infor
- mation and advice for professionals and enthusiasts\\nVenue: Riga Internat
- ional Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-zooexpo-9265-1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-zooexpo-9265-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:METSTRADE — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261120
-UID:f-metstrade-23782-1@eventseye.impio-vault
-DESCRIPTION:The METSTRADE Show\, most influential event\, brings together l
- eisure marine professionals from over 135 countries to connect\, collabora
- te and drive commerce across boatbuilding and marine technology\\nVenue: R
- AI International Exhibition and Congress Centre\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-metstrade-23782-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-metstrade-23782-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RECREATIE VAKBEURS — Hardenberg\, Netherlands
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261120
-UID:f-recreatie-vakbeurs-31959-1@eventseye.impio-vault
-DESCRIPTION:Leisure Industry Fair in the Netherlands\, the only trade fair 
- in the Benelux that focuses specifically on the recreational sector\, wher
- e all segments of the sector are represented\\nVenue: Evenementenhal Harde
- nberg\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -recreatie-vakbeurs-31959-1.html
-LOCATION:Hardenberg\, Netherlands
-URL:https://www.eventseye.com/fairs/f-recreatie-vakbeurs-31959-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LONDON VET SHOW — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261121
-UID:f-london-vet-show-27246-1@eventseye.impio-vault
-DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
- training with clinical programmes for small animal vets\\nVenue: ExCeL\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-london-v
- et-show-27246-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-london-vet-show-27246-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANIMAL — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-animal-105-1@eventseye.impio-vault
-DESCRIPTION:Discover a fascinating world around your favorite animals at Ge
- rmany's largest pet fair. A wide variety of animal species\, a colorful ra
- nge of accessories and care items\, impressive demonstrations\\nVenue: New
-  Stuttgart Trade Fair Centre\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-animal-105-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-animal-105-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANIMAL ART - PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-animal-art-paris-18439-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of contemporary wildlife artists. Orig
- inal creations of great diversity in both subject matter and techniques/ma
- terials: bronze\, ceramics\, raku\, wood\, direct stone carving\, painting
- s\, drawings...\\nVenue: Hippodrome d'Auteuil\\nFrequency: twice a year\\n
- Source: https://www.eventseye.com/fairs/f-animal-art-paris-18439-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-animal-art-paris-18439-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - CHONGQING — Chongqing\, China
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-gwpf-grandeur-world-pet-fair-chongqing-33055-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
- ndow for overseas brands to enter China and Chinese brands to go global\, 
- opening up a bright future for the pet industry\\nVenue: China Chongqing I
- nternational Expo Center\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-gwpf-grandeur-world-pet-fair-chongqing-33055-1.html
-LOCATION:Chongqing\, China
-URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-chongqin
- g-33055-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIFE! — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-life!-25634-1@eventseye.impio-vault
-DESCRIPTION:Festival of Sports\, Dance and Entertainment in Brno. Visitors 
- will enjoy indoors skiing thanks to the SKI365 arena. The festival offers 
- plenty of attractions for the whole family\\nVenue: Brno Exhibition Centre
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-life
- !-25634-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-life!-25634-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEGAZOO — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261123
-UID:f-megazoo-34188-1@eventseye.impio-vault
-DESCRIPTION:MEGAZOO is the Korea's largest international Pet trade show\, c
- overing all aspects of pet care and veterinary medicine. Discover new oppo
- rtunities and enhance consumer experiences\\nVenue: Kintex - Korea Interna
- tional Exhibition Center\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-megazoo-34188-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-megazoo-34188-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - FERMO — Fermo\, Italy
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-UID:f-esotika-pet-show-fermo-33502-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.h
- tml
-LOCATION:Fermo\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUNS & KNIFE SHOW CONYERS — Conyers\, GA\, USA
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-UID:f-guns-knife-show-conyers-27814-1@eventseye.impio-vault
-DESCRIPTION:Arms and Ammunition fair. GUNS & KNIFE SHOW CONYERS presents al
- l types of firearms\, training\, combat knives & swords\, fishing gears\, 
- antique pistols\, cartridges\, hunting accessories\, gun cases & safes\, s
- elf protection weapons and outdoor equipment\\nVenue: Georgia Internationa
- l Horse Park\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
- s/f-guns-knife-show-conyers-27814-1.html
-LOCATION:Conyers\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-guns-knife-show-conyers-27814-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HERITAGE GUN SHOW MANSFIELD — Mansfield\, OH\, USA
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-UID:f-heritage-gun-show-mansfield-24466-1@eventseye.impio-vault
-DESCRIPTION:Guns & Knives Expo. HERITAGE GUN SHOW MANSFIELD features shotgu
- ns\, hunting rifles\, rifle spoke\, gun parts\, custom knives & swords\, c
- artridges\, muzzle load\, gun magazines\, sharpening tool\, holsters\, gun
-  safes & cases\, flashlight and war relics\\nVenue: Richland County Fair O
- hio\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-herit
- age-gun-show-mansfield-24466-1.html
-LOCATION:Mansfield\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-heritage-gun-show-mansfield-24466-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VÉTÉRINEXPO — Ciney\, Belgium
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261123
-UID:f-veterinexpo-13874-1@eventseye.impio-vault
-DESCRIPTION:Vétérinexpo is the largest veterinary exhibition in Wallonia\
- , reserved for the entire veterinary profession and those accompanying the
- m. At the same time\, there is a certified training program\\nVenue: Ciney
-  Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -veterinexpo-13874-1.html
-LOCATION:Ciney\, Belgium
-URL:https://www.eventseye.com/fairs/f-veterinexpo-13874-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DUBAI INTERNATIONAL BOAT SHOW — Dubai\, UAE - United Arab Emirate
- s
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261130
-UID:f-dubai-international-boat-show-4388-1@eventseye.impio-vault
-DESCRIPTION:One of the largest boat shows in the Middle East. "Dubai Intern
- ational Boat Show" brings together the main manufacturers of super yachts\
- , sailboats\, sports boats\, fishing boats and speed boats\, as well as a 
- many equipment manufacturers\\nVenue: Dubai Harbour\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-dubai-international-boat-sh
- ow-4388-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-dubai-international-boat-show-4388-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JPE - JAKARTA PET EXPO — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261129
-UID:f-jpe-jakarta-pet-expo-31749-1@eventseye.impio-vault
-DESCRIPTION:The Jakarta Pet Expo (JPE) is a pet industry exhibition that wi
- ll display various pet products\, such as food\, medicine\, medical equipm
- ent\, and accessories for pet animals from within & outside the country\\n
- Venue: Jakarta International Expo (JIExpo)\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PARIS NAUTIC SHOW — Paris\, France
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261130
-UID:f-paris-nautic-show-2370-1@eventseye.impio-vault
-DESCRIPTION:International Paris Boat Show. Sailboats\, motorboats\, equipme
- nt\, the environment\, surf sports\, fun for children\, etc\\nVenue: Parc 
- des expositions du Bourget\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-paris-nautic-show-2370-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-paris-nautic-show-2370-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOOT & FUN BERLIN — Berlin\, Germany
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261130
-UID:f-boot-fun-berlin-9954-1@eventseye.impio-vault
-DESCRIPTION:International Boat Show. Germany's largest boat and leisure tra
- de fair. An impressive variety of brands and models in the middle of Europ
- e's largest indoor water sports area\\nVenue: Messegelände Berlin\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-boot-fun-ber
- lin-9954-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-boot-fun-berlin-9954-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GOCAF - SEOUL - KINTEX — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261130
-UID:f-gocaf-seoul-kintex-28117-1@eventseye.impio-vault
-DESCRIPTION:Korea's International Outdoor Camping & Leisure Sports Festival
- . GOCAF is the best platform where professional buyers and new customers v
- isit to explore about Korea’s outdoor sports marketplace\\nVenue: Kintex
-  - Korea International Exhibition Center\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-gocaf-seoul-kintex-28117-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-gocaf-seoul-kintex-28117-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUN & KNIFE SHOW BRAHAM — Braham\, MN\, USA
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
-UID:f-gun-knife-show-braham-29948-1@eventseye.impio-vault
-DESCRIPTION:GUN & KNIFE SHOW BRAHAM presents antique pistols\, rifles\, air
-  guns\, combat knives\, gun magazines\, rifle spoke\, hunting gears\, shar
- pening tools\, holsters\, gun safes\, display cases\, survival training an
- d gun parts\\nVenue: Braham Event Center\\nFrequency: unknown\\nSource: ht
- tps://www.eventseye.com/fairs/f-gun-knife-show-braham-29948-1.html
-LOCATION:Braham\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-gun-knife-show-braham-29948-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BURNET GUNS & KNIFE SHOW — Burnet\, TX\, USA
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-burnet-guns-knife-show-27450-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapons fair. BURNET GUNS & KNIFE SHOW showcases shootin
- g rifles\, self defense trainig\, all sizes of knives\, collectible firear
- ms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartridge
- s\, gun cases & safe\, holsters\, carbines & antiques\\nVenue: Burnet Comm
- unity Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
- s/f-burnet-guns-knife-show-27450-1.html
-LOCATION:Burnet\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-burnet-guns-knife-show-27450-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANTON GUN SHOW — Canton\, OH\, USA
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-canton-gun-show-24459-1@eventseye.impio-vault
-DESCRIPTION:Self Defense Weapons Fair. CANTON GUN SHOW presents antique pis
- tols\, rifles\, air guns\, combat knives\, gun magazines\, collectible fir
- earm\, hunting gears\, fishing gears\, holsters\, gun safes\, security ala
- rm\, display cases\, survival training and gun parts\\nVenue: Stark County
-  Fairgrounds\\nFrequency: twice a year\\nSource: https://www.eventseye.com
- /fairs/f-canton-gun-show-24459-1.html
-LOCATION:Canton\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-canton-gun-show-24459-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANTON STARK COUNTY GUN SHOW — Canton\, OH\, USA
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-canton-stark-county-gun-show-33967-1@eventseye.impio-vault
-DESCRIPTION:Self Defense Weapons Fair. CANTON STARK COUNTY GUN SHOW present
- s antique pistols\, rifles\, air guns\, combat knives\, gun magazines\, co
- llectible firearm\, hunting gears\, fishing gears\, holsters\, gun safes\,
-  display cases\, survival training and gun parts\\nVenue: Stark County Fai
- rgrounds\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
- canton-stark-county-gun-show-33967-1.html
-LOCATION:Canton\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-canton-stark-county-gun-show-33967-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DOG EXHIBITION KIELCE — Kielce\, Poland
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-dog-exhibition-kielce-26240-1@eventseye.impio-vault
-DESCRIPTION:International Purebred Dog Show. In Kielce\, you can admire rep
- resentatives of the most beautiful and rare breeds\, and also meet breeder
- s who will answer all your questions. Pet supplies and accessories\\nVenue
- : Kielce Fairground\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-dog-exhibition-kielce-26240-1.html
-LOCATION:Kielce\, Poland
-URL:https://www.eventseye.com/fairs/f-dog-exhibition-kielce-26240-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESOTIKA PET SHOW - PORDENONE — Pordenone\, Italy
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-esotika-pet-show-pordenone-30701-1@eventseye.impio-vault
-DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
- tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Pordenone Fiere\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika
- -pet-show-pordenone-30701-1.html
-LOCATION:Pordenone\, Italy
-URL:https://www.eventseye.com/fairs/f-esotika-pet-show-pordenone-30701-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KARLSRUHE — Karlsruhe\, G
- ermany
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-internationale-rassehunde-ausstellung-karlsruhe-24880-1@eventseye.impio-vault
-DESCRIPTION:German international dog show and competition for pedigree dogs
- . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
- main organization representing the interests of dog owners throughout Germ
- any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
- nternationale-rassehunde-ausstellung-karlsruhe-24880-1.html
-LOCATION:Karlsruhe\, Germany
-URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
- -karlsruhe-24880-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LEBANON\, MO - GUN SHOW — Lebanon\, MO\, USA
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-lebanon-mo-gun-show-24140-1@eventseye.impio-vault
-DESCRIPTION:Guns & knife show. LEBANON GUN SHOW features handguns\, shotgun
- s\, shooting rifles\, collectible guns\, all size of knives\, war relics\,
-  pistols\, hunting accessories\, fishing gears\, military surplus\, holste
- rs\, gun safes\, gun cases\, survival gears\\nVenue: Kenneth E Cowan Civic
-  Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
- s/f-lebanon-mo-gun-show-24140-1.html
-LOCATION:Lebanon\, MO\, USA
-URL:https://www.eventseye.com/fairs/f-lebanon-mo-gun-show-24140-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TEAMS USA — Birmingham\, AL\, USA
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261030
@@ -5105,6 +3954,1205 @@ DESCRIPTION:Arms and Ammunition fair. GUNS & KNIFE SHOW IN BRUNSWICK presen
 LOCATION:Brunswick\, GA\, USA
 URL:https://www.eventseye.com/fairs/f-guns-knife-show-brunswick-29959-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HATTIESBURG GUN SHOW — Hattiesburg\, MS\, USA
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-hattiesburg-gun-show-28814-1@eventseye.impio-vault
+DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
+ , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
+ mo\, holsters\, swords\, knives...\\nVenue: Forrest County Multi-Purpose C
+ enter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-hat
+ tiesburg-gun-show-28814-1.html
+LOCATION:Hattiesburg\, MS\, USA
+URL:https://www.eventseye.com/fairs/f-hattiesburg-gun-show-28814-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE MARSEILLE — M
+ arseille\, France
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+UID:f-le-salon-sante-social-paramedical-et-sport-de-marseille-30469-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: Parc Chanot\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-sp
+ ort-de-marseille-30469-1.html
+LOCATION:Marseille\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-marseille-30469-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PÊCHE EXPO — Libramont-Chevigny\, Belgium
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-peche-expo-22475-1@eventseye.impio-vault
+DESCRIPTION:Fishing Expo. Pêche Expo attracts visitors fascinated by the w
+ orld of fishing as well as manufacturers and retailers of fishing products
+  & equipments as well as boat\, shelters and pontoons builders\\nVenue: Li
+ bramont Exhibition & Congress - LEC\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-peche-expo-22475-1.html
+LOCATION:Libramont-Chevigny\, Belgium
+URL:https://www.eventseye.com/fairs/f-peche-expo-22475-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIPAC - SALON INTERNATIONAL DES PÊCHES AU COUP — Amiens\, France
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-sipac-salon-international-des-peches-au-coup-27897-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Sport Fishing. For professionals an
+ d enthusiasts\\nVenue: MégaCité\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-sipac-salon-international-des-peches-au-coup-
+ 27897-1.html
+LOCATION:Amiens\, France
+URL:https://www.eventseye.com/fairs/f-sipac-salon-international-des-peches-
+ au-coup-27897-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAUDI PET & VET EXPO — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261112
+UID:f-saudi-pet-vet-expo-28967-1@eventseye.impio-vault
+DESCRIPTION:SAUDI PET & VET EXPO is the first and only pet exhibition in th
+ e Kingdom of Saudi Arabia\, which will be held annually due to the current
+  and prospective promising market for pet supplies and veterinary medicine
+ \\nVenue: Riyadh International Exhibition Centre\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.htm
+ l
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-saudi-pet-vet-expo-28967-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROFESSIONAL MOTORSPORT WORLD EXPO — Cologne\, Germany
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+UID:f-professional-motorsport-world-expo-11436-1@eventseye.impio-vault
+DESCRIPTION:Professional Motor sport World Expo. The show for Motorsport an
+ d Performance Automotive Engineering and Technology\\nVenue: Exhibition Ce
+ ntre Cologne\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-professional-motorsport-world-expo-11436-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-professional-motorsport-world-expo-11
+ 436-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALTEX — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+UID:f-saltex-18162-1@eventseye.impio-vault
+DESCRIPTION:UK's leading event for grounds care\, sports\, amenities\, esta
+ tes & green space management. SALTEX exhibitors cover the whole range of g
+ rounds care services\, latest products\, equipment & expertise to Windsor 
+ Racecourse\\nVenue: National Exhibition Centre\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-saltex-18162-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-saltex-18162-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ANNUAL FINNISH VETERINARY CONFERENCE — Helsinki\, Finland
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261114
+UID:f-the-annual-finnish-veterinary-conference-9512-1@eventseye.impio-vault
+DESCRIPTION:Congress organized by the Finnish Veterinary Association. The p
+ rogram includes lectures in working life\, meat & food hygiene\, environme
+ ntal health\, production animals\, small animals\, horses...\\nVenue: Hels
+ inki Fair Centre\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-the-annual-finnish-veterinary-conference-9512-1.html
+LOCATION:Helsinki\, Finland
+URL:https://www.eventseye.com/fairs/f-the-annual-finnish-veterinary-confere
+ nce-9512-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAVALIADA WARSZAWA — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+UID:f-cavaliada-warszawa-23674-1@eventseye.impio-vault
+DESCRIPTION:Warsaw Horse Fair (Poland). Equestrian equipment and accessorie
+ s\, Four different equestrian competitions\, numerous shows and activities
+ ...\\nVenue: Arena COS Torwar\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-cavaliada-warszawa-23674-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-cavaliada-warszawa-23674-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORT MEYERS BOAT SHOW — Fort Myers\, FL\, USA
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+UID:f-fort-meyers-boat-show-18529-1@eventseye.impio-vault
+DESCRIPTION:Take a closer look at all the new makes and models in boats\, p
+ ersonal watercraft\, and also marine financing\, insurance and education p
+ roviders. With kids’ activities\, fishing and boating safety seminars\, 
+ clothing and gifts for water lovers...\\nVenue: Centennial Park\, Fort Mye
+ rs\, FL\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-fort-meyers-boat-show-18529-1.html
+LOCATION:Fort Myers\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-fort-meyers-boat-show-18529-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERPAEDAGOGICA — Linz\, Austria
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+UID:f-interpaedagogica-7215-1@eventseye.impio-vault
+DESCRIPTION:Education Trade Fair for Teaching Materials\, Equipment\, Cultu
+ re and Sport – from early childhood education to creative\, lifelong lea
+ rning\\nVenue: Design Center Linz\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-interpaedagogica-7215-1.html
+LOCATION:Linz\, Austria
+URL:https://www.eventseye.com/fairs/f-interpaedagogica-7215-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOAT EXPO — Moscow\, Russia
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-boat-expo-33818-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Water Sports Enthusiasts. Yachts\,
+  boats\, motorboats\, water boards and everything related to them: from sc
+ hools\, clubs and sports associations to the manufacturers\\nVenue: Patrio
+ t Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-boat-expo-33818-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-boat-expo-33818-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAMILIENMESSE + FRAUENMESSE — Klagenfurt\, Austria
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-familienmesse-frauenmesse-18309-1@eventseye.impio-vault
+DESCRIPTION:Trade fair for the whole family. Exhibition sections dedicated 
+ to a healthy lifestyle\, fitness and vitality\, practical information and 
+ tips for your everyday life and its challenges\\nVenue: Klagenfurter Messe
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-fami
+ lienmesse-frauenmesse-18309-1.html
+LOCATION:Klagenfurt\, Austria
+URL:https://www.eventseye.com/fairs/f-familienmesse-frauenmesse-18309-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GESUND LEBEN MESSE + GESUND & GLÜCKLICH — Klagenfurt\, Austria
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-gesund-leben-messe-gesund-glucklich-18310-1@eventseye.impio-vault
+DESCRIPTION:GESUND LEBEN is Southern Austria's largest Health\, Beauty\, Fi
+ tness & Wellbeing Fair. Fitness center & fitness Equipment\, Organic & nat
+ ural products\, Naturopathy & Alternative Medicine\, Beauty & Well-being\,
+  Health & Therapy Centers...\\nVenue: Klagenfurter Messe\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-gesund-leben-messe-ges
+ und-glucklich-18310-1.html
+LOCATION:Klagenfurt\, Austria
+URL:https://www.eventseye.com/fairs/f-gesund-leben-messe-gesund-glucklich-1
+ 8310-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU CHEVAL D'ANGERS — Angers\, France
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-salon-du-cheval-d-angers-25745-1@eventseye.impio-vault
+DESCRIPTION:Angers Horse Show. Three days dedicated to practitioners\, hors
+ e riding enthusiasts\, professionals or amateurs. Horse races\, equestrian
+  sports competitions\, activities and demonstrations...\\nVenue: Angers Pa
+ rc Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-salon-du-cheval-d-angers-25745-1.html
+LOCATION:Angers\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-cheval-d-angers-25745-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIWAN INTERNATIONAL BOAT SHOW — Kaohsiung\, Taiwan
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-taiwan-international-boat-show-19048-1@eventseye.impio-vault
+DESCRIPTION:Taiwan International Boat Show. A large variety of products and
+  services related to watercraft\, including yachts\, sailing and motorboat
+ s\\nVenue: Pier-2 Art Center\\nFrequency: every 2 years\\nSource: https://
+ www.eventseye.com/fairs/f-taiwan-international-boat-show-19048-1.html
+LOCATION:Kaohsiung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taiwan-international-boat-show-19048-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERTICAL PRO — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+UID:f-vertical-pro-9173-1@eventseye.impio-vault
+DESCRIPTION:VERTICAL PRO is the optimal meeting place for climbing gym and 
+ ropes course operators\, rescue and aid organizations\, arborists and rope
+  access technicians\\nVenue: Messegelände Friedrichshafen\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-vertical-pro-9173-1.
+ html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-vertical-pro-9173-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASTLE ROCK GUN SHOW — Castle Rock\, CO\, USA
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-castle-rock-gun-show-28508-1@eventseye.impio-vault
+DESCRIPTION:Colorado's Largest Gun Show. Every Tanner Gun Show is buy\, sel
+ l\, and trade\\nVenue: Douglas County Fairgrounds\\nFrequency: twice a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-castle-rock-gun-show-28508-1
+ .html
+LOCATION:Castle Rock\, CO\, USA
+URL:https://www.eventseye.com/fairs/f-castle-rock-gun-show-28508-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLUMBIA GUN & KNIFE SHOW - 1 — Columbia\, SC\, USA
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-columbia-gun-knife-show-1-24488-1@eventseye.impio-vault
+DESCRIPTION:Arms & Ammunition Fair. COLUMBIA GUN & KNIFE SHOW presents all 
+ types of firearms\, combat knife & sword\, Camouflage merchandise\, antiqu
+ e pistols\, cartridges\, hunting accessories\, self protection weapons\, a
+ larms\, outdoor equipment and survival training\\nVenue: Jamil Shrine Temp
+ le\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-columb
+ ia-gun-knife-show-1-24488-1.html
+LOCATION:Columbia\, SC\, USA
+URL:https://www.eventseye.com/fairs/f-columbia-gun-knife-show-1-24488-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOODGUYS AUTUMN GET-TOGETHER PLEASANTON — Pleasanton\, CA\, USA
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-goodguys-autumn-get-together-pleasanton-23958-1@eventseye.impio-vault
+DESCRIPTION:GOODGUYS AUTUMN GET-TOGETHER PLEASANTON features attractive hot
+  rods\, muscle automobiles\, classic vehicles\, vintage models\, trucks\, 
+ Tools & kits\, Street machines\, automotive\, used cars\, customized perso
+ nal vehicles\\nVenue: Alameda County Fairgrounds\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-goodguys-autumn-get-together-p
+ leasanton-23958-1.html
+LOCATION:Pleasanton\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-goodguys-autumn-get-together-pleasant
+ on-23958-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE LYON — Lyon\,
+  France
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:f-le-salon-sante-social-paramedical-et-sport-de-lyon-30464-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: Centre de Congrès de Lyon (Cité Internationa
+ le)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-l
+ e-salon-sante-social-paramedical-et-sport-de-lyon-30464-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-lyon-30464-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE RENNES — Renn
+ es\, France
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:f-le-salon-sante-social-paramedical-et-sport-de-rennes-30468-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: Parc-Expo de Rennes-Aéroport\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-social
+ -paramedical-et-sport-de-rennes-30468-1.html
+LOCATION:Rennes\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-rennes-30468-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON STUDYRAMA DES FORMATIONS DE LA SANTÉ\, SPORT ET SOCIAL DE MO
+ NTPELLIER — Montpellier\, France
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+UID:f-salon-studyrama-des-formations-de-la-sante-sport-et-social-de-montpellier-33632-1@eventseye.impio-vault
+DESCRIPTION:Montpellier Health and Sports Training Fair. To refine your car
+ eer plan\, meet with numerous professionals and specialists from Medical P
+ reparatory Courses\, Health Sciences Faculties\, and Health Schools\\nVenu
+ e: Montpellier - Parc des Expositions\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-sant
+ e-sport-et-social-de-montpellier-33632-1.html
+LOCATION:Montpellier\, France
+URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-
+ sante-sport-et-social-de-montpellier-33632-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WANENMACHER'S TULSA ARMS SHOW WINTER — Tulsa\, OK\, USA
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-wanenmacher-s-tulsa-arms-show-winter-24468-1@eventseye.impio-vault
+DESCRIPTION:WANENMACHER'S TULSA ARMS SHOW WINTER features hunting rifles\, 
+ rifle spoke\, gun parts\, antique pistol\, custom knives & swords\, cartri
+ dges\, muzzle load\, gun magazine\, sharpening tool\, holsters\, gun safes
+ \, flashlight\, safety alarm...\\nVenue: Exchange Center - Expo Square - T
+ ulsa Expo Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-wanenmacher-s-tulsa-arms-show-winter-24468-1.html
+LOCATION:Tulsa\, OK\, USA
+URL:https://www.eventseye.com/fairs/f-wanenmacher-s-tulsa-arms-show-winter-
+ 24468-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZOOEXPO — Riga\, Latvia
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-zooexpo-9265-1@eventseye.impio-vault
+DESCRIPTION:International Pet Industry Fair. International competitions and
+  shows. Pet food. Veterinary medicine. Pet supplies and accessories. Infor
+ mation and advice for professionals and enthusiasts\\nVenue: Riga Internat
+ ional Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-zooexpo-9265-1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-zooexpo-9265-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:METSTRADE — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+UID:f-metstrade-23782-1@eventseye.impio-vault
+DESCRIPTION:The METSTRADE Show\, most influential event\, brings together l
+ eisure marine professionals from over 135 countries to connect\, collabora
+ te and drive commerce across boatbuilding and marine technology\\nVenue: R
+ AI International Exhibition and Congress Centre\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-metstrade-23782-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-metstrade-23782-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECREATIE VAKBEURS — Hardenberg\, Netherlands
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261120
+UID:f-recreatie-vakbeurs-31959-1@eventseye.impio-vault
+DESCRIPTION:Leisure Industry Fair in the Netherlands\, the only trade fair 
+ in the Benelux that focuses specifically on the recreational sector\, wher
+ e all segments of the sector are represented\\nVenue: Evenementenhal Harde
+ nberg\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -recreatie-vakbeurs-31959-1.html
+LOCATION:Hardenberg\, Netherlands
+URL:https://www.eventseye.com/fairs/f-recreatie-vakbeurs-31959-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LONDON VET SHOW — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+UID:f-london-vet-show-27246-1@eventseye.impio-vault
+DESCRIPTION:Veterinary Forum. The event offers vets practical and relevant 
+ training with clinical programmes for small animal vets\\nVenue: ExCeL\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-london-v
+ et-show-27246-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-london-vet-show-27246-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANIMAL — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-animal-105-1@eventseye.impio-vault
+DESCRIPTION:Discover a fascinating world around your favorite animals at Ge
+ rmany's largest pet fair. A wide variety of animal species\, a colorful ra
+ nge of accessories and care items\, impressive demonstrations\\nVenue: New
+  Stuttgart Trade Fair Centre\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-animal-105-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-animal-105-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANIMAL ART - PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-animal-art-paris-18439-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of contemporary wildlife artists. Orig
+ inal creations of great diversity in both subject matter and techniques/ma
+ terials: bronze\, ceramics\, raku\, wood\, direct stone carving\, painting
+ s\, drawings...\\nVenue: Hippodrome d'Auteuil\\nFrequency: twice a year\\n
+ Source: https://www.eventseye.com/fairs/f-animal-art-paris-18439-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-animal-art-paris-18439-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - CHONGQING — Chongqing\, China
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-gwpf-grandeur-world-pet-fair-chongqing-33055-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
+ ndow for overseas brands to enter China and Chinese brands to go global\, 
+ opening up a bright future for the pet industry\\nVenue: China Chongqing I
+ nternational Expo Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-gwpf-grandeur-world-pet-fair-chongqing-33055-1.html
+LOCATION:Chongqing\, China
+URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-chongqin
+ g-33055-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIFE! — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-life!-25634-1@eventseye.impio-vault
+DESCRIPTION:Festival of Sports\, Dance and Entertainment in Brno. Visitors 
+ will enjoy indoors skiing thanks to the SKI365 arena. The festival offers 
+ plenty of attractions for the whole family\\nVenue: Brno Exhibition Centre
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-life
+ !-25634-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-life!-25634-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEGAZOO — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261123
+UID:f-megazoo-34188-1@eventseye.impio-vault
+DESCRIPTION:MEGAZOO is the Korea's largest international Pet trade show\, c
+ overing all aspects of pet care and veterinary medicine. Discover new oppo
+ rtunities and enhance consumer experiences\\nVenue: Kintex - Korea Interna
+ tional Exhibition Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-megazoo-34188-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-megazoo-34188-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESOTIKA PET SHOW - FERMO — Fermo\, Italy
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-esotika-pet-show-fermo-33502-1@eventseye.impio-vault
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.h
+ tml
+LOCATION:Fermo\, Italy
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-fermo-33502-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUNS & KNIFE SHOW CONYERS — Conyers\, GA\, USA
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-guns-knife-show-conyers-27814-1@eventseye.impio-vault
+DESCRIPTION:Arms and Ammunition fair. GUNS & KNIFE SHOW CONYERS presents al
+ l types of firearms\, training\, combat knives & swords\, fishing gears\, 
+ antique pistols\, cartridges\, hunting accessories\, gun cases & safes\, s
+ elf protection weapons and outdoor equipment\\nVenue: Georgia Internationa
+ l Horse Park\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
+ s/f-guns-knife-show-conyers-27814-1.html
+LOCATION:Conyers\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-guns-knife-show-conyers-27814-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HERITAGE GUN SHOW MANSFIELD — Mansfield\, OH\, USA
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-heritage-gun-show-mansfield-24466-1@eventseye.impio-vault
+DESCRIPTION:Guns & Knives Expo. HERITAGE GUN SHOW MANSFIELD features shotgu
+ ns\, hunting rifles\, rifle spoke\, gun parts\, custom knives & swords\, c
+ artridges\, muzzle load\, gun magazines\, sharpening tool\, holsters\, gun
+  safes & cases\, flashlight and war relics\\nVenue: Richland County Fair O
+ hio\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-herit
+ age-gun-show-mansfield-24466-1.html
+LOCATION:Mansfield\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-heritage-gun-show-mansfield-24466-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PASCAGOULA GUN SHOW — Pascagoula\, MS\, USA
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-pascagoula-gun-show-24425-1@eventseye.impio-vault
+DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
+ , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
+ mo\, holsters\, swords\, knives...\\nVenue: Jackson County Fairgrounds\\nF
+ requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-pascago
+ ula-gun-show-24425-1.html
+LOCATION:Pascagoula\, MS\, USA
+URL:https://www.eventseye.com/fairs/f-pascagoula-gun-show-24425-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VÉTÉRINEXPO — Ciney\, Belgium
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-veterinexpo-13874-1@eventseye.impio-vault
+DESCRIPTION:Vétérinexpo is the largest veterinary exhibition in Wallonia\
+ , reserved for the entire veterinary profession and those accompanying the
+ m. At the same time\, there is a certified training program\\nVenue: Ciney
+  Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -veterinexpo-13874-1.html
+LOCATION:Ciney\, Belgium
+URL:https://www.eventseye.com/fairs/f-veterinexpo-13874-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUBAI INTERNATIONAL BOAT SHOW — Dubai\, UAE - United Arab Emirate
+ s
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
+UID:f-dubai-international-boat-show-4388-1@eventseye.impio-vault
+DESCRIPTION:One of the largest boat shows in the Middle East. "Dubai Intern
+ ational Boat Show" brings together the main manufacturers of super yachts\
+ , sailboats\, sports boats\, fishing boats and speed boats\, as well as a 
+ many equipment manufacturers\\nVenue: Dubai Harbour\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-dubai-international-boat-sh
+ ow-4388-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-dubai-international-boat-show-4388-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JPE - JAKARTA PET EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261129
+UID:f-jpe-jakarta-pet-expo-31749-1@eventseye.impio-vault
+DESCRIPTION:The Jakarta Pet Expo (JPE) is a pet industry exhibition that wi
+ ll display various pet products\, such as food\, medicine\, medical equipm
+ ent\, and accessories for pet animals from within & outside the country\\n
+ Venue: Jakarta International Expo (JIExpo)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-jpe-jakarta-pet-expo-31749-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PARIS NAUTIC SHOW — Paris\, France
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261130
+UID:f-paris-nautic-show-2370-1@eventseye.impio-vault
+DESCRIPTION:International Paris Boat Show. Sailboats\, motorboats\, equipme
+ nt\, the environment\, surf sports\, fun for children\, etc\\nVenue: Parc 
+ des expositions du Bourget\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-paris-nautic-show-2370-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-paris-nautic-show-2370-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOT & FUN BERLIN — Berlin\, Germany
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+UID:f-boot-fun-berlin-9954-1@eventseye.impio-vault
+DESCRIPTION:International Boat Show. Germany's largest boat and leisure tra
+ de fair. An impressive variety of brands and models in the middle of Europ
+ e's largest indoor water sports area\\nVenue: Messegelände Berlin\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-boot-fun-ber
+ lin-9954-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-boot-fun-berlin-9954-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GOCAF - SEOUL - KINTEX — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+UID:f-gocaf-seoul-kintex-28117-1@eventseye.impio-vault
+DESCRIPTION:Korea's International Outdoor Camping & Leisure Sports Festival
+ . GOCAF is the best platform where professional buyers and new customers v
+ isit to explore about Korea’s outdoor sports marketplace\\nVenue: Kintex
+  - Korea International Exhibition Center\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-gocaf-seoul-kintex-28117-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-gocaf-seoul-kintex-28117-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUN & KNIFE SHOW BRAHAM — Braham\, MN\, USA
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+UID:f-gun-knife-show-braham-29948-1@eventseye.impio-vault
+DESCRIPTION:GUN & KNIFE SHOW BRAHAM presents antique pistols\, rifles\, air
+  guns\, combat knives\, gun magazines\, rifle spoke\, hunting gears\, shar
+ pening tools\, holsters\, gun safes\, display cases\, survival training an
+ d gun parts\\nVenue: Braham Event Center\\nFrequency: unknown\\nSource: ht
+ tps://www.eventseye.com/fairs/f-gun-knife-show-braham-29948-1.html
+LOCATION:Braham\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-gun-knife-show-braham-29948-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BURNET GUNS & KNIFE SHOW — Burnet\, TX\, USA
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-burnet-guns-knife-show-27450-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapons fair. BURNET GUNS & KNIFE SHOW showcases shootin
+ g rifles\, self defense trainig\, all sizes of knives\, collectible firear
+ ms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartridge
+ s\, gun cases & safe\, holsters\, carbines & antiques\\nVenue: Burnet Comm
+ unity Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
+ s/f-burnet-guns-knife-show-27450-1.html
+LOCATION:Burnet\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-burnet-guns-knife-show-27450-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANTON GUN SHOW — Canton\, OH\, USA
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-canton-gun-show-24459-1@eventseye.impio-vault
+DESCRIPTION:Self Defense Weapons Fair. CANTON GUN SHOW presents antique pis
+ tols\, rifles\, air guns\, combat knives\, gun magazines\, collectible fir
+ earm\, hunting gears\, fishing gears\, holsters\, gun safes\, security ala
+ rm\, display cases\, survival training and gun parts\\nVenue: Stark County
+  Fairgrounds\\nFrequency: twice a year\\nSource: https://www.eventseye.com
+ /fairs/f-canton-gun-show-24459-1.html
+LOCATION:Canton\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-canton-gun-show-24459-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANTON STARK COUNTY GUN SHOW — Canton\, OH\, USA
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-canton-stark-county-gun-show-33967-1@eventseye.impio-vault
+DESCRIPTION:Self Defense Weapons Fair. CANTON STARK COUNTY GUN SHOW present
+ s antique pistols\, rifles\, air guns\, combat knives\, gun magazines\, co
+ llectible firearm\, hunting gears\, fishing gears\, holsters\, gun safes\,
+  display cases\, survival training and gun parts\\nVenue: Stark County Fai
+ rgrounds\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-
+ canton-stark-county-gun-show-33967-1.html
+LOCATION:Canton\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-canton-stark-county-gun-show-33967-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOG EXHIBITION KIELCE — Kielce\, Poland
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-dog-exhibition-kielce-26240-1@eventseye.impio-vault
+DESCRIPTION:International Purebred Dog Show. In Kielce\, you can admire rep
+ resentatives of the most beautiful and rare breeds\, and also meet breeder
+ s who will answer all your questions. Pet supplies and accessories\\nVenue
+ : Kielce Fairground\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-dog-exhibition-kielce-26240-1.html
+LOCATION:Kielce\, Poland
+URL:https://www.eventseye.com/fairs/f-dog-exhibition-kielce-26240-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESOTIKA PET SHOW - PORDENONE — Pordenone\, Italy
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-esotika-pet-show-pordenone-30701-1@eventseye.impio-vault
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: Pordenone Fiere\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika
+ -pet-show-pordenone-30701-1.html
+LOCATION:Pordenone\, Italy
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-pordenone-30701-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - KARLSRUHE — Karlsruhe\, G
+ ermany
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-internationale-rassehunde-ausstellung-karlsruhe-24880-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-karlsruhe-24880-1.html
+LOCATION:Karlsruhe\, Germany
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -karlsruhe-24880-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEBANON\, MO - GUN SHOW — Lebanon\, MO\, USA
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-lebanon-mo-gun-show-24140-1@eventseye.impio-vault
+DESCRIPTION:Guns & knife show. LEBANON GUN SHOW features handguns\, shotgun
+ s\, shooting rifles\, collectible guns\, all size of knives\, war relics\,
+  pistols\, hunting accessories\, fishing gears\, military surplus\, holste
+ rs\, gun safes\, gun cases\, survival gears\\nVenue: Kenneth E Cowan Civic
+  Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fair
+ s/f-lebanon-mo-gun-show-24140-1.html
+LOCATION:Lebanon\, MO\, USA
+URL:https://www.eventseye.com/fairs/f-lebanon-mo-gun-show-24140-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PET EXPO & SHOW BOLOGNA — Bologna\, Italy
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+UID:f-pet-expo-show-bologna-31468-1@eventseye.impio-vault
+DESCRIPTION:A pet event to discover and learn. All categories of pets are r
+ epresented\, as well as products and services for them. A rich program of 
+ demonstrations\, workshops\, educational meetings...\\nVenue: Bologna Exhi
+ bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-pet-expo-show-bologna-31468-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-pet-expo-show-bologna-31468-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCK ‘N’ ROLL MANILA — Manila\, Philippines
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+UID:f-rock-n-roll-manila-29558-1@eventseye.impio-vault
+DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
+ \, so that everyone can enjoy the biggest running party in the country\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
+ oll-manila-29558-1.html
+LOCATION:Manila\, Philippines
+URL:https://www.eventseye.com/fairs/f-rock-n-roll-manila-29558-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ATHENS INTERNATIONAL BOAT SHOW — Athens\, Greece
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261207
+UID:f-athens-international-boat-show-15692-1@eventseye.impio-vault
+DESCRIPTION:ATHENS INTERNATIONAL BOAT SHOW is addresed to all those to love
+  sea recration\, extreme water sports and sea-related tourism\, but also t
+ o those who are interested in boating\, sailing\, fisging and diving\, cov
+ ering any level of professionalism & every need\\nVenue: Athens Metropolit
+ an Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-athens-international-boat-show-15692-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-athens-international-boat-show-15692-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HONG KONG INTERNATIONAL BOAT SHOW — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-hong-kong-international-boat-show-25469-1@eventseye.impio-vault
+DESCRIPTION:The Hong Kong International Boat Show is one of the most presti
+ gious events in Asia-Pacific for leading global brands\, boat buyers and d
+ ealers\\nVenue: Club Marina Cove\\nFrequency: every 2 years\\nSource: http
+ s://www.eventseye.com/fairs/f-hong-kong-international-boat-show-25469-1.ht
+ ml
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-international-boat-show-254
+ 69-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERMOT COLOGNE — Cologne\, Germany
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-intermot-cologne-10845-1@eventseye.impio-vault
+DESCRIPTION:International Motorcycle\, Scooter and Bicycle Fair. A motorcyc
+ le is more than just a machine. It’s also about family\, deep love and p
+ ure emotion – and INTERMOT is the place to be for everyone who feels the
+  same way\\nVenue: Exhibition Centre Cologne\\nFrequency: every 2 years\\n
+ Source: https://www.eventseye.com/fairs/f-intermot-cologne-10845-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-intermot-cologne-10845-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIMAMO — Hannover\, Germany
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-mimamo-16932-1@eventseye.impio-vault
+DESCRIPTION:Horse & Pony Show for children. Young talents\, newcomers\, sta
+ rs of tomorrow show great show pictures\, breathtaking acrobatics\, rousin
+ g action & provide a colorful show with variety\, entertainment & lots of 
+ surprises from the great pony and horse world!\\nVenue: Deutsche Messe Han
+ nover\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -mimamo-16932-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-mimamo-16932-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PASSION PFERD — Hannover\, Germany
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-passion-pferd-9881-1@eventseye.impio-vault
+DESCRIPTION:PASSION PFERD offers impressive shows\, great exhibitors\, exci
+ ting events and a wide range of highlights from the world of horses\\nVenu
+ e: Deutsche Messe Hannover\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-passion-pferd-9881-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-passion-pferd-9881-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PFERD & JAGD — Hannover\, Germany
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+UID:f-pferd-jagd-2111-1@eventseye.impio-vault
+DESCRIPTION:International German Exhibition of Equestrian Sports and Huntin
+ g. A large offer on the topics of Equestrian Sports\, Hunting\, Country an
+ d for Dogs\\nVenue: Deutsche Messe Hannover\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-pferd-jagd-2111-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-pferd-jagd-2111-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPORTUR GALICIA — Ourense\, Spain
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+UID:f-sportur-galicia-25266-1@eventseye.impio-vault
+DESCRIPTION:Sports and Active Tourism Fair in Galicia. The "SPORTUR GALICIA
+ " is an event aimed at all audiences\, both for athletes\, amateurs or beg
+ inners\, as well as for adults and children\\nVenue: Expourense\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-sportur-galicia
+ -25266-1.html
+LOCATION:Ourense\, Spain
+URL:https://www.eventseye.com/fairs/f-sportur-galicia-25266-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - NANCHANG — Nanchang\, China
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+UID:f-gwpf-grandeur-world-pet-fair-nanchang-33056-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
+ ndow for overseas brands to enter China and Chinese brands to go global\, 
+ opening up a bright future for the pet industry\\nVenue: Nanchang Internat
+ ional Exhibition Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-gwpf-grandeur-world-pet-fair-nanchang-33056-1.html
+LOCATION:Nanchang\, China
+URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-nanchang
+ -33056-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU CHEVAL DE PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+UID:f-salon-du-cheval-de-paris-2345-1@eventseye.impio-vault
+DESCRIPTION:Horse\, pony and donkey show. A major event in the equestrian i
+ ndustry\, delighting enthusiasts\, professionals and horse lovers across F
+ rance\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-salon-du-cheval-de-paris-2345-1.h
+ tml
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-cheval-de-paris-2345-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO MASCOTAS — Alicante\, Spain
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+UID:f-expo-mascotas-27784-1@eventseye.impio-vault
+DESCRIPTION:Dog and other pets show. EXPO MASCOTAS is designed to find Unde
+ r one roof a whole range of articles\, products\, services and information
+  related to pets\\nVenue: IFA - Fira Alicant\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
+LOCATION:Alicante\, Spain
+URL:https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUN & KNIFE SHOW MANKATO — Mankato\, MN\, USA
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+UID:f-gun-knife-show-mankato-24452-1@eventseye.impio-vault
+DESCRIPTION:GUN & KNIFE SHOW MANKATO presents antique pistols\, rifles\, ai
+ r guns\, combat knives\, gun magazines\, rifle spoke\, hunting gears\, sha
+ rpening tools\, holsters\, gun safes\, display cases\, survival training a
+ nd gun parts\\nVenue: Kato Ballroom\\nFrequency: twice a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-gun-knife-show-mankato-24452-1.html
+LOCATION:Mankato\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-gun-knife-show-mankato-24452-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHILADELPHIA GUN SHOW — Philadelphia\, MS\, USA
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+UID:f-philadelphia-gun-show-24426-1@eventseye.impio-vault
+DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
+ , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
+ mo\, holsters\, swords\, knives...\\nVenue: Neshoba County Coliseum\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-philadelphi
+ a-gun-show-24426-1.html
+LOCATION:Philadelphia\, MS\, USA
+URL:https://www.eventseye.com/fairs/f-philadelphia-gun-show-24426-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAVALIADA POZNAN — Poznan\, Poland
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-cavaliada-poznan-16043-1@eventseye.impio-vault
+DESCRIPTION:Poznan International Horse Show. Four equestrian competitions\,
+  plus exciting shows\\nVenue: Poznan Congress Center\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-cavaliada-poznan-16043-1.h
+ tml
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-cavaliada-poznan-16043-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MASTERS EXPO — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261215
+UID:f-masters-expo-27385-1@eventseye.impio-vault
+DESCRIPTION:MASTERS EXPO is the great business fair in Europe\, where more 
+ than 40\, 000 visitors experience the most special offers in the field of 
+ modern luxury and future-proof business\\nVenue: RAI International Exhibit
+ ion and Congress Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-masters-expo-27385-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-masters-expo-27385-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PERFORMANCE RACING INDUSTRY SHOW — Indianapolis\, IN\, USA
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261213
+UID:f-performance-racing-industry-show-4998-1@eventseye.impio-vault
+DESCRIPTION:Trade Show for Hardcore Auto Racing Products. PERFORMANCE RACIN
+ G INDUSTRY SHOW is a trip to Indianapolis and an experience the absolute l
+ atest in performance technology and products all under one roof\\nVenue: I
+ ndiana Convention Center\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-performance-racing-industry-show-4998-1.html
+LOCATION:Indianapolis\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-performance-racing-industry-show-4998
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARROWHEAD ICE FISHING AND WINTER SHOW — Duluth\, MN\, USA
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-arrowhead-ice-fishing-and-winter-show-18604-1@eventseye.impio-vault
+DESCRIPTION:Arrowhead Ice Fishing and Winter Show. Whether you need an upgr
+ ade\, or are totally new to the ice fishing scene\, you will find a wide v
+ ariety of new products and accessories at the biggest sale of the year!\\n
+ Venue: Duluth Entertainment Convention Center\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-arrowhead-ice-fishing-and-winter-
+ show-18604-1.html
+LOCATION:Duluth\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-arrowhead-ice-fishing-and-winter-show
+ -18604-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHANCHAO KAOHSIUNG PETS SHOW — Kaohsiung\, Taiwan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261215
+UID:f-chanchao-kaohsiung-pets-show-20560-1@eventseye.impio-vault
+DESCRIPTION:Kaohsiung Pet Show. Dried and semi-dry foods\, Clothing accesso
+ ries\, Grooming care\, Hygiene products\, Accessories related to outings\,
+  Training assistance\, Services...\\nVenue: Koahsiung Exhibition Center\\n
+ Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-chanch
+ ao-kaohsiung-pets-show-20560-1.html
+LOCATION:Kaohsiung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-chanchao-kaohsiung-pets-show-20560-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRT - DIVING\, RESORT AND TRAVEL SHOW - HONG KONG — Hong Kong\, H
+ ong Kong
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-drt-diving-resort-and-travel-show-hong-kong-32290-1@eventseye.impio-vault
+DESCRIPTION:The No.1 Brand Diving Expo in Asia. DRT SHOW aims to provide gr
+ eater support to business partners and encourage more people to become pas
+ sionate divers who care about marine ecology\\nVenue: Hong Kong Convention
+  & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-drt-diving-resort-and-travel-show-hong-kong-32290-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-drt-diving-resort-and-travel-show-hon
+ g-kong-32290-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HUNTING EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-hunting-expo-34483-1@eventseye.impio-vault
+DESCRIPTION:Hunting Expo is a key industry event showcasing the latest hunt
+ ing technologies and equipment\, survival accessories\, as well as special
+ ized clothing & optics. Hunting dog equipment\, hunting art\, innovative s
+ olutions for managing wild animal populations...\\nVenue: Ptak Warsaw Expo
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-hunt
+ ing-expo-34483-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-hunting-expo-34483-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUTDOOR EQUIPMENT EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-outdoor-equipment-expo-34485-1@eventseye.impio-vault
+DESCRIPTION:OUTDOOR Equipment Expo is a trade fair showcasing equipment\, a
+ ccessories\, and solutions for people who enjoy spending time in the great
+  outdoors. Trekking\, hiking\, camping\, and backpacking equipment\, bicyc
+ les\, technical clothing and footwear...\\nVenue: Ptak Warsaw Expo\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-outdoor-equi
+ pment-expo-34485-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-outdoor-equipment-expo-34485-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WARSAW FISHING DAYS — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-warsaw-fishing-days-34486-1@eventseye.impio-vault
+DESCRIPTION:Warsaw Fishing Days is a key industry event showcasing fishing 
+ equipment for all fishing methods\, lures and groundbaits\, fish finders a
+ nd electronic equipment\, boats\, inflatable boats\, outdoor clothing\, fi
+ shing destinations and angling tourism offers\\nVenue: Ptak Warsaw Expo\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-
+ fishing-days-34486-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-warsaw-fishing-days-34486-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINNER — Helsinki\, Finland
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-winner-13825-1@eventseye.impio-vault
+DESCRIPTION:Finland's biggest Dog Event. Dog Fair Finland offers a great ch
+ ance to get acquainted with different breeds and discuss the choice of bre
+ ed and good dog-ownership with experts in the field\\nVenue: Helsinki Fair
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-winner-13825-1.html
+LOCATION:Helsinki\, Finland
+URL:https://www.eventseye.com/fairs/f-winner-13825-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLUMBIA GUN & KNIFE SHOW — Columbia\, SC\, USA
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:f-columbia-gun-knife-show-24368-1@eventseye.impio-vault
+DESCRIPTION:Arms and Weapons fair. COLUMBIA GUN & KNIFE SHOW features rifle
+ s\, shotguns\, collectibles firearms\, all size of knives\, swords\, perso
+ nal defense weapons\, outdoor equipment\, fishing & hunting accessories\, 
+ holster\, gun cases & gun safe\\nVenue: South Carolina State Fairgrounds\\
+ nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-columbia-g
+ un-knife-show-24368-1.html
+LOCATION:Columbia\, SC\, USA
+URL:https://www.eventseye.com/fairs/f-columbia-gun-knife-show-24368-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOPKINSVILLE\, KY - GUN SHOW — Hopkinsville\, KY\, USA
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:f-hopkinsville-ky-gun-show-29794-1@eventseye.impio-vault
+DESCRIPTION:Guns & knife show features personal defense weapons\, war relic
+ s\, rifles\, pistol\, collectible firearm\, antique knife\, fishing & hunt
+ ing accessories\, survival gears\, military surplus\, holsters\, samurai s
+ words\\nVenue: Western Kentucky State Fairgrounds\\nFrequency: unknown\\nS
+ ource: https://www.eventseye.com/fairs/f-hopkinsville-ky-gun-show-29794-1.
+ html
+LOCATION:Hopkinsville\, KY\, USA
+URL:https://www.eventseye.com/fairs/f-hopkinsville-ky-gun-show-29794-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE TOULOUSE — To
+ ulouse\, France
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+UID:f-le-salon-sante-social-paramedical-et-sport-de-toulouse-30467-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: MEETT - Parc des Expositions et Centre de Conv
+ entions\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-le-salon-sante-social-paramedical-et-sport-de-toulouse-30467-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-toulouse-30467-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WICHITA FALLS GUNS & KNIFE SHOW — Wichita Falls\, TX\, USA
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:f-wichita-falls-guns-knife-show-33931-1@eventseye.impio-vault
+DESCRIPTION:WICHITA FALLS GUNS & KNIFE SHOW showcases shooting rifles\, sel
+ f defense trainig\, all sizes of knives\, collectible firearms\, hunting &
+  fishing accessories\, shotguns\, samurai swords\, cartridges\, gun cases 
+ & safe\, holsters\, carbines & antiques\\nVenue: J S Bridwell Agricultural
+  Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-w
+ ichita-falls-guns-knife-show-33931-1.html
+LOCATION:Wichita Falls\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-wichita-falls-guns-knife-show-33931-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCK ‘N’ ROLL MEXICO CITY — Mexico City\, Mexico
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+UID:f-rock-n-roll-mexico-city-24038-1@eventseye.impio-vault
+DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
+ \, so that everyone can enjoy the biggest running party in the country\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
+ oll-mexico-city-24038-1.html
+LOCATION:Mexico City\, Mexico
+URL:https://www.eventseye.com/fairs/f-rock-n-roll-mexico-city-24038-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPORTSTRAVEL LEADERSHIP FORUM — Monterey\, CA\, USA
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261217
+UID:f-sportstravel-leadership-forum-33426-1@eventseye.impio-vault
+DESCRIPTION:The premier gathering for the leading sports event organizers\,
+  host cities\, venues\, vendors\, sponsors and other hospitality industry 
+ opinion leaders\\nVenue: Monterey Conference Center\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-sportstravel-leadership-for
+ um-33426-1.html
+LOCATION:Monterey\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-sportstravel-leadership-forum-33426-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE LONDON INTERNATIONAL HORSE SHOW — London\, UK - United Kingdo
+ m
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261222
+UID:f-the-london-international-horse-show-9829-1@eventseye.impio-vault
+DESCRIPTION:London International Horse Show. Hosting three FEI World Cup Qu
+ alifiers in Dressage\, Show Jumping and Driving\\nVenue: ExCeL\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-the-london-inter
+ national-horse-show-9829-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-the-london-international-horse-show-9
+ 829-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - XIAMEN — Xiamen\, China
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+UID:f-gwpf-grandeur-world-pet-fair-xiamen-33057-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
+ ndow for overseas brands to enter China and Chinese brands to go global\, 
+ opening up a bright future for the pet industry\\nVenue: Xiamen Internatio
+ nal Conference & Exhibition Centre\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-xiamen-33057-1.
+ html
+LOCATION:Xiamen\, China
+URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-xiamen-3
+ 3057-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IHFF — Mumbai\, India
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+UID:f-ihff-25604-1@eventseye.impio-vault
+DESCRIPTION:The Largest health wellness and fitness Expo in India. A trade 
+ show that promotes brands\, athletes\, sports. IHFF brings to you all heal
+ th and fitness solutions\, technologies\, advancements and varieties of pr
+ oducts\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: 
+ twice a year\\nSource: https://www.eventseye.com/fairs/f-ihff-25604-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-ihff-25604-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOONVILLE GUNS & KNIFE SHOW — Boonville\, IN\, USA
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+UID:f-boonville-guns-knife-show-34141-1@eventseye.impio-vault
+DESCRIPTION:GUNS & KNIFE SHOW features hunting knife\, shooting rifle\, rif
+ le spoke\, sharpening tool\, outdoor equipments\, reloading supplies\, hun
+ ting & fishing gears\, laser sights\, hunting boots\, bulletproof jacket a
+ nd Camouflage Related item\\nFrequency: unknown\\nSource: https://www.even
+ tseye.com/fairs/f-boonville-guns-knife-show-34141-1.html
+LOCATION:Boonville\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-boonville-guns-knife-show-34141-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BURLESON GUNS & KNIFE SHOW — Arlington\, TX\, USA
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+UID:f-burleson-guns-knife-show-24393-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapons fair. BURLESON GUNS & KNIFE SHOW showcases shoot
+ ing rifles\, self defense trainig\, all sizes of knives\, collectible fire
+ arms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartrid
+ ges\, gun cases & safe\, holsters and antiques\\nVenue: Burleson Event Cen
+ ter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-burle
+ son-guns-knife-show-24393-1.html
+LOCATION:Arlington\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-burleson-guns-knife-show-24393-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIV / EXPOJOVE — Valencia\, Spain
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270105
+UID:f-fiv-expojove-4896-1@eventseye.impio-vault
+DESCRIPTION:Valencia International Trade Fair & Youth Fair: Cinema\; Theatr
+ e\; Toys\; Educational Toys\; Fairgrounds Attractions\; Magic Workshops\; 
+ Sports Activities\; Official Institutions\\nVenue: Feria Valencia\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-fiv-expojove-
+ 4896-1.html
+LOCATION:Valencia\, Spain
+URL:https://www.eventseye.com/fairs/f-fiv-expojove-4896-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUNS & KNIFE SHOW CARROLLTON — Carrollton\, GA\, USA
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261228
+UID:f-guns-knife-show-carrollton-26633-1@eventseye.impio-vault
+DESCRIPTION:Arms and Ammunition fair. GUNS & KNIFE SHOW CARROLLTON features
+  rifles\, handguns\, shotguns\, combat knives and swords\, cartridges\, co
+ llectibles\, antique coins\, hunting and fishing accessories\, war relics\
+ , carbines and self protection items\\nVenue: VFW Fairground Complex\\nFre
+ quency: unknown\\nSource: https://www.eventseye.com/fairs/f-guns-knife-sho
+ w-carrollton-26633-1.html
+LOCATION:Carrollton\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-guns-knife-show-carrollton-26633-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MY DOG — Gothenburg\, Sweden
@@ -5678,496 +5726,6 @@ DESCRIPTION:International exhibition of boats\, boating accessories\, on-th
  w-19776-1.html
 LOCATION:Minneapolis\, MN\, USA
 URL:https://www.eventseye.com/fairs/f-minneapolis-boat-show-19776-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET EXPO & SHOW BOLOGNA — Bologna\, Italy
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261130
-UID:f-pet-expo-show-bologna-31468-1@eventseye.impio-vault
-DESCRIPTION:A pet event to discover and learn. All categories of pets are r
- epresented\, as well as products and services for them. A rich program of 
- demonstrations\, workshops\, educational meetings...\\nVenue: Bologna Exhi
- bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-pet-expo-show-bologna-31468-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-pet-expo-show-bologna-31468-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROCK ‘N’ ROLL MANILA — Manila\, Philippines
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-UID:f-rock-n-roll-manila-29558-1@eventseye.impio-vault
-DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
- \, so that everyone can enjoy the biggest running party in the country\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
- oll-manila-29558-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-rock-n-roll-manila-29558-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ATHENS INTERNATIONAL BOAT SHOW — Athens\, Greece
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261207
-UID:f-athens-international-boat-show-15692-1@eventseye.impio-vault
-DESCRIPTION:ATHENS INTERNATIONAL BOAT SHOW is addresed to all those to love
-  sea recration\, extreme water sports and sea-related tourism\, but also t
- o those who are interested in boating\, sailing\, fisging and diving\, cov
- ering any level of professionalism & every need\\nVenue: Athens Metropolit
- an Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-athens-international-boat-show-15692-1.html
-LOCATION:Athens\, Greece
-URL:https://www.eventseye.com/fairs/f-athens-international-boat-show-15692-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERMOT COLOGNE — Cologne\, Germany
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-UID:f-intermot-cologne-10845-1@eventseye.impio-vault
-DESCRIPTION:International Motorcycle\, Scooter and Bicycle Fair. A motorcyc
- le is more than just a machine. It’s also about family\, deep love and p
- ure emotion – and INTERMOT is the place to be for everyone who feels the
-  same way\\nVenue: Exhibition Centre Cologne\\nFrequency: every 2 years\\n
- Source: https://www.eventseye.com/fairs/f-intermot-cologne-10845-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-intermot-cologne-10845-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIMAMO — Hannover\, Germany
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-UID:f-mimamo-16932-1@eventseye.impio-vault
-DESCRIPTION:Horse & Pony Show for children. Young talents\, newcomers\, sta
- rs of tomorrow show great show pictures\, breathtaking acrobatics\, rousin
- g action & provide a colorful show with variety\, entertainment & lots of 
- surprises from the great pony and horse world!\\nVenue: Deutsche Messe Han
- nover\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -mimamo-16932-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-mimamo-16932-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PASSION PFERD — Hannover\, Germany
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-UID:f-passion-pferd-9881-1@eventseye.impio-vault
-DESCRIPTION:PASSION PFERD offers impressive shows\, great exhibitors\, exci
- ting events and a wide range of highlights from the world of horses\\nVenu
- e: Deutsche Messe Hannover\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-passion-pferd-9881-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-passion-pferd-9881-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PFERD & JAGD — Hannover\, Germany
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-UID:f-pferd-jagd-2111-1@eventseye.impio-vault
-DESCRIPTION:International German Exhibition of Equestrian Sports and Huntin
- g. A large offer on the topics of Equestrian Sports\, Hunting\, Country an
- d for Dogs\\nVenue: Deutsche Messe Hannover\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-pferd-jagd-2111-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-pferd-jagd-2111-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPORTUR GALICIA — Ourense\, Spain
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261205
-UID:f-sportur-galicia-25266-1@eventseye.impio-vault
-DESCRIPTION:Sports and Active Tourism Fair in Galicia. The "SPORTUR GALICIA
- " is an event aimed at all audiences\, both for athletes\, amateurs or beg
- inners\, as well as for adults and children\\nVenue: Expourense\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-sportur-galicia
- -25266-1.html
-LOCATION:Ourense\, Spain
-URL:https://www.eventseye.com/fairs/f-sportur-galicia-25266-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - NANCHANG — Nanchang\, China
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261207
-UID:f-gwpf-grandeur-world-pet-fair-nanchang-33056-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
- ndow for overseas brands to enter China and Chinese brands to go global\, 
- opening up a bright future for the pet industry\\nVenue: Nanchang Internat
- ional Exhibition Center\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-gwpf-grandeur-world-pet-fair-nanchang-33056-1.html
-LOCATION:Nanchang\, China
-URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-nanchang
- -33056-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU CHEVAL DE PARIS — Paris\, France
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261207
-UID:f-salon-du-cheval-de-paris-2345-1@eventseye.impio-vault
-DESCRIPTION:Horse\, pony and donkey show. A major event in the equestrian i
- ndustry\, delighting enthusiasts\, professionals and horse lovers across F
- rance\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-salon-du-cheval-de-paris-2345-1.h
- tml
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-cheval-de-paris-2345-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO MASCOTAS — Alicante\, Spain
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-UID:f-expo-mascotas-27784-1@eventseye.impio-vault
-DESCRIPTION:Dog and other pets show. EXPO MASCOTAS is designed to find Unde
- r one roof a whole range of articles\, products\, services and information
-  related to pets\\nVenue: IFA - Fira Alicant\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
-LOCATION:Alicante\, Spain
-URL:https://www.eventseye.com/fairs/f-expo-mascotas-27784-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUN & KNIFE SHOW MANKATO — Mankato\, MN\, USA
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-UID:f-gun-knife-show-mankato-24452-1@eventseye.impio-vault
-DESCRIPTION:GUN & KNIFE SHOW MANKATO presents antique pistols\, rifles\, ai
- r guns\, combat knives\, gun magazines\, rifle spoke\, hunting gears\, sha
- rpening tools\, holsters\, gun safes\, display cases\, survival training a
- nd gun parts\\nVenue: Kato Ballroom\\nFrequency: twice a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-gun-knife-show-mankato-24452-1.html
-LOCATION:Mankato\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-gun-knife-show-mankato-24452-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHILADELPHIA GUN SHOW — Philadelphia\, MS\, USA
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261207
-UID:f-philadelphia-gun-show-24426-1@eventseye.impio-vault
-DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
- , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
- mo\, holsters\, swords\, knives...\\nVenue: Neshoba County Coliseum\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-philadelphi
- a-gun-show-24426-1.html
-LOCATION:Philadelphia\, MS\, USA
-URL:https://www.eventseye.com/fairs/f-philadelphia-gun-show-24426-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAVALIADA POZNAN — Poznan\, Poland
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261214
-UID:f-cavaliada-poznan-16043-1@eventseye.impio-vault
-DESCRIPTION:Poznan International Horse Show. Four equestrian competitions\,
-  plus exciting shows\\nVenue: Poznan Congress Center\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-cavaliada-poznan-16043-1.h
- tml
-LOCATION:Poznan\, Poland
-URL:https://www.eventseye.com/fairs/f-cavaliada-poznan-16043-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MASTERS EXPO — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261215
-UID:f-masters-expo-27385-1@eventseye.impio-vault
-DESCRIPTION:MASTERS EXPO is the great business fair in Europe\, where more 
- than 40\, 000 visitors experience the most special offers in the field of 
- modern luxury and future-proof business\\nVenue: RAI International Exhibit
- ion and Congress Centre\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-masters-expo-27385-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-masters-expo-27385-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PERFORMANCE RACING INDUSTRY SHOW — Indianapolis\, IN\, USA
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261213
-UID:f-performance-racing-industry-show-4998-1@eventseye.impio-vault
-DESCRIPTION:Trade Show for Hardcore Auto Racing Products. PERFORMANCE RACIN
- G INDUSTRY SHOW is a trip to Indianapolis and an experience the absolute l
- atest in performance technology and products all under one roof\\nVenue: I
- ndiana Convention Center\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-performance-racing-industry-show-4998-1.html
-LOCATION:Indianapolis\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-performance-racing-industry-show-4998
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARROWHEAD ICE FISHING AND WINTER SHOW — Duluth\, MN\, USA
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-arrowhead-ice-fishing-and-winter-show-18604-1@eventseye.impio-vault
-DESCRIPTION:Arrowhead Ice Fishing and Winter Show. Whether you need an upgr
- ade\, or are totally new to the ice fishing scene\, you will find a wide v
- ariety of new products and accessories at the biggest sale of the year!\\n
- Venue: Duluth Entertainment Convention Center\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-arrowhead-ice-fishing-and-winter-
- show-18604-1.html
-LOCATION:Duluth\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-arrowhead-ice-fishing-and-winter-show
- -18604-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHANCHAO KAOHSIUNG PETS SHOW — Kaohsiung\, Taiwan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261215
-UID:f-chanchao-kaohsiung-pets-show-20560-1@eventseye.impio-vault
-DESCRIPTION:Kaohsiung Pet Show. Dried and semi-dry foods\, Clothing accesso
- ries\, Grooming care\, Hygiene products\, Accessories related to outings\,
-  Training assistance\, Services...\\nVenue: Koahsiung Exhibition Center\\n
- Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-chanch
- ao-kaohsiung-pets-show-20560-1.html
-LOCATION:Kaohsiung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-chanchao-kaohsiung-pets-show-20560-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DRT - DIVING\, RESORT AND TRAVEL SHOW - HONG KONG — Hong Kong\, H
- ong Kong
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-drt-diving-resort-and-travel-show-hong-kong-32290-1@eventseye.impio-vault
-DESCRIPTION:The No.1 Brand Diving Expo in Asia. DRT SHOW aims to provide gr
- eater support to business partners and encourage more people to become pas
- sionate divers who care about marine ecology\\nVenue: Hong Kong Convention
-  & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-drt-diving-resort-and-travel-show-hong-kong-32290-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-drt-diving-resort-and-travel-show-hon
- g-kong-32290-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HUNTING EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-hunting-expo-34483-1@eventseye.impio-vault
-DESCRIPTION:Hunting Expo is a key industry event showcasing the latest hunt
- ing technologies and equipment\, survival accessories\, as well as special
- ized clothing & optics. Hunting dog equipment\, hunting art\, innovative s
- olutions for managing wild animal populations...\\nVenue: Ptak Warsaw Expo
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-hunt
- ing-expo-34483-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-hunting-expo-34483-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUTDOOR EQUIPMENT EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-outdoor-equipment-expo-34485-1@eventseye.impio-vault
-DESCRIPTION:OUTDOOR Equipment Expo is a trade fair showcasing equipment\, a
- ccessories\, and solutions for people who enjoy spending time in the great
-  outdoors. Trekking\, hiking\, camping\, and backpacking equipment\, bicyc
- les\, technical clothing and footwear...\\nVenue: Ptak Warsaw Expo\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-outdoor-equi
- pment-expo-34485-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-outdoor-equipment-expo-34485-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WARSAW FISHING DAYS — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-warsaw-fishing-days-34486-1@eventseye.impio-vault
-DESCRIPTION:Warsaw Fishing Days is a key industry event showcasing fishing 
- equipment for all fishing methods\, lures and groundbaits\, fish finders a
- nd electronic equipment\, boats\, inflatable boats\, outdoor clothing\, fi
- shing destinations and angling tourism offers\\nVenue: Ptak Warsaw Expo\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-warsaw-
- fishing-days-34486-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-warsaw-fishing-days-34486-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINNER — Helsinki\, Finland
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-winner-13825-1@eventseye.impio-vault
-DESCRIPTION:Finland's biggest Dog Event. Dog Fair Finland offers a great ch
- ance to get acquainted with different breeds and discuss the choice of bre
- ed and good dog-ownership with experts in the field\\nVenue: Helsinki Fair
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-winner-13825-1.html
-LOCATION:Helsinki\, Finland
-URL:https://www.eventseye.com/fairs/f-winner-13825-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLUMBIA GUN & KNIFE SHOW — Columbia\, SC\, USA
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-UID:f-columbia-gun-knife-show-24368-1@eventseye.impio-vault
-DESCRIPTION:Arms and Weapons fair. COLUMBIA GUN & KNIFE SHOW features rifle
- s\, shotguns\, collectibles firearms\, all size of knives\, swords\, perso
- nal defense weapons\, outdoor equipment\, fishing & hunting accessories\, 
- holster\, gun cases & gun safe\\nVenue: South Carolina State Fairgrounds\\
- nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-columbia-g
- un-knife-show-24368-1.html
-LOCATION:Columbia\, SC\, USA
-URL:https://www.eventseye.com/fairs/f-columbia-gun-knife-show-24368-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOPKINSVILLE\, KY - GUN SHOW — Hopkinsville\, KY\, USA
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-UID:f-hopkinsville-ky-gun-show-29794-1@eventseye.impio-vault
-DESCRIPTION:Guns & knife show features personal defense weapons\, war relic
- s\, rifles\, pistol\, collectible firearm\, antique knife\, fishing & hunt
- ing accessories\, survival gears\, military surplus\, holsters\, samurai s
- words\\nVenue: Western Kentucky State Fairgrounds\\nFrequency: unknown\\nS
- ource: https://www.eventseye.com/fairs/f-hopkinsville-ky-gun-show-29794-1.
- html
-LOCATION:Hopkinsville\, KY\, USA
-URL:https://www.eventseye.com/fairs/f-hopkinsville-ky-gun-show-29794-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE TOULOUSE — To
- ulouse\, France
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-UID:f-le-salon-sante-social-paramedical-et-sport-de-toulouse-30467-1@eventseye.impio-vault
-DESCRIPTION:Responsibles and students from faculties of medicine and pharma
- cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
- ng schools... will be presents to tell you about possible courses and admi
- ssion requirements\\nVenue: MEETT - Parc des Expositions et Centre de Conv
- entions\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-le-salon-sante-social-paramedical-et-sport-de-toulouse-30467-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
- sport-de-toulouse-30467-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WICHITA FALLS GUNS & KNIFE SHOW — Wichita Falls\, TX\, USA
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261214
-UID:f-wichita-falls-guns-knife-show-33931-1@eventseye.impio-vault
-DESCRIPTION:WICHITA FALLS GUNS & KNIFE SHOW showcases shooting rifles\, sel
- f defense trainig\, all sizes of knives\, collectible firearms\, hunting &
-  fishing accessories\, shotguns\, samurai swords\, cartridges\, gun cases 
- & safe\, holsters\, carbines & antiques\\nVenue: J S Bridwell Agricultural
-  Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-w
- ichita-falls-guns-knife-show-33931-1.html
-LOCATION:Wichita Falls\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-wichita-falls-guns-knife-show-33931-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROCK ‘N’ ROLL MEXICO CITY — Mexico City\, Mexico
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-UID:f-rock-n-roll-mexico-city-24038-1@eventseye.impio-vault
-DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
- \, so that everyone can enjoy the biggest running party in the country\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
- oll-mexico-city-24038-1.html
-LOCATION:Mexico City\, Mexico
-URL:https://www.eventseye.com/fairs/f-rock-n-roll-mexico-city-24038-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPORTSTRAVEL LEADERSHIP FORUM — Monterey\, CA\, USA
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261217
-UID:f-sportstravel-leadership-forum-33426-1@eventseye.impio-vault
-DESCRIPTION:The premier gathering for the leading sports event organizers\,
-  host cities\, venues\, vendors\, sponsors and other hospitality industry 
- opinion leaders\\nVenue: Monterey Conference Center\\nFrequency: once a ye
- ar\\nSource: https://www.eventseye.com/fairs/f-sportstravel-leadership-for
- um-33426-1.html
-LOCATION:Monterey\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-sportstravel-leadership-forum-33426-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE LONDON INTERNATIONAL HORSE SHOW — London\, UK - United Kingdo
- m
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261222
-UID:f-the-london-international-horse-show-9829-1@eventseye.impio-vault
-DESCRIPTION:London International Horse Show. Hosting three FEI World Cup Qu
- alifiers in Dressage\, Show Jumping and Driving\\nVenue: ExCeL\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-the-london-inter
- national-horse-show-9829-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-the-london-international-horse-show-9
- 829-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GWPF - GRANDEUR WORLD PET FAIR - XIAMEN — Xiamen\, China
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261221
-UID:f-gwpf-grandeur-world-pet-fair-xiamen-33057-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Pet Fai. GWPE is expected to provide a wi
- ndow for overseas brands to enter China and Chinese brands to go global\, 
- opening up a bright future for the pet industry\\nVenue: Xiamen Internatio
- nal Conference & Exhibition Centre\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-xiamen-33057-1.
- html
-LOCATION:Xiamen\, China
-URL:https://www.eventseye.com/fairs/f-gwpf-grandeur-world-pet-fair-xiamen-3
- 3057-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IHFF — Mumbai\, India
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261221
-UID:f-ihff-25604-1@eventseye.impio-vault
-DESCRIPTION:The Largest health wellness and fitness Expo in India. A trade 
- show that promotes brands\, athletes\, sports. IHFF brings to you all heal
- th and fitness solutions\, technologies\, advancements and varieties of pr
- oducts\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency: 
- twice a year\\nSource: https://www.eventseye.com/fairs/f-ihff-25604-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-ihff-25604-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BOONVILLE GUNS & KNIFE SHOW — Boonville\, IN\, USA
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261221
-UID:f-boonville-guns-knife-show-34141-1@eventseye.impio-vault
-DESCRIPTION:GUNS & KNIFE SHOW features hunting knife\, shooting rifle\, rif
- le spoke\, sharpening tool\, outdoor equipments\, reloading supplies\, hun
- ting & fishing gears\, laser sights\, hunting boots\, bulletproof jacket a
- nd Camouflage Related item\\nFrequency: unknown\\nSource: https://www.even
- tseye.com/fairs/f-boonville-guns-knife-show-34141-1.html
-LOCATION:Boonville\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-boonville-guns-knife-show-34141-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BURLESON GUNS & KNIFE SHOW — Arlington\, TX\, USA
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261221
-UID:f-burleson-guns-knife-show-24393-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapons fair. BURLESON GUNS & KNIFE SHOW showcases shoot
- ing rifles\, self defense trainig\, all sizes of knives\, collectible fire
- arms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartrid
- ges\, gun cases & safe\, holsters and antiques\\nVenue: Burleson Event Cen
- ter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-burle
- son-guns-knife-show-24393-1.html
-LOCATION:Arlington\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-burleson-guns-knife-show-24393-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIV / EXPOJOVE — Valencia\, Spain
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20270105
-UID:f-fiv-expojove-4896-1@eventseye.impio-vault
-DESCRIPTION:Valencia International Trade Fair & Youth Fair: Cinema\; Theatr
- e\; Toys\; Educational Toys\; Fairgrounds Attractions\; Magic Workshops\; 
- Sports Activities\; Official Institutions\\nVenue: Feria Valencia\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-fiv-expojove-
- 4896-1.html
-LOCATION:Valencia\, Spain
-URL:https://www.eventseye.com/fairs/f-fiv-expojove-4896-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUNS & KNIFE SHOW CARROLLTON — Carrollton\, GA\, USA
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261228
-UID:f-guns-knife-show-carrollton-26633-1@eventseye.impio-vault
-DESCRIPTION:Arms and Ammunition fair. GUNS & KNIFE SHOW CARROLLTON features
-  rifles\, handguns\, shotguns\, combat knives and swords\, cartridges\, co
- llectibles\, antique coins\, hunting and fishing accessories\, war relics\
- , carbines and self protection items\\nVenue: VFW Fairground Complex\\nFre
- quency: unknown\\nSource: https://www.eventseye.com/fairs/f-guns-knife-sho
- w-carrollton-26633-1.html
-LOCATION:Carrollton\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-guns-knife-show-carrollton-26633-1.ht
- ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIPPOLOGICA BERLIN — Berlin\, Germany
@@ -8831,6 +8389,19 @@ LOCATION:Berlin\, Germany
 URL:https://www.eventseye.com/fairs/f-veloberlin-23660-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEMPO LIBERO / FREIZEIT — Bolzano\, Italy
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+UID:f-tempo-libero-freizeit-6660-1@eventseye.impio-vault
+DESCRIPTION:Bolzano Trade Show for Leisure\, Sports\, Camping\, Hollidays\,
+  Gardening\, Hobby and Mountain. A feel-good atmosphere\, event stages\, c
+ ulinary delights and live music will accompany you\\nVenue: Fiera Bolzano\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tempo
+ -libero-freizeit-6660-1.html
+LOCATION:Bolzano\, Italy
+URL:https://www.eventseye.com/fairs/f-tempo-libero-freizeit-6660-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAY BRIDGE BOAT SHOW — Grasonville\, MD\, USA
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270419
@@ -9024,6 +8595,20 @@ DESCRIPTION:Bern Horse Show. Products and ideas in the field of stable layo
  : https://www.eventseye.com/fairs/f-bea-cheval-10373-1.html
 LOCATION:Bern\, Switzerland
 URL:https://www.eventseye.com/fairs/f-bea-cheval-10373-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADVENTURE ALLRAD AUSTRIA — Tulln\, Austria
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+UID:f-adventure-allrad-austria-30513-1@eventseye.impio-vault
+DESCRIPTION:ADVENTURE ALLRAD AUSTRIA is probably the largest off-road fair 
+ in Austria. From small to large off-road vehicles\, roof tents\, cabins fo
+ r pickups\, mobile energy technology\, tips and tricks for DIY\, off-road 
+ accessories to outdoor clothing and gadgets...\\nVenue: Messe Tulln\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-adventure-a
+ llrad-austria-30513-1.html
+LOCATION:Tulln\, Austria
+URL:https://www.eventseye.com/fairs/f-adventure-allrad-austria-30513-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ELMIA GAMES FAIR — Jönköping\, Sweden
@@ -9348,6 +8933,22 @@ LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-deutsche-vet-27250-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NATIONAL 4×4 & OUTDOORS SHOW\, FISHING & BOATING EXPO SYDNEY — S
+ ydney\, Australia
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+UID:f-national-4-4-outdoors-show-fishing-boating-expo-sydney-29846-1@eventseye.impio-vault
+DESCRIPTION:Sydney 4×4 Outdoors Show\, Fishing & Boating Expo. The Nationa
+ l 4x4 Outdoors Show is a leading event for the 4WD industry\, also featuri
+ ng off-road camper trailers\, tents\, awnings\, barbeques\, camping produc
+ ts\, Fishing and Boating\\nVenue: Sydney Showground - Olympic Park\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-national-4-4
+ -outdoors-show-fishing-boating-expo-sydney-29846-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-national-4-4-outdoors-show-fishing-bo
+ ating-expo-sydney-29846-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KLASSIKWELT BODENSEE — Friedrichshafen\, Germany
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270607
@@ -9359,6 +8960,490 @@ DESCRIPTION:Expo of Vintage Cars & Motorbikes\, Boats and Airplanes. This m
  ww.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
 LOCATION:Friedrichshafen\, Germany
 URL:https://www.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERBOOT — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260928
+UID:f-interboot-1403-1@eventseye.impio-vault
+DESCRIPTION:Every year\, INTERBOOT transforms the exhibition grounds into a
+ n exciting world of experience for water sports enthusiasts of all kinds. 
+ From motorboats and sailing boats to fun sports\, a wide range of equipmen
+ t and captivating shows and talks\\nVenue: Messegelände Friedrichshafen\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-interb
+ oot-1403-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-interboot-1403-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MONACO YACHT SHOW — Monaco\, Monaco
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+UID:f-monaco-yacht-show-11069-1@eventseye.impio-vault
+DESCRIPTION:International Luxury Yachting Sector Exhibition. Each year\, th
+ e MYS curates the exhibition of 120+ extraordinary one-off superyachts bui
+ lt by the world’s most respected shipyards and welcomes nearly leading c
+ ompanies from the yachting industry\\nVenue: Port Hercule\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-monaco-yacht-show-110
+ 69-1.html
+LOCATION:Monaco\, Monaco
+URL:https://www.eventseye.com/fairs/f-monaco-yacht-show-11069-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERDIVE — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260928
+UID:f-interdive-29140-1@eventseye.impio-vault
+DESCRIPTION:International Diving\, Snorkeling and Travel Show. At the Inter
+ Dive expo\, find Diving trips\, equipment\, diving training\, lectures and
+  exciting destinations\\nVenue: Messegelände Friedrichshafen\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-interdive-29140-1
+ .html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-interdive-29140-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERDIVE - FRIEDRICHSHAFEN — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260928
+UID:f-interdive-friedrichshafen-29138-1@eventseye.impio-vault
+DESCRIPTION:Whether it's dive trips\, equipment\, dive training\, conferenc
+ es or exciting destinations\, at InterDive you'll find everything that mak
+ es a diver's heart beat faster\\nVenue: Messegelände Friedrichshafen\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-interdive
+ -friedrichshafen-29138-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-interdive-friedrichshafen-29138-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NORWALK BOAT SHOW — Norwalk\, CT\, USA
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260928
+UID:f-norwalk-boat-show-16606-1@eventseye.impio-vault
+DESCRIPTION:Boat Show. Norwalk Boat Show offers an incredible line-up of bo
+ ating education\, entertainment and special attractions\, including on-the
+  water demos and boat handling clinics\, boating fishing and sailing semin
+ ars\, fun kids' activites and more\\nVenue: Norwalk Cove Marina\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-norwalk-boat-sh
+ ow-16606-1.html
+LOCATION:Norwalk\, CT\, USA
+URL:https://www.eventseye.com/fairs/f-norwalk-boat-show-16606-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAO PAULO BOAT SHOW — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260930
+UID:f-sao-paulo-boat-show-12684-1@eventseye.impio-vault
+DESCRIPTION:The largest nautical event in Latin America. The great trends a
+ nd releases with the best innovations in boats\, jets\, inflatables\, engi
+ nes and equipment\, and also a complete range of products & services relat
+ ed to the nautical universe\\nVenue: São Paulo Expo Exhibition & Conventi
+ on Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-sao-paulo-boat-show-12684-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-sao-paulo-boat-show-12684-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRT - DIVING\, RESORT AND TRAVEL SHOW - PHILIPPINES — Manila\, Ph
+ ilippines
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+UID:f-drt-diving-resort-and-travel-show-philippines-32294-1@eventseye.impio-vault
+DESCRIPTION:The No.1 Brand Diving Expo in Asia. DRT SHOW aims to provide gr
+ eater support to business partners and encourage more people to become pas
+ sionate divers who care about marine ecology\\nVenue: SMX Exhibition and C
+ onvention Center\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-drt-diving-resort-and-travel-show-philippines-32294-1.html
+LOCATION:Manila\, Philippines
+URL:https://www.eventseye.com/fairs/f-drt-diving-resort-and-travel-show-phi
+ lippines-32294-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIANAPOLIS FALL BOAT & RV SHOW — Indianapolis\, IN\, USA
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+UID:f-indianapolis-fall-boat-rv-show-18464-1@eventseye.impio-vault
+DESCRIPTION:The Indianapolis Fall Boat & RV Show offers the unique opportun
+ ity for consumers to see\, try and buy from a wide selection of new\, used
+  and end-of-year boat and RV models at unbeatable prices\\nVenue: Indiana 
+ State Fairgrounds\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-indianapolis-fall-boat-rv-show-18464-1.html
+LOCATION:Indianapolis\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-indianapolis-fall-boat-rv-show-18464-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JERSEY SHORE BOAT SALE & EXPO — Lakewood\, NJ\, USA
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+UID:f-jersey-shore-boat-sale-expo-20176-1@eventseye.impio-vault
+DESCRIPTION:The Jersey Shore Boat Sale & Expo is completely outdoors\, offe
+ ring a safe and convenient way for consumers to shop and board boats of al
+ l types\\nVenue: FisrtEnergy Park\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-jersey-shore-boat-sale-expo-20176-1.html
+LOCATION:Lakewood\, NJ\, USA
+URL:https://www.eventseye.com/fairs/f-jersey-shore-boat-sale-expo-20176-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AKRON AREA GUN SHOW — Akron\, OH\, USA
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:f-akron-area-gun-show-24458-1@eventseye.impio-vault
+DESCRIPTION:Self Defense Weapons Fair. AKRON AREA GUN SHOW presents antique
+  pistols\, rifles\, air guns\, combat knives\, gun magazines\, collectible
+  firearm\, hunting gears\, fishing gears\, holsters\, gun safes\, display 
+ cases\, survival training and gun parts\\nVenue: Summit County Fairgrounds
+ \\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-akron-ar
+ ea-gun-show-24458-1.html
+LOCATION:Akron\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-akron-area-gun-show-24458-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIG PITER SPORT SHOW — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:f-big-piter-sport-show-15871-1@eventseye.impio-vault
+DESCRIPTION:The largest youth multisport festival of sports and health in t
+ he northern capital of Russia\\nVenue: ExpoForum Convention and Exhibition
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-big-piter-sport-show-15871-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-big-piter-sport-show-15871-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CROWN POINT GUNS & KNIFE SHOW — Crown Point\, IN\, USA
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:f-crown-point-guns-knife-show-24753-1@eventseye.impio-vault
+DESCRIPTION:Weapon Fair. CROWN POINT GUNS & KNIFE SHOW features hunting kni
+ fe\, rifle\, rifle spoke\, sharpening tool\, outdoor equipments\, reloadin
+ g supplies\, hunting & fishing gears\, laser sights\, hunting boots\, bull
+ etproof jacket and Camouflage Related item\\nVenue: Lake County Fairground
+ s\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-crown-p
+ oint-guns-knife-show-24753-1.html
+LOCATION:Crown Point\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-crown-point-guns-knife-show-24753-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESOTIKA PET SHOW - MASSA CARRARA — Carrara\, Italy
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:f-esotika-pet-show-massa-carrara-31980-1@eventseye.impio-vault
+DESCRIPTION:Italian international exhibition of exotic and pet animals. Rep
+ tiles\, fish\, amphibians\, birds\, mammals...\\nVenue: CarraraFiere\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-esotika-pe
+ t-show-massa-carrara-31980-1.html
+LOCATION:Carrara\, Italy
+URL:https://www.eventseye.com/fairs/f-esotika-pet-show-massa-carrara-31980-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPEN SPACES — Ghent\, Belgium
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260930
+UID:f-open-spaces-31840-1@eventseye.impio-vault
+DESCRIPTION:International trade fair for the development of public space\, 
+ sport and leisure\\nVenue: Flanders Expo\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-open-spaces-31840-1.html
+LOCATION:Ghent\, Belgium
+URL:https://www.eventseye.com/fairs/f-open-spaces-31840-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE HOTEL & LEISURE SHOW DUBAI — Dubai\, UAE - United Arab Emirat
+ es
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+UID:f-the-hotel-leisure-show-dubai-22006-1@eventseye.impio-vault
+DESCRIPTION:International Hotel\, Restaurant\, Kitchen\, Bathroom\, Decorat
+ ion\, Material\, Industrial Activities and Equipments Fair\\nVenue: Dubai 
+ World Trade Centre (Dubai Exhibition Centre)\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-the-hotel-leisure-show-dubai-22006
+ -1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-the-hotel-leisure-show-dubai-22006-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOVI SAD FAIRS OF HUNTING\, FISHING AND SPORT — Novi Sad\, Serbia
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261005
+UID:f-novi-sad-fairs-of-hunting-fishing-and-sport-15002-1@eventseye.impio-vault
+DESCRIPTION:The Novi Sad International Hunting and Fishing Fair gathers all
+  the most important representatives\, importers\, and brands of basic and 
+ supporting equipment for sports hunting and fishing\, spending time in nat
+ ure\\nVenue: Novi Sad Fairground\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-novi-sad-fairs-of-hunting-fishing-and-sport-15
+ 002-1.html
+LOCATION:Novi Sad\, Serbia
+URL:https://www.eventseye.com/fairs/f-novi-sad-fairs-of-hunting-fishing-and
+ -sport-15002-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALONE NAUTICO INTERNAZIONALE — Genoa\, Italy
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261007
+UID:f-salone-nautico-internazionale-4262-1@eventseye.impio-vault
+DESCRIPTION:International Boat Show. More than 1\, 000 boats are on show\, 
+ from the four traditional areas: sailing\, outboard engines and inflatable
+  boats\, power boats and motor yachts\\nVenue: Fiera di Genova\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-salone-nautico-i
+ nternazionale-4262-1.html
+LOCATION:Genoa\, Italy
+URL:https://www.eventseye.com/fairs/f-salone-nautico-internazionale-4262-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DU UND DAS TIER TULLN — Tulln\, Austria
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-du-und-das-tier-tulln-23584-1@eventseye.impio-vault
+DESCRIPTION:Tulln international dog show with austria’s largest small ani
+ mal show. A real highlight for all dog lovers\\nVenue: Messe Tulln\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-du-und-das-t
+ ier-tulln-23584-1.html
+LOCATION:Tulln\, Austria
+URL:https://www.eventseye.com/fairs/f-du-und-das-tier-tulln-23584-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOSITION CANINE INTERNATIONALE DE GENÈVE — Geneve\, Switzerlan
+ d
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-exposition-canine-internationale-de-geneve-33509-1@eventseye.impio-vault
+DESCRIPTION:Switzerland's largest dog show. 6\, 000 dogs of 200 different b
+ reeds are judged by an international jury. A shopping village also offers 
+ a wide range of dog products\\nVenue: Palexpo\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-exposition-canine-internationale-
+ de-geneve-33509-1.html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-exposition-canine-internationale-de-g
+ eneve-33509-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAGD & ANGELN — Leipzig\, Germany
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-jagd-angeln-25889-1@eventseye.impio-vault
+DESCRIPTION:East and Central Germany's largest Outdoor exhibition for Fores
+ t\, Hunting\, Fishing and Sport Shooting\, Nature Enthusiasts\, and the wh
+ ole family\\nVenue: Exhibition Centre Leipzig\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-jagd-angeln-25889-1.html
+LOCATION:Leipzig\, Germany
+URL:https://www.eventseye.com/fairs/f-jagd-angeln-25889-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POZNAN SPORT EXPO — Poznan\, Poland
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-poznan-sport-expo-17795-1@eventseye.impio-vault
+DESCRIPTION:POZNAŃ SPORT EXPO fair is an interesting event for all people 
+ actively engaged in sports as well as marathon runners\\nVenue: Poznan Con
+ gress Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com
+ /fairs/f-poznan-sport-expo-17795-1.html
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-poznan-sport-expo-17795-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIWAN OUTDOOR SHOW - TAICHUNG — Taichung\, Taiwan
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+UID:f-taiwan-outdoor-show-taichung-33142-1@eventseye.impio-vault
+DESCRIPTION:Taiwan Outdoor Show. Outdoor and Mountain climbing sports\, Sle
+ eping bags\, Camping equipment\, Tents\, Diving equipment\, Water skis\, B
+ oats\, Bathing and beach wear\, Motor sport\, accessories\, Riding wear\, 
+ Riding Equipment...\\nVenue: Greater Taichung International Expo Center\\n
+ Frequency: unknown\\nSource: https://www.eventseye.com/fairs/f-taiwan-outd
+ oor-show-taichung-33142-1.html
+LOCATION:Taichung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taiwan-outdoor-show-taichung-33142-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAIWAN OUTDOOR SHOW - TAIPEI — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261006
+UID:f-taiwan-outdoor-show-taipei-25542-1@eventseye.impio-vault
+DESCRIPTION:Taiwan Outdoor Show. Outdoor and Mountain climbing sports\, Sle
+ eping bags\, Camping equipment\, Tents\, Diving equipment\, Water skis\, B
+ oats\, Bathing and beach wear\, Motor sport\, accessories\, Riding wear\, 
+ Riding Equipment...\\nVenue: Taipei Nangang Exhibition Center\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-taiwan-outdoor-sh
+ ow-taipei-25542-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-taiwan-outdoor-show-taipei-25542-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AZLE GUNS & KNIFE SHOW — Azle\, TX\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-azle-guns-knife-show-24400-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapons fair. AZLE GUNS & KNIFE SHOW showcases shooting 
+ rifles\, self defense trainig\, all sizes of knives\, collectible firearms
+ \, hunting & fishing accessories\, shotguns\, samurai swords\, cartridges\
+ , gun cases & safe\, holsters\, carbines and antiques\\nFrequency: unknown
+ \\nSource: https://www.eventseye.com/fairs/f-azle-guns-knife-show-24400-1.
+ html
+LOCATION:Azle\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-azle-guns-knife-show-24400-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAYETTEVILLE GUN & KNIFE SHOW — Fayetteville\, NC\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-fayetteville-gun-knife-show-24236-1@eventseye.impio-vault
+DESCRIPTION:FAYETTEVILLE GUN & KNIFE SHOW showcases shooting rifles\, all s
+ izes of knives\, samurai swords\, shotguns\, collectible firearms\, huntin
+ g and fishing accessories\, Militaria of All Wars\, ammo\, carbines\, cart
+ ridges and holsters\\nVenue: Crown Expo Center\, Fayetteville\\nFrequency:
+  unknown\\nSource: https://www.eventseye.com/fairs/f-fayetteville-gun-knif
+ e-show-24236-1.html
+LOCATION:Fayetteville\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-fayetteville-gun-knife-show-24236-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANKLIN GUNS & KNIFE SHOW — Franklin\, IN\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-franklin-guns-knife-show-34137-1@eventseye.impio-vault
+DESCRIPTION:GUNS & KNIFE SHOW features hunting knife\, shooting rifle\, rif
+ le spoke\, sharpening tool\, outdoor equipments\, reloading supplies\, hun
+ ting & fishing gears\, laser sights\, hunting boots\, bulletproof jacket a
+ nd Camouflage Related item\\nVenue: Johnson County Fairgrounds\, Indiana\\
+ nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-franklin-g
+ uns-knife-show-34137-1.html
+LOCATION:Franklin\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-franklin-guns-knife-show-34137-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREDERICKSBURG GUN SHOW — Fredericksburg\, VA\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-fredericksburg-gun-show-33234-1@eventseye.impio-vault
+DESCRIPTION:Southeast United States Gun and Knife Show. This show offers a 
+ wide selection of accessories and weapons. Exhibits range from rare and co
+ llectible Civil War weapons to the latest hunting and shooting products\\n
+ Venue: Fredericksburg Expo & Conference Center\\nFrequency: unknown\\nSour
+ ce: https://www.eventseye.com/fairs/f-fredericksburg-gun-show-33234-1.html
+LOCATION:Fredericksburg\, VA\, USA
+URL:https://www.eventseye.com/fairs/f-fredericksburg-gun-show-33234-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONALE RASSEHUNDEAUSSTELLUNG — Rostock\, Germany
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-internationale-rassehundeausstellung-12147-1@eventseye.impio-vault
+DESCRIPTION:International Dog Fair of Rostock. The largest dog show in nort
+ heastern Germany - a paradise for dogs\, their owners and owners\\nVenue: 
+ HanseMesse Rostock\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-internationale-rassehundeausstellung-12147-1.html
+LOCATION:Rostock\, Germany
+URL:https://www.eventseye.com/fairs/f-internationale-rassehundeausstellung-
+ 12147-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONALE RASSEHUNDE-AUSSTELLUNG - ROSTOCK — Rostock\, Germa
+ ny
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-internationale-rassehunde-ausstellung-rostock-24879-1@eventseye.impio-vault
+DESCRIPTION:German international dog show and competition for pedigree dogs
+ . Under the aegis of the VDH (Verband für das Deutsche Hundewesen)\, the 
+ main organization representing the interests of dog owners throughout Germ
+ any\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ nternationale-rassehunde-ausstellung-rostock-24879-1.html
+LOCATION:Rostock\, Germany
+URL:https://www.eventseye.com/fairs/f-internationale-rassehunde-ausstellung
+ -rostock-24879-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAUREL GUN SHOW — Laurel\, MS\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-laurel-gun-show-24423-1@eventseye.impio-vault
+DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
+ , & trade guns\, ammo\, knives and more. Handguns\, shotguns\, rifles\, am
+ mo\, holsters\, swords\, knives...\\nVenue: Laurel Fairgrounds\\nFrequency
+ : twice a year\\nSource: https://www.eventseye.com/fairs/f-laurel-gun-show
+ -24423-1.html
+LOCATION:Laurel\, MS\, USA
+URL:https://www.eventseye.com/fairs/f-laurel-gun-show-24423-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE MONTPELLIER —
+  Montpellier\, France
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-le-salon-sante-social-paramedical-et-sport-de-montpellier-30462-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: Montpellier - Parc des Expositions\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-s
+ ocial-paramedical-et-sport-de-montpellier-30462-1.html
+LOCATION:Montpellier\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-montpellier-30462-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON SANTÉ\, SOCIAL\, PARAMÉDICAL ET SPORT DE NANTES — Nant
+ es\, France
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-le-salon-sante-social-paramedical-et-sport-de-nantes-30470-1@eventseye.impio-vault
+DESCRIPTION:Responsibles and students from faculties of medicine and pharma
+ cy\, health schools\, pre-medical courses\, paramedical\, social and nursi
+ ng schools... will be presents to tell you about possible courses and admi
+ ssion requirements\\nVenue: La Cité Nantes Events Center\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-sante-social
+ -paramedical-et-sport-de-nantes-30470-1.html
+LOCATION:Nantes\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-sante-social-paramedical-et-
+ sport-de-nantes-30470-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROCK ‘N’ ROLL SAN JOSE — San Jose\, CA\, USA
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-rock-n-roll-san-jose-24043-1@eventseye.impio-vault
+DESCRIPTION:The event offers 3 distances\, Marathon\, Half Marathon and 10K
+ \, so that everyone can enjoy the biggest running party in the country\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-rock-n-r
+ oll-san-jose-24043-1.html
+LOCATION:San Jose\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-rock-n-roll-san-jose-24043-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON STUDYRAMA DES FORMATIONS DE LA SANTÉ ET DU SPORT DE BORDEAUX
+  — Bordeaux\, France
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+UID:f-salon-studyrama-des-formations-de-la-sante-et-du-sport-de-bordeaux-34412-1@eventseye.impio-vault
+DESCRIPTION:Lyon Health and Sports Training Fair. To refine your career pla
+ n\, meet with numerous professionals and specialists from Medical Preparat
+ ory Courses\, Health Sciences Faculties\, and Health Schools\\nVenue: Parc
+  des expositions de Bordeaux-Lac\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-sante-et-
+ du-sport-de-bordeaux-34412-1.html
+LOCATION:Bordeaux\, France
+URL:https://www.eventseye.com/fairs/f-salon-studyrama-des-formations-de-la-
+ sante-et-du-sport-de-bordeaux-34412-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRUCKFEST ORIGINAL — Newark-on-Trent\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+UID:f-truckfest-original-28834-1@eventseye.impio-vault
+DESCRIPTION:Fair dedicated to Monster Trucks\, incredible trucks of all sha
+ pes and size\, top ranked freestyle motocross riders…\\nVenue: Newark & 
+ Notts Showground\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-truckfest-original-28834-1.html
+LOCATION:Newark-on-Trent\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-truckfest-original-28834-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TIER&NATUR IN MV — Rostock\, Germany

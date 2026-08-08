@@ -6,19 +6,6 @@ X-WR-CALNAME:Real Estate
 X-WR-CALDESC:Trade shows: Real Estate — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:50 PLUS EXPO — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20260703
-DTEND;VALUE=DATE:20260706
-UID:f-50-plus-expo-18851-1@eventseye.impio-vault
-DESCRIPTION:Hong Kong Senior Fair covers all ranges of products and service
- s targeting the seniors\, such as daily products\, caring home service\, f
- uneral service and life planning service\, etc...\\nVenue: Hong Kong Conve
- ntion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-50-plus-expo-18851-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-50-plus-expo-18851-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BUILD ASIA — Lahore\, Pakistan
 DTSTART;VALUE=DATE:20260806
 DTEND;VALUE=DATE:20260809
@@ -1240,17 +1227,17 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-real-estate-poland-expo-34478-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPRINGFEST — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20270422
-DTEND;VALUE=DATE:20270423
-UID:f-springfest-17432-1@eventseye.impio-vault
-DESCRIPTION:This exclusive one-day event features educational seminars and 
- top exhibits for building owners\, property managers\, facility managers a
- nd others responsible for building maintenance and facility operations\\nV
- enue: Metro Toronto Convention Centre\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-springfest-17432-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-springfest-17432-1.html
+SUMMARY:JAPAN BUILD - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+UID:f-japan-build-tokyo-17022-1@eventseye.impio-vault
+DESCRIPTION:Asia's Leading Show for Building & Housing Industries. JAPAN BU
+ ILD is an Asia's leading show covering building and housing industries\, h
+ eld twice a year in Tokyo and Osaka\\nVenue: Tokyo International Exhibitio
+ n Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-japan-build-tokyo-17022-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-japan-build-tokyo-17022-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SIMA - SALÓN INMOBILIARIO DE MADRID — Madrid\, Spain
@@ -1355,19 +1342,6 @@ DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
  etsmassan-syd-31912-1.html
 LOCATION:Malmö\, Sweden
 URL:https://www.eventseye.com/fairs/f-fastighetsmassan-syd-31912-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JAPAN BUILD - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261205
-UID:f-japan-build-tokyo-17022-1@eventseye.impio-vault
-DESCRIPTION:Asia's Leading Show for Building & Housing Industries. JAPAN BU
- ILD is an Asia's leading show covering building and housing industries\, h
- eld twice a year in Tokyo and Osaka\\nVenue: Tokyo International Exhibitio
- n Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-japan-build-tokyo-17022-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-japan-build-tokyo-17022-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MIPIM ASIA SUMMIT — Hong Kong\, Hong Kong
@@ -1845,5 +1819,18 @@ DESCRIPTION:SIL is the Real Estate Marketplace in Portugal\, a meeting poin
  tml
 LOCATION:Lisbon\, Portugal
 URL:https://www.eventseye.com/fairs/f-salao-imobiliario-4587-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPRINGFEST — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+UID:f-springfest-17432-1@eventseye.impio-vault
+DESCRIPTION:This exclusive one-day event features educational seminars and 
+ top exhibits for building owners\, property managers\, facility managers a
+ nd others responsible for building maintenance and facility operations\\nV
+ enue: Metro Toronto Convention Centre\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-springfest-17432-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-springfest-17432-1.html
 END:VEVENT
 END:VCALENDAR

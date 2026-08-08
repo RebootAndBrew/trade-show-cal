@@ -33,71 +33,17 @@ LOCATION:Mysore\, India
 URL:https://www.eventseye.com/fairs/f-ltd-edition-mysore-34370-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SIJE - SINGAPORE INTERNATIONAL JEWELRY EXPO — Singapore\, Singapo
- re
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260713
-UID:f-sije-singapore-international-jewelry-expo-9421-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition dedicated to Jewelry\, Luxury Items\, 
- Watches\, Gems and Diamond & Fashion Accessories\\nVenue: Marina Bay Sands
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sije
- -singapore-international-jewelry-expo-9421-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-sije-singapore-international-jewelry-
- expo-9421-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LTD EDITION - MUMBAI — Mumbai\, India
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260719
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260809
 UID:f-ltd-edition-mumbai-32958-1@eventseye.impio-vault
 DESCRIPTION:LTD Edition is a curated exhibition showcasing eco-friendly\, o
  rganic\, and sustainable fashion and lifestyle brands. It highlights chic\
  , responsible designs for conscious consumers seeking lasting impact and s
- tyle\\nVenue: Valecha Hall (Juhu)\\nFrequency: unknown\\nSource: https://w
+ tyle\\nVenue: Pioneer Hall Bandra\\nFrequency: unknown\\nSource: https://w
  ww.eventseye.com/fairs/f-ltd-edition-mumbai-32958-1.html
 LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-ltd-edition-mumbai-32958-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZAK JEWELS EXPO - CHENNAI — Chennai\, India
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260721
-UID:f-zak-jewels-expo-chennai-5969-1@eventseye.impio-vault
-DESCRIPTION:India’s Most Spectacular B2C Jewellery Show. A Grand Arena of
-  Dazzling Displa. Featuring Diamonds\, Gold\, Kundan\, Minakari\, Jadau\, 
- Polki\, Precious & Semi-Precious Stones and more…\\nVenue: Taj Coromande
- l\, Chennai\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs
- /f-zak-jewels-expo-chennai-5969-1.html
-LOCATION:Chennai\, India
-URL:https://www.eventseye.com/fairs/f-zak-jewels-expo-chennai-5969-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERJEWELLER — Sochi\, Russia
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260727
-UID:f-interjeweller-23134-1@eventseye.impio-vault
-DESCRIPTION:International jewelry industry exhibition. INTERJEWELLER brings
-  together small and large wholesale buyers from Greater Sochi and other ci
- ties of the Black Sea coast\\nVenue: Grand Hotel Pearl (Zhemchuzhina)\, So
- chi .\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -interjeweller-23134-1.html
-LOCATION:Sochi\, Russia
-URL:https://www.eventseye.com/fairs/f-interjeweller-23134-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASIA JEWELS FAIR - BANGALURU — Bangalore\, India
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260803
-UID:f-asia-jewels-fair-bangaluru-26220-1@eventseye.impio-vault
-DESCRIPTION:South India's most Famous Jewellery Exhibition in Bengaluru. Th
- is Expo is a niche event exhibiting only exclusive and high-end branded go
- ld and diamond jewelry products\\nVenue: The Ritz-Carlton\, Bangalore\\nFr
- equency: twice a year\\nSource: https://www.eventseye.com/fairs/f-asia-jew
- els-fair-bangaluru-26220-1.html
-LOCATION:Bangalore\, India
-URL:https://www.eventseye.com/fairs/f-asia-jewels-fair-bangaluru-26220-1.ht
- ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE MOST VALUABLE — Seoul\, Korea South
@@ -526,8 +472,10 @@ DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20261002
 UID:f-iltm-north-america-25795-1@eventseye.impio-vault
 DESCRIPTION:The leading event for the luxury travel industry in the America
- s region\\nVenue: Baha Mar\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-iltm-north-america-25795-1.html
+ s region. Are you a luxury hotel? Exclusive experience? Perhaps a grand de
+ stination? Manage your exposure at ILTM North America\\nVenue: Baha Mar\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-iltm-no
+ rth-america-25795-1.html
 LOCATION:Nassau\, Bahamas
 URL:https://www.eventseye.com/fairs/f-iltm-north-america-25795-1.html
 END:VEVENT
@@ -699,6 +647,20 @@ URL:https://www.eventseye.com/fairs/f-united-states-sailboat-show-24223-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ASIA JEWELS FAIR - BANGALURU — Bangalore\, India
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+UID:f-asia-jewels-fair-bangaluru-26220-1@eventseye.impio-vault
+DESCRIPTION:South India's most Famous Jewellery Exhibition in Bengaluru. Th
+ is Expo is a niche event exhibiting only exclusive and high-end branded go
+ ld and diamond jewelry products\\nVenue: JW Marriott Hotel\, Bengaluru\\nF
+ requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-asia-je
+ wels-fair-bangaluru-26220-1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-asia-jewels-fair-bangaluru-26220-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JIS FALL — Miami\, FL\, USA
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261020
@@ -752,6 +714,19 @@ DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
 LOCATION:New Delhi\, India
 URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -new-delhi-22486-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZAK JEWELS EXPO - CHENNAI — Chennai\, India
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261027
+UID:f-zak-jewels-expo-chennai-5969-1@eventseye.impio-vault
+DESCRIPTION:India’s Most Spectacular B2C Jewellery Show. A Grand Arena of
+  Dazzling Displa. Featuring Diamonds\, Gold\, Kundan\, Minakari\, Jadau\, 
+ Polki\, Precious & Semi-Precious Stones and more…\\nVenue: Taj Coromande
+ l\, Chennai\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs
+ /f-zak-jewels-expo-chennai-5969-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-zak-jewels-expo-chennai-5969-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JA NEW YORK — New York\, NY\, USA
@@ -1182,284 +1157,6 @@ LOCATION:Zurich\, Switzerland
 URL:https://www.eventseye.com/fairs/f-man-s-world-zurich-33014-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PACKAGING PREMIÈRE & PCD MILAN — Milan\, Italy
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-packaging-premiere-pcd-milan-31866-1@eventseye.impio-vault
-DESCRIPTION:Packaging Première & PCD Milan are two tradeshows co-located i
- n a single event showcasing the best of packaging for the luxury and beaut
- y sectors\\nVenue: MiCo - Milano Congressi\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-packaging-premiere-pcd-milan-31866-1
- .html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-packaging-premiere-pcd-milan-31866-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IJK - INTERNATIONAL JEWELLERY KOBE — Kobe\, Japan
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270523
-UID:f-ijk-international-jewellery-kobe-6747-1@eventseye.impio-vault
-DESCRIPTION:Japan International Jewelry Trade Expo. All kinds of jewellery\
- , diamonds\, gemstones\, pearls\, accessories\, jewellery-related products
- \, watches...\\nVenue: International Convention Center Kobe (ICCK)\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-ijk-internat
- ional-jewellery-kobe-6747-1.html
-LOCATION:Kobe\, Japan
-URL:https://www.eventseye.com/fairs/f-ijk-international-jewellery-kobe-6747
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IJT KOBE- INTERNATIONAL JEWELLERY KOBE — Kobe\, Japan
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270523
-UID:f-ijt-kobe-international-jewellery-kobe-27379-1@eventseye.impio-vault
-DESCRIPTION:International Jewelry Trade Expo. IJT KOBE is the trade fair fo
- r the year-end sales season and helps exhibitors and visitors to boost the
- ir on-site sales in October when the majority of retailers begin stocking 
- up on goods for the holiday season\\nVenue: International Convention Cente
- r Kobe (ICCK)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-ijt-kobe-international-jewellery-kobe-27379-1.html
-LOCATION:Kobe\, Japan
-URL:https://www.eventseye.com/fairs/f-ijt-kobe-international-jewellery-kobe
- -27379-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SANCTUARY COVE INTERNATIONAL BOAT SHOW — Gold Coast\, Australia
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270524
-UID:f-sanctuary-cove-international-boat-show-17699-1@eventseye.impio-vault
-DESCRIPTION:International Boat Show. The Sanctuary Cove International Boat 
- Show displays a wide selection of marine products and services including s
- uperyachts\, luxury power cruisers\, power and sail multihulls\, trailerab
- le craft\, kayaks\, jet skis...\\nVenue: Sanctuary Cove Marine Village\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-sanctuar
- y-cove-international-boat-show-17699-1.html
-LOCATION:Gold Coast\, Australia
-URL:https://www.eventseye.com/fairs/f-sanctuary-cove-international-boat-sho
- w-17699-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HANSEBOOT ANCORA BOAT SHOW — Neustadt in Holstein\, Germany
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270531
-UID:f-hanseboot-ancora-boat-show-24083-1@eventseye.impio-vault
-DESCRIPTION:Germany's largest in-water boat show. With the start of the yac
- hting season\, around 160 yachts are presented in their natural element\, 
- the water\\nVenue: Ancora Marina\, Neustadt in Holstein\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-hanseboot-ancora-boat-s
- how-24083-1.html
-LOCATION:Neustadt in Holstein\, Germany
-URL:https://www.eventseye.com/fairs/f-hanseboot-ancora-boat-show-24083-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HANSEBOOT HAMBURG BOAT SHOW — Neustadt in Holstein\, Germany
-DTSTART;VALUE=DATE:20270528
-DTEND;VALUE=DATE:20270531
-UID:f-hanseboot-hamburg-boat-show-32001-1@eventseye.impio-vault
-DESCRIPTION:Germany's international in-water boat show. You can look forwar
- d to impressive boats and yachts waiting for you on the jetties in the pic
- turesque Osthafen\\nVenue: Ancora Marina\, Neustadt in Holstein\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-hanseboot-hambu
- rg-boat-show-32001-1.html
-LOCATION:Neustadt in Holstein\, Germany
-URL:https://www.eventseye.com/fairs/f-hanseboot-hamburg-boat-show-32001-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS VEGAS GEM & JEWELRY SHOW — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270607
-UID:f-las-vegas-gem-jewelry-show-30016-1@eventseye.impio-vault
-DESCRIPTION:The JOGS Las Vegas Gem & Jewelry Show unites exhibitors\, such 
- as gemstone dealers\, jewelry manufacturers\, and wholesalers\, featuring 
- a diverse array of precious gemstones\, diamonds\, pearls\, and finished j
- ewelry pieces\\nVenue: World Market Center\, Las Vegas\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-las-vegas-gem-jewelry-sh
- ow-30016-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-las-vegas-gem-jewelry-show-30016-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUXURY — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270608
-UID:f-luxury-13645-1@eventseye.impio-vault
-DESCRIPTION:Luxury offers a unique business opportunity in a tailored envir
- onment bringing together the upscale jewelry retailers with high-end manuf
- acturers and designers\\nVenue: The Venetian Resort and Hotel\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-luxury-13645-1.ht
- ml
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-luxury-13645-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUXURY BY JCK — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270608
-UID:f-luxury-by-jck-24609-1@eventseye.impio-vault
-DESCRIPTION:Fine Jewellery Expo in North America. Luxury is a premier desti
- nation for elite retailers\, designer brands\, and manufacturers to do bus
- iness in a luxurious and relaxed atmosphere\\nVenue: The Venetian Resort a
- nd Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-luxury-by-jck-24609-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-luxury-by-jck-24609-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAS VEGAS ANTIQUE JEWELRY & WATCH SHOW — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270607
-UID:f-las-vegas-antique-jewelry-watch-show-15290-1@eventseye.impio-vault
-DESCRIPTION:The Las Vegas Antique Jewelry & Watch Show is the largest trade
- -only event serving the antique\, jewelry and watch industry\\nVenue: Wynn
-  Las Vegas Resort\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-las-vegas-antique-jewelry-watch-show-15290-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-las-vegas-antique-jewelry-watch-show-
- 15290-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JCK SHOW – LAS VEGAS — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270608
-UID:f-jck-show-las-vegas-8639-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of Jewelry Manufacturers\, Designers\, and Watch Bra
- nds Exhibition. JCK provides the global jewelry trade community the optima
- l stage for business growth\\nVenue: The Venetian Resort and Hotel\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-jck-show-las
- -vegas-8639-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-jck-show-las-vegas-8639-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EPHJ-EPMT-SMT — Geneve\, Switzerland
-DTSTART;VALUE=DATE:20270608
-DTEND;VALUE=DATE:20270612
-UID:f-ephj-epmt-smt-6034-1@eventseye.impio-vault
-DESCRIPTION:The most important Annual Trade Show in Switzerland. Incorporat
- ing. - EPHJ\, Watch and Jewelry Professional Environment Exhibition\nEPMT\
- , Microtechnologies international Exhibition\n- SMT\, International Medica
- l technologies Expo\\nVenue: Palexpo\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-ephj-epmt-smt-6034-1.html
-LOCATION:Geneve\, Switzerland
-URL:https://www.eventseye.com/fairs/f-ephj-epmt-smt-6034-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHANGHAI BAG EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270613
-UID:f-shanghai-bag-expo-31843-1@eventseye.impio-vault
-DESCRIPTION:Shanghai international Luggage Exhibition. A high-end platform 
- for luggage manufacturers to communicate with dealers\, agents\, e-commerc
- e\, micro-business\, international trade buyers\, brands\, and designers\\
- nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-
- 1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHANGHAI INTERNATIONAL SHOE EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270613
-UID:f-shanghai-international-shoe-expo-31844-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Footwear Exhibition. The expo gathers do
- mestic and foreign shoe brands\, manufacturers\, traders\, shoe material a
- nd equipment suppliers and professional buyers of the shoe industry\\nVenu
- e: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-shanghai-international-shoe-e
- xpo-31844-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-shanghai-international-shoe-expo-3184
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEWELLERY & GEM ASIA - HONG KONG — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270621
-UID:f-jewellery-gem-asia-hong-kong-32843-1@eventseye.impio-vault
-DESCRIPTION:Jewellery & Gem ASIA Hong Kong (JGA) proudly holds its place as
-  the foremost mid-year B2B fine jewellery sourcing event in Asia. Tailored
-  exclusively for trade buyers\, JGA boasts a lineup of 30+ group & themed 
- pavilions\, each offering a distinct showcase\\nVenue: Hong Kong Conventio
- n & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-jewellery-gem-asia-hong-kong-32843-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-jewellery-gem-asia-hong-kong-32843-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRUISE XPERIENCE INNOVATION SUMMIT AMERICAS — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270625
-UID:f-cruise-xperience-innovation-summit-americas-32781-1@eventseye.impio-vault
-DESCRIPTION:CXI Americas focus on elevating every facet of the Cruise guest
-  experience\, whether through improved cabin comfort\, world-class dining 
- and entertainment\, or immersive attractions and personalized services\\nV
- enue: Miami Beach Convention Center\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-cruise-xperience-innovation-summit-americas
- -32781-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-cruise-xperience-innovation-summit-am
- ericas-32781-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSI - CRUISE SHIP INTERIORS - AMERICAS — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270625
-UID:f-csi-cruise-ship-interiors-americas-32783-1@eventseye.impio-vault
-DESCRIPTION:Cruise Ship Interiors Design Expo Americas is a gateway for the
-  cruise interiors supply chain to meet with the most esteemed cruise lines
- \, designers\, and shipyards\\nVenue: Miami Beach Convention Center\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-csi-cruise-
- ship-interiors-americas-32783-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-csi-cruise-ship-interiors-americas-32
- 783-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HRDS - HOTEL & RESORT DESIGN SOUTH — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270623
-DTEND;VALUE=DATE:20270625
-UID:f-hrds-hotel-resort-design-south-32782-1@eventseye.impio-vault
-DESCRIPTION:Hotel & Resort Design South (HRDS) caters exclusively to those 
- involved in the design of world-class hotels\, resorts\, and private islan
- d destinations in the Southern States\, Caribbean\, and Latin America\\nVe
- nue: Miami Beach Convention Center\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-hrds-hotel-resort-design-south-32782-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-hrds-hotel-resort-design-south-32782-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRESTIGE AUTO BEAUNE — Beaune\, France
-DTSTART;VALUE=DATE:20270624
-DTEND;VALUE=DATE:20270628
-UID:f-prestige-auto-beaune-29352-1@eventseye.impio-vault
-DESCRIPTION:Car Enthusiasts Fair. Legendary cars\, concept cars\, super car
- s\, classic vehicles...\\nVenue: Palais des Congrès - Beaune\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-prestige-auto-bea
- une-29352-1.html
-LOCATION:Beaune\, France
-URL:https://www.eventseye.com/fairs/f-prestige-auto-beaune-29352-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ILTM ASIA PACIFIC — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270628
-DTEND;VALUE=DATE:20270702
-UID:f-iltm-asia-pacific-25280-1@eventseye.impio-vault
-DESCRIPTION:International Luxury Travel Market. The highest-end suppliers\,
-  buyers and media in the new world of APAC luxury travel gather in Singapo
- re to create exciting new itineraries\, do business and build lifelong bon
- ds\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:INTERIOR & EXTERIOR DESIGN MEETINGS - MARBELLA — Marbella\, Spain
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
@@ -1886,5 +1583,296 @@ DESCRIPTION:The Premier International Exhibition of Jewellery\, Gems & Acce
 LOCATION:Bangkok\, Thailand
 URL:https://www.eventseye.com/fairs/f-jewellery-gem-asean-bangkok-32830-1.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PACKAGING PREMIÈRE & PCD MILAN — Milan\, Italy
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-packaging-premiere-pcd-milan-31866-1@eventseye.impio-vault
+DESCRIPTION:Packaging Première & PCD Milan are two tradeshows co-located i
+ n a single event showcasing the best of packaging for the luxury and beaut
+ y sectors\\nVenue: MiCo - Milano Congressi\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-packaging-premiere-pcd-milan-31866-1
+ .html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-packaging-premiere-pcd-milan-31866-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJK - INTERNATIONAL JEWELLERY KOBE — Kobe\, Japan
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+UID:f-ijk-international-jewellery-kobe-6747-1@eventseye.impio-vault
+DESCRIPTION:Japan International Jewelry Trade Expo. All kinds of jewellery\
+ , diamonds\, gemstones\, pearls\, accessories\, jewellery-related products
+ \, watches...\\nVenue: International Convention Center Kobe (ICCK)\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-ijk-internat
+ ional-jewellery-kobe-6747-1.html
+LOCATION:Kobe\, Japan
+URL:https://www.eventseye.com/fairs/f-ijk-international-jewellery-kobe-6747
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IJT KOBE- INTERNATIONAL JEWELLERY KOBE — Kobe\, Japan
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+UID:f-ijt-kobe-international-jewellery-kobe-27379-1@eventseye.impio-vault
+DESCRIPTION:International Jewelry Trade Expo. IJT KOBE is the trade fair fo
+ r the year-end sales season and helps exhibitors and visitors to boost the
+ ir on-site sales in October when the majority of retailers begin stocking 
+ up on goods for the holiday season\\nVenue: International Convention Cente
+ r Kobe (ICCK)\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-ijt-kobe-international-jewellery-kobe-27379-1.html
+LOCATION:Kobe\, Japan
+URL:https://www.eventseye.com/fairs/f-ijt-kobe-international-jewellery-kobe
+ -27379-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SANCTUARY COVE INTERNATIONAL BOAT SHOW — Gold Coast\, Australia
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+UID:f-sanctuary-cove-international-boat-show-17699-1@eventseye.impio-vault
+DESCRIPTION:International Boat Show. The Sanctuary Cove International Boat 
+ Show displays a wide selection of marine products and services including s
+ uperyachts\, luxury power cruisers\, power and sail multihulls\, trailerab
+ le craft\, kayaks\, jet skis...\\nVenue: Sanctuary Cove Marine Village\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-sanctuar
+ y-cove-international-boat-show-17699-1.html
+LOCATION:Gold Coast\, Australia
+URL:https://www.eventseye.com/fairs/f-sanctuary-cove-international-boat-sho
+ w-17699-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HANSEBOOT ANCORA BOAT SHOW — Neustadt in Holstein\, Germany
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270531
+UID:f-hanseboot-ancora-boat-show-24083-1@eventseye.impio-vault
+DESCRIPTION:Germany's largest in-water boat show. With the start of the yac
+ hting season\, around 160 yachts are presented in their natural element\, 
+ the water\\nVenue: Ancora Marina\, Neustadt in Holstein\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-hanseboot-ancora-boat-s
+ how-24083-1.html
+LOCATION:Neustadt in Holstein\, Germany
+URL:https://www.eventseye.com/fairs/f-hanseboot-ancora-boat-show-24083-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HANSEBOOT HAMBURG BOAT SHOW — Neustadt in Holstein\, Germany
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270531
+UID:f-hanseboot-hamburg-boat-show-32001-1@eventseye.impio-vault
+DESCRIPTION:Germany's international in-water boat show. You can look forwar
+ d to impressive boats and yachts waiting for you on the jetties in the pic
+ turesque Osthafen\\nVenue: Ancora Marina\, Neustadt in Holstein\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-hanseboot-hambu
+ rg-boat-show-32001-1.html
+LOCATION:Neustadt in Holstein\, Germany
+URL:https://www.eventseye.com/fairs/f-hanseboot-hamburg-boat-show-32001-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS VEGAS GEM & JEWELRY SHOW — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270607
+UID:f-las-vegas-gem-jewelry-show-30016-1@eventseye.impio-vault
+DESCRIPTION:The JOGS Las Vegas Gem & Jewelry Show unites exhibitors\, such 
+ as gemstone dealers\, jewelry manufacturers\, and wholesalers\, featuring 
+ a diverse array of precious gemstones\, diamonds\, pearls\, and finished j
+ ewelry pieces\\nVenue: World Market Center\, Las Vegas\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-las-vegas-gem-jewelry-sh
+ ow-30016-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-las-vegas-gem-jewelry-show-30016-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUXURY — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270608
+UID:f-luxury-13645-1@eventseye.impio-vault
+DESCRIPTION:Luxury offers a unique business opportunity in a tailored envir
+ onment bringing together the upscale jewelry retailers with high-end manuf
+ acturers and designers\\nVenue: The Venetian Resort and Hotel\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-luxury-13645-1.ht
+ ml
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-13645-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUXURY BY JCK — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270608
+UID:f-luxury-by-jck-24609-1@eventseye.impio-vault
+DESCRIPTION:Fine Jewellery Expo in North America. Luxury is a premier desti
+ nation for elite retailers\, designer brands\, and manufacturers to do bus
+ iness in a luxurious and relaxed atmosphere\\nVenue: The Venetian Resort a
+ nd Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-luxury-by-jck-24609-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-by-jck-24609-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAS VEGAS ANTIQUE JEWELRY & WATCH SHOW — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+UID:f-las-vegas-antique-jewelry-watch-show-15290-1@eventseye.impio-vault
+DESCRIPTION:The Las Vegas Antique Jewelry & Watch Show is the largest trade
+ -only event serving the antique\, jewelry and watch industry\\nVenue: Wynn
+  Las Vegas Resort\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-las-vegas-antique-jewelry-watch-show-15290-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-las-vegas-antique-jewelry-watch-show-
+ 15290-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JCK SHOW – LAS VEGAS — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270608
+UID:f-jck-show-las-vegas-8639-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of Jewelry Manufacturers\, Designers\, and Watch Bra
+ nds Exhibition. JCK provides the global jewelry trade community the optima
+ l stage for business growth\\nVenue: The Venetian Resort and Hotel\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-jck-show-las
+ -vegas-8639-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-jck-show-las-vegas-8639-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EPHJ-EPMT-SMT — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270612
+UID:f-ephj-epmt-smt-6034-1@eventseye.impio-vault
+DESCRIPTION:The most important Annual Trade Show in Switzerland. Incorporat
+ ing. - EPHJ\, Watch and Jewelry Professional Environment Exhibition\nEPMT\
+ , Microtechnologies international Exhibition\n- SMT\, International Medica
+ l technologies Expo\\nVenue: Palexpo\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-ephj-epmt-smt-6034-1.html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-ephj-epmt-smt-6034-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHANGHAI BAG EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-shanghai-bag-expo-31843-1@eventseye.impio-vault
+DESCRIPTION:Shanghai international Luggage Exhibition. A high-end platform 
+ for luggage manufacturers to communicate with dealers\, agents\, e-commerc
+ e\, micro-business\, international trade buyers\, brands\, and designers\\
+ nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-
+ 1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHANGHAI INTERNATIONAL SHOE EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-shanghai-international-shoe-expo-31844-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Footwear Exhibition. The expo gathers do
+ mestic and foreign shoe brands\, manufacturers\, traders\, shoe material a
+ nd equipment suppliers and professional buyers of the shoe industry\\nVenu
+ e: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-shanghai-international-shoe-e
+ xpo-31844-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-shanghai-international-shoe-expo-3184
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEWELLERY & GEM ASIA - HONG KONG — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+UID:f-jewellery-gem-asia-hong-kong-32843-1@eventseye.impio-vault
+DESCRIPTION:Jewellery & Gem ASIA Hong Kong (JGA) proudly holds its place as
+  the foremost mid-year B2B fine jewellery sourcing event in Asia. Tailored
+  exclusively for trade buyers\, JGA boasts a lineup of 30+ group & themed 
+ pavilions\, each offering a distinct showcase\\nVenue: Hong Kong Conventio
+ n & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-jewellery-gem-asia-hong-kong-32843-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-jewellery-gem-asia-hong-kong-32843-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRUISE XPERIENCE INNOVATION SUMMIT AMERICAS — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270625
+UID:f-cruise-xperience-innovation-summit-americas-32781-1@eventseye.impio-vault
+DESCRIPTION:CXI Americas focus on elevating every facet of the Cruise guest
+  experience\, whether through improved cabin comfort\, world-class dining 
+ and entertainment\, or immersive attractions and personalized services\\nV
+ enue: Miami Beach Convention Center\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-cruise-xperience-innovation-summit-americas
+ -32781-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-cruise-xperience-innovation-summit-am
+ ericas-32781-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSI - CRUISE SHIP INTERIORS - AMERICAS — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270625
+UID:f-csi-cruise-ship-interiors-americas-32783-1@eventseye.impio-vault
+DESCRIPTION:Cruise Ship Interiors Design Expo Americas is a gateway for the
+  cruise interiors supply chain to meet with the most esteemed cruise lines
+ \, designers\, and shipyards\\nVenue: Miami Beach Convention Center\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-csi-cruise-
+ ship-interiors-americas-32783-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-csi-cruise-ship-interiors-americas-32
+ 783-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HRDS - HOTEL & RESORT DESIGN SOUTH — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270625
+UID:f-hrds-hotel-resort-design-south-32782-1@eventseye.impio-vault
+DESCRIPTION:Hotel & Resort Design South (HRDS) caters exclusively to those 
+ involved in the design of world-class hotels\, resorts\, and private islan
+ d destinations in the Southern States\, Caribbean\, and Latin America\\nVe
+ nue: Miami Beach Convention Center\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-hrds-hotel-resort-design-south-32782-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-hrds-hotel-resort-design-south-32782-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRESTIGE AUTO BEAUNE — Beaune\, France
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+UID:f-prestige-auto-beaune-29352-1@eventseye.impio-vault
+DESCRIPTION:Car Enthusiasts Fair. Legendary cars\, concept cars\, super car
+ s\, classic vehicles...\\nVenue: Palais des Congrès - Beaune\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-prestige-auto-bea
+ une-29352-1.html
+LOCATION:Beaune\, France
+URL:https://www.eventseye.com/fairs/f-prestige-auto-beaune-29352-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ILTM ASIA PACIFIC — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270702
+UID:f-iltm-asia-pacific-25280-1@eventseye.impio-vault
+DESCRIPTION:International Luxury Travel Market. The highest-end suppliers\,
+  buyers and media in the new world of APAC luxury travel gather in Singapo
+ re to create exciting new itineraries\, do business and build lifelong bon
+ ds\\nVenue: Marina Bay Sands\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERJEWELLER — Sochi\, Russia
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270726
+UID:f-interjeweller-23134-1@eventseye.impio-vault
+DESCRIPTION:International jewelry industry exhibition. INTERJEWELLER brings
+  together small and large wholesale buyers from Greater Sochi and other ci
+ ties of the Black Sea coast\\nVenue: Grand Hotel Pearl (Zhemchuzhina)\, So
+ chi .\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -interjeweller-23134-1.html
+LOCATION:Sochi\, Russia
+URL:https://www.eventseye.com/fairs/f-interjeweller-23134-1.html
 END:VEVENT
 END:VCALENDAR

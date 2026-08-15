@@ -439,20 +439,6 @@ LOCATION:Tulsa\, OK\, USA
 URL:https://www.eventseye.com/fairs/f-tulsa-ok-gun-show-24127-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OHIO STATE FAIR — Columbus\, OH\, USA
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260810
-UID:f-ohio-state-fair-3624-1@eventseye.impio-vault
-DESCRIPTION:The Ohio State Fair is a favorite family tradition since 1850! 
- Immerse yourself in activities and exhibits including interactive educatio
- nal displays\, sporting competitions\, fine arts show\, free petting zoo\,
-  roving performers\, horse shows...\\nVenue: Ohio Expo Center & State Fair
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ohio
- -state-fair-3624-1.html
-LOCATION:Columbus\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-ohio-state-fair-3624-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BLUFFTON GUNS & KNIFE SHOW — Bluffton\, IN\, USA
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260803
@@ -4038,6 +4024,20 @@ URL:https://www.eventseye.com/fairs/f-professional-motorsport-world-expo-11
  436-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PMW EXPO — Cologne\, Germany
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261113
+UID:f-pmw-expo-34600-1@eventseye.impio-vault
+DESCRIPTION:Europe’s leading trade show for the motorsport and high-perfo
+ rmance automotive engineering sector. The event highlights the common area
+ s where the motorsport engineering approach can be utilized outside of the
+  pure competition sphere\\nVenue: Exhibition Centre Cologne\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-pmw-expo-34600-1.ht
+ ml
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-pmw-expo-34600-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALTEX — Birmingham\, UK - United Kingdom
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261113
@@ -5304,9 +5304,9 @@ DTEND;VALUE=DATE:20270111
 UID:f-ultimate-fishing-show-detroit-18457-1@eventseye.impio-vault
 DESCRIPTION:The ULTIMATE FISHING SHOW - DETROIT is the perfect opportunity 
  to discover what professionals have to offer in terms of sport fishing\, f
- ishing boats\, fishing equipment\\nVenue: Suburban Collection Showplace\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ultimat
- e-fishing-show-detroit-18457-1.html
+ ishing boats\, fishing equipment\\nVenue: Vibe Credit Union Showplace\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-ultimate-
+ fishing-show-detroit-18457-1.html
 LOCATION:Novi\, MI\, USA
 URL:https://www.eventseye.com/fairs/f-ultimate-fishing-show-detroit-18457-1
  .html

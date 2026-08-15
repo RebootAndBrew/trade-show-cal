@@ -30,20 +30,6 @@ LOCATION:Gdansk\, Poland
 URL:https://www.eventseye.com/fairs/f-jarmark-sw.-dominika-16826-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OHIO STATE FAIR — Columbus\, OH\, USA
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260810
-UID:f-ohio-state-fair-3624-1@eventseye.impio-vault
-DESCRIPTION:The Ohio State Fair is a favorite family tradition since 1850! 
- Immerse yourself in activities and exhibits including interactive educatio
- nal displays\, sporting competitions\, fine arts show\, free petting zoo\,
-  roving performers\, horse shows...\\nVenue: Ohio Expo Center & State Fair
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ohio
- -state-fair-3624-1.html
-LOCATION:Columbus\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-ohio-state-fair-3624-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RWANDA INTERNATIONAL TRADE FAIR — Kigali\, Rwanda
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260806
@@ -1214,6 +1200,21 @@ LOCATION:Caen\, France
 URL:https://www.eventseye.com/fairs/f-marche-de-noel-de-caen-25344-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
+DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
+ n in the region. From products & services from the areas of health\, leisu
+ re\, living\, gardening & culinary specialties\, to innovative technologie
+ s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
+ rzburg-9127-1.html
+LOCATION:Würzburg\, Germany
+URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHRISTMAS FAIR PRAGUE — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
@@ -1920,20 +1921,5 @@ DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
  8-1.html
 LOCATION:Santa Rosa\, Brazil
 URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAINFRANKEN MESSE WÜRZBURG — Würzburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-mainfranken-messe-wurzburg-9127-1@eventseye.impio-vault
-DESCRIPTION:Mainfrankenmesse in Würzburg is the largest consumer exhibitio
- n in the region. From products & services from the areas of health\, leisu
- re\, living\, gardening & culinary specialties\, to innovative technologie
- s and products\\nVenue: Würzburg\, Main Exhibition Hall\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-mainfranken-messe-wu
- rzburg-9127-1.html
-LOCATION:Würzburg\, Germany
-URL:https://www.eventseye.com/fairs/f-mainfranken-messe-wurzburg-9127-1.htm
- l
 END:VEVENT
 END:VCALENDAR

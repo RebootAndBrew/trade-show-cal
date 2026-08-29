@@ -1217,10 +1217,12 @@ SUMMARY:INHORGENTA MUNICH — Munich\, Germany
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270223
 UID:f-inhorgenta-munich-1379-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Watches\, Clocks\, Jewelry\, Preci
- ous Stones\, Pearls\, Silverware and their Manufacturing Equipment\\nVenue
- : Fairground Messe München\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-inhorgenta-munich-1379-1.html
+DESCRIPTION:INHORGENTA is the place that represents the entire value chain 
+ of the international jewelry\, watch and gemstone industry in all its dive
+ rsity. Manufacturers\, dealers\, service providers\, craftsmen and experts
+ —they are all united here\\nVenue: Fairground Messe München\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-inhorgenta-munic
+ h-1379-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-inhorgenta-munich-1379-1.html
 END:VEVENT
@@ -1861,6 +1863,20 @@ DESCRIPTION:International Luxury Travel Market. The highest-end suppliers\,
  w.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-iltm-asia-pacific-25280-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIJE - SINGAPORE INTERNATIONAL JEWELRY EXPO — Singapore\, Singapo
+ re
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+UID:f-sije-singapore-international-jewelry-expo-9421-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition dedicated to Jewelry\, Luxury Items\, 
+ Watches\, Gems and Diamond & Fashion Accessories\\nVenue: Marina Bay Sands
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sije
+ -singapore-international-jewelry-expo-9421-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-sije-singapore-international-jewelry-
+ expo-9421-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INTERJEWELLER — Sochi\, Russia

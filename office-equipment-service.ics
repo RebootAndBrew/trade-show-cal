@@ -7,99 +7,6 @@ X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Event
  sEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260806
-UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
-DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
- cts in the sectors of stationery\, school supplies\, office supplies\, cra
- fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LIFE INSTYLE MELBOURNE — Melbourne\, Australia
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260810
-UID:f-life-instyle-melbourne-19188-1@eventseye.impio-vault
-DESCRIPTION:Trade show where retailers can source high quality products. Fa
- shion & Accessories for Women\, Men & Kids\, Art\, Beauty & Grooming\, Bod
- y\, Bath & Fragrance\, Books & Stationery\, Food & Beverage\, Furniture & 
- Lighting\, Gadgets & Technology\, Outdoor & Garden...\\nVenue: Royal Exhib
- ition Building\, Carlton Gardens\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
-LOCATION:Melbourne\, Australia
-URL:https://www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRINTECH ASIA — Hangzhou\, China
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260816
-UID:f-printech-asia-11003-1@eventseye.impio-vault
-DESCRIPTION:Asia's Printers and Consumables\, Office Equipment\, Stationery
-  and Supplies expo + Asia's Pack and Print expo\\nVenue: Hangzhou Internat
- ional Expo Center\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-printech-asia-11003-1.html
-LOCATION:Hangzhou\, China
-URL:https://www.eventseye.com/fairs/f-printech-asia-11003-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBTE - INTERNATIONAL BABY PRODUCTS & TOYS EXPO - INDONESIA — Jaka
- rta\, Indonesia
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260823
-UID:f-ibte-international-baby-products-toys-expo-indonesia-24970-1@eventseye.impio-vault
-DESCRIPTION:IBTE is Indonesia’s largest international baby products & toy
- s exhibition\, bringing international brands & manufacturers. Featuring th
- e Baby Products\, Stationery\, Leisure & Amusement\, Toys\, IP License pro
- ducts industry\\nVenue: Jakarta International Expo (JIExpo)\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-ibte-international-
- baby-products-toys-expo-indonesia-24970-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-ibte-international-baby-products-toys
- -expo-indonesia-24970-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GIFTS INDIA — Mumbai\, India
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260823
-UID:f-gifts-india-24997-1@eventseye.impio-vault
-DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Stationer
- y\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & Ho
- me Decor\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-gifts-india-2499
- 7-1.html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-gifts-india-24997-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FORMEX — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260828
-UID:f-formex-16902-1@eventseye.impio-vault
-DESCRIPTION:Trade fair with Nordic interior design\, gifts\, delicacies\, c
- raft\, interior textile\, fashion\, paper\, toys and designed products for
-  children\\nVenue: Stockholmsmässan - Stockholm International Fairs\\nFre
- quency: twice a year\\nSource: https://www.eventseye.com/fairs/f-formex-16
- 902-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-formex-16902-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260829
-UID:f-oceans-fairs-32060-1@eventseye.impio-vault
-DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wit
- h manufacturers and wholesalers of thousands of products. Beauty\, Toys\, 
- School\, Electric Car & Motorcycle\, Machinery...\\nVenue: International C
- enter Tijuana\\nFrequency: 3 times a year\\nSource: https://www.eventseye.
- com/fairs/f-oceans-fairs-32060-1.html
-LOCATION:Tijuana\, Mexico
-URL:https://www.eventseye.com/fairs/f-oceans-fairs-32060-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CADEAUX LEIPZIG — Leipzig\, Germany
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260908
@@ -235,6 +142,19 @@ DESCRIPTION:International trade show for Technologies & Machinery for the P
   once a year\\nSource: https://www.eventseye.com/fairs/f-miac-9400-1.html
 LOCATION:Lucca\, Italy
 URL:https://www.eventseye.com/fairs/f-miac-9400-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OCEANS FAIRS — Tijuana\, Mexico
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+UID:f-oceans-fairs-32060-1@eventseye.impio-vault
+DESCRIPTION:The largest Wholesale store in Mexico\, connecting directly wit
+ h manufacturers and wholesalers of thousands of products. Beauty\, Toys\, 
+ School\, Electric Car & Motorcycle\, Machinery...\\nVenue: International C
+ enter Tijuana\\nFrequency: 3 times a year\\nSource: https://www.eventseye.
+ com/fairs/f-oceans-fairs-32060-1.html
+LOCATION:Tijuana\, Mexico
+URL:https://www.eventseye.com/fairs/f-oceans-fairs-32060-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:READYSTOCK — Warsaw\, Poland
@@ -414,6 +334,19 @@ URL:https://www.eventseye.com/fairs/f-hong-kong-international-stationery-fa
  ir-7857-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FORMEX — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-formex-16902-1@eventseye.impio-vault
+DESCRIPTION:Trade fair with Nordic interior design\, gifts\, delicacies\, c
+ raft\, interior textile\, fashion\, paper\, toys and designed products for
+  children\\nVenue: Stockholmsmässan - Stockholm International Fairs\\nFre
+ quency: twice a year\\nSource: https://www.eventseye.com/fairs/f-formex-16
+ 902-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-formex-16902-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EDUCATION SHOW LONDON @ BETT — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270123
@@ -542,6 +475,19 @@ URL:https://www.eventseye.com/fairs/f-bjkse-(beijing-international-preschoo
  l-tools-kindergarten-supplie-exhibition)-33885-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BIUROTECH — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+UID:f-biurotech-34625-1@eventseye.impio-vault
+DESCRIPTION:BIUROTECH is a key industry event showcasing innovative office 
+ supplies\, workplace technologies\, and solutions that enhance comfort and
+  efficiency. Discover the latest products and services tailored to the rap
+ idly evolving work standards\\nVenue: Ptak Warsaw Expo\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-biurotech-34625-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-biurotech-34625-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISOT - INTERNATIONAL STATIONERY & OFFICE PRODUCTS FAIR TOKYO — To
  kyo\, Japan
 DTSTART;VALUE=DATE:20270609
@@ -573,6 +519,18 @@ LOCATION:Cairo\, Egypt
 URL:https://www.eventseye.com/fairs/f-workspace-expo-egypt-30332-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CENTRAL ASIA OFFICE — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270627
+UID:f-central-asia-office-21598-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Office Equipments\, Design\, Stati
+ onery and Promotional Gift\\nVenue: Atakent International Exhibition Centr
+ e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cen
+ tral-asia-office-21598-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-central-asia-office-21598-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HONG KONG BOOK FAIR — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270721
@@ -599,6 +557,20 @@ DESCRIPTION:Japanese office services fair. All products and services for ba
 LOCATION:Nagoya\, Japan
 URL:https://www.eventseye.com/fairs/f-office-service-expo-nagoya-28657-1.ht
  ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIFE INSTYLE MELBOURNE — Melbourne\, Australia
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+UID:f-life-instyle-melbourne-19188-1@eventseye.impio-vault
+DESCRIPTION:Trade show where retailers can source high quality products. Fa
+ shion & Accessories for Women\, Men & Kids\, Art\, Beauty & Grooming\, Bod
+ y\, Bath & Fragrance\, Books & Stationery\, Food & Beverage\, Furniture & 
+ Lighting\, Gadgets & Technology\, Outdoor & Garden...\\nVenue: Royal Exhib
+ ition Building\, Carlton Gardens\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPEREX — New Delhi\, India

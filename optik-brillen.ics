@@ -6,19 +6,6 @@ X-WR-CALNAME:Optik - Brillen
 X-WR-CALDESC:Trade shows: Optik - Brillen — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:WOC - WORLD OPHTHALMOLOGY CONGRESS — Prague\, Czech Republic
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260630
-UID:f-woc-world-ophthalmology-congress-15335-1@eventseye.impio-vault
-DESCRIPTION:World Ophthalmology Congress. Connecting Ophthalmologists from 
- Around the World to Achieve Eye Health for Everyone\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-woc-world-ophthalmology-c
- ongress-15335-1.html
-LOCATION:Prague\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-woc-world-ophthalmology-congress-1533
- 5-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SPIE ASTRONOMICAL INSTRUMENTATION — Copenhagen\, Denmark
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260711
@@ -32,77 +19,6 @@ DESCRIPTION:Latest Tools\, Instruments\, Devices\, and Components from: Lar
 LOCATION:Copenhagen\, Denmark
 URL:https://www.eventseye.com/fairs/f-spie-astronomical-instrumentation-314
  6-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHIL MEDICAL EXPO — Manila\, Philippines
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260822
-UID:f-phil-medical-expo-28942-1@eventseye.impio-vault
-DESCRIPTION:Nternational Exhibition on Laboratory Equipment and Scientific 
- Instruments\, Technologies & Supplies\\nVenue: SMX Exhibition and Conventi
- on Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-phil-medical-expo-28942-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-phil-medical-expo-28942-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IIOO EXPO — Chennai\, India
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260825
-UID:f-iioo-expo-23164-1@eventseye.impio-vault
-DESCRIPTION:India's International Optical & Ophthalmology exhibition on lat
- est Eyewear Trends\, Optical Technology\, Ophthalmic Solution and Machiner
- ies. IIOO offers Optical retailers\, dealers & distributors to connect wit
- h leading companies\\nVenue: Chennai Trade Centre\\nFrequency: every 2 yea
- rs\\nSource: https://www.eventseye.com/fairs/f-iioo-expo-23164-1.html
-LOCATION:Chennai\, India
-URL:https://www.eventseye.com/fairs/f-iioo-expo-23164-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPTICAL ENGINEERING + APPLICATIONS (PART OF OPTICS+PHOTONICS) — S
- an Diego\, CA\, USA
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260828
-UID:f-optical-engineering-applications-(part-of-optics-photonics)-12035-1@eventseye.impio-vault
-DESCRIPTION:Optical Engineering & applications Conference. Optical Engineer
- ing + Applications covers classical optical R&D\, design\, & engineering\,
-  as well as technologies & systems for use in space\, information processi
- ng\, remote sensing\, & illumination engineering\\nVenue: San Diego Conven
- tion Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-optical-engineering-applications-(part-of-optics-photonics)-12035-1
- .html
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-optical-engineering-applications-(par
- t-of-optics-photonics)-12035-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPTICS + PHOTONICS — San Diego\, CA\, USA
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260828
-UID:f-optics-photonics-10612-1@eventseye.impio-vault
-DESCRIPTION:Optics & Photonics Conference & Expo. Join leading researchers 
- and scientists as they contribute to advancements in optical engineering\,
-  nanotechnology\, quantum science\, organic photonics\, and astronomical a
- pplications\\nVenue: San Diego Convention Center\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-optics-photonics-10612-1.html
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-optics-photonics-10612-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHOTONIC DEVICES + APPLICATIONS (PART OF OPTICS+PHOTONICS) — San 
- Diego\, CA\, USA
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260828
-UID:f-photonic-devices-applications-(part-of-optics-photonics)-12036-1@eventseye.impio-vault
-DESCRIPTION:Photonic Devices & Applications Conference. SPIE Photonic Devic
- es + Applications covers the latest developments in photonic\; OLEDs\, OTF
- Ts\, OPVs\, organic semiconductors in sensors and bioelectronics\, organic
-  materials\, liquid crystals…\\nVenue: San Diego Convention Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-photonic-d
- evices-applications-(part-of-optics-photonics)-12036-1.html
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-photonic-devices-applications-(part-o
- f-optics-photonics)-12036-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CIOF - CHINA INTERNATIONAL OPTICS FAIR — Beijing\, China
@@ -185,6 +101,19 @@ DESCRIPTION:Uzbekistan's International Specialized Exhibition of Medical Eq
  5-1.html
 LOCATION:Tashkent\, Uzbekistan
 URL:https://www.eventseye.com/fairs/f-uzmedexpo-13795-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IIOO EXPO — Chennai\, India
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260922
+UID:f-iioo-expo-23164-1@eventseye.impio-vault
+DESCRIPTION:India's International Optical & Ophthalmology exhibition on lat
+ est Eyewear Trends\, Optical Technology\, Ophthalmic Solution and Machiner
+ ies. IIOO offers Optical retailers\, dealers & distributors to connect wit
+ h leading companies\\nVenue: Chennai Trade Centre\\nFrequency: every 2 yea
+ rs\\nSource: https://www.eventseye.com/fairs/f-iioo-expo-23164-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-iioo-expo-23164-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MIOF - MOSCOW INTERNATIONAL OPTICAL FAIR — Moscow\, Russia
@@ -390,19 +319,6 @@ DESCRIPTION:The International Conference on Optical Fiber Sensors (OFS) is
 LOCATION:Raleigh\, NC\, USA
 URL:https://www.eventseye.com/fairs/f-international-conference-on-optical-f
  ibre-sensors-12029-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PHOTONICS EXPO POLAND — Warsaw\, Poland
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261204
-UID:f-photonics-expo-poland-33180-1@eventseye.impio-vault
-DESCRIPTION:Photonics Expo Poland is an international trade fair for photon
- ic technology applications in industry. Cutting-edge solutions in photonic
-  integrated circuits\, optical sensors\, laser technologies\, fiber optic 
- systems...\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-photonics-expo-poland-33180-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-photonics-expo-poland-33180-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:INTERLOOK — Dortmund\, Germany
@@ -678,6 +594,19 @@ LOCATION:Dubrovnik\, Croatia
 URL:https://www.eventseye.com/fairs/f-efclin-congress-11207-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PHOTONICS EXPO POLAND — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-photonics-expo-poland-33180-1@eventseye.impio-vault
+DESCRIPTION:Photonics Expo Poland is an international trade fair for photon
+ ic technology applications in industry. Cutting-edge solutions in photonic
+  integrated circuits\, optical sensors\, laser technologies\, fiber optic 
+ systems...\\nVenue: Ptak Warsaw Expo\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-photonics-expo-poland-33180-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-photonics-expo-poland-33180-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHOTONIX OSAKA — Osaka\, Japan
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270515
@@ -717,6 +646,52 @@ DESCRIPTION:International Trade Fair and International Congress for innovat
  fairs/f-laser.-world-of-photonics-1689-1.html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-laser.-world-of-photonics-1689-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPTICAL ENGINEERING + APPLICATIONS (PART OF OPTICS+PHOTONICS) — S
+ an Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270903
+UID:f-optical-engineering-applications-(part-of-optics-photonics)-12035-1@eventseye.impio-vault
+DESCRIPTION:Optical Engineering & applications Conference. Optical Engineer
+ ing + Applications covers classical optical R&D\, design\, & engineering\,
+  as well as technologies & systems for use in space\, information processi
+ ng\, remote sensing\, & illumination engineering\\nVenue: San Diego Conven
+ tion Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-optical-engineering-applications-(part-of-optics-photonics)-12035-1
+ .html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-optical-engineering-applications-(par
+ t-of-optics-photonics)-12035-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPTICS + PHOTONICS — San Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270903
+UID:f-optics-photonics-10612-1@eventseye.impio-vault
+DESCRIPTION:Optics & Photonics Conference & Expo. Join leading researchers 
+ and scientists as they contribute to advancements in optical engineering\,
+  nanotechnology\, quantum science\, organic photonics\, and astronomical a
+ pplications\\nVenue: San Diego Convention Center\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-optics-photonics-10612-1.html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-optics-photonics-10612-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHOTONIC DEVICES + APPLICATIONS (PART OF OPTICS+PHOTONICS) — San 
+ Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270903
+UID:f-photonic-devices-applications-(part-of-optics-photonics)-12036-1@eventseye.impio-vault
+DESCRIPTION:Photonic Devices & Applications Conference. SPIE Photonic Devic
+ es + Applications covers the latest developments in photonic\; OLEDs\, OTF
+ Ts\, OPVs\, organic semiconductors in sensors and bioelectronics\, organic
+  materials\, liquid crystals…\\nVenue: San Diego Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-photonic-d
+ evices-applications-(part-of-optics-photonics)-12036-1.html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-photonic-devices-applications-(part-o
+ f-optics-photonics)-12036-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SPIE OPTIFAB — Rochester\, NY\, USA

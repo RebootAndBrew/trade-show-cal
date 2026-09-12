@@ -164,18 +164,6 @@ URL:https://www.eventseye.com/fairs/f-salon-de-l-habitat-thionville-28400-1
  .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CAMPROPERTY — Phnom Penh\, Cambodia
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260917
-UID:f-camproperty-32886-1@eventseye.impio-vault
-DESCRIPTION:Cambodia Property Expo. Within CAMBUILD\, Cambodia's Biggest In
- ternational Building\, Construction and M&E Industry Show\\nVenue: Diamond
-  Island Convention & Exhibition Center\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-camproperty-32886-1.html
-LOCATION:Phnom Penh\, Cambodia
-URL:https://www.eventseye.com/fairs/f-camproperty-32886-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:REALREIT — Toronto\, ON\, Canada
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
@@ -354,6 +342,18 @@ DESCRIPTION:Home and Decoration Expo. The meeting place for Habitat and Rea
 LOCATION:Calais\, France
 URL:https://www.eventseye.com/fairs/f-salon-de-l-habitat-de-calais-24592-1.
  html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAMPROPERTY — Phnom Penh\, Cambodia
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+UID:f-camproperty-32886-1@eventseye.impio-vault
+DESCRIPTION:Cambodia Property Expo. Within CAMBUILD\, Cambodia's Biggest In
+ ternational Building\, Construction and M&E Industry Show\\nVenue: Diamond
+  Island Convention & Exhibition Center\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-camproperty-32886-1.html
+LOCATION:Phnom Penh\, Cambodia
+URL:https://www.eventseye.com/fairs/f-camproperty-32886-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - LATVIA — Riga\, Latvia

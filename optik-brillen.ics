@@ -375,10 +375,12 @@ SUMMARY:MIDO — Milan\, Italy
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270209
 UID:f-mido-1853-1@eventseye.impio-vault
-DESCRIPTION:Eyewear Exhibition (Optics - Ophthalmology\, Optometry). The MI
- DO is well known for it's ability to bring together the major actors of th
- e industry\\nVenue: Fiera Milano\, Rho\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-mido-1853-1.html
+DESCRIPTION:MIDO | Milano Eyewear Show is a leading exhibition in the eyewe
+ ar industry\, where you can find all the players in the supply chain: from
+  frame and lens manufacturers to machinery and raw materials\; from large 
+ multinationals to small innovative companies\\nVenue: Fiera Milano\, Rho\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-mido-1
+ 853-1.html
 LOCATION:Milan\, Italy
 URL:https://www.eventseye.com/fairs/f-mido-1853-1.html
 END:VEVENT
@@ -719,5 +721,18 @@ DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands
   2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
 LOCATION:Madrid\, Spain
 URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PHOTONEX EUROPE — Coventry\, UK - United Kingdom
+DTSTART;VALUE=DATE:20281010
+DTEND;VALUE=DATE:20281012
+UID:f-photonex-europe-22985-1@eventseye.impio-vault
+DESCRIPTION:Photonics\, Lasers & Optical Instrumentation International Trad
+ e Show. Photonex is the UK’s showcase event dedicated to photonics\, app
+ lied optical equipment\, biophotonics\, fibre optics\, lasers\, vision & L
+ ight\\nVenue: Ricoh Arena\\nFrequency: unknown\\nSource: https://www.event
+ seye.com/fairs/f-photonex-europe-22985-1.html
+LOCATION:Coventry\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-photonex-europe-22985-1.html
 END:VEVENT
 END:VCALENDAR

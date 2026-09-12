@@ -402,9 +402,11 @@ SUMMARY:PREMIUM SOURCING — Paris\, France
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260904
 UID:f-premium-sourcing-17527-1@eventseye.impio-vault
-DESCRIPTION:Expo of advertising objects\, promotional textiles and business
-  gifts\\nVenue: Carrousel du Louvre\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-premium-sourcing-17527-1.html
+DESCRIPTION:Two days of networking and inspiration centered on promotional 
+ products\, promotional apparel\, and corporate gifts. Expert talks\, immer
+ sive experiences\, and product demonstrations\\nVenue: Carrousel du Louvre
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-prem
+ ium-sourcing-17527-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-premium-sourcing-17527-1.html
 END:VEVENT
@@ -435,20 +437,6 @@ DESCRIPTION:Specialized exhibition of cosmetics and perfumery products\, ha
  ode-14569-1.html
 LOCATION:Krasnoyarsk\, Russia
 URL:https://www.eventseye.com/fairs/f-beauty-code-14569-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAIIRO TEX — Cairo\, Egypt
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260906
-UID:f-caiiro-tex-29430-1@eventseye.impio-vault
-DESCRIPTION:CAIRO TEX is the first and only international exhibition specia
- lized in Yarn\, Textile\, Garment and its Trimming Supplies and Accessorie
- s in Egypt. The event is held under the auspices of Ministry of Industry a
- nd Commerce and all the Industrial Chambers\\nVenue: Cairo International C
- onvention & Exhibition Centre\\nFrequency: twice a year\\nSource: https://
- www.eventseye.com/fairs/f-caiiro-tex-29430-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-caiiro-tex-29430-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHILDREN'S FASHION — Kiev\, Ukraine
@@ -711,17 +699,6 @@ DESCRIPTION:MAGIC is a high energy fashion experience and home to the large
  irs/f-magic-new-york-28551-1.html
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-magic-new-york-28551-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROMAISONSHOW — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260912
-UID:f-promaisonshow-28497-1@eventseye.impio-vault
-DESCRIPTION:Ukraine International Exhibition of Tableware and Household Goo
- ds\\nVenue: Kiev International Exhibition Center\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-promaisonshow-28497-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-promaisonshow-28497-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOURCING AT MAGIC NEW YORK — New York\, NY\, USA
@@ -1974,6 +1951,20 @@ LOCATION:Bucharest\, Romania
 URL:https://www.eventseye.com/fairs/f-cosmetics-beauty-hair-525-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CAIIRO TEX — Cairo\, Egypt
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-caiiro-tex-29430-1@eventseye.impio-vault
+DESCRIPTION:CAIRO TEX is the first and only international exhibition specia
+ lized in Yarn\, Textile\, Garment and its Trimming Supplies and Accessorie
+ s in Egypt. The event is held under the auspices of Ministry of Industry a
+ nd Commerce and all the Industrial Chambers\\nVenue: Cairo International C
+ onvention & Exhibition Centre\\nFrequency: twice a year\\nSource: https://
+ www.eventseye.com/fairs/f-caiiro-tex-29430-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-caiiro-tex-29430-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOR BEAUTY — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261004
@@ -2385,6 +2376,19 @@ URL:https://www.eventseye.com/fairs/f-stoffen-spektakel-antwerpen-15268-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ARTICREA — Tunis\, Tunisia
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261012
+UID:f-articrea-33513-1@eventseye.impio-vault
+DESCRIPTION:ARTICREA is aimed at artisans\, professional groups and exporte
+ rs of arts and crafts products\, and aims to promote Tunisian creations in
+  the fields of decoration\, ornamentation and souvenir gifts\\nVenue: Parc
+  des expositions du Kram\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-articrea-33513-1.html
+LOCATION:Tunis\, Tunisia
+URL:https://www.eventseye.com/fairs/f-articrea-33513-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AZHAB FORUM — Baku\, Azerbaijan
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261009
@@ -2715,6 +2719,19 @@ DESCRIPTION:The ‘Creative Business Xperience’ trade fair offers a diver
 LOCATION:Nijkerk\, Netherlands
 URL:https://www.eventseye.com/fairs/f-creative-business-xperience-30122-1.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBAL SOURCES FASHION — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261022
+UID:f-global-sources-fashion-10457-1@eventseye.impio-vault
+DESCRIPTION:Fair dedicated to apparel\, accessories\, and textiles from Asi
+ an suppliers that embody innovative design\, customization\, and eco-frien
+ dly concepts\, with more than 1\, 100 booths\\nVenue: AsiaWorld - Expo\\nF
+ requency: twice a year\\nSource: https://www.eventseye.com/fairs/f-global-
+ sources-fashion-10457-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-global-sources-fashion-10457-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PREMIERE COLUMBUS — Columbus\, OH\, USA
@@ -3603,6 +3620,18 @@ URL:https://www.eventseye.com/fairs/f-harvest-festival-original-art-craft-p
  leasanton-11520-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LVIV FASHION WEEK — Lviv\, Ukraine
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261027
+UID:f-lviv-fashion-week-15673-1@eventseye.impio-vault
+DESCRIPTION:Lviv Fashion Week is aimed at creating opportunities of economi
+ c development for the Ukrainian ready-to-wear brands\, support of young de
+ signers\\nVenue: Exhibition centre Shuvar\\nFrequency: twice a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-lviv-fashion-week-15673-1.html
+LOCATION:Lviv\, Ukraine
+URL:https://www.eventseye.com/fairs/f-lviv-fashion-week-15673-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ASCOLI SPOSI EXPO — Cupra Marittima\, Italy
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261026
@@ -3895,6 +3924,363 @@ DESCRIPTION:The Kreativ Welt is the experience and shopping fair for handic
  .eventseye.com/fairs/f-kreativ-welt-27585-1.html
 LOCATION:Offenbach am Main\, Germany
 URL:https://www.eventseye.com/fairs/f-kreativ-welt-27585-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIG SABAH SALE — Kota Kinabalu (Borneo)\, Malaysia
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-big-sabah-sale-33292-1@eventseye.impio-vault
+DESCRIPTION:Big Sabah Sale is the big trade fair in Kota Kinabalu (Borneo).
+  Fashion & Lifestyle\, Gastronomy\, Home Living & Decor...\\nVenue: SICC -
+  Sabah International Convention Centre\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
+LOCATION:Kota Kinabalu (Borneo)\, Malaysia
+URL:https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261109
+UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
+DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\,
+  Shopping\, Gastronomy\, leisure and local life\\nVenue: Alpexpo\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internat
+ ionale-de-grenoble-1034-1.html
+LOCATION:Grenoble\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-1034
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROMA SPOSA — Rome\, Italy
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-roma-sposa-3042-1@eventseye.impio-vault
+DESCRIPTION:Rome Wedding Fair. Wedding and formal clothing\, travel agencie
+ s\, gifts and wedding lists\, jewelry\, beauty treatments\, photography\, 
+ music and entertainment...\\nVenue: Fiera di Roma\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-roma-sposa-3042-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-roma-sposa-3042-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE CAEN — Caen\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-salon-du-mariage-de-caen-28584-1@eventseye.impio-vault
+DESCRIPTION:Caen Wedding Fair. Wedding dresses\, suits\, jewelers\, invitat
+ ions\, decorations\, florists\, wedding planners\, hairstylists\, accessor
+ ies\, caterers\, photographers\, videographers\, entertainment\, equipment
+  rentals...\\nVenue: Parc des expositions de Caen\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-2858
+ 4-1.html
+LOCATION:Caen\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-28584-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALÓN LOOK INTERNACIONAL — Madrid\, Spain
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+UID:f-salon-look-internacional-10169-1@eventseye.impio-vault
+DESCRIPTION:Salón Look is the major professional event for the image and i
+ ntegral aesthetics sector in Spain. A unique space for professionals to pr
+ esent and discover new trends\, products\, innovative solutions and genera
+ te business opportunities\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-lo
+ ok-internacional-10169-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-salon-look-internacional-10169-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEAUTY GREECE — Athens\, Greece
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261103
+UID:f-beauty-greece-26712-1@eventseye.impio-vault
+DESCRIPTION:The Most Important Professional Event for all Beauty Services P
+ rofessionals in Greece. Cosmetics\, Makeup products\, Aesthetics devices &
+  equipment\, Hairtdressing products\, tools & equipment\, Perfumes\, Natur
+ al & artificial Nails\, Care products...\\nVenue: MEC - Mediterranian Exhi
+ bition Center\\nFrequency: twice a year\\nSource: https://www.eventseye.co
+ m/fairs/f-beauty-greece-26712-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-beauty-greece-26712-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONSUMENTA NÜRNBERG — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261109
+UID:f-consumenta-nurnberg-513-1@eventseye.impio-vault
+DESCRIPTION:South Germany's largest and most successful shopping fair. Cons
+ truction\, Living\, Household\, Hobby\, Health and Pleasure Sectors\\nVenu
+ e: Exhibition Centre Nuremberg\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FACTS COMIC CON — Ghent\, Belgium
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-facts-comic-con-31853-1@eventseye.impio-vault
+DESCRIPTION:Watch films\, series and video games come to life in the larges
+ t Belgian comics and pop culture festival! For fans of films\, series\, vi
+ deo games\, board games\, cosplay\, superheroes\, anime...\\nVenue: Flande
+ rs Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-facts-comic-con-31853-1.html
+LOCATION:Ghent\, Belgium
+URL:https://www.eventseye.com/fairs/f-facts-comic-con-31853-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPACIOBODA - SANTANDER — Santander\, Spain
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-spacioboda-santander-34162-1@eventseye.impio-vault
+DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
+ ully selected vendors. Connect directly\, compare options easily\, and fin
+ d the right partners to plan your wedding in an inspiring setting\\nVenue:
+  Hotel Bahia\, Santander\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-spacioboda-santander-34162-1.html
+LOCATION:Santander\, Spain
+URL:https://www.eventseye.com/fairs/f-spacioboda-santander-34162-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOFFEN SPEKTAKEL HOUTEN — Houten\, Netherlands
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+UID:f-stoffen-spektakel-houten-34611-1@eventseye.impio-vault
+DESCRIPTION:Expo of fabrics and textiles. Experience the latest fashion and
+  warm colors at the cozy fabric markets\\nVenue: Houten Expo\\nFrequency: 
+ unknown\\nSource: https://www.eventseye.com/fairs/f-stoffen-spektakel-hout
+ en-34611-1.html
+LOCATION:Houten\, Netherlands
+URL:https://www.eventseye.com/fairs/f-stoffen-spektakel-houten-34611-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DYE+CHEM MOROCCO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-dye-chem-morocco-26298-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
+ and Fine & Specialty Chemicals for the Moroccan industry\\nVenue: Foire In
+ ternationale de Casablanca\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPO AMDESTERDAM — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-ispo-amdesterdam-34014-1@eventseye.impio-vault
+DESCRIPTION:ISPO is the world’s most influential trade event for the spor
+ ting goods\, outdoor and winter sports industries\, representing the entir
+ e value chain from materials and manufacturing\, brands and products to tr
+ ade and customer experience. \\nFrequency: unknown\\nSource: https://www
+ .eventseye.com/fairs/f-ispo-amdesterdam-34014-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-ispo-amdesterdam-34014-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MIM - MAROC IN MODE — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-mim-maroc-in-mode-29776-1@eventseye.impio-vault
+DESCRIPTION:The Maroc in Mode (MIM) show is the Moroccan meeting place for 
+ fashion and textile professionals. A meeting platform to highlight Morocca
+ n textile-clothing know-how\\nVenue: Foire Internationale de Casablanca\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-mim-mar
+ oc-in-mode-29776-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-mim-maroc-in-mode-29776-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOROCCO INTERNATIONAL YARN & FABRIC SOURCING SHOW — Casablanca\, 
+ Morocco
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-morocco-international-yarn-fabric-sourcing-show-26299-1@eventseye.impio-vault
+DESCRIPTION:International exhibition on Yarn & Fabric Manufacturers & Suppl
+ iers focused to the Moroccan Textile & Apparel Industry\\nVenue: Office de
+ s Foires et Expositions de Casablanca (OFEC)\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-morocco-international-yarn-fabric-
+ sourcing-show-26299-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-morocco-international-yarn-fabric-sou
+ rcing-show-26299-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAZAAR BERLIN — Berlin\, Germany
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261109
+UID:f-bazaar-berlin-3552-1@eventseye.impio-vault
+DESCRIPTION:Shopping World with Special Shops "Christmas"\, "Country Style"
+ . With unique products and regional specialities\, BAZAAR BERLIN grounds a
+ re transformed into a lively\, sensory experience\\nVenue: Messegelände B
+ erlin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -bazaar-berlin-3552-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-bazaar-berlin-3552-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HONG KONG INTERNATIONAL OPTICAL FAIR — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261107
+UID:f-hong-kong-international-optical-fair-1229-1@eventseye.impio-vault
+DESCRIPTION:Framing the optical industry with a vision of quality\, the HKT
+ DC Hong Kong International Optical Fair showcases the latest products that
+  represent the pinnacle of craftsmanship\, innovation and trend-setting cr
+ eativity\\nVenue: Hong Kong Convention & Exhibition Centre\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-hong-kong-internatio
+ nal-optical-fair-1229-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-international-optical-fair-
+ 1229-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL RUNNING EXPO — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261106
+UID:f-international-running-expo-34015-1@eventseye.impio-vault
+DESCRIPTION:The International Running Expo\, collocated with ISPO\, is Euro
+ pe’s only dedicated business event for the running industry. IRX will we
+ lcome 200+ international brands showcasing the latest products\, trends an
+ d technologies driving the industry forward\\nVenue: RAI International Exh
+ ibition and Congress Centre\\nFrequency: unknown\\nSource: https://www.eve
+ ntseye.com/fairs/f-international-running-expo-34015-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-international-running-expo-34015-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATIVA BARCELONA — Barcelona\, Spain
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+UID:f-creativa-barcelona-17082-1@eventseye.impio-vault
+DESCRIPTION:The spanish fair of reference for the handicrafts and crafts se
+ ctor. At CREATIVA BARCELONA you can realize all your creativity and transl
+ ate it into authentic crafts and works of art\\nVenue: La Farga l'Hospital
+ et\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cr
+ eativa-barcelona-17082-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-creativa-barcelona-17082-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOTEXTIL PERÚ — Lima\, Peru
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+UID:f-expotextil-peru-12465-1@eventseye.impio-vault
+DESCRIPTION:International Textile Industry & Garment Expo. EXPOTEXTIL PERÚ
+  is a gathering of creative minds\, thriving businesses\, and revolutionar
+ y technologies that are defining the future of fashion and sustainability\
+ \nVenue: Centro de Exposiciones Jockey\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-expotextil-peru-12465-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-expotextil-peru-12465-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAMPERTEX PERÚ — Lima\, Peru
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+UID:f-stampertex-peru-22808-1@eventseye.impio-vault
+DESCRIPTION:Trade show of manufacturers and suppliers of Digital Sublimatio
+ n chain\, Textile Printing and Textile Screen Printing\\nVenue: Centro de 
+ Exposiciones Jockey\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-stampertex-peru-22808-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-stampertex-peru-22808-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEXMODA PERÚ — Lima\, Peru
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+UID:f-texmoda-peru-22809-1@eventseye.impio-vault
+DESCRIPTION:Expotextil Perú is the most important meeting point for the te
+ xtile and apparel industry in Latin America. A multi-sector platform where
+  innovation\, sustainability\, fashion\, technology\, and business converg
+ e\\nVenue: Centro de Exposiciones Jockey\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-texmoda-peru-22809-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-texmoda-peru-22809-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BABINI HAMBURG — Hamburg\, Germany
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-babini-hamburg-9955-1@eventseye.impio-vault
+DESCRIPTION:The BABINI Expo gathers international and national players\, re
+ gional dealers and individual providers from all sectors around the topics
+  of pregnancy\, baby and child\\nVenue: Hamburg Messe und Congress\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-babini-hambu
+ rg-9955-1.html
+LOCATION:Hamburg\, Germany
+URL:https://www.eventseye.com/fairs/f-babini-hamburg-9955-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BALTIC BEAUTY WORLD — Riga\, Latvia
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-baltic-beauty-world-9263-1@eventseye.impio-vault
+DESCRIPTION:Baltic consolidated Beauty Industry Project Exhibition\, Forum\
+ , Festival\, Competitions\, Conferences\, Master Classes\, Workshops and S
+ hows\\nVenue: Riga International Exhibition Centre\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-baltic-beauty-world-9263-1.h
+ tml
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-baltic-beauty-world-9263-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DES MOINES HOLIDAY BOUTIQUE — Des Moines\, IA\, USA
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-des-moines-holiday-boutique-28289-1@eventseye.impio-vault
+DESCRIPTION:Des Moines\, IA Holiday Fair. Holiday Decor\, Apparel\, Toys\, 
+ Treats and more!\\nVenue: Iowa Events Center\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-
+ 1.html
+LOCATION:Des Moines\, IA\, USA
+URL:https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIRA NOVIOS — Alicante\, Spain
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-fira-novios-8406-1@eventseye.impio-vault
+DESCRIPTION:Alicante exhibition of Celebrations. FIRANOVIOS offers differen
+ t services\, products and articles belonging to the world of celebrations\
+ , placing special emphasis on weddings and communions\\nVenue: IFA - Fira 
+ Alicant\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-fira-novios-8406-1.html
+LOCATION:Alicante\, Spain
+URL:https://www.eventseye.com/fairs/f-fira-novios-8406-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HARVEST FESTIVAL - ORIGINAL ART & CRAFT - SANTA ROSA — Santa Rosa
+ \, CA\, USA
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+UID:f-harvest-festival-original-art-craft-santa-rosa-33507-1@eventseye.impio-vault
+DESCRIPTION:Original Art & Craft Show. Each Harvest Festival features hundr
+ eds of artisans exhibiting American handmade items including beautiful jew
+ elry\, clothing\, specialty foods\, photography\, original art\, hand-turn
+ ed wood\, music\, ceramics\, etc\\nVenue: Sonoma County Fairgrounds\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-harvest-fes
+ tival-original-art-craft-santa-rosa-33507-1.html
+LOCATION:Santa Rosa\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-harvest-festival-original-art-craft-s
+ anta-rosa-33507-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERBEAUTY — Bratislava\, Slovakia
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+UID:f-interbeauty-1402-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Cosmetic Products and Services. A m
+ eeting place for top professionals who present their skills in exhibition 
+ performances and competitions\\nVenue: Bratislava Exhibition Ground\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-interbeauty
+ -1402-1.html
+LOCATION:Bratislava\, Slovakia
+URL:https://www.eventseye.com/fairs/f-interbeauty-1402-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE NATIONAL WOMEN'S SHOW - TORONTO — Toronto\, ON\, Canada
@@ -4280,6 +4666,18 @@ URL:https://www.eventseye.com/fairs/f-asfw-(africa-sourcing-fashion-week)-a
  ddis-27586-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FASHIONEX — Carpi\, Italy
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+UID:f-fashionex-33473-1@eventseye.impio-vault
+DESCRIPTION:FashionEx event presents the upcoming collections and offers vi
+ sitors the opportunity to find numerous suppliers of made-in-Italy womensw
+ ear\\nVenue: La Baracca sul mare\\nFrequency: twice a year\\nSource: https
+ ://www.eventseye.com/fairs/f-fashionex-33473-1.html
+LOCATION:Carpi\, Italy
+URL:https://www.eventseye.com/fairs/f-fashionex-33473-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KNIT + STITCH - NORTHERN IRELAND — Lisburn\, UK - United Kingdom
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261116
@@ -4374,6 +4772,20 @@ DESCRIPTION:BEAUTY LIFE EXPO - ANKARA is one of the major beauty exhibition
  /www.eventseye.com/fairs/f-beauty-life-expo-ankara-31096-1.html
 LOCATION:Ankara\, Turkey
 URL:https://www.eventseye.com/fairs/f-beauty-life-expo-ankara-31096-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA YIWU IMPORTED COMMODITIES FAIR — Yiwu\, China
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+UID:f-china-yiwu-imported-commodities-fair-23826-1@eventseye.impio-vault
+DESCRIPTION:China Yiwu Imported Commodities Fair. Household articles\, Food
+  & beverages\, art-crafts & ornaments\, garments & accessories\, e-commerc
+ e service providers...\\nVenue: Yiwu International Expo Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-china-yiwu-impor
+ ted-commodities-fair-23826-1.html
+LOCATION:Yiwu\, China
+URL:https://www.eventseye.com/fairs/f-china-yiwu-imported-commodities-fair-
+ 23826-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COLORADO COUNTRY CHRISTMAS GIFT SHOW — Colorado Springs\, CO\, US
@@ -4583,363 +4995,6 @@ URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-rennes-34055-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BIG SABAH SALE — Kota Kinabalu (Borneo)\, Malaysia
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-big-sabah-sale-33292-1@eventseye.impio-vault
-DESCRIPTION:Big Sabah Sale is the big trade fair in Kota Kinabalu (Borneo).
-  Fashion & Lifestyle\, Gastronomy\, Home Living & Decor...\\nVenue: SICC -
-  Sabah International Convention Centre\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
-LOCATION:Kota Kinabalu (Borneo)\, Malaysia
-URL:https://www.eventseye.com/fairs/f-big-sabah-sale-33292-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE INTERNATIONALE DE GRENOBLE — Grenoble\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261109
-UID:f-foire-internationale-de-grenoble-1034-1@eventseye.impio-vault
-DESCRIPTION:International Fair of Grenoble. Home and garden\, Automobiles\,
-  Shopping\, Gastronomy\, leisure and local life\\nVenue: Alpexpo\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-internat
- ionale-de-grenoble-1034-1.html
-LOCATION:Grenoble\, France
-URL:https://www.eventseye.com/fairs/f-foire-internationale-de-grenoble-1034
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROMA SPOSA — Rome\, Italy
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-roma-sposa-3042-1@eventseye.impio-vault
-DESCRIPTION:Rome Wedding Fair. Wedding and formal clothing\, travel agencie
- s\, gifts and wedding lists\, jewelry\, beauty treatments\, photography\, 
- music and entertainment...\\nVenue: Fiera di Roma\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-roma-sposa-3042-1.html
-LOCATION:Rome\, Italy
-URL:https://www.eventseye.com/fairs/f-roma-sposa-3042-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE CAEN — Caen\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-salon-du-mariage-de-caen-28584-1@eventseye.impio-vault
-DESCRIPTION:Caen Wedding Fair. Wedding dresses\, suits\, jewelers\, invitat
- ions\, decorations\, florists\, wedding planners\, hairstylists\, accessor
- ies\, caterers\, photographers\, videographers\, entertainment\, equipment
-  rentals...\\nVenue: Parc des expositions de Caen\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-2858
- 4-1.html
-LOCATION:Caen\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-28584-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALÓN LOOK INTERNACIONAL — Madrid\, Spain
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261103
-UID:f-salon-look-internacional-10169-1@eventseye.impio-vault
-DESCRIPTION:Salón Look is the major professional event for the image and i
- ntegral aesthetics sector in Spain. A unique space for professionals to pr
- esent and discover new trends\, products\, innovative solutions and genera
- te business opportunities\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-lo
- ok-internacional-10169-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-salon-look-internacional-10169-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEAUTY GREECE — Athens\, Greece
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261103
-UID:f-beauty-greece-26712-1@eventseye.impio-vault
-DESCRIPTION:The Most Important Professional Event for all Beauty Services P
- rofessionals in Greece. Cosmetics\, Makeup products\, Aesthetics devices &
-  equipment\, Hairtdressing products\, tools & equipment\, Perfumes\, Natur
- al & artificial Nails\, Care products...\\nVenue: MEC - Mediterranian Exhi
- bition Center\\nFrequency: twice a year\\nSource: https://www.eventseye.co
- m/fairs/f-beauty-greece-26712-1.html
-LOCATION:Athens\, Greece
-URL:https://www.eventseye.com/fairs/f-beauty-greece-26712-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONSUMENTA NÜRNBERG — Nuremberg\, Germany
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261109
-UID:f-consumenta-nurnberg-513-1@eventseye.impio-vault
-DESCRIPTION:South Germany's largest and most successful shopping fair. Cons
- truction\, Living\, Household\, Hobby\, Health and Pleasure Sectors\\nVenu
- e: Exhibition Centre Nuremberg\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
-LOCATION:Nuremberg\, Germany
-URL:https://www.eventseye.com/fairs/f-consumenta-nurnberg-513-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FACTS COMIC CON — Ghent\, Belgium
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-facts-comic-con-31853-1@eventseye.impio-vault
-DESCRIPTION:Watch films\, series and video games come to life in the larges
- t Belgian comics and pop culture festival! For fans of films\, series\, vi
- deo games\, board games\, cosplay\, superheroes\, anime...\\nVenue: Flande
- rs Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-facts-comic-con-31853-1.html
-LOCATION:Ghent\, Belgium
-URL:https://www.eventseye.com/fairs/f-facts-comic-con-31853-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPACIOBODA - SANTANDER — Santander\, Spain
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-spacioboda-santander-34162-1@eventseye.impio-vault
-DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
- ully selected vendors. Connect directly\, compare options easily\, and fin
- d the right partners to plan your wedding in an inspiring setting\\nVenue:
-  Hotel Bahia\, Santander\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-spacioboda-santander-34162-1.html
-LOCATION:Santander\, Spain
-URL:https://www.eventseye.com/fairs/f-spacioboda-santander-34162-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STOFFEN SPEKTAKEL HOUTEN — Houten\, Netherlands
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-UID:f-stoffen-spektakel-houten-34611-1@eventseye.impio-vault
-DESCRIPTION:Expo of fabrics and textiles. Experience the latest fashion and
-  warm colors at the cozy fabric markets\\nVenue: Houten Expo\\nFrequency: 
- unknown\\nSource: https://www.eventseye.com/fairs/f-stoffen-spektakel-hout
- en-34611-1.html
-LOCATION:Houten\, Netherlands
-URL:https://www.eventseye.com/fairs/f-stoffen-spektakel-houten-34611-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DYE+CHEM MOROCCO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-dye-chem-morocco-26298-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
- and Fine & Specialty Chemicals for the Moroccan industry\\nVenue: Foire In
- ternationale de Casablanca\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-dye-chem-morocco-26298-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISPO AMDESTERDAM — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-ispo-amdesterdam-34014-1@eventseye.impio-vault
-DESCRIPTION:ISPO is the world’s most influential trade event for the spor
- ting goods\, outdoor and winter sports industries\, representing the entir
- e value chain from materials and manufacturing\, brands and products to tr
- ade and customer experience. \\nFrequency: unknown\\nSource: https://www
- .eventseye.com/fairs/f-ispo-amdesterdam-34014-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-ispo-amdesterdam-34014-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIM - MAROC IN MODE — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-mim-maroc-in-mode-29776-1@eventseye.impio-vault
-DESCRIPTION:The Maroc in Mode (MIM) show is the Moroccan meeting place for 
- fashion and textile professionals. A meeting platform to highlight Morocca
- n textile-clothing know-how\\nVenue: Foire Internationale de Casablanca\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-mim-mar
- oc-in-mode-29776-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-mim-maroc-in-mode-29776-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOROCCO INTERNATIONAL YARN & FABRIC SOURCING SHOW — Casablanca\, 
- Morocco
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-morocco-international-yarn-fabric-sourcing-show-26299-1@eventseye.impio-vault
-DESCRIPTION:International exhibition on Yarn & Fabric Manufacturers & Suppl
- iers focused to the Moroccan Textile & Apparel Industry\\nVenue: Office de
- s Foires et Expositions de Casablanca (OFEC)\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-morocco-international-yarn-fabric-
- sourcing-show-26299-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-morocco-international-yarn-fabric-sou
- rcing-show-26299-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAZAAR BERLIN — Berlin\, Germany
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261109
-UID:f-bazaar-berlin-3552-1@eventseye.impio-vault
-DESCRIPTION:Shopping World with Special Shops "Christmas"\, "Country Style"
- . With unique products and regional specialities\, BAZAAR BERLIN grounds a
- re transformed into a lively\, sensory experience\\nVenue: Messegelände B
- erlin\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -bazaar-berlin-3552-1.html
-LOCATION:Berlin\, Germany
-URL:https://www.eventseye.com/fairs/f-bazaar-berlin-3552-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HONG KONG INTERNATIONAL OPTICAL FAIR — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261107
-UID:f-hong-kong-international-optical-fair-1229-1@eventseye.impio-vault
-DESCRIPTION:Framing the optical industry with a vision of quality\, the HKT
- DC Hong Kong International Optical Fair showcases the latest products that
-  represent the pinnacle of craftsmanship\, innovation and trend-setting cr
- eativity\\nVenue: Hong Kong Convention & Exhibition Centre\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-hong-kong-internatio
- nal-optical-fair-1229-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hong-kong-international-optical-fair-
- 1229-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL RUNNING EXPO — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261106
-UID:f-international-running-expo-34015-1@eventseye.impio-vault
-DESCRIPTION:The International Running Expo\, collocated with ISPO\, is Euro
- pe’s only dedicated business event for the running industry. IRX will we
- lcome 200+ international brands showcasing the latest products\, trends an
- d technologies driving the industry forward\\nVenue: RAI International Exh
- ibition and Congress Centre\\nFrequency: unknown\\nSource: https://www.eve
- ntseye.com/fairs/f-international-running-expo-34015-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-international-running-expo-34015-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATIVA BARCELONA — Barcelona\, Spain
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-UID:f-creativa-barcelona-17082-1@eventseye.impio-vault
-DESCRIPTION:The spanish fair of reference for the handicrafts and crafts se
- ctor. At CREATIVA BARCELONA you can realize all your creativity and transl
- ate it into authentic crafts and works of art\\nVenue: La Farga l'Hospital
- et\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cr
- eativa-barcelona-17082-1.html
-LOCATION:Barcelona\, Spain
-URL:https://www.eventseye.com/fairs/f-creativa-barcelona-17082-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOTEXTIL PERÚ — Lima\, Peru
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-UID:f-expotextil-peru-12465-1@eventseye.impio-vault
-DESCRIPTION:International Textile Industry & Garment Expo. EXPOTEXTIL PERÚ
-  is a gathering of creative minds\, thriving businesses\, and revolutionar
- y technologies that are defining the future of fashion and sustainability\
- \nVenue: Centro de Exposiciones Jockey\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-expotextil-peru-12465-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-expotextil-peru-12465-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAMPERTEX PERÚ — Lima\, Peru
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-UID:f-stampertex-peru-22808-1@eventseye.impio-vault
-DESCRIPTION:Trade show of manufacturers and suppliers of Digital Sublimatio
- n chain\, Textile Printing and Textile Screen Printing\\nVenue: Centro de 
- Exposiciones Jockey\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-stampertex-peru-22808-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-stampertex-peru-22808-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEXMODA PERÚ — Lima\, Peru
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-UID:f-texmoda-peru-22809-1@eventseye.impio-vault
-DESCRIPTION:Expotextil Perú is the most important meeting point for the te
- xtile and apparel industry in Latin America. A multi-sector platform where
-  innovation\, sustainability\, fashion\, technology\, and business converg
- e\\nVenue: Centro de Exposiciones Jockey\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-texmoda-peru-22809-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-texmoda-peru-22809-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BABINI HAMBURG — Hamburg\, Germany
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-babini-hamburg-9955-1@eventseye.impio-vault
-DESCRIPTION:The BABINI Expo gathers international and national players\, re
- gional dealers and individual providers from all sectors around the topics
-  of pregnancy\, baby and child\\nVenue: Hamburg Messe und Congress\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-babini-hambu
- rg-9955-1.html
-LOCATION:Hamburg\, Germany
-URL:https://www.eventseye.com/fairs/f-babini-hamburg-9955-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BALTIC BEAUTY WORLD — Riga\, Latvia
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-baltic-beauty-world-9263-1@eventseye.impio-vault
-DESCRIPTION:Baltic consolidated Beauty Industry Project Exhibition\, Forum\
- , Festival\, Competitions\, Conferences\, Master Classes\, Workshops and S
- hows\\nVenue: Riga International Exhibition Centre\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-baltic-beauty-world-9263-1.h
- tml
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-baltic-beauty-world-9263-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DES MOINES HOLIDAY BOUTIQUE — Des Moines\, IA\, USA
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-des-moines-holiday-boutique-28289-1@eventseye.impio-vault
-DESCRIPTION:Des Moines\, IA Holiday Fair. Holiday Decor\, Apparel\, Toys\, 
- Treats and more!\\nVenue: Iowa Events Center\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-
- 1.html
-LOCATION:Des Moines\, IA\, USA
-URL:https://www.eventseye.com/fairs/f-des-moines-holiday-boutique-28289-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIRA NOVIOS — Alicante\, Spain
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-fira-novios-8406-1@eventseye.impio-vault
-DESCRIPTION:Alicante exhibition of Celebrations. FIRANOVIOS offers differen
- t services\, products and articles belonging to the world of celebrations\
- , placing special emphasis on weddings and communions\\nVenue: IFA - Fira 
- Alicant\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-fira-novios-8406-1.html
-LOCATION:Alicante\, Spain
-URL:https://www.eventseye.com/fairs/f-fira-novios-8406-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HARVEST FESTIVAL - ORIGINAL ART & CRAFT - SANTA ROSA — Santa Rosa
- \, CA\, USA
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261109
-UID:f-harvest-festival-original-art-craft-santa-rosa-33507-1@eventseye.impio-vault
-DESCRIPTION:Original Art & Craft Show. Each Harvest Festival features hundr
- eds of artisans exhibiting American handmade items including beautiful jew
- elry\, clothing\, specialty foods\, photography\, original art\, hand-turn
- ed wood\, music\, ceramics\, etc\\nVenue: Sonoma County Fairgrounds\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-harvest-fes
- tival-original-art-craft-santa-rosa-33507-1.html
-LOCATION:Santa Rosa\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-harvest-festival-original-art-craft-s
- anta-rosa-33507-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERBEAUTY — Bratislava\, Slovakia
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261108
-UID:f-interbeauty-1402-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Cosmetic Products and Services. A m
- eeting place for top professionals who present their skills in exhibition 
- performances and competitions\\nVenue: Bratislava Exhibition Ground\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-interbeauty
- -1402-1.html
-LOCATION:Bratislava\, Slovakia
-URL:https://www.eventseye.com/fairs/f-interbeauty-1402-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THE ULTIMATE WOMEN'S SHOW - NEW JERSEY — Edison\, NJ\, USA
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261116
@@ -5035,6 +5090,22 @@ DESCRIPTION:Dedicated to all products related to footwear sector\, Intersho
  -spain-32525-1.html
 LOCATION:Madrid\, Spain
 URL:https://www.eventseye.com/fairs/f-interleather-shoes-spain-32525-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL APPAREL & TEXTILE FAIR DUBAI — Dubai\, UAE - United
+  Arab Emirates
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261119
+UID:f-international-apparel-textile-fair-dubai-21448-1@eventseye.impio-vault
+DESCRIPTION:The International Apparel & Textile Fair has evolved as a leadi
+ ng brand in the MENA region to source and showcase the best in textiles\, 
+ fabric\, footwear accessories and print from renowned mills across the glo
+ be\\nVenue: Dubai World Trade Centre (Dubai Exhibition Centre)\\nFrequency
+ : twice a year\\nSource: https://www.eventseye.com/fairs/f-international-a
+ pparel-textile-fair-dubai-21448-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-international-apparel-textile-fair-du
+ bai-21448-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TECHNOPRINT HENGQIN — Zhuhai\, China
@@ -5431,6 +5502,19 @@ LOCATION:Brussels\, Belgium
 URL:https://www.eventseye.com/fairs/f-brussels-design-market-22282-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GEEK DAYS - LILLE — Lille\, France
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-geek-days-lille-34115-1@eventseye.impio-vault
+DESCRIPTION:The must-attend event bringing together a wide range of worlds 
+ from Geek culture. Join all fans of video games\, manga\, and pop culture
+ … Meet your favorite personalities and take part in numerous activities\
+ \nVenue: Lille Grand Palais\\nFrequency: twice a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-geek-days-lille-34115-1.html
+LOCATION:Lille\, France
+URL:https://www.eventseye.com/fairs/f-geek-days-lille-34115-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HEROES DUTCH COMMIC CON UTRECHT — Utrecht\, Netherlands
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261123
@@ -5457,6 +5541,18 @@ DESCRIPTION:Creative Design Show in Lyon. The 'Salon ID d'ART' offers origi
  //www.eventseye.com/fairs/f-id-d-art-lyon-19937-1.html
 LOCATION:Lyon\, France
 URL:https://www.eventseye.com/fairs/f-id-d-art-lyon-19937-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAPAN WEEKEND VALENCIA — Valencia\, Spain
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+UID:f-japan-weekend-valencia-29507-1@eventseye.impio-vault
+DESCRIPTION:Fans of manga\, anime and Japanese culture meet at Japan Weeken
+ d Valencia\, which is the biggest pop culture event in Spain\\nVenue: Feri
+ a Valencia\\nFrequency: twice a year\\nSource: https://www.eventseye.com/f
+ airs/f-japan-weekend-valencia-29507-1.html
+LOCATION:Valencia\, Spain
+URL:https://www.eventseye.com/fairs/f-japan-weekend-valencia-29507-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LE SALON NATIONAL DE LA FEMME - QUÉBEC — Quebec City\, QC\, Cana
@@ -5670,6 +5766,371 @@ LOCATION:Minsk\, Belarus
 URL:https://www.eventseye.com/fairs/f-interstyle-5088-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IBTE VIETNAM - VIETNAM INTERNATIONAL BABY PRODUCTS & TOYS EXPO — 
+ Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-ibte-vietnam-vietnam-international-baby-products-toys-expo-31118-1@eventseye.impio-vault
+DESCRIPTION:Vietnam International Baby Products & Toys Expo. Meet Import/Ex
+ port Trading entreprises\, Manufacturing & Supplying entreprises\, Owners 
+ of Distribution Systems\, Local Suppliers\, Consumers...\\nVenue: Saigon E
+ xhibition & Convention Center - SECC\\nFrequency: twice a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-baby-p
+ roducts-toys-expo-31118-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-ba
+ by-products-toys-expo-31118-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU VINTAGE - MIAMI — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-salon-du-vintage-miami-33645-1@eventseye.impio-vault
+DESCRIPTION:Exhibition of "Vintage" objects and clothing. The Salon du Vint
+ age represents 2000 m² of shopping space dedicated to clothing\, accessor
+ ies\, vinyl and small furniture of the 50s to the 90s\\nVenue: Bal Harbour
+  Waterfront Park\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-salon-du-vintage-miami-33645-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-salon-du-vintage-miami-33645-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFT - CLOTHING TEXTILE FAIR ASIA - FAISALABAD — Faisalabad\, Paki
+ stan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-cft-clothing-textile-fair-asia-faisalabad-31966-1@eventseye.impio-vault
+DESCRIPTION:Pakistan's largest Textile\, Clothing & Textile Machinery Indus
+ try Fair. The CFT Asia Exhibition stands out as a pivotal event within Pak
+ istan's textile landscape\\nVenue: Faisalabad Expo Center\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-cft-clothing-textile-
+ fair-asia-faisalabad-31966-1.html
+LOCATION:Faisalabad\, Pakistan
+URL:https://www.eventseye.com/fairs/f-cft-clothing-textile-fair-asia-faisal
+ abad-31966-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIGITAL PRINTING ASIA - FAISALABAD — Faisalabad\, Pakistan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-digital-printing-asia-faisalabad-33457-1@eventseye.impio-vault
+DESCRIPTION:Pakistan's Textile Digital Printing Exhibition. Part of Textile
+  Asia - South Asia's largest Textile Industry Exhibition & Conference\\nVe
+ nue: Faisalabad Expo Center\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-digital-printing-asia-faisalabad-33457-1.html
+LOCATION:Faisalabad\, Pakistan
+URL:https://www.eventseye.com/fairs/f-digital-printing-asia-faisalabad-3345
+ 7-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DYESTUFF & CHEMICAL ASIA - FAISALABAD — Faisalabad\, Pakistan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-dyestuff-chemical-asia-faisalabad-33203-1@eventseye.impio-vault
+DESCRIPTION:Pakistan's Dyestuff & Chemical Exhibition. Part of Textile Asia
+ \, the biannual Textile Industry Show in Pakistan\\nVenue: Faisalabad Expo
+  Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
+ rs/f-dyestuff-chemical-asia-faisalabad-33203-1.html
+LOCATION:Faisalabad\, Pakistan
+URL:https://www.eventseye.com/fairs/f-dyestuff-chemical-asia-faisalabad-332
+ 03-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SEWING MACHINERY ASIA - FAISALABAD — Faisalabad\, Pakistan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-sewing-machinery-asia-faisalabad-32328-1@eventseye.impio-vault
+DESCRIPTION:Sewing Machine Exhibition in Pakistan. Part of Textile Asia\, t
+ he biannual Textile Industry Show in Pakistan\\nVenue: Faisalabad Expo Cen
+ ter\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -sewing-machinery-asia-faisalabad-32328-1.html
+LOCATION:Faisalabad\, Pakistan
+URL:https://www.eventseye.com/fairs/f-sewing-machinery-asia-faisalabad-3232
+ 8-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEXTILE ASIA - FAISALABAD — Faisalabad\, Pakistan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261214
+UID:f-textile-asia-faisalabad-31710-1@eventseye.impio-vault
+DESCRIPTION:Pakistan International Textiles and Textile Machinery Exhibitio
+ n. One of the south Asia's largest Textile Industry Exhibition & Conferenc
+ e\\nVenue: Faisalabad Expo Center\\nFrequency: every 2 years\\nSource: htt
+ ps://www.eventseye.com/fairs/f-textile-asia-faisalabad-31710-1.html
+LOCATION:Faisalabad\, Pakistan
+URL:https://www.eventseye.com/fairs/f-textile-asia-faisalabad-31710-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MITATEX — Yangon (Myanmar (Burma))
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261219
+UID:f-mitatex-25707-1@eventseye.impio-vault
+DESCRIPTION:Myanmar Platform for Textile industry\, showcasing the most ext
+ ensive products. Fibers\, Filament. Yarns / Cotton & Blends / Linen & Blen
+ ds / Silk & Blends / Wool & Blends / Viscose Rayon & Blends\, Cellulose...
+ \\nVenue: Yangon Convention Center (YCC)\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-mitatex-25707-1.html
+LOCATION:Yangon (Myanmar (Burma))
+URL:https://www.eventseye.com/fairs/f-mitatex-25707-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MYANMAR TEXPRINT — Yangon (Myanmar (Burma))
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261219
+UID:f-myanmar-texprint-27745-1@eventseye.impio-vault
+DESCRIPTION:Myanmar International Textile Printing Industry Exhibition. Scr
+ een print equipment\, Software\, Digital printing equipment\, Consumables\
+ , Garment decoration equipment including embroidery...\\nVenue: Yangon Con
+ vention Center (YCC)\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-myanmar-texprint-27745-1.html
+LOCATION:Yangon (Myanmar (Burma))
+URL:https://www.eventseye.com/fairs/f-myanmar-texprint-27745-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISMAS FAIR MOLDAVA — Chisinau\, Moldova
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261221
+UID:f-chrismas-fair-moldava-13164-1@eventseye.impio-vault
+DESCRIPTION:Romanian Fair of Christmas gifts. At the exhibitors’ stands y
+ ou can buy handicrafts\, souvenirs and local delicacies\, everything to fi
+ ll your house and your soul with the atmosphere of winter holidays!\\nVenu
+ e: I.E.C. Moldexpo\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-chrismas-fair-moldava-13164-1.html
+LOCATION:Chisinau\, Moldova
+URL:https://www.eventseye.com/fairs/f-chrismas-fair-moldava-13164-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAIRO INTER LEATHER — Cairo\, Egypt
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261221
+UID:f-cairo-inter-leather-29431-1@eventseye.impio-vault
+DESCRIPTION:Cairo International Leather and Shoes Fair. The biggest Leather
+  trade show in the Middle East Region\\nVenue: Cairo International Convent
+ ion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-cairo-inter-leather-29431-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-cairo-inter-leather-29431-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DU TAPIS ET DES TISSAGES TRADITIONNELS — Tunis\, Tunisia
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261228
+UID:f-foire-du-tapis-et-des-tissages-traditionnels-26951-1@eventseye.impio-vault
+DESCRIPTION:Tunis Carpet and Traditional Weaving Fair. Decorative objects\,
+  household linens\, bedding\, rugs\, and revisited traditional clothing fo
+ r women and men. Handmade items\\nVenue: Parc des expositions du Kram\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-du-
+ tapis-et-des-tissages-traditionnels-26951-1.html
+LOCATION:Tunis\, Tunisia
+URL:https://www.eventseye.com/fairs/f-foire-du-tapis-et-des-tissages-tradit
+ ionnels-26951-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHRISTMAS MARKET SOCHI — Sochi\, Russia
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261228
+UID:f-christmas-market-sochi-27881-1@eventseye.impio-vault
+DESCRIPTION:New Year and Christmas gifts and decorations. Festive packaging
+ . Christmas paraphernalia. Toys\, masks\, New Year's costumes. Handicrafts
+ . New Year's decoration. Clothes\, Jewelry\, Clocks...\\nVenue: Grand Hote
+ l Polyana\, Sochi\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-christmas-market-sochi-27881-1.html
+LOCATION:Sochi\, Russia
+URL:https://www.eventseye.com/fairs/f-christmas-market-sochi-27881-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASHION JEWELRY & ACCESSORIES ASIA — Karachi\, Pakistan
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261227
+UID:f-fashion-jewelry-accessories-asia-28159-1@eventseye.impio-vault
+DESCRIPTION:Fashion Jewelry & Accessories Asia offers a unique network and 
+ business opportunities to jewellery professionals as a leading fair in jew
+ ellery industry\\nVenue: Karachi Expo Centre\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-fashion-jewelry-accessories-asia-2
+ 8159-1.html
+LOCATION:Karachi\, Pakistan
+URL:https://www.eventseye.com/fairs/f-fashion-jewelry-accessories-asia-2815
+ 9-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHOES & BAGS ASIA — Karachi\, Pakistan
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261227
+UID:f-shoes-bags-asia-28160-1@eventseye.impio-vault
+DESCRIPTION:Pakistan's largest Bags & Footwear Trade Show. The focus of the
+  event is presentation of machinery\, materials and the equipment for manu
+ facturing of footwear and leather products industries\\nVenue: Karachi Exp
+ o Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-shoes-bags-asia-28160-1.html
+LOCATION:Karachi\, Pakistan
+URL:https://www.eventseye.com/fairs/f-shoes-bags-asia-28160-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOYS & BABY PRODUCT ASIA — Karachi\, Pakistan
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261227
+UID:f-toys-baby-product-asia-28126-1@eventseye.impio-vault
+DESCRIPTION:International Toys and Baby Products Trade Fair in Pakistan. Th
+ is trade show is dedicated to provide an platform to showcase and discover
+  the latest products and innovations in the Toys & Baby Products industry\
+ \nVenue: Karachi Expo Centre\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-toys-baby-product-asia-28126-1.html
+LOCATION:Karachi\, Pakistan
+URL:https://www.eventseye.com/fairs/f-toys-baby-product-asia-28126-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPONADAL — Alicante\, Spain
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20270105
+UID:f-exponadal-6773-1@eventseye.impio-vault
+DESCRIPTION:Children's and Youth Leisure Exhibition. EXPONADAL is an opport
+ unity to give the little ones in the house a day of family fun with activi
+ ties and attractions designed for various ages and tastes\\nVenue: IFA - F
+ ira Alicant\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-exponadal-6773-1.html
+LOCATION:Alicante\, Spain
+URL:https://www.eventseye.com/fairs/f-exponadal-6773-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISPO BEIJING — Beijing\, China
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270110
+UID:f-ispo-beijing-8087-1@eventseye.impio-vault
+DESCRIPTION:ISPO Beijing is one of the leading professional sports trade pl
+ atforms in Asia\, gathering well-known local and international brands in O
+ utdoor\, Snowsports\, Running and Health & Fitness\, Textile & Technology\
+ , Camping lifestyle and Urban sports\\nVenue: China National Convention Ce
+ nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ ispo-beijing-8087-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-ispo-beijing-8087-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARIZONA WEDDING SHOW (JANUARY) — Phoenix\, AZ\, USA
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-arizona-wedding-show-(january)-29462-1@eventseye.impio-vault
+DESCRIPTION:The Arizona Wedding Show is the biggest wedding and event show 
+ in the region. Twice a year\, the expo features more than 200 of the valle
+ y’s top wedding and event experts all in one place\\nVenue: Phoenix Conv
+ ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-arizona-wedding-show-(january)-29462-1.html
+LOCATION:Phoenix\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-arizona-wedding-show-(january)-29462-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPONOIVOS LISBOA — Lisbon\, Portugal
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-exponoivos-lisboa-4555-1@eventseye.impio-vault
+DESCRIPTION:Portuguese international trade fair for wedding services and ac
+ cessories. Find the best suppliers for your wedding\, be in advance of all
+  the news\, trends\, and collections\\nVenue: MEO Arena Lisboa\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-exponoivos-lisbo
+ a-4555-1.html
+LOCATION:Lisbon\, Portugal
+URL:https://www.eventseye.com/fairs/f-exponoivos-lisboa-4555-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRAND SALON DU MARIAGE COLMAR — Colmar\, France
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-grand-salon-du-mariage-colmar-23087-1@eventseye.impio-vault
+DESCRIPTION:Wedding Fair of Colmar. Fashion shows of bridal dresses and cos
+ tumes\, aesthetic advice\, festive meals\, entertainment\, prestigious veh
+ icles\, honeymoons\, organization of ceremonies\, photographers\, jewelry.
+ ..\\nVenue: Parc des Expositions de Colmar\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-grand-salon-du-mariage-colmar-23087-
+ 1.html
+LOCATION:Colmar\, France
+URL:https://www.eventseye.com/fairs/f-grand-salon-du-mariage-colmar-23087-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOCHZEITSTAGE HANNOVER — Hannover\, Germany
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-hochzeitstage-hannover-18226-1@eventseye.impio-vault
+DESCRIPTION:The big wedding fair in Hannover. Here you'll find everything y
+ ou need to make your big day an unforgettable experience\\nVenue: Hannover
+  Congress Centrum\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-hochzeitstage-hannover-18226-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-hochzeitstage-hannover-18226-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DES MARIÉS DE QUÉBEC — Quebec City\, QC\, Canada
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-salon-des-maries-de-quebec-17608-1@eventseye.impio-vault
+DESCRIPTION:It is the reference for weddings in Quebec\, at the ideal time 
+ of year for planning More than 150 experienced exhibitors\, a recognized f
+ ashion show and numerous demonstrations and tastings\\nVenue: Centre de Fo
+ ires - ExpoCité\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-salon-des-maries-de-quebec-17608-1.html
+LOCATION:Quebec City\, QC\, Canada
+URL:https://www.eventseye.com/fairs/f-salon-des-maries-de-quebec-17608-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE CHARLEROI — Charleroi\, Belgium
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-salon-du-mariage-de-charleroi-26549-1@eventseye.impio-vault
+DESCRIPTION:The Cherleroi Wedding Fair offers\, for a weekend\, the possibi
+ lity for all its visitors to find everything they are looking for for thei
+ r wedding in one and the same place\\nVenue: Charleroi Expo\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de
+ -charleroi-26549-1.html
+LOCATION:Charleroi\, Belgium
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-charleroi-26549-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE TOULOUSE — Toulouse\, France
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-salon-du-mariage-de-toulouse-29447-1@eventseye.impio-vault
+DESCRIPTION:The largest wedding fair in the Occitanie region. Wedding dress
+ es\, glamorous\, classic or even daring... dragees\, announcements\, allia
+ nces\, etc. But also\, groom's outfits\, cocktail dresses\, accessories...
+  3 daily parades\\nVenue: MEETT - Parc des Expositions et Centre de Conven
+ tions\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -salon-du-mariage-de-toulouse-29447-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-toulouse-29447-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPRINGFIELD WEDDING & BRIDAL EXPO — Springfield\, MA\, USA
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-springfield-wedding-bridal-expo-29543-1@eventseye.impio-vault
+DESCRIPTION:Bridal expo show in New England. Wedding dresses\, bridesmaid d
+ resses\, invitations\, shoes\, venues and literally all other bridal and w
+ edding services imaginable\\nVenue: Better Living Center\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-springfield-wedding-br
+ idal-expo-29543-1.html
+LOCATION:Springfield\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-springfield-wedding-bridal-expo-29543
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRAUDICH DUSSELDORF — Dusseldorf\, Germany
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270111
+UID:f-traudich-dusseldorf-16769-1@eventseye.impio-vault
+DESCRIPTION:Wedding Fair in Dusseldorf. Live music\, delicious cuisine\, pr
+ actical workshops... prepare your wedding in the best possible way! Meet a
+ ll types of service providers: wedding dresses and formal wear\, bridal pa
+ rty venues\, wedding rings...\\nVenue: Areal Böhler\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-traudich-dusseldorf-16769-
+ 1.html
+LOCATION:Dusseldorf\, Germany
+URL:https://www.eventseye.com/fairs/f-traudich-dusseldorf-16769-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PRIVATE LABEL - PRODUCTS & SERVICES TRADE AREA — Istanbul\, Turke
  y
 DTSTART;VALUE=DATE:20261125
@@ -5711,6 +6172,22 @@ DESCRIPTION:Handmade Stories is a fair where you can see and buy unique pro
  -1.html
 LOCATION:Bologna\, Italy
 URL:https://www.eventseye.com/fairs/f-handmade-stories-bologna-31442-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMBEX - INDONESIA MATERNITY\, BABY & KIDS EXPO — Jakarta\, Indone
+ sia
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+UID:f-imbex-indonesia-maternity-baby-kids-expo-22233-1@eventseye.impio-vault
+DESCRIPTION:Indonesia Maternity\, Baby\, & Kids Expo. IMBEX is the leading 
+ exhibition in Indonesia that showcases the products and services for the m
+ aternal & pregnant women\, infants\, toddlers and children\\nVenue: JICC S
+ enayan - Balai Sidang Jakarta Convention Center\\nFrequency: twice a year\
+ \nSource: https://www.eventseye.com/fairs/f-imbex-indonesia-maternity-baby
+ -kids-expo-22233-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-imbex-indonesia-maternity-baby-kids-e
+ xpo-22233-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MARCHÉ DE NOËL DE CLERMONT-FERRAND — Clermont-Ferrand\, France
@@ -6141,371 +6618,6 @@ DESCRIPTION:Togliatti consumer goods exhibition fair. New Year's holiday gi
  ttps://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
 LOCATION:Togliatti\, Russia
 URL:https://www.eventseye.com/fairs/f-togliatti-christmas-fair-7968-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBTE VIETNAM - VIETNAM INTERNATIONAL BABY PRODUCTS & TOYS EXPO — 
- Ho Chi Minh\, Vietnam
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261214
-UID:f-ibte-vietnam-vietnam-international-baby-products-toys-expo-31118-1@eventseye.impio-vault
-DESCRIPTION:Vietnam International Baby Products & Toys Expo. Meet Import/Ex
- port Trading entreprises\, Manufacturing & Supplying entreprises\, Owners 
- of Distribution Systems\, Local Suppliers\, Consumers...\\nVenue: Saigon E
- xhibition & Convention Center - SECC\\nFrequency: twice a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-baby-p
- roducts-toys-expo-31118-1.html
-LOCATION:Ho Chi Minh\, Vietnam
-URL:https://www.eventseye.com/fairs/f-ibte-vietnam-vietnam-international-ba
- by-products-toys-expo-31118-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU VINTAGE - MIAMI — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261214
-UID:f-salon-du-vintage-miami-33645-1@eventseye.impio-vault
-DESCRIPTION:Exhibition of "Vintage" objects and clothing. The Salon du Vint
- age represents 2000 m² of shopping space dedicated to clothing\, accessor
- ies\, vinyl and small furniture of the 50s to the 90s\\nVenue: Bal Harbour
-  Waterfront Park\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-salon-du-vintage-miami-33645-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-salon-du-vintage-miami-33645-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CFT - CLOTHING TEXTILE FAIR ASIA - FAISALABAD — Faisalabad\, Paki
- stan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-cft-clothing-textile-fair-asia-faisalabad-31966-1@eventseye.impio-vault
-DESCRIPTION:Pakistan's largest Textile\, Clothing & Textile Machinery Indus
- try Fair. The CFT Asia Exhibition stands out as a pivotal event within Pak
- istan's textile landscape\\nVenue: Faisalabad Expo Center\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-cft-clothing-textile-
- fair-asia-faisalabad-31966-1.html
-LOCATION:Faisalabad\, Pakistan
-URL:https://www.eventseye.com/fairs/f-cft-clothing-textile-fair-asia-faisal
- abad-31966-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIGITAL PRINTING ASIA - FAISALABAD — Faisalabad\, Pakistan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-digital-printing-asia-faisalabad-33457-1@eventseye.impio-vault
-DESCRIPTION:Pakistan's Textile Digital Printing Exhibition. Part of Textile
-  Asia - South Asia's largest Textile Industry Exhibition & Conference\\nVe
- nue: Faisalabad Expo Center\\nFrequency: every 2 years\\nSource: https://w
- ww.eventseye.com/fairs/f-digital-printing-asia-faisalabad-33457-1.html
-LOCATION:Faisalabad\, Pakistan
-URL:https://www.eventseye.com/fairs/f-digital-printing-asia-faisalabad-3345
- 7-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DYESTUFF & CHEMICAL ASIA - FAISALABAD — Faisalabad\, Pakistan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-dyestuff-chemical-asia-faisalabad-33203-1@eventseye.impio-vault
-DESCRIPTION:Pakistan's Dyestuff & Chemical Exhibition. Part of Textile Asia
- \, the biannual Textile Industry Show in Pakistan\\nVenue: Faisalabad Expo
-  Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fai
- rs/f-dyestuff-chemical-asia-faisalabad-33203-1.html
-LOCATION:Faisalabad\, Pakistan
-URL:https://www.eventseye.com/fairs/f-dyestuff-chemical-asia-faisalabad-332
- 03-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SEWING MACHINERY ASIA - FAISALABAD — Faisalabad\, Pakistan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-sewing-machinery-asia-faisalabad-32328-1@eventseye.impio-vault
-DESCRIPTION:Sewing Machine Exhibition in Pakistan. Part of Textile Asia\, t
- he biannual Textile Industry Show in Pakistan\\nVenue: Faisalabad Expo Cen
- ter\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
- -sewing-machinery-asia-faisalabad-32328-1.html
-LOCATION:Faisalabad\, Pakistan
-URL:https://www.eventseye.com/fairs/f-sewing-machinery-asia-faisalabad-3232
- 8-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEXTILE ASIA - FAISALABAD — Faisalabad\, Pakistan
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-UID:f-textile-asia-faisalabad-31710-1@eventseye.impio-vault
-DESCRIPTION:Pakistan International Textiles and Textile Machinery Exhibitio
- n. One of the south Asia's largest Textile Industry Exhibition & Conferenc
- e\\nVenue: Faisalabad Expo Center\\nFrequency: every 2 years\\nSource: htt
- ps://www.eventseye.com/fairs/f-textile-asia-faisalabad-31710-1.html
-LOCATION:Faisalabad\, Pakistan
-URL:https://www.eventseye.com/fairs/f-textile-asia-faisalabad-31710-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MITATEX — Yangon (Myanmar (Burma))
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261219
-UID:f-mitatex-25707-1@eventseye.impio-vault
-DESCRIPTION:Myanmar Platform for Textile industry\, showcasing the most ext
- ensive products. Fibers\, Filament. Yarns / Cotton & Blends / Linen & Blen
- ds / Silk & Blends / Wool & Blends / Viscose Rayon & Blends\, Cellulose...
- \\nVenue: Yangon Convention Center (YCC)\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-mitatex-25707-1.html
-LOCATION:Yangon (Myanmar (Burma))
-URL:https://www.eventseye.com/fairs/f-mitatex-25707-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MYANMAR TEXPRINT — Yangon (Myanmar (Burma))
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261219
-UID:f-myanmar-texprint-27745-1@eventseye.impio-vault
-DESCRIPTION:Myanmar International Textile Printing Industry Exhibition. Scr
- een print equipment\, Software\, Digital printing equipment\, Consumables\
- , Garment decoration equipment including embroidery...\\nVenue: Yangon Con
- vention Center (YCC)\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-myanmar-texprint-27745-1.html
-LOCATION:Yangon (Myanmar (Burma))
-URL:https://www.eventseye.com/fairs/f-myanmar-texprint-27745-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISMAS FAIR MOLDAVA — Chisinau\, Moldova
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261221
-UID:f-chrismas-fair-moldava-13164-1@eventseye.impio-vault
-DESCRIPTION:Romanian Fair of Christmas gifts. At the exhibitors’ stands y
- ou can buy handicrafts\, souvenirs and local delicacies\, everything to fi
- ll your house and your soul with the atmosphere of winter holidays!\\nVenu
- e: I.E.C. Moldexpo\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-chrismas-fair-moldava-13164-1.html
-LOCATION:Chisinau\, Moldova
-URL:https://www.eventseye.com/fairs/f-chrismas-fair-moldava-13164-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAIRO INTER LEATHER — Cairo\, Egypt
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261221
-UID:f-cairo-inter-leather-29431-1@eventseye.impio-vault
-DESCRIPTION:Cairo International Leather and Shoes Fair. The biggest Leather
-  trade show in the Middle East Region\\nVenue: Cairo International Convent
- ion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-cairo-inter-leather-29431-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-cairo-inter-leather-29431-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOIRE DU TAPIS ET DES TISSAGES TRADITIONNELS — Tunis\, Tunisia
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261228
-UID:f-foire-du-tapis-et-des-tissages-traditionnels-26951-1@eventseye.impio-vault
-DESCRIPTION:Tunis Carpet and Traditional Weaving Fair. Decorative objects\,
-  household linens\, bedding\, rugs\, and revisited traditional clothing fo
- r women and men. Handmade items\\nVenue: Parc des expositions du Kram\\nFr
- equency: once a year\\nSource: https://www.eventseye.com/fairs/f-foire-du-
- tapis-et-des-tissages-traditionnels-26951-1.html
-LOCATION:Tunis\, Tunisia
-URL:https://www.eventseye.com/fairs/f-foire-du-tapis-et-des-tissages-tradit
- ionnels-26951-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHRISTMAS MARKET SOCHI — Sochi\, Russia
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261228
-UID:f-christmas-market-sochi-27881-1@eventseye.impio-vault
-DESCRIPTION:New Year and Christmas gifts and decorations. Festive packaging
- . Christmas paraphernalia. Toys\, masks\, New Year's costumes. Handicrafts
- . New Year's decoration. Clothes\, Jewelry\, Clocks...\\nVenue: Grand Hote
- l Polyana\, Sochi\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-christmas-market-sochi-27881-1.html
-LOCATION:Sochi\, Russia
-URL:https://www.eventseye.com/fairs/f-christmas-market-sochi-27881-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASHION JEWELRY & ACCESSORIES ASIA — Karachi\, Pakistan
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261227
-UID:f-fashion-jewelry-accessories-asia-28159-1@eventseye.impio-vault
-DESCRIPTION:Fashion Jewelry & Accessories Asia offers a unique network and 
- business opportunities to jewellery professionals as a leading fair in jew
- ellery industry\\nVenue: Karachi Expo Centre\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-fashion-jewelry-accessories-asia-2
- 8159-1.html
-LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-fashion-jewelry-accessories-asia-2815
- 9-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHOES & BAGS ASIA — Karachi\, Pakistan
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261227
-UID:f-shoes-bags-asia-28160-1@eventseye.impio-vault
-DESCRIPTION:Pakistan's largest Bags & Footwear Trade Show. The focus of the
-  event is presentation of machinery\, materials and the equipment for manu
- facturing of footwear and leather products industries\\nVenue: Karachi Exp
- o Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-shoes-bags-asia-28160-1.html
-LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-shoes-bags-asia-28160-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TOYS & BABY PRODUCT ASIA — Karachi\, Pakistan
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261227
-UID:f-toys-baby-product-asia-28126-1@eventseye.impio-vault
-DESCRIPTION:International Toys and Baby Products Trade Fair in Pakistan. Th
- is trade show is dedicated to provide an platform to showcase and discover
-  the latest products and innovations in the Toys & Baby Products industry\
- \nVenue: Karachi Expo Centre\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-toys-baby-product-asia-28126-1.html
-LOCATION:Karachi\, Pakistan
-URL:https://www.eventseye.com/fairs/f-toys-baby-product-asia-28126-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPONADAL — Alicante\, Spain
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20270105
-UID:f-exponadal-6773-1@eventseye.impio-vault
-DESCRIPTION:Children's and Youth Leisure Exhibition. EXPONADAL is an opport
- unity to give the little ones in the house a day of family fun with activi
- ties and attractions designed for various ages and tastes\\nVenue: IFA - F
- ira Alicant\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-exponadal-6773-1.html
-LOCATION:Alicante\, Spain
-URL:https://www.eventseye.com/fairs/f-exponadal-6773-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISPO BEIJING — Beijing\, China
-DTSTART;VALUE=DATE:20270107
-DTEND;VALUE=DATE:20270110
-UID:f-ispo-beijing-8087-1@eventseye.impio-vault
-DESCRIPTION:ISPO Beijing is one of the leading professional sports trade pl
- atforms in Asia\, gathering well-known local and international brands in O
- utdoor\, Snowsports\, Running and Health & Fitness\, Textile & Technology\
- , Camping lifestyle and Urban sports\\nVenue: China National Convention Ce
- nter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- ispo-beijing-8087-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-ispo-beijing-8087-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARIZONA WEDDING SHOW (JANUARY) — Phoenix\, AZ\, USA
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-arizona-wedding-show-(january)-29462-1@eventseye.impio-vault
-DESCRIPTION:The Arizona Wedding Show is the biggest wedding and event show 
- in the region. Twice a year\, the expo features more than 200 of the valle
- y’s top wedding and event experts all in one place\\nVenue: Phoenix Conv
- ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-arizona-wedding-show-(january)-29462-1.html
-LOCATION:Phoenix\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-arizona-wedding-show-(january)-29462-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPONOIVOS LISBOA — Lisbon\, Portugal
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-exponoivos-lisboa-4555-1@eventseye.impio-vault
-DESCRIPTION:Portuguese international trade fair for wedding services and ac
- cessories. Find the best suppliers for your wedding\, be in advance of all
-  the news\, trends\, and collections\\nVenue: MEO Arena Lisboa\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-exponoivos-lisbo
- a-4555-1.html
-LOCATION:Lisbon\, Portugal
-URL:https://www.eventseye.com/fairs/f-exponoivos-lisboa-4555-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRAND SALON DU MARIAGE COLMAR — Colmar\, France
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-grand-salon-du-mariage-colmar-23087-1@eventseye.impio-vault
-DESCRIPTION:Wedding Fair of Colmar. Fashion shows of bridal dresses and cos
- tumes\, aesthetic advice\, festive meals\, entertainment\, prestigious veh
- icles\, honeymoons\, organization of ceremonies\, photographers\, jewelry.
- ..\\nVenue: Parc des Expositions de Colmar\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-grand-salon-du-mariage-colmar-23087-
- 1.html
-LOCATION:Colmar\, France
-URL:https://www.eventseye.com/fairs/f-grand-salon-du-mariage-colmar-23087-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOCHZEITSTAGE HANNOVER — Hannover\, Germany
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-hochzeitstage-hannover-18226-1@eventseye.impio-vault
-DESCRIPTION:The big wedding fair in Hannover. Here you'll find everything y
- ou need to make your big day an unforgettable experience\\nVenue: Hannover
-  Congress Centrum\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-hochzeitstage-hannover-18226-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-hochzeitstage-hannover-18226-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DES MARIÉS DE QUÉBEC — Quebec City\, QC\, Canada
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-salon-des-maries-de-quebec-17608-1@eventseye.impio-vault
-DESCRIPTION:It is the reference for weddings in Quebec\, at the ideal time 
- of year for planning More than 150 experienced exhibitors\, a recognized f
- ashion show and numerous demonstrations and tastings\\nVenue: Centre de Fo
- ires - ExpoCité\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-salon-des-maries-de-quebec-17608-1.html
-LOCATION:Quebec City\, QC\, Canada
-URL:https://www.eventseye.com/fairs/f-salon-des-maries-de-quebec-17608-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE CHARLEROI — Charleroi\, Belgium
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-salon-du-mariage-de-charleroi-26549-1@eventseye.impio-vault
-DESCRIPTION:The Cherleroi Wedding Fair offers\, for a weekend\, the possibi
- lity for all its visitors to find everything they are looking for for thei
- r wedding in one and the same place\\nVenue: Charleroi Expo\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de
- -charleroi-26549-1.html
-LOCATION:Charleroi\, Belgium
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-charleroi-26549-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE TOULOUSE — Toulouse\, France
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-salon-du-mariage-de-toulouse-29447-1@eventseye.impio-vault
-DESCRIPTION:The largest wedding fair in the Occitanie region. Wedding dress
- es\, glamorous\, classic or even daring... dragees\, announcements\, allia
- nces\, etc. But also\, groom's outfits\, cocktail dresses\, accessories...
-  3 daily parades\\nVenue: MEETT - Parc des Expositions et Centre de Conven
- tions\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -salon-du-mariage-de-toulouse-29447-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-toulouse-29447-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPRINGFIELD WEDDING & BRIDAL EXPO — Springfield\, MA\, USA
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-springfield-wedding-bridal-expo-29543-1@eventseye.impio-vault
-DESCRIPTION:Bridal expo show in New England. Wedding dresses\, bridesmaid d
- resses\, invitations\, shoes\, venues and literally all other bridal and w
- edding services imaginable\\nVenue: Better Living Center\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-springfield-wedding-br
- idal-expo-29543-1.html
-LOCATION:Springfield\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-springfield-wedding-bridal-expo-29543
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAUDICH DUSSELDORF — Dusseldorf\, Germany
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270111
-UID:f-traudich-dusseldorf-16769-1@eventseye.impio-vault
-DESCRIPTION:Wedding Fair in Dusseldorf. Live music\, delicious cuisine\, pr
- actical workshops... prepare your wedding in the best possible way! Meet a
- ll types of service providers: wedding dresses and formal wear\, bridal pa
- rty venues\, wedding rings...\\nVenue: Areal Böhler\\nFrequency: once a y
- ear\\nSource: https://www.eventseye.com/fairs/f-traudich-dusseldorf-16769-
- 1.html
-LOCATION:Dusseldorf\, Germany
-URL:https://www.eventseye.com/fairs/f-traudich-dusseldorf-16769-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRAUDICH STUTTGART — Stuttgart\, Germany
@@ -7459,6 +7571,20 @@ LOCATION:Lyon\, France
 URL:https://www.eventseye.com/fairs/f-c!print-17528-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CIFF - COPENHAGEN INTERNATIONAL FASHION FAIR — Copenhagen\, Denma
+ rk
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270205
+UID:f-ciff-copenhagen-international-fashion-fair-10444-1@eventseye.impio-vault
+DESCRIPTION:Copenhagen International Fashion Fair. CIFF has become a major 
+ Bi-annual destination for the international fashion industry\\nVenue: Bell
+ a Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fai
+ rs/f-ciff-copenhagen-international-fashion-fair-10444-1.html
+LOCATION:Copenhagen\, Denmark
+URL:https://www.eventseye.com/fairs/f-ciff-copenhagen-international-fashion
+ -fair-10444-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CTCO LYON — Lyon\, France
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
@@ -8408,6 +8534,20 @@ URL:https://www.eventseye.com/fairs/f-impressions-expo-atlantic-city-3689-1
  .html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INTERNATIONAL ISTANBUL YARN FAIR — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+UID:f-international-istanbul-yarn-fair-4198-1@eventseye.impio-vault
+DESCRIPTION:Istanbul international Yarn Fair. Organic Yarns\, Synthetic Yar
+ ns\, Fiber products\, Silk Yarns\, Polypropylene Yarns\, Hand Knitting Yar
+ ns\, Bobbins\, Spools and Reels...\\nVenue: Tüyap Fair Convention and Con
+ gress Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-international-istanbul-yarn-fair-4198-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-international-istanbul-yarn-fair-4198
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LAUNDREX INDIA EXPO — Mumbai\, India
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270320
@@ -8576,19 +8716,6 @@ DESCRIPTION:Shanghai International Hats\, Scarves\, Gloves & Apparel Access
  -22907-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-shg-expo-22907-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL ISTANBUL YARN FAIR — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270327
-UID:f-international-istanbul-yarn-fair-4198-1@eventseye.impio-vault
-DESCRIPTION:Yarn Trade Event. Cotton Yarns\, Elastic Yarns\, Wool Yarns\, P
- olyester Yarns\, Metallic Yarns\\nVenue: Tüyap Fair Convention and Congre
- ss Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-international-istanbul-yarn-fair-4198-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-international-istanbul-yarn-fair-4198
- -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISTANBUL YARN FAIR — Istanbul\, Turkey
@@ -10031,71 +10158,6 @@ URL:https://www.eventseye.com/fairs/f-chicago-collective-men-s-edition-1556
  4-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EGYPT STITCH & TEX EXPO - GARMENT PROCESSING — Cairo\, Egypt
-DTSTART;VALUE=DATE:20271202
-DTEND;VALUE=DATE:20271206
-UID:f-egypt-stitch-tex-expo-garment-processing-26725-1@eventseye.impio-vault
-DESCRIPTION:The Pan African International Exhibition for Sewing and Embroid
- ery Technologies\, Fabrics and Accessories\\nVenue: Cairo International Co
- nvention & Exhibition Centre\\nFrequency: every 2 years\\nSource: https://
- www.eventseye.com/fairs/f-egypt-stitch-tex-expo-garment-processing-26725-1
- .html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-egypt-stitch-tex-expo-garment-process
- ing-26725-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE HAIR PROJECT — Kortrijk\, Belgium
-DTSTART;VALUE=DATE:20280305
-DTEND;VALUE=DATE:20280307
-UID:f-the-hair-project-8163-1@eventseye.impio-vault
-DESCRIPTION:The professional hair community from the Benelux meets the Hair
-  Project. This is the platform for hairdressers to spot the hottest trends
- \, discover new products & concepts and seize business opportunities in di
- rect contact\\nVenue: Kortrijk Xpo\\nFrequency: every 2 years\\nSource: ht
- tps://www.eventseye.com/fairs/f-the-hair-project-8163-1.html
-LOCATION:Kortrijk\, Belgium
-URL:https://www.eventseye.com/fairs/f-the-hair-project-8163-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AGRESTE TEX — Caruaru\, Brazil
-DTSTART;VALUE=DATE:20280404
-DTEND;VALUE=DATE:20280408
-UID:f-agreste-tex-27664-1@eventseye.impio-vault
-DESCRIPTION:Trade fair for players in the textile and clothing market\, AGR
- ESTE TEX is considered the main textile and clothing fair in the Agreste r
- egion of Pernambuco\\nVenue: Polo Caruaru\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-agreste-tex-27664-1.html
-LOCATION:Caruaru\, Brazil
-URL:https://www.eventseye.com/fairs/f-agreste-tex-27664-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOÓPTICA — Madrid\, Spain
-DTSTART;VALUE=DATE:20280423
-DTEND;VALUE=DATE:20280426
-UID:f-expooptica-907-1@eventseye.impio-vault
-DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands 
- of the optical and audiology sector\, opening a more digital\, modern envi
- ronment\, with new national and international brands\, focused on fashion 
- and health\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every
-  2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ITM — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20280613
-DTEND;VALUE=DATE:20280618
-UID:f-itm-5429-1@eventseye.impio-vault
-DESCRIPTION:Turkish International Exhibition of Textile Machinery\, ITM bri
- ngs together leading textile machinery manufacturers\, global industry inv
- estors and professional visitors in Istanbul\\nVenue: Tüyap Fair Conventi
- on and Congress Center\\nFrequency: every 2 years\\nSource: https://www.ev
- entseye.com/fairs/f-itm-5429-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-itm-5429-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BELLEZA Y SALUD — Bogotá\, Colombia
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270809
@@ -10106,6 +10168,46 @@ DESCRIPTION:International Showcase for Esthetics\, Health\, Hairdressers an
  com/fairs/f-belleza-y-salud-11223-1.html
 LOCATION:Bogotá\, Colombia
 URL:https://www.eventseye.com/fairs/f-belleza-y-salud-11223-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IGT - INDO GARMENT & TEXTILE EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270807
+UID:f-igt-indo-garment-textile-expo-23052-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Garments and Textiles Machinery\, M
+ anufacturing Technology\, Materials and Services\\nVenue: Jakarta Internat
+ ional Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-igt-indo-garment-textile-expo-23052-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-igt-indo-garment-textile-expo-23052-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ILF - INDO LEATHER & FOOTWEAR EXPO — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270807
+UID:f-ilf-indo-leather-footwear-expo-10267-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Leather & Footwear Machinery\, Manu
+ facturing Technology\, Materials and Services\\nVenue: Jakarta Internation
+ al Expo (JIExpo)\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-ilf-indo-leather-footwear-expo-10267-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-ilf-indo-leather-footwear-expo-10267-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTEX SOUTH ASIA - SRI LANKA — Colombo\, Sri Lanka
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270807
+UID:f-intex-south-asia-sri-lanka-26519-1@eventseye.impio-vault
+DESCRIPTION:Intex South Asia is bringing you the best in contemporary fibre
+ s\, yarns\, apparel fabrics\, denims\, clothing accessories and allied ser
+ vices from around the world\\nVenue: BMICH (Bandaranaike Memorial Internat
+ ional Conference Hall)\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-intex-south-asia-sri-lanka-26519-1.html
+LOCATION:Colombo\, Sri Lanka
+URL:https://www.eventseye.com/fairs/f-intex-south-asia-sri-lanka-26519-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DENIM SHOW - DELHI — New Delhi\, India
@@ -10252,6 +10354,20 @@ LOCATION:Wenzhou\, China
 URL:https://www.eventseye.com/fairs/f-all-china-shoe-tech-9997-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHINA LEATHER & SHOE TECH — Wenzhou\, China
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+UID:f-china-leather-shoe-tech-6869-1@eventseye.impio-vault
+DESCRIPTION:China (Wenzhou) International Leather\, Shoe Material & Shoe Ma
+ chinery Fair. It is held in the shoe capital of China\, gathering all shoe
+ -tech benefits from local networks along with nearby industrial resources\
+ \nVenue: Wenzhou International Convention and Exhibition Center\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-china-leather-s
+ hoe-tech-6869-1.html
+LOCATION:Wenzhou\, China
+URL:https://www.eventseye.com/fairs/f-china-leather-shoe-tech-6869-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CHINA SYNTHETIC LEATHER FAIR - CSLF — Wenzhou\, China
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270823
@@ -10308,6 +10424,19 @@ URL:https://www.eventseye.com/fairs/f-chicago-collective-women-s-edition-30
  755-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CHINA HAIR EXPO — Guangzhou\, China
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-china-hair-expo-31536-1@eventseye.impio-vault
+DESCRIPTION:China International Hair Fair. An essential exhibition for the 
+ hair and hairdressing industry in China\, featuring leading products and s
+ ervices. 1000+ Exhibitors From Over 20 countries\\nVenue: China Import and
+  Export Fair Pazhou Complex\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-china-hair-expo-31536-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-china-hair-expo-31536-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPINEXPO SHANGHAI — Shanghai\, China
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270828
@@ -10318,6 +10447,21 @@ DESCRIPTION:The leading international industry sourcing exhibition dedicate
  //www.eventseye.com/fairs/f-spinexpo-shanghai-21555-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-spinexpo-shanghai-21555-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHILDHOOD + CHILDREN'S FASHION — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270829
+UID:f-childhood-children-s-fashion-20824-1@eventseye.impio-vault
+DESCRIPTION:The exhibitions 'Childhood' and 'Children's Fashion' are a uniq
+ ue platform in the Republic of Kazakhstan\, dedied to children products an
+ d fashion. The best opportunity to find new partners in the Central Asian 
+ region\\nVenue: Atakent International Exhibition Centre\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-childhood-children-s-fa
+ shion-20824-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-childhood-children-s-fashion-20824-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PREMIERE SAN ANTONIO — San Antonio\, TX\, USA
@@ -10361,6 +10505,20 @@ DESCRIPTION:The Türkiye Textile Machinery (TTM) Exhibition is an internati
 LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-ttm-turkiye-textile-machinery-interna
  tional-exhibition-32715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRENDS EXPO — Lodz\, Poland
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270910
+UID:f-trends-expo-29975-1@eventseye.impio-vault
+DESCRIPTION:Trends Expo is a key event for the fashion sector\, bringing to
+ gether industry leaders in Europe's largest apparel and textile center. An
+  opportunity to make strategic contacts\, learn about the latest trends an
+ d innovations and present collections\\nVenue: Ptak Expo Lodz\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-trends-expo-29975
+ -1.html
+LOCATION:Lodz\, Poland
+URL:https://www.eventseye.com/fairs/f-trends-expo-29975-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TTME — Tashkent\, Uzbekistan
@@ -10413,5 +10571,70 @@ DESCRIPTION:GIAPPONE IN FIERA is an event dedicated to Japanese culture tha
 LOCATION:Casale Monferrato\, Italy
 URL:https://www.eventseye.com/fairs/f-giappone-in-fiera-casale-monferrato-3
  4568-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EGYPT STITCH & TEX EXPO - GARMENT PROCESSING — Cairo\, Egypt
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271206
+UID:f-egypt-stitch-tex-expo-garment-processing-26725-1@eventseye.impio-vault
+DESCRIPTION:The Pan African International Exhibition for Sewing and Embroid
+ ery Technologies\, Fabrics and Accessories\\nVenue: Cairo International Co
+ nvention & Exhibition Centre\\nFrequency: every 2 years\\nSource: https://
+ www.eventseye.com/fairs/f-egypt-stitch-tex-expo-garment-processing-26725-1
+ .html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-egypt-stitch-tex-expo-garment-process
+ ing-26725-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE HAIR PROJECT — Kortrijk\, Belgium
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280307
+UID:f-the-hair-project-8163-1@eventseye.impio-vault
+DESCRIPTION:The professional hair community from the Benelux meets the Hair
+  Project. This is the platform for hairdressers to spot the hottest trends
+ \, discover new products & concepts and seize business opportunities in di
+ rect contact\\nVenue: Kortrijk Xpo\\nFrequency: every 2 years\\nSource: ht
+ tps://www.eventseye.com/fairs/f-the-hair-project-8163-1.html
+LOCATION:Kortrijk\, Belgium
+URL:https://www.eventseye.com/fairs/f-the-hair-project-8163-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGRESTE TEX — Caruaru\, Brazil
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280408
+UID:f-agreste-tex-27664-1@eventseye.impio-vault
+DESCRIPTION:Trade fair for players in the textile and clothing market\, AGR
+ ESTE TEX is considered the main textile and clothing fair in the Agreste r
+ egion of Pernambuco\\nVenue: Polo Caruaru\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-agreste-tex-27664-1.html
+LOCATION:Caruaru\, Brazil
+URL:https://www.eventseye.com/fairs/f-agreste-tex-27664-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOÓPTICA — Madrid\, Spain
+DTSTART;VALUE=DATE:20280423
+DTEND;VALUE=DATE:20280426
+UID:f-expooptica-907-1@eventseye.impio-vault
+DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands 
+ of the optical and audiology sector\, opening a more digital\, modern envi
+ ronment\, with new national and international brands\, focused on fashion 
+ and health\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every
+  2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITM — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280618
+UID:f-itm-5429-1@eventseye.impio-vault
+DESCRIPTION:Turkish International Exhibition of Textile Machinery\, ITM bri
+ ngs together leading textile machinery manufacturers\, global industry inv
+ estors and professional visitors in Istanbul\\nVenue: Tüyap Fair Conventi
+ on and Congress Center\\nFrequency: every 2 years\\nSource: https://www.ev
+ entseye.com/fairs/f-itm-5429-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-itm-5429-1.html
 END:VEVENT
 END:VCALENDAR

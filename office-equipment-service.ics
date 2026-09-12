@@ -89,20 +89,6 @@ LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-lario-creativa-34065-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PAPER ONE SHOW UAE — Abu Dhabi\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260924
-UID:f-paper-one-show-uae-28768-1@eventseye.impio-vault
-DESCRIPTION:International paper exhibition in the MENA region. Paper One Sh
- ow is dedicated to all kinds of paper and paper manufacturing\, paper jumb
- o rolls\, finished products\, printing\, writing\, tissue\, and hygienic p
- aper\, converters\, cartons\, paperboard\, and more\\nVenue: Abu-Dhabi Nat
- ional Exhibition Center - ADNEC\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
-LOCATION:Abu Dhabi\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-paper-one-show-uae-28768-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BIRO-EXPO — Belgrade\, Serbia
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260927
@@ -414,6 +400,20 @@ LOCATION:Sydney\, Australia
 URL:https://www.eventseye.com/fairs/f-life-in-style-sydney-15819-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IMPS INTERNATIONAL MUNICH PAPER SYMPOSIUM — Munich\, Germany
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270313
+UID:f-imps-international-munich-paper-symposium-34638-1@eventseye.impio-vault
+DESCRIPTION:This esteemed European paper symposium is of significant import
+ ance and will be conducted with simultaneous translation into both German 
+ and English\\nVenue: Westin Grand Munich\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-imps-international-munich-paper-sympos
+ ium-34638-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-imps-international-munich-paper-sympo
+ sium-34638-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LE SALON DES ACHATS HORS PRODUCTION ET DE L'ENVIRONNEMENT DE TRAVAI
  L — Paris\, France
 DTSTART;VALUE=DATE:20270316
@@ -571,6 +571,18 @@ DESCRIPTION:Trade show where retailers can source high quality products. Fa
  //www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
 LOCATION:Melbourne\, Australia
 URL:https://www.eventseye.com/fairs/f-life-instyle-melbourne-19188-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270805
+UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
+DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
+ cts in the sectors of stationery\, school supplies\, office supplies\, cra
+ fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPEREX — New Delhi\, India

@@ -824,6 +824,18 @@ LOCATION:Guangzhou\, China
 URL:https://www.eventseye.com/fairs/f-inmex-china-10006-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEHRAN LOGITRANS — Tehran\, Iran
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261221
+UID:f-tehran-logitrans-34689-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Transportation\, Logistics and Rela
+ ted Industries. Rail Expo\, Air Expo. Sea Expo. Road Expo. Urban Expo\\nVe
+ nue: Tehran Permanent Fairground\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-tehran-logitrans-34689-1.html
+LOCATION:Tehran\, Iran
+URL:https://www.eventseye.com/fairs/f-tehran-logitrans-34689-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALON DES FORMATIONS AÉRONAUTIQUES\, AUTOMOBILES\, FERROVIAIRES ET
   NAVALES & LOGISTIQUE — Paris\, France
 DTSTART;VALUE=DATE:20270116
@@ -1748,9 +1760,10 @@ DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270925
 UID:f-neva-25068-1@eventseye.impio-vault
 DESCRIPTION:International Maritime Exhibition and Conferences of Russia. Wo
- rld-wide shipping and trade\\nVenue: ExpoForum Convention and Exhibition C
- entre\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs
- /f-neva-25068-1.html
+ rld-wide shipping and trade. NEVA is the largest civil shipbuilding exhibi
+ tion in Eastern Europe and the entire post–Soviet space\\nVenue: ExpoFor
+ um Convention and Exhibition Centre\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-neva-25068-1.html
 LOCATION:St. Petersburg\, Russia
 URL:https://www.eventseye.com/fairs/f-neva-25068-1.html
 END:VEVENT
@@ -1847,6 +1860,21 @@ DESCRIPTION:BALTEXPO is the leading meeting of the maritime economy and mar
  po-10508-1.html
 LOCATION:Gdansk\, Poland
 URL:https://www.eventseye.com/fairs/f-baltexpo-10508-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IRS - INTERNATIONAL RAILWAY SUMMIT — Berlin\, Germany
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271008
+UID:f-irs-international-railway-summit-22661-1@eventseye.impio-vault
+DESCRIPTION:International Railway Summit is a meeting of the world’s key 
+ rail sector buyers and carefully selected technical experts. Buyers’ pro
+ ject requirements are matched with experts’ solutions\, which leads to 2
+ 5-minute one-to-one consultation meetings\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-irs-international-railway-summit-2266
+ 1-1.html
+LOCATION:Berlin\, Germany
+URL:https://www.eventseye.com/fairs/f-irs-international-railway-summit-2266
+ 1-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KORMARINE — Busan\, Korea South
@@ -2096,6 +2124,18 @@ LOCATION:Vigo\, Spain
 URL:https://www.eventseye.com/fairs/f-navalia-10056-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POSIDONIA — Athens\, Greece
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280610
+UID:f-posidonia-14329-1@eventseye.impio-vault
+DESCRIPTION:International Shipping Exhibition. This major gathering in the 
+ shipping calendar provides unique access to Greek and international shipow
+ ners and buyers\\nVenue: Athens Metropolitan Expo\\nFrequency: every 2 yea
+ rs\\nSource: https://www.eventseye.com/fairs/f-posidonia-14329-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-posidonia-14329-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:KOREA OCEAN EXPO — Incheon\, Korea South
 DTSTART;VALUE=DATE:20280621
 DTEND;VALUE=DATE:20280624
@@ -2120,6 +2160,20 @@ DESCRIPTION:Africa's only dedicated railways conference and exhibition. Inv
  .html
 LOCATION:Johannesburg\, South Africa
 URL:https://www.eventseye.com/fairs/f-africa-rail-12041-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ECCM — Dresden\, Germany
+DTSTART;VALUE=DATE:20280627
+DTEND;VALUE=DATE:20280701
+UID:f-eccm-632-1@eventseye.impio-vault
+DESCRIPTION:European Conference on Composite Materials. As Europe’s leadi
+ ng conference in composite materials and structures\, ECCM is a premier pl
+ atform for advancing research\, fostering innovation\, and strengthening c
+ ollaboration across academia and industry\\nVenue: Messe Dresden\\nFrequen
+ cy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-eccm-632-1.h
+ tml
+LOCATION:Dresden\, Germany
+URL:https://www.eventseye.com/fairs/f-eccm-632-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SEYCHELLES MARITIME WEEK — Victoria\, Seychelles

@@ -145,6 +145,18 @@ URL:https://www.eventseye.com/fairs/f--feria-internacional-del-medio-ambien
  te-14398-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POWER & ELEC UGANDA — Kampala\, Uganda
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260712
+UID:f-power-elec-uganda-33304-1@eventseye.impio-vault
+DESCRIPTION:Expo & congress dedicated to Power\, Energy\, Electrical\, Elec
+ tronics\, Lighting\, Renewable Energy\, Solar & related Industries in Ugan
+ da\\nVenue: UMA Exhibition Centre Lugogo\\nFrequency: unknown\\nSource: ht
+ tps://www.eventseye.com/fairs/f-power-elec-uganda-33304-1.html
+LOCATION:Kampala\, Uganda
+URL:https://www.eventseye.com/fairs/f-power-elec-uganda-33304-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WISA — Cape Town\, South Africa
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260725
@@ -1150,20 +1162,6 @@ URL:https://www.eventseye.com/fairs/f-tps-textile-printing-sustainability-c
  onference-31323-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YANTAI INTERNATIONAL NUCLEAR POWER INDUSTRY AND EQUIPMENT EXPO — 
- Yantai\, China
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260918
-UID:f-yantai-international-nuclear-power-industry-and-equipment-expo-30215-1@eventseye.impio-vault
-DESCRIPTION:China International Nuclear Power Industry and Equipment Exhibi
- tion\\nVenue: Yantai International Expo Center\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-yantai-international-nuclear-pow
- er-industry-and-equipment-expo-30215-1.html
-LOCATION:Yantai\, China
-URL:https://www.eventseye.com/fairs/f-yantai-international-nuclear-power-in
- dustry-and-equipment-expo-30215-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AEE WORLD ENERGY CONFERENCE & EXPO — Orlando\, FL\, USA
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260919
@@ -1373,6 +1371,19 @@ DESCRIPTION:UK's Largest Recycling & Waste Management Exhibition & Conferen
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-rwm-recycling-waste-management-14885-
  1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIDO LYON — Lyon\, France
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260918
+UID:f-sido-lyon-21689-1@eventseye.impio-vault
+DESCRIPTION:At SIDO Lyon\, IoT (Internet of Things)\, AI\, robotics\, and X
+ R (extended reality) converge to address major challenges facing businesse
+ s regarding productivity\, sovereignty\, and decarbonization\\nVenue: Cent
+ re de Congrès de Lyon (Cité Internationale)\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-sido-lyon-21689-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-sido-lyon-21689-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SMART CITY EXPO - POLAND — Warsaw\, Poland
@@ -1620,21 +1631,6 @@ DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
  e.com/fairs/f-empack-ghent-29092-1.html
 LOCATION:Ghent\, Belgium
 URL:https://www.eventseye.com/fairs/f-empack-ghent-29092-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERGY STORAGE SUMMIT CENTRAL EASTERN EUROPE — Warsaw\, Poland
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260924
-UID:f-energy-storage-summit-central-eastern-europe-32848-1@eventseye.impio-vault
-DESCRIPTION:The Energy Storage Summit Central Eastern Europe will bring tog
- ether key stakeholders from across the region to explore the latest trends
-  in energy storage\, with a focus on the increasing integration of energy 
- storage into regional grids\\nVenue: Warsaw Presidential Hotel\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-energy-storage-s
- ummit-central-eastern-europe-32848-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-energy-storage-summit-central-eastern
- -europe-32848-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ENLIT ASIA — Jakarta\, Indonesia
@@ -2035,6 +2031,18 @@ LOCATION:Warsaw\, Poland
 URL:https://www.eventseye.com/fairs/f-biopower-poland-33172-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ECORIENT — Beirut\, Lebanon
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261003
+UID:f-ecorient-15914-1@eventseye.impio-vault
+DESCRIPTION:International Trade Exhibition & Conference for Environmental T
+ echnologies\, Sustainability\, Alternative Energy\, Water Technology and C
+ lean Energy\\nVenue: Seaside Arena (previously BIEL)\\nFrequency: every 2 
+ years\\nSource: https://www.eventseye.com/fairs/f-ecorient-15914-1.html
+LOCATION:Beirut\, Lebanon
+URL:https://www.eventseye.com/fairs/f-ecorient-15914-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HEAT PUMP FORUM — Brussels\, Belgium
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
@@ -2190,18 +2198,46 @@ LOCATION:Santiago\, Chile
 URL:https://www.eventseye.com/fairs/f-semana-de-la-madera-31591-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INDIA INTERNATIONAL EV SHOW - PUNE — Pune\, India
+SUMMARY:INDIA BATTERY INTERNATIONAL SHOW — Pune\, India
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
-UID:f-india-international-ev-show-pune-32165-1@eventseye.impio-vault
+UID:f-india-battery-international-show-34710-1@eventseye.impio-vault
+DESCRIPTION:India's Premier Platform for Battery Technologies & Energy Stor
+ age. The India International Battery Expo is the country's premier platfor
+ m dedicated to battery technologies and energy storage solutions\\nVenue: 
+ Auto Cluster Exhibition Centre\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-india-battery-international-show-34710-1.html
+LOCATION:Pune\, India
+URL:https://www.eventseye.com/fairs/f-india-battery-international-show-3471
+ 0-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA EV INTERNATIONAL SHOW - PUNE — Pune\, India
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-india-ev-international-show-pune-32165-1@eventseye.impio-vault
 DESCRIPTION:India International EV Show. IIEV Show is India’s largest gat
  hering of the Electric Vehicles Industry\, it is coupled with the vast opp
  ortunities and potential challenges of EV development in India\\nVenue: Au
  to Cluster Exhibition Centre\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-india-international-ev-show-pune-32165-1.html
+ w.eventseye.com/fairs/f-india-ev-international-show-pune-32165-1.html
 LOCATION:Pune\, India
-URL:https://www.eventseye.com/fairs/f-india-international-ev-show-pune-3216
+URL:https://www.eventseye.com/fairs/f-india-ev-international-show-pune-3216
  5-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA SOLAR INTERNATIONAL SHOW — Pune\, India
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-india-solar-international-show-34711-1@eventseye.impio-vault
+DESCRIPTION:Trade show uniting the Renewable Energy Value Chain to Showcase
+  Cutting-Edge Solar Technologies\, Energy Storage Innovations\, and Sustai
+ nable Power Solutions\\nVenue: Auto Cluster Exhibition Centre\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-india-solar-inter
+ national-show-34711-1.html
+LOCATION:Pune\, India
+URL:https://www.eventseye.com/fairs/f-india-solar-international-show-34711-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NAEPEC — Oran\, Algeria
@@ -2309,6 +2345,21 @@ DESCRIPTION:The Industry's Leading Global Electric\, Hybrid & Plugin Hybrid
 LOCATION:Detroit\, MI\, USA
 URL:https://www.eventseye.com/fairs/f-electric-hybrid-vehicle-technology-ex
  po-north-america-26150-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERGY STORAGE SUMMIT CENTRAL EASTERN EUROPE — Warsaw\, Poland
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261008
+UID:f-energy-storage-summit-central-eastern-europe-32848-1@eventseye.impio-vault
+DESCRIPTION:The Energy Storage Summit Central Eastern Europe will bring tog
+ ether key stakeholders from across the region to explore the latest trends
+  in energy storage\, with a focus on the increasing integration of energy 
+ storage into regional grids\\nVenue: Warsaw Presidential Hotel\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-energy-storage-s
+ ummit-central-eastern-europe-32848-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-energy-storage-summit-central-eastern
+ -europe-32848-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ENERGY-SAVING. POWER EFFICIENCY. INNOVATIVE TECHNOLOGIES AND EQUIPM
@@ -2584,61 +2635,55 @@ LOCATION:Karachi\, Pakistan
 URL:https://www.eventseye.com/fairs/f-solar-pakistan-26615-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THE SYDNEY HOME SHOW — Sydney\, Australia
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261012
-UID:f-the-sydney-home-show-34003-1@eventseye.impio-vault
-DESCRIPTION:Home Decor\, Design & renovation Expo. Sydney Home Show is the 
- perfect exhibition for your new build or renovation\, from kitchens\, bath
- room products\, interiors\, outdoor\, energy saving products and more\\nVe
- nue: ICC Sydney - International Convention Centre Sydney\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-the-sydney-home-show-3
- 4003-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-the-sydney-home-show-34003-1.html
+SUMMARY:ENERGETIKA — Belgrade\, Serbia
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-energetika-8913-1@eventseye.impio-vault
+DESCRIPTION:International Energy Fair. Electric Power Production in Hydroel
+ ectric and Thermoelectric Power Plants\, Cogeneration\, Electric Power Tra
+ nsmission and Distribution Network\, Electric Power System Management...\\
+ nVenue: Belgrade Fair Grounds\\nFrequency: every 2 years\\nSource: https:/
+ /www.eventseye.com/fairs/f-energetika-8913-1.html
+LOCATION:Belgrade\, Serbia
+URL:https://www.eventseye.com/fairs/f-energetika-8913-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WEE - WORLD ENERGY EXPO — Osaka\, Japan
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
-UID:f-wee-world-energy-expo-28207-1@eventseye.impio-vault
-DESCRIPTION:A professional international event for supporting the energy in
- dustry in a high-quality communication platform for professional groups wh
- o are seeking new technologies\, new products\, or eager to exchange exper
- iences\\nVenue: Osaka International Convention Center\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-wee-world-energy-expo-282
- 07-1.html
-LOCATION:Osaka\, Japan
-URL:https://www.eventseye.com/fairs/f-wee-world-energy-expo-28207-1.html
+SUMMARY:EXO-EXPO KOREA — Seoul\, Korea South
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-exo-expo-korea-28122-1@eventseye.impio-vault
+DESCRIPTION:Korea's largest eco-friendly business platform. Government\, co
+ rporations and consumers gather to spread eco-friendly\, consumer life cul
+ ture and to promote the ecology industry\\nVenue: COEX Exhibition Center\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-exo-ex
+ po-korea-28122-1.html
+LOCATION:Seoul\, Korea South
+URL:https://www.eventseye.com/fairs/f-exo-expo-korea-28122-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HAUS | BAU | ENERGIE - KÜNZELSAU — Künzelsau\, Germany
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261012
-UID:f-haus-bau-energie-kunzelsau-29592-1@eventseye.impio-vault
-DESCRIPTION:The fair is tailor-made for demanding and quality-loving homeow
- ners or those who want to become one. With us you will find sensual design
- \, high-quality materials\, modern shapes and fresh colors as well as warm
- ing heating or cooling insulation\\nVenue: Carmen Würth Forum\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-haus-bau-energie
- -kunzelsau-29592-1.html
-LOCATION:Künzelsau\, Germany
-URL:https://www.eventseye.com/fairs/f-haus-bau-energie-kunzelsau-29592-1.ht
- ml
+SUMMARY:FIGAS & VEHIGAS — Lima\, Peru
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-figas-vehigas-7032-1@eventseye.impio-vault
+DESCRIPTION:"FIGAS & VEHIGAS"\, the International Tradeshow for the Gas Ind
+ ustry is the largest Event in Perú to sell Equipment\, Supplies and Servi
+ ces for the Gas Industry\, including Industrial\, Residential and Vehicula
+ r\\nVenue: Centro de Exposiciones Jockey\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
+LOCATION:Lima\, Peru
+URL:https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WPC ENERGY CONGRESS — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261016
-UID:f-wpc-energy-congress-7701-1@eventseye.impio-vault
-DESCRIPTION:The WPC Energy Congress provides a neutral and inclusive platfo
- rm to debate and define realistic\, workable paths to a net zero future. T
- he event brings together thought leaders from across the global energy ind
- ustry\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequ
- ency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-wpc-energy
- -congress-7701-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-wpc-energy-congress-7701-1.html
+SUMMARY:POWEREXPO ALMATY — Almaty\, Kazakhstan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+UID:f-powerexpo-almaty-3941-1@eventseye.impio-vault
+DESCRIPTION:Kazakhstan International Energy\, Electrical Equipment and Mach
+ ine Building Exhibition\\nVenue: Atakent International Exhibition Centre\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-powere
+ xpo-almaty-3941-1.html
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.eventseye.com/fairs/f-powerexpo-almaty-3941-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROENERGY SOUTH-EAST EUROPE ROMANIA — Timisoara\, Romania
@@ -3168,32 +3213,61 @@ LOCATION:Utrecht\, Netherlands
 URL:https://www.eventseye.com/fairs/f-logistica-14055-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POWER & ALTERNATIVE ENERGY ASIA - LAHORE — Lahore\, Pakistan
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261106
-UID:f-power-alternative-energy-asia-lahore-28143-1@eventseye.impio-vault
-DESCRIPTION:Power & Alternative Energy International Trade Show. The Power 
- & Alternative Energy Asia Exhibition covers in Pakistan power generation\,
-  transmission and distribution\, development of newer sources of energy sa
- ving technologies\\nVenue: Expo Centre Lahore\\nFrequency: every 2 years\\
- nSource: https://www.eventseye.com/fairs/f-power-alternative-energy-asia-l
- ahore-28143-1.html
-LOCATION:Lahore\, Pakistan
-URL:https://www.eventseye.com/fairs/f-power-alternative-energy-asia-lahore-
- 28143-1.html
+SUMMARY:THE SYDNEY HOME SHOW — Sydney\, Australia
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+UID:f-the-sydney-home-show-34003-1@eventseye.impio-vault
+DESCRIPTION:Home Decor\, Design & renovation Expo. Sydney Home Show is the 
+ perfect exhibition for your new build or renovation\, from kitchens\, bath
+ room products\, interiors\, outdoor\, energy saving products and more\\nVe
+ nue: ICC Sydney - International Convention Centre Sydney\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-the-sydney-home-show-3
+ 4003-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-the-sydney-home-show-34003-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PV MODULETECH EUROPE — Malaga\, Spain
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261105
-UID:f-pv-moduletech-europe-32902-1@eventseye.impio-vault
-DESCRIPTION:PV ModuleTech Europe is a conference dedicated to the U.S. util
- ity scale solar sector. The event will gather the key stakeholders from so
- lar developers\, solar asset owners and investors\, PV manufacturing\, pol
- icy-making...\\nVenue: NH Malaga\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-pv-moduletech-europe-32902-1.html
-LOCATION:Malaga\, Spain
-URL:https://www.eventseye.com/fairs/f-pv-moduletech-europe-32902-1.html
+SUMMARY:WEE - WORLD ENERGY EXPO — Osaka\, Japan
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261011
+UID:f-wee-world-energy-expo-28207-1@eventseye.impio-vault
+DESCRIPTION:A professional international event for supporting the energy in
+ dustry in a high-quality communication platform for professional groups wh
+ o are seeking new technologies\, new products\, or eager to exchange exper
+ iences\\nVenue: Osaka International Convention Center\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-wee-world-energy-expo-282
+ 07-1.html
+LOCATION:Osaka\, Japan
+URL:https://www.eventseye.com/fairs/f-wee-world-energy-expo-28207-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAUS | BAU | ENERGIE - KÜNZELSAU — Künzelsau\, Germany
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+UID:f-haus-bau-energie-kunzelsau-29592-1@eventseye.impio-vault
+DESCRIPTION:The fair is tailor-made for demanding and quality-loving homeow
+ ners or those who want to become one. With us you will find sensual design
+ \, high-quality materials\, modern shapes and fresh colors as well as warm
+ ing heating or cooling insulation\\nVenue: Carmen Würth Forum\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-haus-bau-energie
+ -kunzelsau-29592-1.html
+LOCATION:Künzelsau\, Germany
+URL:https://www.eventseye.com/fairs/f-haus-bau-energie-kunzelsau-29592-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPC ENERGY CONGRESS — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261016
+UID:f-wpc-energy-congress-7701-1@eventseye.impio-vault
+DESCRIPTION:The WPC Energy Congress provides a neutral and inclusive platfo
+ rm to debate and define realistic\, workable paths to a net zero future. T
+ he event brings together thought leaders from across the global energy ind
+ ustry\\nVenue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequ
+ ency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-wpc-energy
+ -congress-7701-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-wpc-energy-congress-7701-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CIIF - SHANGHAI INTERNATIONAL INDUSTRY FAIR — Shanghai\, China
@@ -3826,55 +3900,32 @@ LOCATION:Belgrade\, Serbia
 URL:https://www.eventseye.com/fairs/f-ecofair-34589-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ENERGETIKA — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-energetika-8913-1@eventseye.impio-vault
-DESCRIPTION:International Energy Fair. Electric Power Production in Hydroel
- ectric and Thermoelectric Power Plants\, Cogeneration\, Electric Power Tra
- nsmission and Distribution Network\, Electric Power System Management...\\
- nVenue: Belgrade Fair Grounds\\nFrequency: every 2 years\\nSource: https:/
- /www.eventseye.com/fairs/f-energetika-8913-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-energetika-8913-1.html
+SUMMARY:POWER & ALTERNATIVE ENERGY ASIA - LAHORE — Lahore\, Pakistan
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261106
+UID:f-power-alternative-energy-asia-lahore-28143-1@eventseye.impio-vault
+DESCRIPTION:Power & Alternative Energy International Trade Show. The Power 
+ & Alternative Energy Asia Exhibition covers in Pakistan power generation\,
+  transmission and distribution\, development of newer sources of energy sa
+ ving technologies\\nVenue: Expo Centre Lahore\\nFrequency: every 2 years\\
+ nSource: https://www.eventseye.com/fairs/f-power-alternative-energy-asia-l
+ ahore-28143-1.html
+LOCATION:Lahore\, Pakistan
+URL:https://www.eventseye.com/fairs/f-power-alternative-energy-asia-lahore-
+ 28143-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXO-EXPO KOREA — Seoul\, Korea South
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-exo-expo-korea-28122-1@eventseye.impio-vault
-DESCRIPTION:Korea's largest eco-friendly business platform. Government\, co
- rporations and consumers gather to spread eco-friendly\, consumer life cul
- ture and to promote the ecology industry\\nVenue: COEX Exhibition Center\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-exo-ex
- po-korea-28122-1.html
-LOCATION:Seoul\, Korea South
-URL:https://www.eventseye.com/fairs/f-exo-expo-korea-28122-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FIGAS & VEHIGAS — Lima\, Peru
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-figas-vehigas-7032-1@eventseye.impio-vault
-DESCRIPTION:"FIGAS & VEHIGAS"\, the International Tradeshow for the Gas Ind
- ustry is the largest Event in Perú to sell Equipment\, Supplies and Servi
- ces for the Gas Industry\, including Industrial\, Residential and Vehicula
- r\\nVenue: Centro de Exposiciones Jockey\\nFrequency: every 2 years\\nSour
- ce: https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
-LOCATION:Lima\, Peru
-URL:https://www.eventseye.com/fairs/f-figas-vehigas-7032-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWEREXPO ALMATY — Almaty\, Kazakhstan
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261024
-UID:f-powerexpo-almaty-3941-1@eventseye.impio-vault
-DESCRIPTION:Kazakhstan International Energy\, Electrical Equipment and Mach
- ine Building Exhibition\\nVenue: Atakent International Exhibition Centre\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-powere
- xpo-almaty-3941-1.html
-LOCATION:Almaty\, Kazakhstan
-URL:https://www.eventseye.com/fairs/f-powerexpo-almaty-3941-1.html
+SUMMARY:PV MODULETECH EUROPE — Malaga\, Spain
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261105
+UID:f-pv-moduletech-europe-32902-1@eventseye.impio-vault
+DESCRIPTION:PV ModuleTech Europe is a conference dedicated to the U.S. util
+ ity scale solar sector. The event will gather the key stakeholders from so
+ lar developers\, solar asset owners and investors\, PV manufacturing\, pol
+ icy-making...\\nVenue: NH Malaga\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-pv-moduletech-europe-32902-1.html
+LOCATION:Malaga\, Spain
+URL:https://www.eventseye.com/fairs/f-pv-moduletech-europe-32902-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SMART CITY EXPO — Barcelona\, Spain
@@ -4101,6 +4152,19 @@ DESCRIPTION:Marjolaine is the largest French trade fair dedicated to organi
  ://www.eventseye.com/fairs/f-marjolaine-10527-1.html
 LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-marjolaine-10527-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE&UP GENÈVE — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-re-up-geneve-34721-1@eventseye.impio-vault
+DESCRIPTION:RE&UP GENÈVE is the trade show dedicated to sustainable consum
+ ption. It promotes upcycling—the practice of reclaiming used items and t
+ ransforming them into high-quality pieces\\nVenue: Palexpo\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-re-up-geneve-34721-1
+ .html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-re-up-geneve-34721-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIGHER ED FACILITIES FORUM — San Antonio\, TX\, USA
@@ -5854,6 +5918,491 @@ URL:https://www.eventseye.com/fairs/f-nepal-mobile-international-expo-30093
  -1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POOLTECH POLAND EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-pooltech-poland-expo-34627-1@eventseye.impio-vault
+DESCRIPTION:PoolTech Poland Expo is a key industry event showcasing swimmin
+ g pool technologies\, water treatment and filtration systems\, automation\
+ , pumps\, ventilation systems\, and pool area equipment\\nVenue: Ptak Wars
+ aw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-pooltech-poland-expo-34627-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-pooltech-poland-expo-34627-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLAR ENERGY EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-solar-energy-expo-29998-1@eventseye.impio-vault
+DESCRIPTION:Polish Renewable Energy Sources Industry Trade Fair. The fair i
+ s an opportunity to meet specialists and establish business contacts\, as 
+ well as enable the promotion and sale of equipment in the field of solar\,
+  wind\, water\, geothermal and biomass energy\\nVenue: Ptak Warsaw Expo\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-solar-e
+ nergy-expo-29998-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-solar-energy-expo-29998-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WFES WATER — Abu Dhabi\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-wfes-water-20005-1@eventseye.impio-vault
+DESCRIPTION:WFES Water is the ideal platform to introduce technologies and 
+ products optimizing water production\, usage and conservation to the Middl
+ e East and North Africa market\\nVenue: Abu-Dhabi National Exhibition Cent
+ er - ADNEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-wfes-water-20005-1.html
+LOCATION:Abu Dhabi\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-wfes-water-20005-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD FUTURE ENERGY SUMMIT — Abu Dhabi\, UAE - United Arab Emirat
+ es
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-world-future-energy-summit-724-1@eventseye.impio-vault
+DESCRIPTION:Renewable Energy and Environment Industry International Trade S
+ how. The "World Future Energy Summit" is a global think tank\, powered by 
+ global innovation\, pioneering minds and groundbreaking insights\\nVenue: 
+ Abu-Dhabi National Exhibition Center - ADNEC\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-world-future-energy-summit-724-1.h
+ tml
+LOCATION:Abu Dhabi\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-world-future-energy-summit-724-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD FUTURE ENVIRONMENT EXHIBITION — Abu Dhabi\, UAE - United Ar
+ ab Emirates
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270115
+UID:f-world-future-environment-exhibition-12700-1@eventseye.impio-vault
+DESCRIPTION:Exhibition & Conference focused on comprehensive solutions in t
+ he environmental equipment\, technology and services sectors\\nVenue: Abu-
+ Dhabi National Exhibition Center - ADNEC\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-world-future-environment-exhibition-12
+ 700-1.html
+LOCATION:Abu Dhabi\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-world-future-environment-exhibition-1
+ 2700-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - NORTH AMERICA — Hou
+ ston\, TX\, USA
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+UID:f-carbon-capture-technology-conference-expo-north-america-31398-1@eventseye.impio-vault
+DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
+ ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
+ ansition to a net-zero carbon economy\\nVenue: NRG Center\\nFrequency: eve
+ ry 2 years\\nSource: https://www.eventseye.com/fairs/f-carbon-capture-tech
+ nology-conference-expo-north-america-31398-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
+ expo-north-america-31398-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA ENERGY SUMMIT & EXHIBITION — Beijing\, China
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+UID:f-china-energy-summit-exhibition-30956-1@eventseye.impio-vault
+DESCRIPTION:China Energy Summit & Exhibition serves as the annual destinati
+ on for the energy value chain from China and across the world to meet\, en
+ gage\, and advance the industry towards carbon neutrality and energy secur
+ ity\\nVenue: China National Convention Center\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-china-energy-summit-exhibition-30
+ 956-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-china-energy-summit-exhibition-30956-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYDROGEN TECHNOLOGY EXPO - NORTH AMERICA — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+UID:f-hydrogen-technology-expo-north-america-31399-1@eventseye.impio-vault
+DESCRIPTION:Hydrogen Technology Conference & Expo is North America’s must
+ -attend conference and exhibition that is exclusively dedicated to discuss
+ ing advanced technologies for the hydrogen and fuel cell industry\\nVenue:
+  NRG Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
+ /fairs/f-hydrogen-technology-expo-north-america-31399-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-north-americ
+ a-31399-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAUS | BAU | ENERGIE - DONAUESCHINGEN — Donaueschingen\, Germany
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+UID:f-haus-bau-energie-donaueschingen-29579-1@eventseye.impio-vault
+DESCRIPTION:The fair is tailor-made for demanding and quality-loving homeow
+ ners or those who want to become one. With us you will find sensual design
+ \, high-quality materials\, modern shapes and fresh colors as well as warm
+ ing heating or cooling insulation\\nVenue: Donauhalle\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-haus-bau-energie-donauesc
+ hingen-29579-1.html
+LOCATION:Donaueschingen\, Germany
+URL:https://www.eventseye.com/fairs/f-haus-bau-energie-donaueschingen-29579
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAUSBAU + ENERGIESPAREN TULLN — Tulln\, Austria
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+UID:f-hausbau-energiesparen-tulln-23582-1@eventseye.impio-vault
+DESCRIPTION:Building & Energy Efficiency Show in eastern Austria. 320 speci
+ alist exhibitors present the complete range from all areas of private hous
+ e building: building & conversion\, living & furnishing\, energy saving & 
+ heating technology\\nVenue: Messe Tulln\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-hausbau-energiesparen-tulln-23582-1.htm
+ l
+LOCATION:Tulln\, Austria
+URL:https://www.eventseye.com/fairs/f-hausbau-energiesparen-tulln-23582-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INNATEX — Hofheim\, Germany
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270119
+UID:f-innatex-14338-1@eventseye.impio-vault
+DESCRIPTION:International Fair for Natural and Organic Textiles. INNATEX is
+  the international trade fair for sustainable textiles that oﬀ ers a uni
+ que sales and communication platform\\nVenue: Messecenter Rhein-Main\\nFre
+ quency: twice a year\\nSource: https://www.eventseye.com/fairs/f-innatex-1
+ 4338-1.html
+LOCATION:Hofheim\, Germany
+URL:https://www.eventseye.com/fairs/f-innatex-14338-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POWER-GEN INTERNATIONAL — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270122
+UID:f-power-gen-international-2164-1@eventseye.impio-vault
+DESCRIPTION:International Meeting of Electric Power Producers\, Independent
+  Power Producers\, Co Generation Plants\, Waste-to Energy Plants\\nVenue: 
+ Salt Palace Convention Center\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-power-gen-international-2164-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-power-gen-international-2164-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AERO-ENGINES AMERICA — Scottsdale\, AZ\, USA
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-aero-engines-america-30676-1@eventseye.impio-vault
+DESCRIPTION:Aero-Engines America is a two day conference attracting senior 
+ engine attendees. This leading event is dedicated to the trends and issues
+  related to the region’s aero engine community\, gathering stakeholders 
+ from across the value chain\\nVenue: Westin Kierland Resort\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-aero-engines-americ
+ a-30676-1.html
+LOCATION:Scottsdale\, AZ\, USA
+URL:https://www.eventseye.com/fairs/f-aero-engines-america-30676-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COLOMBIATEX DE LAS AMÉRICAS — Medellin\, Colombia
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-colombiatex-de-las-americas-13974-1@eventseye.impio-vault
+DESCRIPTION:International textile and clothing exhibition in Quelle\, highl
+ ighting sustainable practices in the sector\\nVenue: Plaza Mayor Medellín
+  Convenciones y Exposiciones\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-colombiatex-de-las-americas-13974-1.html
+LOCATION:Medellin\, Colombia
+URL:https://www.eventseye.com/fairs/f-colombiatex-de-las-americas-13974-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONGRÈS ATEC ITS FRANCE\, LES RENCONTRES DE LA MOBILITÉ INTELLIGE
+ NTE — Montrouge\, France
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270121
+UID:f-congres-atec-its-france-les-rencontres-de-la-mobilite-intelligente-21422-1@eventseye.impio-vault
+DESCRIPTION:Congress and expo bringing together the actors of intelligent m
+ obility\\nVenue: Le Beffroi de Montrouge\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontres
+ -de-la-mobilite-intelligente-21422-1.html
+LOCATION:Montrouge\, France
+URL:https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontre
+ s-de-la-mobilite-intelligente-21422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPOBIOGAZ — Lyon\, France
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-expobiogaz-16367-1@eventseye.impio-vault
+DESCRIPTION:Biogas exhibition and congress. Discover the offerings of exhib
+ itors presenting their solutions and innovations for methanization\, power
+ -to-gas\, pyrogification\, injection\, cogeneration\, mobility & bioNGV. C
+ onferences\, workshops\, Agricultural Villag\\nVenue: Eurexpo\\nFrequency:
+  every 2 years\\nSource: https://www.eventseye.com/fairs/f-expobiogaz-1636
+ 7-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-expobiogaz-16367-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYVOLUTION PARIS — Paris\, France
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-hyvolution-paris-33767-1@eventseye.impio-vault
+DESCRIPTION:Hyvolution brings together all the key players in the hydrogen 
+ sector. It focuses on business opportunities\, project implementation and 
+ the creation of new hydrogen ecosystems\, all within an international cont
+ ext\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-hyvolution-paris-33767-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-hyvolution-paris-33767-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPEN ENERGIES — Paris\, France
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-open-energies-33769-1@eventseye.impio-vault
+DESCRIPTION:Smart Energy Forum. Open Energies brings together producers\, r
+ enewable energy distributors\, integrators\, network operators\, and decis
+ ion-makers around a common ambition: to make energy smarter and more susta
+ inable\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-open-energies-33769-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-open-energies-33769-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CONFERENCE OF U.S. MAYORS — Washington D.C.\, USA
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270123
+UID:f-conference-of-u.s.-mayors-17391-1@eventseye.impio-vault
+DESCRIPTION:Conference of U.S. Mayors. The primary purpose of this meeting 
+ is to engage with the White House\, the current administration\, and Congr
+ ess and to discuss the priorities of America’s mayors\\nFrequency: twice
+  a year\\nSource: https://www.eventseye.com/fairs/f-conference-of-u.s.-may
+ ors-17391-1.html
+LOCATION:Washington D.C.\, USA
+URL:https://www.eventseye.com/fairs/f-conference-of-u.s.-mayors-17391-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOW CARBONE AGRICULTURE — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+UID:f-low-carbone-agriculture-31001-1@eventseye.impio-vault
+DESCRIPTION:"Low Carbone Agriculture" is showcasing low carbon practices\, 
+ technology and energy solutions for a profitable & sustainable farming fut
+ ure\\nVenue: National Exhibition Centre\\nFrequency: once a year\\nSource:
+  https://www.eventseye.com/fairs/f-low-carbone-agriculture-31001-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-low-carbone-agriculture-31001-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VERKOSTO - ELECTRICITY NETWORKS — Tampere\, Finland
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+UID:f-verkosto-electricity-networks-11865-1@eventseye.impio-vault
+DESCRIPTION:Professional Trade Fair for Electricity and Information Network
+ s. The Verkosto Trade Fair and Hydrogen Summit & Expo brings together over
+  8\, 500 professionals from the energy\, telecommunications\, and hydrogen
+  sectors\\nVenue: Tampereen Messu\\nFrequency: every 2 years\\nSource: htt
+ ps://www.eventseye.com/fairs/f-verkosto-electricity-networks-11865-1.html
+LOCATION:Tampere\, Finland
+URL:https://www.eventseye.com/fairs/f-verkosto-electricity-networks-11865-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WASHINGTON AUTO SHOW — Washington D.C.\, USA
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270201
+UID:f-washington-auto-show-20284-1@eventseye.impio-vault
+DESCRIPTION:Washington Auto Show. Discover the future of transportation as 
+ innovations in electric technologies take center stage\\nVenue: Walter E. 
+ Washington Convention Center\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-washington-auto-show-20284-1.html
+LOCATION:Washington D.C.\, USA
+URL:https://www.eventseye.com/fairs/f-washington-auto-show-20284-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CLEANTECH FORUM - NORTH AMERICA — San Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+UID:f-cleantech-forum-north-america-7366-1@eventseye.impio-vault
+DESCRIPTION:CleanTech Forum is a great opportunity to connect and learn fro
+ m the world’s leading authority on cleantech innovation\\nVenue: San Die
+ go Mission Bay Resort\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-cleantech-forum-north-america-7366-1.html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-cleantech-forum-north-america-7366-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE+ HAWAII — Honolulu\, HI\, USA
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+UID:f-re-hawaii-33252-1@eventseye.impio-vault
+DESCRIPTION:RE+ RE+ Hawaii attracts energy professionals from across the so
+ lar and storage markets each year to facilitate business and connections\\
+ nVenue: Alohilani Resort\, Waikiki Beach\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
+LOCATION:Honolulu\, HI\, USA
+URL:https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECYCLING SOLUTIONS MOSCOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270130
+UID:f-recycling-solutions-moscow-29816-1@eventseye.impio-vault
+DESCRIPTION:RECYCLING SOLUTIONS is the russian industry highlighter for inn
+ ovations and developments into the circular economy: the russian plastics 
+ industry and the related waste management market\\nVenue: Crocus-Expo IEC\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-recyc
+ ling-solutions-moscow-29816-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-recycling-solutions-moscow-29816-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWT WASTEWATER — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+UID:f-wwt-wastewater-22882-1@eventseye.impio-vault
+DESCRIPTION:Conference & Exhibition of wastewater-specific case studies\, i
+ nnovation and thought-leadership\\nVenue: National Exhibition Centre\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-wwt-wastew
+ ater-22882-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-wwt-wastewater-22882-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CARREFOUR DES GESTIONS LOCALES DE L'EAU — Rennes\, France
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-carrefour-des-gestions-locales-de-l-eau-34083-1@eventseye.impio-vault
+DESCRIPTION:The "Local Water Management Forum" brings together all public a
+ nd private stakeholders in the water sector. It features over 100 hours of
+  conferences\, roundtables\, and exclusive interviews\\nVenue: Parc-Expo d
+ e Rennes-Aéroport\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-carrefour-des-gestions-locales-de-l-eau-34083-1.html
+LOCATION:Rennes\, France
+URL:https://www.eventseye.com/fairs/f-carrefour-des-gestions-locales-de-l-e
+ au-34083-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMPACK ZÜRICH — Zurich\, Switzerland
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-empack-zurich-21336-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
+ s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
+ and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
+ e: Ferienmesse Zürich\\nFrequency: every 2 years\\nSource: https://www.ev
+ entseye.com/fairs/f-empack-zurich-21336-1.html
+LOCATION:Zurich\, Switzerland
+URL:https://www.eventseye.com/fairs/f-empack-zurich-21336-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRAMTIDENS HÄLSA - OCH SJUKVARD — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-framtidens-halsa-och-sjukvard-31883-1@eventseye.impio-vault
+DESCRIPTION:FRAMTIDENS LIVSMEDEL is the largest trade fair in Sweden for th
+ e entire food industry. Focusing on Innovation\, Sustainability and Health
+ \, it is held in parallel with FOOD PRODUCTION & FOODTECH\\nVenue: Kista M
+ ässan\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-framtidens-halsa-och-sjukvard-31883-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-framtidens-halsa-och-sjukvard-31883-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTUREBUILD BELGIUM — Brussels\, Belgium
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-futurebuild-belgium-31861-1@eventseye.impio-vault
+DESCRIPTION:Brussels construction fair\, focused on energy saving and emiss
+ ions reduction. Real estate developers\, architects\, engineers\, construc
+ tion materials distributors\, entrepreneurs... meet\\nVenue: Brussels Exhi
+ bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-futurebuild-belgium-31861-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-futurebuild-belgium-31861-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERSOLUTION — Ghent\, Belgium
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-intersolution-13190-1@eventseye.impio-vault
+DESCRIPTION:InterSolution is the leading exhibition for solar energy in the
+  Benelux. Leading suppliers from all over Europe present their latest prod
+ ucts in solar panels\, energy storage\, mounting and control systems\, sof
+ tware and monitoring\\nVenue: Flanders Expo\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-intersolution-13190-1.html
+LOCATION:Ghent\, Belgium
+URL:https://www.eventseye.com/fairs/f-intersolution-13190-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KLIMAHOUSE — Bolzano\, Italy
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270131
+UID:f-klimahouse-12901-1@eventseye.impio-vault
+DESCRIPTION:Italy's international exhibition for resource- and energy-effic
+ ient construction. Klimahouse creates a space for innovation\, startups\, 
+ and all those who believe that good construction is synonymous with a good
+  life\\nVenue: Fiera Bolzano\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-klimahouse-12901-1.html
+LOCATION:Bolzano\, Italy
+URL:https://www.eventseye.com/fairs/f-klimahouse-12901-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KLIMAMOBILITY — Bolzano\, Italy
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270131
+UID:f-klimamobility-19850-1@eventseye.impio-vault
+DESCRIPTION:Klimamobility is the main conference in South Tyrol dedicated t
+ o sustainable mobility\\nVenue: Fiera Bolzano\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-klimamobility-19850-1.html
+LOCATION:Bolzano\, Italy
+URL:https://www.eventseye.com/fairs/f-klimamobility-19850-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LÖSNINGAR FÖR OFFENTLIG SEKTOR — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270129
+UID:f-losningar-for-offentlig-sektor-31889-1@eventseye.impio-vault
+DESCRIPTION:The nordic region leading exhibition\, conference and meeting p
+ lace for public sector innovations. Sustainability and resilience\, AI and
+  digital sovereignty\, Future skills supply\, Innovation\, business develo
+ pment & future prospects in the public sector\\nVenue: Kista Mässan\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-losningar-
+ for-offentlig-sektor-31889-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-losningar-for-offentlig-sektor-31889-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDIA ENERGY WEEK — Kolkata\, India
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+UID:f-india-energy-week-29154-1@eventseye.impio-vault
+DESCRIPTION:India Energy Week is the leading global platform for innovation
+ \, ideas and investment to accelerate the world’s energy transition in a
+  secure and sustainable way\\nVenue: New Town Eco Park\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-india-energy-week-29154-
+ 1.html
+LOCATION:Kolkata\, India
+URL:https://www.eventseye.com/fairs/f-india-energy-week-29154-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ERA — Oran\, Algeria
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270204
+UID:f-era-15801-1@eventseye.impio-vault
+DESCRIPTION:Renewable Energies\, clean energies and sustainable development
+  International Exhibition. The Algerian meeting of the energy transition a
+ nd the energies of the future\\nVenue: Centre de Conventions Mohamed Benah
+ med\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-e
+ ra-15801-1.html
+LOCATION:Oran\, Algeria
+URL:https://www.eventseye.com/fairs/f-era-15801-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RE+ NORTHEAST — Boston\, MA\, USA
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
@@ -6494,489 +7043,206 @@ LOCATION:Lucerne\, Switzerland
 URL:https://www.eventseye.com/fairs/f-bauen-wohnen-luzern-4428-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POOLTECH POLAND EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-pooltech-poland-expo-34627-1@eventseye.impio-vault
-DESCRIPTION:PoolTech Poland Expo is a key industry event showcasing swimmin
- g pool technologies\, water treatment and filtration systems\, automation\
- , pumps\, ventilation systems\, and pool area equipment\\nVenue: Ptak Wars
- aw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-pooltech-poland-expo-34627-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-pooltech-poland-expo-34627-1.html
+SUMMARY:VEGETARIAN FOOD ASIA — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270301
+UID:f-vegetarian-food-asia-21265-1@eventseye.impio-vault
+DESCRIPTION:Vegetarian Food Asia is the largest vegetarian and green living
+  exhibition in Hong Kong. It offers a 360-degree coverage of green and hea
+ lthy living\, breaking the boundaries of vegetarianism\\nVenue: Hong Kong 
+ Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-vegetarian-food-asia-21265-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-vegetarian-food-asia-21265-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SOLAR ENERGY EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-solar-energy-expo-29998-1@eventseye.impio-vault
-DESCRIPTION:Polish Renewable Energy Sources Industry Trade Fair. The fair i
- s an opportunity to meet specialists and establish business contacts\, as 
- well as enable the promotion and sale of equipment in the field of solar\,
-  wind\, water\, geothermal and biomass energy\\nVenue: Ptak Warsaw Expo\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-solar-e
- nergy-expo-29998-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-solar-energy-expo-29998-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WFES WATER — Abu Dhabi\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-wfes-water-20005-1@eventseye.impio-vault
-DESCRIPTION:WFES Water is the ideal platform to introduce technologies and 
- products optimizing water production\, usage and conservation to the Middl
- e East and North Africa market\\nVenue: Abu-Dhabi National Exhibition Cent
- er - ADNEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-wfes-water-20005-1.html
-LOCATION:Abu Dhabi\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-wfes-water-20005-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD FUTURE ENERGY SUMMIT — Abu Dhabi\, UAE - United Arab Emirat
- es
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-world-future-energy-summit-724-1@eventseye.impio-vault
-DESCRIPTION:Renewable Energy and Environment Industry International Trade S
- how. The "World Future Energy Summit" is a global think tank\, powered by 
- global innovation\, pioneering minds and groundbreaking insights\\nVenue: 
- Abu-Dhabi National Exhibition Center - ADNEC\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-world-future-energy-summit-724-1.h
- tml
-LOCATION:Abu Dhabi\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-world-future-energy-summit-724-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD FUTURE ENVIRONMENT EXHIBITION — Abu Dhabi\, UAE - United Ar
- ab Emirates
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270115
-UID:f-world-future-environment-exhibition-12700-1@eventseye.impio-vault
-DESCRIPTION:Exhibition & Conference focused on comprehensive solutions in t
- he environmental equipment\, technology and services sectors\\nVenue: Abu-
- Dhabi National Exhibition Center - ADNEC\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-world-future-environment-exhibition-12
- 700-1.html
-LOCATION:Abu Dhabi\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-world-future-environment-exhibition-1
- 2700-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARBON CAPTURE TECHNOLOGY CONFERENCE & EXPO - NORTH AMERICA — Hou
- ston\, TX\, USA
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270115
-UID:f-carbon-capture-technology-conference-expo-north-america-31398-1@eventseye.impio-vault
-DESCRIPTION:Carbon Capture Technology Expo is dedicated to discussing the i
- ncreasing role that Carbon Capture\, Utilization & Storage will play in tr
- ansition to a net-zero carbon economy\\nVenue: NRG Center\\nFrequency: eve
- ry 2 years\\nSource: https://www.eventseye.com/fairs/f-carbon-capture-tech
- nology-conference-expo-north-america-31398-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-carbon-capture-technology-conference-
- expo-north-america-31398-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA ENERGY SUMMIT & EXHIBITION — Beijing\, China
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270116
-UID:f-china-energy-summit-exhibition-30956-1@eventseye.impio-vault
-DESCRIPTION:China Energy Summit & Exhibition serves as the annual destinati
- on for the energy value chain from China and across the world to meet\, en
- gage\, and advance the industry towards carbon neutrality and energy secur
- ity\\nVenue: China National Convention Center\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-china-energy-summit-exhibition-30
- 956-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-china-energy-summit-exhibition-30956-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYDROGEN TECHNOLOGY EXPO - NORTH AMERICA — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20270113
-DTEND;VALUE=DATE:20270115
-UID:f-hydrogen-technology-expo-north-america-31399-1@eventseye.impio-vault
-DESCRIPTION:Hydrogen Technology Conference & Expo is North America’s must
- -attend conference and exhibition that is exclusively dedicated to discuss
- ing advanced technologies for the hydrogen and fuel cell industry\\nVenue:
-  NRG Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com
- /fairs/f-hydrogen-technology-expo-north-america-31399-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-hydrogen-technology-expo-north-americ
- a-31399-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HAUS | BAU | ENERGIE - DONAUESCHINGEN — Donaueschingen\, Germany
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270118
-UID:f-haus-bau-energie-donaueschingen-29579-1@eventseye.impio-vault
-DESCRIPTION:The fair is tailor-made for demanding and quality-loving homeow
- ners or those who want to become one. With us you will find sensual design
- \, high-quality materials\, modern shapes and fresh colors as well as warm
- ing heating or cooling insulation\\nVenue: Donauhalle\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-haus-bau-energie-donauesc
- hingen-29579-1.html
-LOCATION:Donaueschingen\, Germany
-URL:https://www.eventseye.com/fairs/f-haus-bau-energie-donaueschingen-29579
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HAUSBAU + ENERGIESPAREN TULLN — Tulln\, Austria
-DTSTART;VALUE=DATE:20270115
-DTEND;VALUE=DATE:20270118
-UID:f-hausbau-energiesparen-tulln-23582-1@eventseye.impio-vault
-DESCRIPTION:Building & Energy Efficiency Show in eastern Austria. 320 speci
- alist exhibitors present the complete range from all areas of private hous
- e building: building & conversion\, living & furnishing\, energy saving & 
- heating technology\\nVenue: Messe Tulln\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-hausbau-energiesparen-tulln-23582-1.htm
- l
-LOCATION:Tulln\, Austria
-URL:https://www.eventseye.com/fairs/f-hausbau-energiesparen-tulln-23582-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INNATEX — Hofheim\, Germany
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270119
-UID:f-innatex-14338-1@eventseye.impio-vault
-DESCRIPTION:International Fair for Natural and Organic Textiles. INNATEX is
-  the international trade fair for sustainable textiles that oﬀ ers a uni
- que sales and communication platform\\nVenue: Messecenter Rhein-Main\\nFre
- quency: twice a year\\nSource: https://www.eventseye.com/fairs/f-innatex-1
- 4338-1.html
-LOCATION:Hofheim\, Germany
-URL:https://www.eventseye.com/fairs/f-innatex-14338-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POWER-GEN INTERNATIONAL — Salt Lake City\, UT\, USA
-DTSTART;VALUE=DATE:20270118
-DTEND;VALUE=DATE:20270122
-UID:f-power-gen-international-2164-1@eventseye.impio-vault
-DESCRIPTION:International Meeting of Electric Power Producers\, Independent
-  Power Producers\, Co Generation Plants\, Waste-to Energy Plants\\nVenue: 
- Salt Palace Convention Center\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-power-gen-international-2164-1.html
-LOCATION:Salt Lake City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-power-gen-international-2164-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AERO-ENGINES AMERICA — Scottsdale\, AZ\, USA
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-aero-engines-america-30676-1@eventseye.impio-vault
-DESCRIPTION:Aero-Engines America is a two day conference attracting senior 
- engine attendees. This leading event is dedicated to the trends and issues
-  related to the region’s aero engine community\, gathering stakeholders 
- from across the value chain\\nVenue: Westin Kierland Resort\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-aero-engines-americ
- a-30676-1.html
-LOCATION:Scottsdale\, AZ\, USA
-URL:https://www.eventseye.com/fairs/f-aero-engines-america-30676-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COLOMBIATEX DE LAS AMÉRICAS — Medellin\, Colombia
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-colombiatex-de-las-americas-13974-1@eventseye.impio-vault
-DESCRIPTION:International textile and clothing exhibition in Quelle\, highl
- ighting sustainable practices in the sector\\nVenue: Plaza Mayor Medellín
-  Convenciones y Exposiciones\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-colombiatex-de-las-americas-13974-1.html
-LOCATION:Medellin\, Colombia
-URL:https://www.eventseye.com/fairs/f-colombiatex-de-las-americas-13974-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONGRÈS ATEC ITS FRANCE\, LES RENCONTRES DE LA MOBILITÉ INTELLIGE
- NTE — Montrouge\, France
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270121
-UID:f-congres-atec-its-france-les-rencontres-de-la-mobilite-intelligente-21422-1@eventseye.impio-vault
-DESCRIPTION:Congress and expo bringing together the actors of intelligent m
- obility\\nVenue: Le Beffroi de Montrouge\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontres
- -de-la-mobilite-intelligente-21422-1.html
-LOCATION:Montrouge\, France
-URL:https://www.eventseye.com/fairs/f-congres-atec-its-france-les-rencontre
- s-de-la-mobilite-intelligente-21422-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPOBIOGAZ — Lyon\, France
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-expobiogaz-16367-1@eventseye.impio-vault
-DESCRIPTION:Biogas exhibition and congress. Discover the offerings of exhib
- itors presenting their solutions and innovations for methanization\, power
- -to-gas\, pyrogification\, injection\, cogeneration\, mobility & bioNGV. C
- onferences\, workshops\, Agricultural Villag\\nVenue: Eurexpo\\nFrequency:
-  every 2 years\\nSource: https://www.eventseye.com/fairs/f-expobiogaz-1636
- 7-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-expobiogaz-16367-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYVOLUTION PARIS — Paris\, France
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-hyvolution-paris-33767-1@eventseye.impio-vault
-DESCRIPTION:Hyvolution brings together all the key players in the hydrogen 
- sector. It focuses on business opportunities\, project implementation and 
- the creation of new hydrogen ecosystems\, all within an international cont
- ext\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-hyvolution-paris-33767-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-hyvolution-paris-33767-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPEN ENERGIES — Paris\, France
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270122
-UID:f-open-energies-33769-1@eventseye.impio-vault
-DESCRIPTION:Smart Energy Forum. Open Energies brings together producers\, r
- enewable energy distributors\, integrators\, network operators\, and decis
- ion-makers around a common ambition: to make energy smarter and more susta
- inable\\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-open-energies-33769-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-open-energies-33769-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CONFERENCE OF U.S. MAYORS — Washington D.C.\, USA
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270123
-UID:f-conference-of-u.s.-mayors-17391-1@eventseye.impio-vault
-DESCRIPTION:Conference of U.S. Mayors. The primary purpose of this meeting 
- is to engage with the White House\, the current administration\, and Congr
- ess and to discuss the priorities of America’s mayors\\nFrequency: twice
-  a year\\nSource: https://www.eventseye.com/fairs/f-conference-of-u.s.-may
- ors-17391-1.html
-LOCATION:Washington D.C.\, USA
-URL:https://www.eventseye.com/fairs/f-conference-of-u.s.-mayors-17391-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LOW CARBONE AGRICULTURE — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270122
-UID:f-low-carbone-agriculture-31001-1@eventseye.impio-vault
-DESCRIPTION:"Low Carbone Agriculture" is showcasing low carbon practices\, 
- technology and energy solutions for a profitable & sustainable farming fut
- ure\\nVenue: National Exhibition Centre\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-low-carbone-agriculture-31001-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-low-carbone-agriculture-31001-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VERKOSTO - ELECTRICITY NETWORKS — Tampere\, Finland
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270122
-UID:f-verkosto-electricity-networks-11865-1@eventseye.impio-vault
-DESCRIPTION:Professional Trade Fair for Electricity and Information Network
- s. The Verkosto Trade Fair and Hydrogen Summit & Expo brings together over
-  8\, 500 professionals from the energy\, telecommunications\, and hydrogen
-  sectors\\nVenue: Tampereen Messu\\nFrequency: every 2 years\\nSource: htt
- ps://www.eventseye.com/fairs/f-verkosto-electricity-networks-11865-1.html
-LOCATION:Tampere\, Finland
-URL:https://www.eventseye.com/fairs/f-verkosto-electricity-networks-11865-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WASHINGTON AUTO SHOW — Washington D.C.\, USA
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270201
-UID:f-washington-auto-show-20284-1@eventseye.impio-vault
-DESCRIPTION:Washington Auto Show. Discover the future of transportation as 
- innovations in electric technologies take center stage\\nVenue: Walter E. 
- Washington Convention Center\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-washington-auto-show-20284-1.html
-LOCATION:Washington D.C.\, USA
-URL:https://www.eventseye.com/fairs/f-washington-auto-show-20284-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CLEANTECH FORUM - NORTH AMERICA — San Diego\, CA\, USA
-DTSTART;VALUE=DATE:20270125
-DTEND;VALUE=DATE:20270128
-UID:f-cleantech-forum-north-america-7366-1@eventseye.impio-vault
-DESCRIPTION:CleanTech Forum is a great opportunity to connect and learn fro
- m the world’s leading authority on cleantech innovation\\nVenue: San Die
- go Mission Bay Resort\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-cleantech-forum-north-america-7366-1.html
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-cleantech-forum-north-america-7366-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RE+ HAWAII — Honolulu\, HI\, USA
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270128
-UID:f-re-hawaii-33252-1@eventseye.impio-vault
-DESCRIPTION:RE+ RE+ Hawaii attracts energy professionals from across the so
- lar and storage markets each year to facilitate business and connections\\
- nVenue: Alohilani Resort\, Waikiki Beach\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
-LOCATION:Honolulu\, HI\, USA
-URL:https://www.eventseye.com/fairs/f-re-hawaii-33252-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RECYCLING SOLUTIONS MOSCOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270130
-UID:f-recycling-solutions-moscow-29816-1@eventseye.impio-vault
-DESCRIPTION:RECYCLING SOLUTIONS is the russian industry highlighter for inn
- ovations and developments into the circular economy: the russian plastics 
- industry and the related waste management market\\nVenue: Crocus-Expo IEC\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-recyc
- ling-solutions-moscow-29816-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-recycling-solutions-moscow-29816-1.ht
+SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
+DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
+ nd dam owners are searching for new and innovative ways to inspect\, maint
+ ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
  ml
+LOCATION:Palm Springs\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WWT WASTEWATER — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270128
-UID:f-wwt-wastewater-22882-1@eventseye.impio-vault
-DESCRIPTION:Conference & Exhibition of wastewater-specific case studies\, i
- nnovation and thought-leadership\\nVenue: National Exhibition Centre\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-wwt-wastew
- ater-22882-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-wwt-wastewater-22882-1.html
+SUMMARY:DISASTERS EXPO USA — Fort Lauderdale\, FL\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-disasters-expo-usa-32006-1@eventseye.impio-vault
+DESCRIPTION:International forum dedicated to mitigating the consequences of
+  world's most costly natural disasters: Heat & Fire\, Earthquake\, Floodin
+ g\, Storm...\\nVenue: Greater Ft. Lauderdale - Broward County Convention C
+ enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -disasters-expo-usa-32006-1.html
+LOCATION:Fort Lauderdale\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-disasters-expo-usa-32006-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CARREFOUR DES GESTIONS LOCALES DE L'EAU — Rennes\, France
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-carrefour-des-gestions-locales-de-l-eau-34083-1@eventseye.impio-vault
-DESCRIPTION:The "Local Water Management Forum" brings together all public a
- nd private stakeholders in the water sector. It features over 100 hours of
-  conferences\, roundtables\, and exclusive interviews\\nVenue: Parc-Expo d
- e Rennes-Aéroport\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-carrefour-des-gestions-locales-de-l-eau-34083-1.html
-LOCATION:Rennes\, France
-URL:https://www.eventseye.com/fairs/f-carrefour-des-gestions-locales-de-l-e
- au-34083-1.html
+SUMMARY:DISTRIBUTECH — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-distributech-584-1@eventseye.impio-vault
+DESCRIPTION:From cutting-edge solutions in grid automation\, energy efficie
+ ncy\, and demand response to breakthroughs in DER management\, smart citie
+ s\, transportation electrification\, and cybersecurity\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-distributech-584-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-distributech-584-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EMPACK ZÜRICH — Zurich\, Switzerland
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-empack-zurich-21336-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
- s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
- and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
- e: Ferienmesse Zürich\\nFrequency: every 2 years\\nSource: https://www.ev
- entseye.com/fairs/f-empack-zurich-21336-1.html
-LOCATION:Zurich\, Switzerland
-URL:https://www.eventseye.com/fairs/f-empack-zurich-21336-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FRAMTIDENS HÄLSA - OCH SJUKVARD — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-framtidens-halsa-och-sjukvard-31883-1@eventseye.impio-vault
-DESCRIPTION:FRAMTIDENS LIVSMEDEL is the largest trade fair in Sweden for th
- e entire food industry. Focusing on Innovation\, Sustainability and Health
- \, it is held in parallel with FOOD PRODUCTION & FOODTECH\\nVenue: Kista M
- ässan\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-framtidens-halsa-och-sjukvard-31883-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-framtidens-halsa-och-sjukvard-31883-1
+SUMMARY:EXA - ENERGY EXCHANGE AUSTRALIA — Perth\, Australia
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-exa-energy-exchange-australia-11983-1@eventseye.impio-vault
+DESCRIPTION:Energy Exchange Australia (EXA) is a meeting place for thousand
+ s of professionals to connect\, learn\, network\, and harness opportunitie
+ s in the Australian energy market\, driving us to a decarbonised future\\n
+ Venue: Perth Convention Exhibition Centre\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-exa-energy-exchange-australia-11983-1
+ .html
+LOCATION:Perth\, Australia
+URL:https://www.eventseye.com/fairs/f-exa-energy-exchange-australia-11983-1
  .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FUTUREBUILD BELGIUM — Brussels\, Belgium
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-futurebuild-belgium-31861-1@eventseye.impio-vault
-DESCRIPTION:Brussels construction fair\, focused on energy saving and emiss
- ions reduction. Real estate developers\, architects\, engineers\, construc
- tion materials distributors\, entrepreneurs... meet\\nVenue: Brussels Exhi
- bition Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-futurebuild-belgium-31861-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-futurebuild-belgium-31861-1.html
+SUMMARY:INSTALLER SHOW USA — New York\, NY\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270304
+UID:f-installer-show-usa-33026-1@eventseye.impio-vault
+DESCRIPTION:InstallerSHOW New York will bring together 5\, 000 decision mak
+ ers\, influencers and professionals from the HVAC industry. Co-located wit
+ h New York Build Expo\, it’ll be the top spot in NYC for HVAC profession
+ als\\nVenue: Jacob K. Javits Convention Center\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-installer-show-usa-33026-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-installer-show-usa-33026-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INTERSOLUTION — Ghent\, Belgium
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-intersolution-13190-1@eventseye.impio-vault
-DESCRIPTION:InterSolution is the leading exhibition for solar energy in the
-  Benelux. Leading suppliers from all over Europe present their latest prod
- ucts in solar panels\, energy storage\, mounting and control systems\, sof
- tware and monitoring\\nVenue: Flanders Expo\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-intersolution-13190-1.html
-LOCATION:Ghent\, Belgium
-URL:https://www.eventseye.com/fairs/f-intersolution-13190-1.html
+SUMMARY:MODULAR & PREFAB — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-modular-prefab-33694-1@eventseye.impio-vault
+DESCRIPTION:MODULAR & PREFAB EXPO is dedicated to prefabrication and modula
+ r construction technologies. It showcases innovations in timber structures
+ \, modular and frame homes\, modern building materials\, sustainable solut
+ ions for the construction sector\\nVenue: Ptak Warsaw Expo\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-modular-prefab-33694
+ -1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-modular-prefab-33694-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KLIMAHOUSE — Bolzano\, Italy
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270131
-UID:f-klimahouse-12901-1@eventseye.impio-vault
-DESCRIPTION:Italy's international exhibition for resource- and energy-effic
- ient construction. Klimahouse creates a space for innovation\, startups\, 
- and all those who believe that good construction is synonymous with a good
-  life\\nVenue: Fiera Bolzano\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-klimahouse-12901-1.html
-LOCATION:Bolzano\, Italy
-URL:https://www.eventseye.com/fairs/f-klimahouse-12901-1.html
+SUMMARY:NATURAL PRODUCTS EXPO WEST — Anaheim\, CA\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270306
+UID:f-natural-products-expo-west-9946-1@eventseye.impio-vault
+DESCRIPTION:Natural\, organic & healthy Industry Expo. Natural Products Exp
+ o West is the best place to see and sample the newest products and develop
+ ments in the natural products industry\\nVenue: Anaheim Convention Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-natur
+ al-products-expo-west-9946-1.html
+LOCATION:Anaheim\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-natural-products-expo-west-9946-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KLIMAMOBILITY — Bolzano\, Italy
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270131
-UID:f-klimamobility-19850-1@eventseye.impio-vault
-DESCRIPTION:Klimamobility is the main conference in South Tyrol dedicated t
- o sustainable mobility\\nVenue: Fiera Bolzano\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-klimamobility-19850-1.html
-LOCATION:Bolzano\, Italy
-URL:https://www.eventseye.com/fairs/f-klimamobility-19850-1.html
+SUMMARY:WORLD SUSTAINABLE ENERGY DAYS — Wels\, Austria
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270306
+UID:f-world-sustainable-energy-days-11979-1@eventseye.impio-vault
+DESCRIPTION:World Sustainable Energy Days\, aiming no more fossil fuels. Eu
+ ropean Pellet Conference\, Energy Efficiency Conference\, Industrial Energ
+ y Transition\, Smart E-Mobility...\\nVenue: Messe Wels\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-world-sustainable-energy
+ -days-11979-1.html
+LOCATION:Wels\, Austria
+URL:https://www.eventseye.com/fairs/f-world-sustainable-energy-days-11979-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LÖSNINGAR FÖR OFFENTLIG SEKTOR — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270127
-DTEND;VALUE=DATE:20270129
-UID:f-losningar-for-offentlig-sektor-31889-1@eventseye.impio-vault
-DESCRIPTION:The nordic region leading exhibition\, conference and meeting p
- lace for public sector innovations. Sustainability and resilience\, AI and
-  digital sovereignty\, Future skills supply\, Innovation\, business develo
- pment & future prospects in the public sector\\nVenue: Kista Mässan\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-losningar-
- for-offentlig-sektor-31889-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-losningar-for-offentlig-sektor-31889-
- 1.html
+SUMMARY:ENEX — Kielce\, Poland
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-enex-8832-1@eventseye.impio-vault
+DESCRIPTION:International Power Industry Fair. Generating\, Transmission an
+ d Distribution of Energy\; Machines and Plant for Power and Electrical Pow
+ er Industry\, Construction for Power Industry\, Power Equipment Operation 
+ and modernization...\\nVenue: Kielce Fairground\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-enex-8832-1.html
+LOCATION:Kielce\, Poland
+URL:https://www.eventseye.com/fairs/f-enex-8832-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:INDIA ENERGY WEEK — Kolkata\, India
-DTSTART;VALUE=DATE:20270128
-DTEND;VALUE=DATE:20270201
-UID:f-india-energy-week-29154-1@eventseye.impio-vault
-DESCRIPTION:India Energy Week is the leading global platform for innovation
- \, ideas and investment to accelerate the world’s energy transition in a
-  secure and sustainable way\\nVenue: New Town Eco Park\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-india-energy-week-29154-
- 1.html
-LOCATION:Kolkata\, India
-URL:https://www.eventseye.com/fairs/f-india-energy-week-29154-1.html
+SUMMARY:ENEX NEW ENERGY — Kielce\, Poland
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-enex-new-energy-8833-1@eventseye.impio-vault
+DESCRIPTION:Fair of Renewable Sources of Energy. Wind Energy\, Solar Energy
+ \, Geothermal Energy\, Hydro Energy\, Biomass Energy. Technology for Extra
+ cting Energy and Heat from Renewable sources (bio-fuels\, straw and wood b
+ oiler-rooms\, geo-thermal sources of heat)...\\nVenue: Kielce Fairground\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-enex-n
+ ew-energy-8833-1.html
+LOCATION:Kielce\, Poland
+URL:https://www.eventseye.com/fairs/f-enex-new-energy-8833-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ERA — Oran\, Algeria
-DTSTART;VALUE=DATE:20270201
-DTEND;VALUE=DATE:20270204
-UID:f-era-15801-1@eventseye.impio-vault
-DESCRIPTION:Renewable Energies\, clean energies and sustainable development
-  International Exhibition. The Algerian meeting of the energy transition a
- nd the energies of the future\\nVenue: Centre de Conventions Mohamed Benah
- med\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-e
- ra-15801-1.html
-LOCATION:Oran\, Algeria
-URL:https://www.eventseye.com/fairs/f-era-15801-1.html
+SUMMARY:F-CELL — Stuttgart\, Germany
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-f-cell-14512-1@eventseye.impio-vault
+DESCRIPTION:The f-cell Congress is the international meeting point for more
+  than 700 participants interested in the subject of fuel cells who come fr
+ om more than 20 countries and four continents\\nVenue: New Stuttgart Trade
+  Fair Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
+ m/fairs/f-f-cell-14512-1.html
+LOCATION:Stuttgart\, Germany
+URL:https://www.eventseye.com/fairs/f-f-cell-14512-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLOOD EXPO USA - CALIFORNIA — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-flood-expo-usa-california-30241-1@eventseye.impio-vault
+DESCRIPTION:The Flood Expo USA is the leading flood prep\, management\, and
+  recovery event\, showcasing the latest tools\, strategies\, and insights 
+ among investment and global industry leaders\\nVenue: Miami Beach Conventi
+ on Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
+ airs/f-flood-expo-usa-california-30241-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-flood-expo-usa-california-30241-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLOOD EXPO USA - MIAMI — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-flood-expo-usa-miami-30240-1@eventseye.impio-vault
+DESCRIPTION:The Flood Expo USA is the leading flood prep\, management\, and
+  recovery event\, showcasing the latest tools\, strategies\, and insights 
+ among investment and global industry leaders\\nVenue: Miami Beach Conventi
+ on Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
+ rs/f-flood-expo-usa-miami-30240-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-flood-expo-usa-miami-30240-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RAIL-TECH EUROPE — Utrecht\, Netherlands
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270305
+UID:f-rail-tech-europe-12390-1@eventseye.impio-vault
+DESCRIPTION:International Conference & Exhibition on Rail Technology. 2 con
+ ference days about developments in high-speed rail\, ERTMS & security\, co
+ mpetition in passenger rail and reducing emissions\\nVenue: Jaarbeurs Utre
+ cht\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
+ -rail-tech-europe-12390-1.html
+LOCATION:Utrecht\, Netherlands
+URL:https://www.eventseye.com/fairs/f-rail-tech-europe-12390-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WATERTECH GUANGDONG — Guangzhou\, China
@@ -7187,6 +7453,20 @@ DESCRIPTION:International trade fair and conference on processing and packa
  ropak-vietnam-5118-1.html
 LOCATION:Ho Chi Minh\, Vietnam
 URL:https://www.eventseye.com/fairs/f-propak-vietnam-5118-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLARPLAZA SUMMIT ENERGY STORAGE SWEDEN — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+UID:f-solarplaza-summit-energy-storage-sweden-30818-1@eventseye.impio-vault
+DESCRIPTION:Gain crucial insights into the growing and evolving solar energ
+ y market. You'll also be able to strengthen your network by meeting the ma
+ jor market players\\nVenue: Sheraton Stockholm Hotel\\nFrequency: once a y
+ ear\\nSource: https://www.eventseye.com/fairs/f-solarplaza-summit-energy-s
+ torage-sweden-30818-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-solarplaza-summit-energy-storage-swed
+ en-30818-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AQUA NEDERLAND — Gorinchem\, Netherlands
@@ -7667,208 +7947,6 @@ LOCATION:New Delhi\, India
 URL:https://www.eventseye.com/fairs/f-smart-energy-india-expo-27327-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:VEGETARIAN FOOD ASIA — Hong Kong\, Hong Kong
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270301
-UID:f-vegetarian-food-asia-21265-1@eventseye.impio-vault
-DESCRIPTION:Vegetarian Food Asia is the largest vegetarian and green living
-  exhibition in Hong Kong. It offers a 360-degree coverage of green and hea
- lthy living\, breaking the boundaries of vegetarianism\\nVenue: Hong Kong 
- Convention & Exhibition Centre\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-vegetarian-food-asia-21265-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-vegetarian-food-asia-21265-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CEATI HYDROPOWER CONFERENCE — Palm Springs\, CA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-ceati-hydropower-conference-26808-1@eventseye.impio-vault
-DESCRIPTION:Hydropower Industry International Conference. Hydro utilities a
- nd dam owners are searching for new and innovative ways to inspect\, maint
- ain\, operate\, and manage their systems\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.ht
- ml
-LOCATION:Palm Springs\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-ceati-hydropower-conference-26808-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DISASTERS EXPO USA — Fort Lauderdale\, FL\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-disasters-expo-usa-32006-1@eventseye.impio-vault
-DESCRIPTION:International forum dedicated to mitigating the consequences of
-  world's most costly natural disasters: Heat & Fire\, Earthquake\, Floodin
- g\, Storm...\\nVenue: Greater Ft. Lauderdale - Broward County Convention C
- enter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -disasters-expo-usa-32006-1.html
-LOCATION:Fort Lauderdale\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-disasters-expo-usa-32006-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DISTRIBUTECH — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-distributech-584-1@eventseye.impio-vault
-DESCRIPTION:From cutting-edge solutions in grid automation\, energy efficie
- ncy\, and demand response to breakthroughs in DER management\, smart citie
- s\, transportation electrification\, and cybersecurity\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-distributech-584-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-distributech-584-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXA - ENERGY EXCHANGE AUSTRALIA — Perth\, Australia
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-exa-energy-exchange-australia-11983-1@eventseye.impio-vault
-DESCRIPTION:Energy Exchange Australia (EXA) is a meeting place for thousand
- s of professionals to connect\, learn\, network\, and harness opportunitie
- s in the Australian energy market\, driving us to a decarbonised future\\n
- Venue: Perth Convention Exhibition Centre\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-exa-energy-exchange-australia-11983-1
- .html
-LOCATION:Perth\, Australia
-URL:https://www.eventseye.com/fairs/f-exa-energy-exchange-australia-11983-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INSTALLER SHOW USA — New York\, NY\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270304
-UID:f-installer-show-usa-33026-1@eventseye.impio-vault
-DESCRIPTION:InstallerSHOW New York will bring together 5\, 000 decision mak
- ers\, influencers and professionals from the HVAC industry. Co-located wit
- h New York Build Expo\, it’ll be the top spot in NYC for HVAC profession
- als\\nVenue: Jacob K. Javits Convention Center\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-installer-show-usa-33026-1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-installer-show-usa-33026-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MODULAR & PREFAB — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-modular-prefab-33694-1@eventseye.impio-vault
-DESCRIPTION:MODULAR & PREFAB EXPO is dedicated to prefabrication and modula
- r construction technologies. It showcases innovations in timber structures
- \, modular and frame homes\, modern building materials\, sustainable solut
- ions for the construction sector\\nVenue: Ptak Warsaw Expo\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-modular-prefab-33694
- -1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-modular-prefab-33694-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATURAL PRODUCTS EXPO WEST — Anaheim\, CA\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270306
-UID:f-natural-products-expo-west-9946-1@eventseye.impio-vault
-DESCRIPTION:Natural\, organic & healthy Industry Expo. Natural Products Exp
- o West is the best place to see and sample the newest products and develop
- ments in the natural products industry\\nVenue: Anaheim Convention Center\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-natur
- al-products-expo-west-9946-1.html
-LOCATION:Anaheim\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-natural-products-expo-west-9946-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD SUSTAINABLE ENERGY DAYS — Wels\, Austria
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270306
-UID:f-world-sustainable-energy-days-11979-1@eventseye.impio-vault
-DESCRIPTION:World Sustainable Energy Days\, aiming no more fossil fuels. Eu
- ropean Pellet Conference\, Energy Efficiency Conference\, Industrial Energ
- y Transition\, Smart E-Mobility...\\nVenue: Messe Wels\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-world-sustainable-energy
- -days-11979-1.html
-LOCATION:Wels\, Austria
-URL:https://www.eventseye.com/fairs/f-world-sustainable-energy-days-11979-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENEX — Kielce\, Poland
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-enex-8832-1@eventseye.impio-vault
-DESCRIPTION:International Power Industry Fair. Generating\, Transmission an
- d Distribution of Energy\; Machines and Plant for Power and Electrical Pow
- er Industry\, Construction for Power Industry\, Power Equipment Operation 
- and modernization...\\nVenue: Kielce Fairground\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-enex-8832-1.html
-LOCATION:Kielce\, Poland
-URL:https://www.eventseye.com/fairs/f-enex-8832-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENEX NEW ENERGY — Kielce\, Poland
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-enex-new-energy-8833-1@eventseye.impio-vault
-DESCRIPTION:Fair of Renewable Sources of Energy. Wind Energy\, Solar Energy
- \, Geothermal Energy\, Hydro Energy\, Biomass Energy. Technology for Extra
- cting Energy and Heat from Renewable sources (bio-fuels\, straw and wood b
- oiler-rooms\, geo-thermal sources of heat)...\\nVenue: Kielce Fairground\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-enex-n
- ew-energy-8833-1.html
-LOCATION:Kielce\, Poland
-URL:https://www.eventseye.com/fairs/f-enex-new-energy-8833-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:F-CELL — Stuttgart\, Germany
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-f-cell-14512-1@eventseye.impio-vault
-DESCRIPTION:The f-cell Congress is the international meeting point for more
-  than 700 participants interested in the subject of fuel cells who come fr
- om more than 20 countries and four continents\\nVenue: New Stuttgart Trade
-  Fair Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye.co
- m/fairs/f-f-cell-14512-1.html
-LOCATION:Stuttgart\, Germany
-URL:https://www.eventseye.com/fairs/f-f-cell-14512-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FLOOD EXPO USA - CALIFORNIA — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-flood-expo-usa-california-30241-1@eventseye.impio-vault
-DESCRIPTION:The Flood Expo USA is the leading flood prep\, management\, and
-  recovery event\, showcasing the latest tools\, strategies\, and insights 
- among investment and global industry leaders\\nVenue: Miami Beach Conventi
- on Center\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/f
- airs/f-flood-expo-usa-california-30241-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-flood-expo-usa-california-30241-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FLOOD EXPO USA - MIAMI — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-flood-expo-usa-miami-30240-1@eventseye.impio-vault
-DESCRIPTION:The Flood Expo USA is the leading flood prep\, management\, and
-  recovery event\, showcasing the latest tools\, strategies\, and insights 
- among investment and global industry leaders\\nVenue: Miami Beach Conventi
- on Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fai
- rs/f-flood-expo-usa-miami-30240-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-flood-expo-usa-miami-30240-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAIL-TECH EUROPE — Utrecht\, Netherlands
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270305
-UID:f-rail-tech-europe-12390-1@eventseye.impio-vault
-DESCRIPTION:International Conference & Exhibition on Rail Technology. 2 con
- ference days about developments in high-speed rail\, ERTMS & security\, co
- mpetition in passenger rail and reducing emissions\\nVenue: Jaarbeurs Utre
- cht\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f
- -rail-tech-europe-12390-1.html
-LOCATION:Utrecht\, Netherlands
-URL:https://www.eventseye.com/fairs/f-rail-tech-europe-12390-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SMART MOBILITY INDIA EXPO — New Delhi\, India
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270326
@@ -8209,6 +8287,18 @@ LOCATION:Moscow\, Russia
 URL:https://www.eventseye.com/fairs/f-wasma-waste-management-6401-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MOBCO — Saint-Étienne\, France
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270402
+UID:f-mobco-16988-1@eventseye.impio-vault
+DESCRIPTION:European Mobility Exhibition. The major European professional e
+ xhibition for all key players in public transport and sustainable transpor
+ t solutions\\nVenue: Parc Expo de Saint-Etienne\\nFrequency: every 2 years
+ \\nSource: https://www.eventseye.com/fairs/f-mobco-16988-1.html
+LOCATION:Saint-Étienne\, France
+URL:https://www.eventseye.com/fairs/f-mobco-16988-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALON BEPOSITIVE — Lyon\, France
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270403
@@ -8414,6 +8504,22 @@ LOCATION:Southampton\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-ocean-business-14892-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SOLARPLAZA SUMMIT ASSET MANAGEMENT NORTH AMERICA — San Diego\, CA
+ \, USA
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270408
+UID:f-solarplaza-summit-asset-management-north-america-13501-1@eventseye.impio-vault
+DESCRIPTION:International Solar Manufacturers Conference & Expo. Solar Asse
+ t Management North America is the most complete event on Solar Operations 
+ & Maintenance and Asset Management in North America\\nVenue: Hyatt Regency
+  Mission Bay Spa and Marina Hyatt Regency Mission Bay Spa and Marina\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-solarplaza
+ -summit-asset-management-north-america-13501-1.html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-solarplaza-summit-asset-management-no
+ rth-america-13501-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CONNECTING HYDROGEN MENA — Dubai\, UAE - United Arab Emirates
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270409
@@ -8437,6 +8543,19 @@ DESCRIPTION:International Trade Exhibition for Heating\, Ventilation\, Air-
  herm-3952-1.html
 LOCATION:Budapest\, Hungary
 URL:https://www.eventseye.com/fairs/f-hungarotherm-3952-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MENA DESALINATION FORUM — Abu Dhabi\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270409
+UID:f-mena-desalination-forum-32570-1@eventseye.impio-vault
+DESCRIPTION:For years\, the "MENA Desalination Forum" has established itsel
+ f as the region’s premier platform for advancing desalination\, fosterin
+ g innovation\, and driving collaboration in sustainable water technologies
+ \\nVenue: Conrad Abu Dhabi Etihad Towers\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-mena-desalination-forum-32570-1.html
+LOCATION:Abu Dhabi\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-mena-desalination-forum-32570-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MENA STORMWATER AND WASTE WATER FORUM — Abu Dhabi\, UAE - United 
@@ -8751,6 +8870,18 @@ LOCATION:Guadalajara\, Mexico
 URL:https://www.eventseye.com/fairs/f-ecomondo-mexico-29520-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ENERGY STORAGE USA — Dallas\, TX\, USA
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270422
+UID:f-energy-storage-usa-32813-1@eventseye.impio-vault
+DESCRIPTION:Congress dedicated to the energy storage market in the United S
+ tates. Two days of content & strategic networking\\nVenue: Renaissance Dal
+ las Richardson Hotel\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-energy-storage-usa-32813-1.html
+LOCATION:Dallas\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-energy-storage-usa-32813-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IE EXPO CHINA — Shanghai\, China
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270423
@@ -8970,6 +9101,19 @@ LOCATION:Offenburg\, Germany
 URL:https://www.eventseye.com/fairs/f-forst-live-sued-16405-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SETAC EUROPE — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270430
+UID:f-setac-europe-34718-1@eventseye.impio-vault
+DESCRIPTION:The annual congress of the Society of Environmental Toxicology 
+ and Chemistry (SETAC Europe) is an international scientific conference ded
+ icated to advancing environmental sciences and supporting evidence-based d
+ ecision-making\\nVenue: Palexpo\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-setac-europe-34718-1.html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-setac-europe-34718-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:EKOTECH — Kielce\, Poland
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270430
@@ -9105,265 +9249,6 @@ DESCRIPTION:Stockholm Smart City presents the latest visions & solutions fo
  smart-city-31879-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-stockholm-smart-city-31879-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HVAC-R EGYPT — Cairo\, Egypt
-DTSTART;VALUE=DATE:20270524
-DTEND;VALUE=DATE:20270527
-UID:f-hvac-r-egypt-34158-1@eventseye.impio-vault
-DESCRIPTION:HVAC-R EGYPT is an international Exhibition and Conference dedi
- cated to Heating\, Ventilation\, Air Conditioning\, Refrigeration\, Therma
- l Insulation and Energy\\nVenue: EIEC (Egypt International Exhibition Cent
- er)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-h
- vac-r-egypt-34158-1.html
-LOCATION:Cairo\, Egypt
-URL:https://www.eventseye.com/fairs/f-hvac-r-egypt-34158-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QLD TRANSPORT INFRASTRUCTURE CONFERENCE — Brisbane\, Australia
-DTSTART;VALUE=DATE:20270524
-DTEND;VALUE=DATE:20270526
-UID:f-qld-transport-infrastructure-conference-16953-1@eventseye.impio-vault
-DESCRIPTION:Queensland's largest transport infrastructure conference attrac
- ting over 200 delegates each year. Topics covered - Transport\, Ports\, Ro
- ads\, Railways & Airports\\nVenue: Brisbane Convention & Exhibition Centre
- \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-qld-
- transport-infrastructure-conference-16953-1.html
-LOCATION:Brisbane\, Australia
-URL:https://www.eventseye.com/fairs/f-qld-transport-infrastructure-conferen
- ce-16953-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD IN WOOD — Copenhagen\, Denmark
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270527
-UID:f-build-in-wood-28859-1@eventseye.impio-vault
-DESCRIPTION:Wood Construction Trade Show. At 'Build in Wood'\, you will mee
- t with the industry to discuss how we can meet the potential for more wood
-  construction in Denmark\\nVenue: The Plant Cph\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-build-in-wood-28859-1.html
-LOCATION:Copenhagen\, Denmark
-URL:https://www.eventseye.com/fairs/f-build-in-wood-28859-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EU BC&E — Reims\, France
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270529
-UID:f-eu-bc-e-11873-1@eventseye.impio-vault
-DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E brings biomas
- s scientist and engineers together with the biomass industry\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-eu-bc-e-11873-1.ht
- ml
-LOCATION:Reims\, France
-URL:https://www.eventseye.com/fairs/f-eu-bc-e-11873-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EUBCE - EUROPEAN BIOMASS CONFERENCE AND EXHIBITION — Reims\, Fran
- ce
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270529
-UID:f-eubce-european-biomass-conference-and-exhibition-19474-1@eventseye.impio-vault
-DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E combines one 
- of the largest biomass science and technology conference with a leading Bi
- omass industry and technology exhibition\, attracting the entire professio
- nal Biomass community from around the globe\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-a
- nd-exhibition-19474-1.html
-LOCATION:Reims\, France
-URL:https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-and
- -exhibition-19474-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JAPAN ENERGY SUMMIT & EXHIBITION — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-japan-energy-summit-exhibition-29175-1@eventseye.impio-vault
-DESCRIPTION:Japan Energy Summit & Exhibition\, convening senior-level stake
- holders from across the global value chain\, will discuss the evolving Jap
- anese energy sector in decarbonising global gas\, LNG\, and hydrogen marke
- ts\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-japan-energ
- y-summit-exhibition-29175-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-japan-energy-summit-exhibition-29175-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AQUACULTURE TAIWAN EXPO & FORUM — Taichung\, Taiwan
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270605
-UID:f-aquaculture-taiwan-expo-forum-28652-1@eventseye.impio-vault
-DESCRIPTION:International Aquaculture Trade Show in Taiwan. The Expo featur
- es smart aquaculture\, energy saving\, sustainability\, and eco-friendly t
- echnologies\\nVenue: Greater Taichung International Expo Center\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-aquaculture-tai
- wan-expo-forum-28652-1.html
-LOCATION:Taichung\, Taiwan
-URL:https://www.eventseye.com/fairs/f-aquaculture-taiwan-expo-forum-28652-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAKU ENERGY WEEK — Baku\, Azerbaijan
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270605
-UID:f-baku-energy-week-31802-1@eventseye.impio-vault
-DESCRIPTION:Baku International Energy Exhibition. Understand. - CASPIAN OIL
-  & GAS: Caspian International Oil and Gas Exhibition\n- CASPIAN POWER: Cas
- pian international exhibition of energy production and green energies\n- B
- AKU ENERGY FORUM\\nVenue: Baku Expo Center\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-baku-energy-week-31802-1.html
-LOCATION:Baku\, Azerbaijan
-URL:https://www.eventseye.com/fairs/f-baku-energy-week-31802-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CASPIAN POWER — Baku\, Azerbaijan
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270605
-UID:f-caspian-power-17514-1@eventseye.impio-vault
-DESCRIPTION:Caspian International Power and Alternative Energy Exhibition. 
- Energy and Electrical Engineering\, Electricity\, heat\, gas supply system
- s\, Energy efficient and energy saving technologies and equipment...\\nVen
- ue: Baku Expo Center\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-caspian-power-17514-1.html
-LOCATION:Baku\, Azerbaijan
-URL:https://www.eventseye.com/fairs/f-caspian-power-17514-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCL’EAU NOUVELLE-AQUITAINE — Bordeaux\, France
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270604
-UID:f-cycl-eau-nouvelle-aquitaine-34183-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for players in the Corsica water sector. A cycle of 
- conferences will be offered on the sidelines of the expo on major themes: 
- rainwater management\, water and agriculture\, pricing\, savings and manag
- ement of water resources...\\nVenue: Parc des expositions de Bordeaux-Lac\
- \nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-
- nouvelle-aquitaine-34183-1.html
-LOCATION:Bordeaux\, France
-URL:https://www.eventseye.com/fairs/f-cycl-eau-nouvelle-aquitaine-34183-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLAST EXPO — Casablanca\, Morocco
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270606
-UID:f-plast-expo-13343-1@eventseye.impio-vault
-DESCRIPTION:International exhibition of plastics\, rubber\, composites & pe
- trochemicals in Morocco. Plasti\, Petrochemistry\, Rubbers & Composites\, 
- Raw materials\, Machines & Accesories\, Finished & Semi-finished products\
- , Recycling\, Green Process/Solutions\, Innovation...\\nVenue: Office des 
- Foires et Expositions de Casablanca (OFEC)\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-plast-expo-13343-1.html
-LOCATION:Casablanca\, Morocco
-URL:https://www.eventseye.com/fairs/f-plast-expo-13343-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SNEC - PV POWER EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270605
-UID:f-snec-pv-power-expo-17544-1@eventseye.impio-vault
-DESCRIPTION:International Photovoltaic Power Generation and Smart Energy Co
- nference & Exhibition\\nVenue: Shanghai New International Expo Centre - SN
- IEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-s
- nec-pv-power-expo-17544-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-snec-pv-power-expo-17544-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHINA EPOWER — Shanghai\, China
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270606
-UID:f-china-epower-14220-1@eventseye.impio-vault
-DESCRIPTION:China International Electric Power & Electric Engineering Techn
- ology Exhibition. China EPower covers power generation\, transmission\, di
- stribution\, automation\, construction as well as energy conservation\, en
- vironmental protection & electric products\\nVenue: Shanghai New Internati
- onal Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-china-epower-14220-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-china-epower-14220-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:D-ENERGY CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270606
-UID:f-d-energy-china-22673-1@eventseye.impio-vault
-DESCRIPTION:International Distributed Energy & Enrergy Storage Appliance Ex
- hibition & Forum. D-Energy CHINA features products including distribution 
- energy generation equipment\, waste heat utilization technology\, equipmen
- t for Combined cooling heating & power supply\\nVenue: Shanghai New Intern
- ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-d-energy-china-22673-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-d-energy-china-22673-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E-POWER CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270606
-UID:f-e-power-china-11923-1@eventseye.impio-vault
-DESCRIPTION:China Energy Generation Industry Exhibition. E-Power covers all
-  aspects of the electric industry chain such as power generation\, electri
- c transmission & distribution\, smart grid\, power equipment\, generating 
- sets\, electrical accessories & energy storage\\nVenue: Shanghai New Inter
- national Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-e-power-china-11923-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-e-power-china-11923-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G-POWER CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270603
-DTEND;VALUE=DATE:20270606
-UID:f-g-power-china-22670-1@eventseye.impio-vault
-DESCRIPTION:Internaitonal Power & Generating Sets Exhibition. G-Power is a 
- business platform for industry professionals\, sourcing for Generators\, G
- enerating Sets\, Engines\, Components & Petroleum Products\, Electric Moto
- rs\, Special Manufacturing & Testing Equipment\\nVenue: Shanghai New Inter
- national Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-g-power-china-22670-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-g-power-china-22670-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERSOLAR EUROPE — Munich\, Germany
-DTSTART;VALUE=DATE:20270607
-DTEND;VALUE=DATE:20270611
-UID:f-intersolar-europe-8955-1@eventseye.impio-vault
-DESCRIPTION:Intersolar is the world's largest solar technology trade fair a
- nd the number one meeting point for everyone in the solar industry. Inters
- olar focuses on the Photovoltaic and Solar Thermal branches\\nVenue: Fairg
- round Messe München\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-intersolar-europe-8955-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-intersolar-europe-8955-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EHP CONGRESS — Marseille\, France
-DTSTART;VALUE=DATE:20270608
-DTEND;VALUE=DATE:20270611
-UID:f-ehp-congress-32524-1@eventseye.impio-vault
-DESCRIPTION:Euroheat & Power is the international network for district ener
- gy\, promoting sustainable heating and cooling in Europe and beyond\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ehp-congres
- s-32524-1.html
-LOCATION:Marseille\, France
-URL:https://www.eventseye.com/fairs/f-ehp-congress-32524-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FISITA - WORLD MOBILITY CONFERENCE — Barcelona\, Spain
-DTSTART;VALUE=DATE:20270608
-DTEND;VALUE=DATE:20270611
-UID:f-fisita-world-mobility-conference-1013-1@eventseye.impio-vault
-DESCRIPTION:The FISITA World Mobility Conference (WMC) is a unique meeting 
- of technology leaders and experts from the world’s leading automotive an
- d mobility brands and one of the most important events in the internationa
- l mobility systems calendar\\nVenue: Palau de Congressos de Catalunya\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fisita-
- world-mobility-conference-1013-1.html
-LOCATION:Barcelona\, Spain
-URL:https://www.eventseye.com/fairs/f-fisita-world-mobility-conference-1013
- -1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OTC (OFFSHORE TECHNOLOGY CONFERENCE) — Houston\, TX\, USA
@@ -10001,6 +9886,278 @@ LOCATION:Casino\, NSW\, Australia
 URL:https://www.eventseye.com/fairs/f-primex-field-days-28776-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HVAC-R EGYPT — Cairo\, Egypt
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270527
+UID:f-hvac-r-egypt-34158-1@eventseye.impio-vault
+DESCRIPTION:HVAC-R EGYPT is an international Exhibition and Conference dedi
+ cated to Heating\, Ventilation\, Air Conditioning\, Refrigeration\, Therma
+ l Insulation and Energy\\nVenue: EIEC (Egypt International Exhibition Cent
+ er)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-h
+ vac-r-egypt-34158-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-hvac-r-egypt-34158-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QLD TRANSPORT INFRASTRUCTURE CONFERENCE — Brisbane\, Australia
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270526
+UID:f-qld-transport-infrastructure-conference-16953-1@eventseye.impio-vault
+DESCRIPTION:Queensland's largest transport infrastructure conference attrac
+ ting over 200 delegates each year. Topics covered - Transport\, Ports\, Ro
+ ads\, Railways & Airports\\nVenue: Brisbane Convention & Exhibition Centre
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-qld-
+ transport-infrastructure-conference-16953-1.html
+LOCATION:Brisbane\, Australia
+URL:https://www.eventseye.com/fairs/f-qld-transport-infrastructure-conferen
+ ce-16953-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD IN WOOD — Copenhagen\, Denmark
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+UID:f-build-in-wood-28859-1@eventseye.impio-vault
+DESCRIPTION:Wood Construction Trade Show. At 'Build in Wood'\, you will mee
+ t with the industry to discuss how we can meet the potential for more wood
+  construction in Denmark\\nVenue: The Plant Cph\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-build-in-wood-28859-1.html
+LOCATION:Copenhagen\, Denmark
+URL:https://www.eventseye.com/fairs/f-build-in-wood-28859-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EU BC&E — Reims\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+UID:f-eu-bc-e-11873-1@eventseye.impio-vault
+DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E brings biomas
+ s scientist and engineers together with the biomass industry\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-eu-bc-e-11873-1.ht
+ ml
+LOCATION:Reims\, France
+URL:https://www.eventseye.com/fairs/f-eu-bc-e-11873-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EUBCE - EUROPEAN BIOMASS CONFERENCE AND EXHIBITION — Reims\, Fran
+ ce
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+UID:f-eubce-european-biomass-conference-and-exhibition-19474-1@eventseye.impio-vault
+DESCRIPTION:European Biomass Conference & Exhibition. EU BC&E combines one 
+ of the largest biomass science and technology conference with a leading Bi
+ omass industry and technology exhibition\, attracting the entire professio
+ nal Biomass community from around the globe\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-a
+ nd-exhibition-19474-1.html
+LOCATION:Reims\, France
+URL:https://www.eventseye.com/fairs/f-eubce-european-biomass-conference-and
+ -exhibition-19474-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAPAN ENERGY SUMMIT & EXHIBITION — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-japan-energy-summit-exhibition-29175-1@eventseye.impio-vault
+DESCRIPTION:Japan Energy Summit & Exhibition\, convening senior-level stake
+ holders from across the global value chain\, will discuss the evolving Jap
+ anese energy sector in decarbonising global gas\, LNG\, and hydrogen marke
+ ts\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-japan-energ
+ y-summit-exhibition-29175-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-japan-energy-summit-exhibition-29175-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AQUACULTURE TAIWAN EXPO & FORUM — Taichung\, Taiwan
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+UID:f-aquaculture-taiwan-expo-forum-28652-1@eventseye.impio-vault
+DESCRIPTION:International Aquaculture Trade Show in Taiwan. The Expo featur
+ es smart aquaculture\, energy saving\, sustainability\, and eco-friendly t
+ echnologies\\nVenue: Greater Taichung International Expo Center\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-aquaculture-tai
+ wan-expo-forum-28652-1.html
+LOCATION:Taichung\, Taiwan
+URL:https://www.eventseye.com/fairs/f-aquaculture-taiwan-expo-forum-28652-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAKU ENERGY WEEK — Baku\, Azerbaijan
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+UID:f-baku-energy-week-31802-1@eventseye.impio-vault
+DESCRIPTION:Baku International Energy Exhibition. Understand. - CASPIAN OIL
+  & GAS: Caspian International Oil and Gas Exhibition\n- CASPIAN POWER: Cas
+ pian international exhibition of energy production and green energies\n- B
+ AKU ENERGY FORUM\\nVenue: Baku Expo Center\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-baku-energy-week-31802-1.html
+LOCATION:Baku\, Azerbaijan
+URL:https://www.eventseye.com/fairs/f-baku-energy-week-31802-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CASPIAN POWER — Baku\, Azerbaijan
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+UID:f-caspian-power-17514-1@eventseye.impio-vault
+DESCRIPTION:Caspian International Power and Alternative Energy Exhibition. 
+ Energy and Electrical Engineering\, Electricity\, heat\, gas supply system
+ s\, Energy efficient and energy saving technologies and equipment...\\nVen
+ ue: Baku Expo Center\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-caspian-power-17514-1.html
+LOCATION:Baku\, Azerbaijan
+URL:https://www.eventseye.com/fairs/f-caspian-power-17514-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCL’EAU NOUVELLE-AQUITAINE — Bordeaux\, France
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270604
+UID:f-cycl-eau-nouvelle-aquitaine-34183-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for players in the Corsica water sector. A cycle of 
+ conferences will be offered on the sidelines of the expo on major themes: 
+ rainwater management\, water and agriculture\, pricing\, savings and manag
+ ement of water resources...\\nVenue: Parc des expositions de Bordeaux-Lac\
+ \nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-
+ nouvelle-aquitaine-34183-1.html
+LOCATION:Bordeaux\, France
+URL:https://www.eventseye.com/fairs/f-cycl-eau-nouvelle-aquitaine-34183-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLAST EXPO — Casablanca\, Morocco
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270606
+UID:f-plast-expo-13343-1@eventseye.impio-vault
+DESCRIPTION:International exhibition of plastics\, rubber\, composites & pe
+ trochemicals in Morocco. Plasti\, Petrochemistry\, Rubbers & Composites\, 
+ Raw materials\, Machines & Accesories\, Finished & Semi-finished products\
+ , Recycling\, Green Process/Solutions\, Innovation...\\nVenue: Office des 
+ Foires et Expositions de Casablanca (OFEC)\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-plast-expo-13343-1.html
+LOCATION:Casablanca\, Morocco
+URL:https://www.eventseye.com/fairs/f-plast-expo-13343-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SNEC - PV POWER EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+UID:f-snec-pv-power-expo-17544-1@eventseye.impio-vault
+DESCRIPTION:International Photovoltaic Power Generation and Smart Energy Co
+ nference & Exhibition\\nVenue: Shanghai New International Expo Centre - SN
+ IEC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-s
+ nec-pv-power-expo-17544-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-snec-pv-power-expo-17544-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHINA EPOWER — Shanghai\, China
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+UID:f-china-epower-14220-1@eventseye.impio-vault
+DESCRIPTION:China International Electric Power & Electric Engineering Techn
+ ology Exhibition. China EPower covers power generation\, transmission\, di
+ stribution\, automation\, construction as well as energy conservation\, en
+ vironmental protection & electric products\\nVenue: Shanghai New Internati
+ onal Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-china-epower-14220-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-china-epower-14220-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D-ENERGY CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+UID:f-d-energy-china-22673-1@eventseye.impio-vault
+DESCRIPTION:International Distributed Energy & Enrergy Storage Appliance Ex
+ hibition & Forum. D-Energy CHINA features products including distribution 
+ energy generation equipment\, waste heat utilization technology\, equipmen
+ t for Combined cooling heating & power supply\\nVenue: Shanghai New Intern
+ ational Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-d-energy-china-22673-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-d-energy-china-22673-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E-POWER CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+UID:f-e-power-china-11923-1@eventseye.impio-vault
+DESCRIPTION:China Energy Generation Industry Exhibition. E-Power covers all
+  aspects of the electric industry chain such as power generation\, electri
+ c transmission & distribution\, smart grid\, power equipment\, generating 
+ sets\, electrical accessories & energy storage\\nVenue: Shanghai New Inter
+ national Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-e-power-china-11923-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-e-power-china-11923-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G-POWER CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270606
+UID:f-g-power-china-22670-1@eventseye.impio-vault
+DESCRIPTION:Internaitonal Power & Generating Sets Exhibition. G-Power is a 
+ business platform for industry professionals\, sourcing for Generators\, G
+ enerating Sets\, Engines\, Components & Petroleum Products\, Electric Moto
+ rs\, Special Manufacturing & Testing Equipment\\nVenue: Shanghai New Inter
+ national Expo Centre - SNIEC\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-g-power-china-22670-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-g-power-china-22670-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AGRIPLANTA — Fundulea\, Romania
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+UID:f-agriplanta-19066-1@eventseye.impio-vault
+DESCRIPTION:The vision of AgriPlanta Show is to create an interactive and e
+ nergetic space where farmers\, agricultural technology and equipment suppl
+ iers\, and experts can connect\, experiment\, and discover solutions for t
+ omorrow's agricultural challenges\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-agriplanta-19066-1.html
+LOCATION:Fundulea\, Romania
+URL:https://www.eventseye.com/fairs/f-agriplanta-19066-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERSOLAR EUROPE — Munich\, Germany
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270611
+UID:f-intersolar-europe-8955-1@eventseye.impio-vault
+DESCRIPTION:Intersolar is the world's largest solar technology trade fair a
+ nd the number one meeting point for everyone in the solar industry. Inters
+ olar focuses on the Photovoltaic and Solar Thermal branches\\nVenue: Fairg
+ round Messe München\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-intersolar-europe-8955-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-intersolar-europe-8955-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EHP CONGRESS — Marseille\, France
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+UID:f-ehp-congress-32524-1@eventseye.impio-vault
+DESCRIPTION:Euroheat & Power is the international network for district ener
+ gy\, promoting sustainable heating and cooling in Europe and beyond\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-ehp-congres
+ s-32524-1.html
+LOCATION:Marseille\, France
+URL:https://www.eventseye.com/fairs/f-ehp-congress-32524-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FISITA - WORLD MOBILITY CONFERENCE — Barcelona\, Spain
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+UID:f-fisita-world-mobility-conference-1013-1@eventseye.impio-vault
+DESCRIPTION:The FISITA World Mobility Conference (WMC) is a unique meeting 
+ of technology leaders and experts from the world’s leading automotive an
+ d mobility brands and one of the most important events in the internationa
+ l mobility systems calendar\\nVenue: Palau de Congressos de Catalunya\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fisita-
+ world-mobility-conference-1013-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-fisita-world-mobility-conference-1013
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLOBAL ENERGY SHOW — Calgary\, AB\, Canada
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270611
@@ -10223,6 +10380,20 @@ LOCATION:Amman\, Jordan
 URL:https://www.eventseye.com/fairs/f-sonex-19503-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ENERGETICA EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270618
+UID:f-energetica-expo-34087-1@eventseye.impio-vault
+DESCRIPTION:Energetica Expo is presenting solutions for the energy industry
+  and transmission infrastructure. Energy generation\, transmission and dis
+ tribution\, stations\, automation and protection systems\, energy storage\
+ , network digitalization\, cybersecurity...\\nVenue: Ptak Warsaw Expo\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-energetic
+ a-expo-34087-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-energetica-expo-34087-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SEAGRICULTURE EU — Ostend\, Belgium
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270618
@@ -10366,9 +10537,9 @@ DTEND;VALUE=DATE:20270619
 UID:f-watertech-china-32626-1@eventseye.impio-vault
 DESCRIPTION:WATERTECH CHINA is one of the world's largest international exh
  ibition for process\, showcasing cutting-edge innovations in water treatme
- nt technology\\nVenue: National Exhibition and Convention Center\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-watertech-chin
- a-32626-1.html
+ nt technology\\nVenue: Shanghai New International Expo Centre - SNIEC\\nFr
+ equency: once a year\\nSource: https://www.eventseye.com/fairs/f-watertech
+ -china-32626-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-watertech-china-32626-1.html
 END:VEVENT
@@ -10602,581 +10773,6 @@ DESCRIPTION:International Building\, Construction\, Municipal Equipment\, N
  f-buildexpo-africa-kenya-19084-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-buildexpo-africa-kenya-19084-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FENASUCRO & AGROCANA — Sertãozinho\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270814
-UID:f-fenasucro-agrocana-14333-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair of the Sugar and Alcohol Industry - In
- ternational Trade Fair - Business and Technology Trade Fair of Sugarcane A
- griculture\\nVenue: Centro de Eventos Zanini\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-fenasucro-agrocana-14333-1.html
-LOCATION:Sertãozinho\, Brazil
-URL:https://www.eventseye.com/fairs/f-fenasucro-agrocana-14333-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EES SOUTH AMERICA — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-ees-south-america-27459-1@eventseye.impio-vault
-DESCRIPTION:LATAM’s Key Event for Batteries & Energy Storage Systems. It 
- takes a comprehensive approach to the topics of the new energy world by pr
- esenting cross-sector energy solutions and technologies\\nVenue: Expo Cent
- er Norte\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-ees-south-america-27459-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-ees-south-america-27459-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ELETROTEC+EM-POWER SOUTH AMERICA — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-eletrotec-em-power-south-america-27462-1@eventseye.impio-vault
-DESCRIPTION:The exhibition for electrical infrastructure and energy managem
- ent. It focuses on technologies for electrical energy distribution as well
-  as services and software solutions for energy management at grid\, utilit
- y or building level\\nVenue: Expo Center Norte\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-eletrotec-em-power-south-america
- -27462-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-eletrotec-em-power-south-america-2746
- 2-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDO RENERGY — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-indo-renergy-13654-1@eventseye.impio-vault
-DESCRIPTION:Renewable Energy Technology Exhibition and Conference. Indo Ren
- ergy & Electric Expo & Forum provides an exceptional platform for business
- es and research organizations to showcase innovative technologies in the s
- ustainable energy sector\\nVenue: Nusantara International Convention Exhib
- ition (NICE)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-indo-renergy-13654-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indo-renergy-13654-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDO WATER EXPO & FORUM — Jakarta\, Indonesia
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-indo-water-expo-forum-9097-1@eventseye.impio-vault
-DESCRIPTION:International exhibition dedicated to the water\, wastewater\, 
- and recycling sectors in Indonesia. It showcases cutting-edge innovations\
- , technologies\, and sustainable solutions to address the growing challeng
- es of water and wastewater management\\nVenue: Nusantara International Con
- vention Exhibition (NICE)\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-indo-water-expo-forum-9097-1.html
-LOCATION:Jakarta\, Indonesia
-URL:https://www.eventseye.com/fairs/f-indo-water-expo-forum-9097-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERSOLAR SOUTH AMERICA — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-intersolar-south-america-23887-1@eventseye.impio-vault
-DESCRIPTION:India's International Exhibition & Conference for the Solar Ind
- ustry. Intersolar is the world's largest solar technology trade fair and t
- he number one meeting point for everyone in the solar industry\\nVenue: Ex
- po Center Norte\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-intersolar-south-america-23887-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-intersolar-south-america-23887-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERSOLAR SUMMIT BRASIL SÃO PAULO — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270827
-UID:f-intersolar-summit-brasil-sao-paulo-27461-1@eventseye.impio-vault
-DESCRIPTION:'Intersolar Summit Brasil São Paulo' addresses leading local a
- nd international experts on solar power and renewable energy in the region
- \\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-intersolar-summit-brasil-sao-paulo-27461-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-intersolar-summit-brasil-sao-paulo-27
- 461-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALUMINIUM TECH EXPO — Warsaw\, Poland
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270904
-UID:f-aluminium-tech-expo-33183-1@eventseye.impio-vault
-DESCRIPTION:Aluminium Tech Expo is a premier trade fair for aluminum techno
- logies in industry and construction. The event showcases innovations in al
- uminum production\, processing\, recycling\, quality control...\\nVenue: P
- tak Warsaw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-aluminium-tech-expo-33183-1.html
-LOCATION:Warsaw\, Poland
-URL:https://www.eventseye.com/fairs/f-aluminium-tech-expo-33183-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WOOD AND BIOENERGY — Jyväskylä\, Finland
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270904
-UID:f-wood-and-bioenergy-9486-1@eventseye.impio-vault
-DESCRIPTION:The Nordic region’s leading professional event for the wood i
- ndustry\, woodworking technology and carpentry industry. It brings togethe
- r more than 150 exhibitors from ten different countries\\nVenue: Jyväskyl
- ä Congress Centre\\nFrequency: every 2 years\\nSource: https://www.events
- eye.com/fairs/f-wood-and-bioenergy-9486-1.html
-LOCATION:Jyväskylä\, Finland
-URL:https://www.eventseye.com/fairs/f-wood-and-bioenergy-9486-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EKO-LAS — Swiebodzin\, Poland
-DTSTART;VALUE=DATE:20270902
-DTEND;VALUE=DATE:20270905
-UID:f-eko-las-13692-1@eventseye.impio-vault
-DESCRIPTION:International exhibition for the forestry industry\, wood indus
- try and environmental protection in Poland\\nFrequency: every 2 years\\nSo
- urce: https://www.eventseye.com/fairs/f-eko-las-13692-1.html
-LOCATION:Swiebodzin\, Poland
-URL:https://www.eventseye.com/fairs/f-eko-las-13692-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IAA MOBILITY — Munich\, Germany
-DTSTART;VALUE=DATE:20270907
-DTEND;VALUE=DATE:20270913
-UID:f-iaa-mobility-1267-1@eventseye.impio-vault
-DESCRIPTION:The world's largest and most important mobility event offers ma
- nufacturers\, suppliers\, tech companies\, service providers and startups 
- a wide range of opportunities to present themselves and their services to 
- a broad international B2B and B2C audience\\nVenue: M\,O\,C\,\\nFrequency:
-  every 2 years\\nSource: https://www.eventseye.com/fairs/f-iaa-mobility-12
- 67-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-iaa-mobility-1267-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HUSUM WIND — Husum\, Germany
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270918
-UID:f-husum-wind-2862-1@eventseye.impio-vault
-DESCRIPTION:HUSUM WIND is the most important theme fair for renewable energ
- ies for the German-speaking market. Onshore and offshore wind\, green hydr
- ogen\, storage technologies\, recycling & repowering and the associated fi
- nance industry\\nVenue: Messe Husum\\nFrequency: every 2 years\\nSource: h
- ttps://www.eventseye.com/fairs/f-husum-wind-2862-1.html
-LOCATION:Husum\, Germany
-URL:https://www.eventseye.com/fairs/f-husum-wind-2862-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WHTC - WORLD HYDROGEN TECHNOLOGIES CONVENTION — Halifax\, NS\, Ca
- nada
-DTSTART;VALUE=DATE:20270914
-DTEND;VALUE=DATE:20270917
-UID:f-whtc-world-hydrogen-technologies-convention-17668-1@eventseye.impio-vault
-DESCRIPTION:WHTC is one of the best known conventions in the fields of hydr
- ogen energy and fuel cell technology. providing the platform to communicat
- e the latest scientific research and market development worldwide\\nFreque
- ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-whtc-world-
- hydrogen-technologies-convention-17668-1.html
-LOCATION:Halifax\, NS\, Canada
-URL:https://www.eventseye.com/fairs/f-whtc-world-hydrogen-technologies-conv
- ention-17668-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHEMICAL RECYCLING EUROPE — Frankfurt\, Germany
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270917
-UID:f-chemical-recycling-europe-28371-1@eventseye.impio-vault
-DESCRIPTION:Forum exploring the potential of chemical or advanced recycling
-  to turn waste plastics into new materials\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-chemical-recycling-europe-28371-1.ht
- ml
-LOCATION:Frankfurt\, Germany
-URL:https://www.eventseye.com/fairs/f-chemical-recycling-europe-28371-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE BIG 5 SAUDI — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20270919
-DTEND;VALUE=DATE:20270923
-UID:f-the-big-5-saudi-21090-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Building\, Water Technology & Envi
- ronment\, Air Conditioning & Refrigeration\, Cleaning & Maintenance\, Glas
- s & Metal in Jeddah. THE BIG 5 SAUDI also offers free seminars sessions\\n
- Venue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-the-big-5-saudi-2109
- 0-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-the-big-5-saudi-21090-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FUTUREBUILD AUSTRALIA — Sydney\, Australia
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270924
-UID:f-futurebuild-australia-34688-1@eventseye.impio-vault
-DESCRIPTION:Futurebuild Australia helps the industry get there by uniting m
- anufacturers and solution providers with architects\, builders and decisio
- n-makers to accelerate smarter\, faster\, and more sustainable ways to des
- ign\, build\, and retrofit the spaces\\nVenue: ICC Sydney - International 
- Convention Centre Sydney\\nFrequency: every 2 years\\nSource: https://www.
- eventseye.com/fairs/f-futurebuild-australia-34688-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-futurebuild-australia-34688-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IE EXPO GUANGZHOU — Guangzhou\, China
-DTSTART;VALUE=DATE:20270922
-DTEND;VALUE=DATE:20270925
-UID:f-ie-expo-guangzhou-26959-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Water\, Sewage\, Refuse\, Recyclin
- g\, Air Pollution Control and Energy Conservation\\nVenue: China Import an
- d Export Fair Complex Area B\\nFrequency: every 2 years\\nSource: https://
- www.eventseye.com/fairs/f-ie-expo-guangzhou-26959-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-ie-expo-guangzhou-26959-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VALVE WORLD SOUTH EAST ASIA EXPO & CONFERENCE — Singapore\, Singa
- pore
-DTSTART;VALUE=DATE:20270923
-DTEND;VALUE=DATE:20270925
-UID:f-valve-world-south-east-asia-expo-conference-32588-1@eventseye.impio-vault
-DESCRIPTION:Piping and Valve Professionals Conference & Expo in Singapore. 
- Valve World Expo & Conference South East Asia is a valuable meeting point 
- for valve professionals from all over the world with a special emphasis on
-  recent developments in South East Asia\\nVenue: Singapore Expo\\nFrequenc
- y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-valve-world-s
- outh-east-asia-expo-conference-32588-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-valve-world-south-east-asia-expo-conf
- erence-32588-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO BIOMASA — Valladolid\, Spain
-DTSTART;VALUE=DATE:20270928
-DTEND;VALUE=DATE:20271001
-UID:f-expo-biomasa-10236-1@eventseye.impio-vault
-DESCRIPTION:Expobiomasa brings together professionals related to the boomin
- g biomass market: forestry machinery companies and solid and pellet biofue
- l industries\, manufacturers\, distributors and installers of air conditio
- ning systems\,...\\nVenue: Feria de Valladolid\\nFrequency: every 2 years\
- \nSource: https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
-LOCATION:Valladolid\, Spain
-URL:https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCL’EAU - CORSICA — Ajaccio\, France
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20271001
-UID:f-cycl-eau-corsica-34058-1@eventseye.impio-vault
-DESCRIPTION:Forum dedicated to public and private stakeholders in the water
-  sector. Exchange and create synergies. Round tables & plenaries to highli
- ght the major issues linked to climate change and the preservation of wate
- r resources\\nVenue: Palais des Congrès et des Expositions d'Ajaccio\\nFr
- equency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-cycl-ea
- u-corsica-34058-1.html
-LOCATION:Ajaccio\, France
-URL:https://www.eventseye.com/fairs/f-cycl-eau-corsica-34058-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCL’EAU CORSICA — Bastia\, France
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20271001
-UID:f-cycl-eau-corsica-31795-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for players in the Corsica water sector. A cycle of 
- conferences will be offered on the sidelines of the expo on major themes: 
- rainwater management\, water and agriculture\, pricing\, savings and manag
- ement of water resources...\\nVenue: Place Saint Nicolas\\nFrequency: ever
- y 3 years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-corsica-317
- 95-1.html
-LOCATION:Bastia\, France
-URL:https://www.eventseye.com/fairs/f-cycl-eau-corsica-31795-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:E2DT — Favignana\, Italy
-DTSTART;VALUE=DATE:20271003
-DTEND;VALUE=DATE:20271007
-UID:f-e2dt-28974-1@eventseye.impio-vault
-DESCRIPTION:The E2DT conference aims to bringing together researchers\, eng
- ineers\, senior executives\, policy makers and opinion formers to map the 
- transition towards net zero carbon and fully renewable energy\\nFrequency:
-  every 2 years\\nSource: https://www.eventseye.com/fairs/f-e2dt-28974-1.ht
- ml
-LOCATION:Favignana\, Italy
-URL:https://www.eventseye.com/fairs/f-e2dt-28974-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD WATER CONGRESS — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20271004
-DTEND;VALUE=DATE:20271009
-UID:f-world-water-congress-28273-1@eventseye.impio-vault
-DESCRIPTION:International Congress focused on Foundations for Global Water 
- Security and Resilience: Knowledge\, Technology and Policy\\nFrequency: ev
- ery 2 years\\nSource: https://www.eventseye.com/fairs/f-world-water-congre
- ss-28273-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-world-water-congress-28273-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POLLUTEC — Lyon\, France
-DTSTART;VALUE=DATE:20271012
-DTEND;VALUE=DATE:20271016
-UID:f-pollutec-2144-1@eventseye.impio-vault
-DESCRIPTION:Fair of solutions of the future serving environmental & economi
- c issues. Pollutec brings together the players in the ecological transitio
- n: solution providers\, leaders\, start-ups\, managers & decision-makers\,
-  project leaders\, investors\, elected officials\\nVenue: Eurexpo\\nFreque
- ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-pollutec-21
- 44-1.html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-pollutec-2144-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENVIROPRO TOULOUSE — Toulouse\, France
-DTSTART;VALUE=DATE:20271013
-DTEND;VALUE=DATE:20271015
-UID:f-enviropro-toulouse-29495-1@eventseye.impio-vault
-DESCRIPTION:Expo dedicated to environmental solutions and technologies\, wi
- th public economic actors (Communities\, Communities\, Administrations\, T
- erritories\, etc.) private (Industry\, Construction\, Transport\, Logistic
- s\, Trade\, Agriculture\, Tourism\, Services\, etc.)\\nVenue: MEETT - Parc
-  des Expositions et Centre de Conventions\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-enviropro-toulouse-29495-1.html
-LOCATION:Toulouse\, France
-URL:https://www.eventseye.com/fairs/f-enviropro-toulouse-29495-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OTC BRASIL — Rio de Janeiro\, Brazil
-DTSTART;VALUE=DATE:20271019
-DTEND;VALUE=DATE:20271022
-UID:f-otc-brasil-14665-1@eventseye.impio-vault
-DESCRIPTION:OTC Asia is where energy professionals meet to exchange ideas a
- nd opinions to advance scientific and technical knowledge for offshore res
- ources and environmental matters\\nVenue: SulAmerica Business Center\\nFre
- quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-otc-bras
- il-14665-1.html
-LOCATION:Rio de Janeiro\, Brazil
-URL:https://www.eventseye.com/fairs/f-otc-brasil-14665-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISK-SODEX ISTANBUL — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20271020
-DTEND;VALUE=DATE:20271024
-UID:f-isk-sodex-istanbul-4734-1@eventseye.impio-vault
-DESCRIPTION:Istanbul International HVAC&R\, Insulation\, Pump\, Valve\, Fit
- ting\, Water Treatment\, Fire Prevention\, Pool and Solar Energy Systems E
- xhibition\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi / CNR Expo
- \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-is
- k-sodex-istanbul-4734-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-isk-sodex-istanbul-4734-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAIE BARI — Bari\, Italy
-DTSTART;VALUE=DATE:20271021
-DTEND;VALUE=DATE:20271024
-UID:f-saie-bari-29117-1@eventseye.impio-vault
-DESCRIPTION:SAIE represents the largest community of professionals in the c
- onstruction sector. Discover the entire construction supply chain\, throug
- h paths dedicated to the key themes of sustainability\, innovation\, energ
- y efficiency and digital transformation\\nVenue: Fiera del Levante\\nFrequ
- ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-saie-bari-
- 29117-1.html
-LOCATION:Bari\, Italy
-URL:https://www.eventseye.com/fairs/f-saie-bari-29117-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EMPACK BRUSSELS — Brussels\, Belgium
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271029
-UID:f-empack-brussels-11836-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
- s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
- and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
- e: Nekkerhal-Brussels North\\nFrequency: every 2 years\\nSource: https://w
- ww.eventseye.com/fairs/f-empack-brussels-11836-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-empack-brussels-11836-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFF-GRID EXPERTS WORKSHOP — Augsburg\, Germany
-DTSTART;VALUE=DATE:20271027
-DTEND;VALUE=DATE:20271029
-UID:f-off-grid-experts-workshop-6315-1@eventseye.impio-vault
-DESCRIPTION:OFF-GRID Experts Workshop is a three-day program around self-su
- fficient solar\, wind and hydro power systems and the off-grid power suppl
- y\\nVenue: Augsburger Messezentrum\\nFrequency: unknown\\nSource: https://
- www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
-LOCATION:Augsburg\, Germany
-URL:https://www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUGAREX INDONESIA — Surabaya\, Indonesia
-DTSTART;VALUE=DATE:20271110
-DTEND;VALUE=DATE:20271112
-UID:f-sugarex-indonesia-21949-1@eventseye.impio-vault
-DESCRIPTION:Sugar and Bioethanol Technology Expo in Indonesia. Sugarex Indo
- nesia will showcase the latest developments in the world sugar and bioetha
- nol industry\\nVenue: Dyandra Convention Center\, Surabaya\\nFrequency: ev
- ery 2 years\\nSource: https://www.eventseye.com/fairs/f-sugarex-indonesia-
- 21949-1.html
-LOCATION:Surabaya\, Indonesia
-URL:https://www.eventseye.com/fairs/f-sugarex-indonesia-21949-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VITRUM — Milan\, Italy
-DTSTART;VALUE=DATE:20271116
-DTEND;VALUE=DATE:20271120
-UID:f-vitrum-23910-1@eventseye.impio-vault
-DESCRIPTION:International Glass Industry Exhibition. Raw materials\, auxili
- aries\, and additives for flat glass production\, systems\, machines\, and
-  equipment for raw material preparation and processing\, and glass waste c
- rushing...\\nVenue: Fiera Milano\, Rho\\nFrequency: every 2 years\\nSource
- : https://www.eventseye.com/fairs/f-vitrum-23910-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-vitrum-23910-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCL’EAU - CLERMONT-AUVERGNE — Clermont-Ferrand\, France
-DTSTART;VALUE=DATE:20271124
-DTEND;VALUE=DATE:20271126
-UID:f-cycl-eau-clermont-auvergne-33402-1@eventseye.impio-vault
-DESCRIPTION:Forum dedicated to public and private stakeholders in the water
-  sector. Exchange and create synergies. Round tables & plenaries to highli
- ght the major issues linked to climate change and the preservation of wate
- r resources\\nVenue: Polydome - Centre d'Exposition et de Congrès\\nFrequ
- ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-c
- lermont-auvergne-33402-1.html
-LOCATION:Clermont-Ferrand\, France
-URL:https://www.eventseye.com/fairs/f-cycl-eau-clermont-auvergne-33402-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CYCL’EAU CLERMONT - AUVERGNE — Clermont-Ferrand\, France
-DTSTART;VALUE=DATE:20271124
-DTEND;VALUE=DATE:20271126
-UID:f-cycl-eau-clermont-auvergne-33046-1@eventseye.impio-vault
-DESCRIPTION:Exhibition for players in the water sector. A cycle of conferen
- ces will be offered on the sidelines of the expo on major themes: rainwate
- r management\, water and agriculture\, pricing\, savings and management of
-  water resources...\\nVenue: Grande Halle d'Auvergne\\nFrequency: every 2 
- years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-clermont-auverg
- ne-33046-1.html
-LOCATION:Clermont-Ferrand\, France
-URL:https://www.eventseye.com/fairs/f-cycl-eau-clermont-auvergne-33046-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AQUA SUISSE — Zurich\, Switzerland
-DTSTART;VALUE=DATE:20271201
-DTEND;VALUE=DATE:20271203
-UID:f-aqua-suisse-31922-1@eventseye.impio-vault
-DESCRIPTION:AQUA Suisse is the Swiss exhibition for municipal and industria
- l water management. The latest products and solutions for water supply\, w
- ater treatment\, wastewater and process water treatment\\nVenue: Ferienmes
- se Zürich\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/
- fairs/f-aqua-suisse-31922-1.html
-LOCATION:Zurich\, Switzerland
-URL:https://www.eventseye.com/fairs/f-aqua-suisse-31922-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FORO DE LAS CIUDADES — Madrid\, Spain
-DTSTART;VALUE=DATE:20280606
-DTEND;VALUE=DATE:20280609
-UID:f-foro-de-las-ciudades-27503-1@eventseye.impio-vault
-DESCRIPTION:Exhibition dedicated to urban spaces for-wellbeing and sustaina
- bility. The event will include four themed auditoriums: Sustainable Urban 
- Development\, Innovative City\, Circular City\, and Human Well-being\\nVen
- ue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 years\\nSourc
- e: https://www.eventseye.com/fairs/f-foro-de-las-ciudades-27503-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-foro-de-las-ciudades-27503-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SRR — Madrid\, Spain
-DTSTART;VALUE=DATE:20280606
-DTEND;VALUE=DATE:20280609
-UID:f-srr-25104-1@eventseye.impio-vault
-DESCRIPTION:The International Fair of Recovery and Recycling\, SRR\, is con
- sidered the main event in Spain in the circular economy sector\, promoted 
- by FER (Spanish Federation of Recovery and Recycling)\\nVenue: Ifema - Par
- que Ferial Juan Carlos I\\nFrequency: every 2 years\\nSource: https://www.
- eventseye.com/fairs/f-srr-25104-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-srr-25104-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECMA — Madrid\, Spain
-DTSTART;VALUE=DATE:20280606
-DTEND;VALUE=DATE:20280609
-UID:f-tecma-2656-1@eventseye.impio-vault
-DESCRIPTION:Environment Techniques and Services Trade Fair. The Internation
- al Urban Planning and Environment Trade Fair (TECMA) is the key meeting po
- int for sustainable urban development and environmental transformation\\nV
- enue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-tecma-2656-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-tecma-2656-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VALVE WORLD CALGARY CONFERENCE & EXHIBITION — Calgary\, AB\, Cana
- da
-DTSTART;VALUE=DATE:20280607
-DTEND;VALUE=DATE:20280609
-UID:f-valve-world-calgary-conference-exhibition-32592-1@eventseye.impio-vault
-DESCRIPTION:Expo & Conference dedicated to the latest technologies\, compon
- ents and systems in the field of industrial flow control\\nVenue: Telus Co
- nvention Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye
- .com/fairs/f-valve-world-calgary-conference-exhibition-32592-1.html
-LOCATION:Calgary\, AB\, Canada
-URL:https://www.eventseye.com/fairs/f-valve-world-calgary-conference-exhibi
- tion-32592-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASEAN SOLAR EXPO — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20280613
-DTEND;VALUE=DATE:20280616
-UID:f-asean-solar-expo-27276-1@eventseye.impio-vault
-DESCRIPTION:ASEAN Solar Expo brings together the largest group of green tec
- hnology and renewable energy developers and supply chain partners seen any
- where in the Southeast Asia\\nVenue: Kuala Lumpur Convention Centre (KLCC)
- \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-as
- ean-solar-expo-27276-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-asean-solar-expo-27276-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENERTEC ASIA — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20280613
-DTEND;VALUE=DATE:20280616
-UID:f-enertec-asia-33585-1@eventseye.impio-vault
-DESCRIPTION:ENERtec Asia is Southeast Asia’s premier event on Energy Tran
- sition. The event showcases innovative solutions across Infrastructure\, M
- anufacturing and Commercial Buildings. Renewable Energy\, Clean Technology
- \, Electric Vehicles\\nVenue: Kuala Lumpur Convention Centre (KLCC)\\nFreq
- uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-enertec-a
- sia-33585-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-enertec-asia-33585-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KOREA OCEAN EXPO — Incheon\, Korea South
-DTSTART;VALUE=DATE:20280621
-DTEND;VALUE=DATE:20280624
-UID:f-korea-ocean-expo-30491-1@eventseye.impio-vault
-DESCRIPTION:Korea International Shipbuilding Expo & Conference. Shipbuildin
- g Equipment & Technologies\, Ship Engines & Parts\, Shipyard\, Marine Equi
- pment\, Eco-Friendly Ship Equipement\, Navigation\, Communication Device\,
-  Safety\, Rescue...\\nVenue: Songdo Convensia\\nFrequency: every 2 years\\
- nSource: https://www.eventseye.com/fairs/f-korea-ocean-expo-30491-1.html
-LOCATION:Incheon\, Korea South
-URL:https://www.eventseye.com/fairs/f-korea-ocean-expo-30491-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OILS+FATS — Munich\, Germany
-DTSTART;VALUE=DATE:20280911
-DTEND;VALUE=DATE:20280916
-UID:f-oils-fats-11910-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for the Production and Processing of O
- ils and Fats made from Renewable Resources\\nVenue: Fairground Messe Münc
- hen\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs/f
- -oils-fats-11910-1.html
-LOCATION:Munich\, Germany
-URL:https://www.eventseye.com/fairs/f-oils-fats-11910-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE PERTH HOME SHOW — Perth\, Australia
@@ -11496,6 +11092,514 @@ URL:https://www.eventseye.com/fairs/f-kzn-industrial-technology-exhibition-
  16051-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FENASUCRO & AGROCANA — Sertãozinho\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270814
+UID:f-fenasucro-agrocana-14333-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair of the Sugar and Alcohol Industry - In
+ ternational Trade Fair - Business and Technology Trade Fair of Sugarcane A
+ griculture\\nVenue: Centro de Eventos Zanini\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-fenasucro-agrocana-14333-1.html
+LOCATION:Sertãozinho\, Brazil
+URL:https://www.eventseye.com/fairs/f-fenasucro-agrocana-14333-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EES SOUTH AMERICA — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-ees-south-america-27459-1@eventseye.impio-vault
+DESCRIPTION:LATAM’s Key Event for Batteries & Energy Storage Systems. It 
+ takes a comprehensive approach to the topics of the new energy world by pr
+ esenting cross-sector energy solutions and technologies\\nVenue: Expo Cent
+ er Norte\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-ees-south-america-27459-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-ees-south-america-27459-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ELETROTEC+EM-POWER SOUTH AMERICA — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-eletrotec-em-power-south-america-27462-1@eventseye.impio-vault
+DESCRIPTION:The exhibition for electrical infrastructure and energy managem
+ ent. It focuses on technologies for electrical energy distribution as well
+  as services and software solutions for energy management at grid\, utilit
+ y or building level\\nVenue: Expo Center Norte\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-eletrotec-em-power-south-america
+ -27462-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-eletrotec-em-power-south-america-2746
+ 2-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO RENERGY — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-indo-renergy-13654-1@eventseye.impio-vault
+DESCRIPTION:Renewable Energy Technology Exhibition and Conference. Indo Ren
+ ergy & Electric Expo & Forum provides an exceptional platform for business
+ es and research organizations to showcase innovative technologies in the s
+ ustainable energy sector\\nVenue: Nusantara International Convention Exhib
+ ition (NICE)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-indo-renergy-13654-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-renergy-13654-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO WASTE & RECYCLING — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-indo-waste-recycling-13653-1@eventseye.impio-vault
+DESCRIPTION:Expo and Forum for Waste Management. Co-located with Indonesia 
+ International Smart City\, Indo Water and Indo Renergy & Electric Expo & F
+ orum\\nVenue: Nusantara International Convention Exhibition (NICE)\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-indo-waste-r
+ ecycling-13653-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-waste-recycling-13653-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INDO WATER EXPO & FORUM — Jakarta\, Indonesia
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-indo-water-expo-forum-9097-1@eventseye.impio-vault
+DESCRIPTION:International exhibition dedicated to the water\, wastewater\, 
+ and recycling sectors in Indonesia. It showcases cutting-edge innovations\
+ , technologies\, and sustainable solutions to address the growing challeng
+ es of water and wastewater management\\nVenue: Nusantara International Con
+ vention Exhibition (NICE)\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-indo-water-expo-forum-9097-1.html
+LOCATION:Jakarta\, Indonesia
+URL:https://www.eventseye.com/fairs/f-indo-water-expo-forum-9097-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERSOLAR SOUTH AMERICA — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-intersolar-south-america-23887-1@eventseye.impio-vault
+DESCRIPTION:India's International Exhibition & Conference for the Solar Ind
+ ustry. Intersolar is the world's largest solar technology trade fair and t
+ he number one meeting point for everyone in the solar industry\\nVenue: Ex
+ po Center Norte\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-intersolar-south-america-23887-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-intersolar-south-america-23887-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERSOLAR SUMMIT BRASIL SÃO PAULO — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270827
+UID:f-intersolar-summit-brasil-sao-paulo-27461-1@eventseye.impio-vault
+DESCRIPTION:'Intersolar Summit Brasil São Paulo' addresses leading local a
+ nd international experts on solar power and renewable energy in the region
+ \\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-intersolar-summit-brasil-sao-paulo-27461-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-intersolar-summit-brasil-sao-paulo-27
+ 461-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALUMINIUM TECH EXPO — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270904
+UID:f-aluminium-tech-expo-33183-1@eventseye.impio-vault
+DESCRIPTION:Aluminium Tech Expo is a premier trade fair for aluminum techno
+ logies in industry and construction. The event showcases innovations in al
+ uminum production\, processing\, recycling\, quality control...\\nVenue: P
+ tak Warsaw Expo\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-aluminium-tech-expo-33183-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-aluminium-tech-expo-33183-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOOD AND BIOENERGY — Jyväskylä\, Finland
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270904
+UID:f-wood-and-bioenergy-9486-1@eventseye.impio-vault
+DESCRIPTION:The Nordic region’s leading professional event for the wood i
+ ndustry\, woodworking technology and carpentry industry. It brings togethe
+ r more than 150 exhibitors from ten different countries\\nVenue: Jyväskyl
+ ä Congress Centre\\nFrequency: every 2 years\\nSource: https://www.events
+ eye.com/fairs/f-wood-and-bioenergy-9486-1.html
+LOCATION:Jyväskylä\, Finland
+URL:https://www.eventseye.com/fairs/f-wood-and-bioenergy-9486-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EKO-LAS — Swiebodzin\, Poland
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270905
+UID:f-eko-las-13692-1@eventseye.impio-vault
+DESCRIPTION:International exhibition for the forestry industry\, wood indus
+ try and environmental protection in Poland\\nFrequency: every 2 years\\nSo
+ urce: https://www.eventseye.com/fairs/f-eko-las-13692-1.html
+LOCATION:Swiebodzin\, Poland
+URL:https://www.eventseye.com/fairs/f-eko-las-13692-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IAA MOBILITY — Munich\, Germany
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270913
+UID:f-iaa-mobility-1267-1@eventseye.impio-vault
+DESCRIPTION:The world's largest and most important mobility event offers ma
+ nufacturers\, suppliers\, tech companies\, service providers and startups 
+ a wide range of opportunities to present themselves and their services to 
+ a broad international B2B and B2C audience\\nVenue: M\,O\,C\,\\nFrequency:
+  every 2 years\\nSource: https://www.eventseye.com/fairs/f-iaa-mobility-12
+ 67-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-iaa-mobility-1267-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HUSUM WIND — Husum\, Germany
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270918
+UID:f-husum-wind-2862-1@eventseye.impio-vault
+DESCRIPTION:HUSUM WIND is the most important theme fair for renewable energ
+ ies for the German-speaking market. Onshore and offshore wind\, green hydr
+ ogen\, storage technologies\, recycling & repowering and the associated fi
+ nance industry\\nVenue: Messe Husum\\nFrequency: every 2 years\\nSource: h
+ ttps://www.eventseye.com/fairs/f-husum-wind-2862-1.html
+LOCATION:Husum\, Germany
+URL:https://www.eventseye.com/fairs/f-husum-wind-2862-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEWTOPIA NOW — Chicago\, IL\, USA
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270917
+UID:f-newtopia-now-10699-1@eventseye.impio-vault
+DESCRIPTION:Newtopia Now is a B2B business event where brands and buyers co
+ nnect and co-create the next era of purpose-driven consumer goods and reta
+ il\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ne
+ wtopia-now-10699-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-newtopia-now-10699-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHTC - WORLD HYDROGEN TECHNOLOGIES CONVENTION — Halifax\, NS\, Ca
+ nada
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270917
+UID:f-whtc-world-hydrogen-technologies-convention-17668-1@eventseye.impio-vault
+DESCRIPTION:WHTC is one of the best known conventions in the fields of hydr
+ ogen energy and fuel cell technology. providing the platform to communicat
+ e the latest scientific research and market development worldwide\\nFreque
+ ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-whtc-world-
+ hydrogen-technologies-convention-17668-1.html
+LOCATION:Halifax\, NS\, Canada
+URL:https://www.eventseye.com/fairs/f-whtc-world-hydrogen-technologies-conv
+ ention-17668-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMICAL RECYCLING EUROPE — Frankfurt\, Germany
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270917
+UID:f-chemical-recycling-europe-28371-1@eventseye.impio-vault
+DESCRIPTION:Forum exploring the potential of chemical or advanced recycling
+  to turn waste plastics into new materials\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-chemical-recycling-europe-28371-1.ht
+ ml
+LOCATION:Frankfurt\, Germany
+URL:https://www.eventseye.com/fairs/f-chemical-recycling-europe-28371-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE BIG 5 SAUDI — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270923
+UID:f-the-big-5-saudi-21090-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Building\, Water Technology & Envi
+ ronment\, Air Conditioning & Refrigeration\, Cleaning & Maintenance\, Glas
+ s & Metal in Jeddah. THE BIG 5 SAUDI also offers free seminars sessions\\n
+ Venue: Riyadh Front Exhibition & Conference Center - RFECC\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-the-big-5-saudi-2109
+ 0-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-the-big-5-saudi-21090-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FUTUREBUILD AUSTRALIA — Sydney\, Australia
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270924
+UID:f-futurebuild-australia-34688-1@eventseye.impio-vault
+DESCRIPTION:Futurebuild Australia helps the industry get there by uniting m
+ anufacturers and solution providers with architects\, builders and decisio
+ n-makers to accelerate smarter\, faster\, and more sustainable ways to des
+ ign\, build\, and retrofit the spaces\\nVenue: ICC Sydney - International 
+ Convention Centre Sydney\\nFrequency: every 2 years\\nSource: https://www.
+ eventseye.com/fairs/f-futurebuild-australia-34688-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-futurebuild-australia-34688-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IE EXPO GUANGZHOU — Guangzhou\, China
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270925
+UID:f-ie-expo-guangzhou-26959-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Water\, Sewage\, Refuse\, Recyclin
+ g\, Air Pollution Control and Energy Conservation\\nVenue: China Import an
+ d Export Fair Complex Area B\\nFrequency: every 2 years\\nSource: https://
+ www.eventseye.com/fairs/f-ie-expo-guangzhou-26959-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-ie-expo-guangzhou-26959-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VALVE WORLD SOUTH EAST ASIA EXPO & CONFERENCE — Singapore\, Singa
+ pore
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270925
+UID:f-valve-world-south-east-asia-expo-conference-32588-1@eventseye.impio-vault
+DESCRIPTION:Piping and Valve Professionals Conference & Expo in Singapore. 
+ Valve World Expo & Conference South East Asia is a valuable meeting point 
+ for valve professionals from all over the world with a special emphasis on
+  recent developments in South East Asia\\nVenue: Singapore Expo\\nFrequenc
+ y: every 2 years\\nSource: https://www.eventseye.com/fairs/f-valve-world-s
+ outh-east-asia-expo-conference-32588-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-valve-world-south-east-asia-expo-conf
+ erence-32588-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO BIOMASA — Valladolid\, Spain
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271001
+UID:f-expo-biomasa-10236-1@eventseye.impio-vault
+DESCRIPTION:Expobiomasa brings together professionals related to the boomin
+ g biomass market: forestry machinery companies and solid and pellet biofue
+ l industries\, manufacturers\, distributors and installers of air conditio
+ ning systems\,...\\nVenue: Feria de Valladolid\\nFrequency: every 2 years\
+ \nSource: https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
+LOCATION:Valladolid\, Spain
+URL:https://www.eventseye.com/fairs/f-expo-biomasa-10236-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCL’EAU - CORSICA — Ajaccio\, France
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271001
+UID:f-cycl-eau-corsica-34058-1@eventseye.impio-vault
+DESCRIPTION:Forum dedicated to public and private stakeholders in the water
+  sector. Exchange and create synergies. Round tables & plenaries to highli
+ ght the major issues linked to climate change and the preservation of wate
+ r resources\\nVenue: Palais des Congrès et des Expositions d'Ajaccio\\nFr
+ equency: every 3 years\\nSource: https://www.eventseye.com/fairs/f-cycl-ea
+ u-corsica-34058-1.html
+LOCATION:Ajaccio\, France
+URL:https://www.eventseye.com/fairs/f-cycl-eau-corsica-34058-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCL’EAU CORSICA — Bastia\, France
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271001
+UID:f-cycl-eau-corsica-31795-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for players in the Corsica water sector. A cycle of 
+ conferences will be offered on the sidelines of the expo on major themes: 
+ rainwater management\, water and agriculture\, pricing\, savings and manag
+ ement of water resources...\\nVenue: Place Saint Nicolas\\nFrequency: ever
+ y 3 years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-corsica-317
+ 95-1.html
+LOCATION:Bastia\, France
+URL:https://www.eventseye.com/fairs/f-cycl-eau-corsica-31795-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:E2DT — Favignana\, Italy
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271007
+UID:f-e2dt-28974-1@eventseye.impio-vault
+DESCRIPTION:The E2DT conference aims to bringing together researchers\, eng
+ ineers\, senior executives\, policy makers and opinion formers to map the 
+ transition towards net zero carbon and fully renewable energy\\nFrequency:
+  every 2 years\\nSource: https://www.eventseye.com/fairs/f-e2dt-28974-1.ht
+ ml
+LOCATION:Favignana\, Italy
+URL:https://www.eventseye.com/fairs/f-e2dt-28974-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORLD WATER CONGRESS — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20271004
+DTEND;VALUE=DATE:20271009
+UID:f-world-water-congress-28273-1@eventseye.impio-vault
+DESCRIPTION:International Congress focused on Foundations for Global Water 
+ Security and Resilience: Knowledge\, Technology and Policy\\nFrequency: ev
+ ery 2 years\\nSource: https://www.eventseye.com/fairs/f-world-water-congre
+ ss-28273-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-world-water-congress-28273-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POLLUTEC — Lyon\, France
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271016
+UID:f-pollutec-2144-1@eventseye.impio-vault
+DESCRIPTION:Fair of solutions of the future serving environmental & economi
+ c issues. Pollutec brings together the players in the ecological transitio
+ n: solution providers\, leaders\, start-ups\, managers & decision-makers\,
+  project leaders\, investors\, elected officials\\nVenue: Eurexpo\\nFreque
+ ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-pollutec-21
+ 44-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-pollutec-2144-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENVIROPRO TOULOUSE — Toulouse\, France
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271015
+UID:f-enviropro-toulouse-29495-1@eventseye.impio-vault
+DESCRIPTION:Expo dedicated to environmental solutions and technologies\, wi
+ th public economic actors (Communities\, Communities\, Administrations\, T
+ erritories\, etc.) private (Industry\, Construction\, Transport\, Logistic
+ s\, Trade\, Agriculture\, Tourism\, Services\, etc.)\\nVenue: MEETT - Parc
+  des Expositions et Centre de Conventions\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-enviropro-toulouse-29495-1.html
+LOCATION:Toulouse\, France
+URL:https://www.eventseye.com/fairs/f-enviropro-toulouse-29495-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OTC BRASIL — Rio de Janeiro\, Brazil
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+UID:f-otc-brasil-14665-1@eventseye.impio-vault
+DESCRIPTION:OTC Asia is where energy professionals meet to exchange ideas a
+ nd opinions to advance scientific and technical knowledge for offshore res
+ ources and environmental matters\\nVenue: SulAmerica Business Center\\nFre
+ quency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-otc-bras
+ il-14665-1.html
+LOCATION:Rio de Janeiro\, Brazil
+URL:https://www.eventseye.com/fairs/f-otc-brasil-14665-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHEMICAL RECYCLING NORTH AMERICA — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271022
+UID:f-chemical-recycling-north-america-29289-1@eventseye.impio-vault
+DESCRIPTION:Forum exploring the potential of chemical or advanced recycling
+  to turn waste plastics into new materials\\nVenue: The Westin Houston\, M
+ emorial City\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-chemical-recycling-north-america-29289-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-chemical-recycling-north-america-2928
+ 9-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISK-SODEX ISTANBUL — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271024
+UID:f-isk-sodex-istanbul-4734-1@eventseye.impio-vault
+DESCRIPTION:Istanbul International HVAC&R\, Insulation\, Pump\, Valve\, Fit
+ ting\, Water Treatment\, Fire Prevention\, Pool and Solar Energy Systems E
+ xhibition\\nVenue: Istanbul Expo Center / Istanbul Fuar Merkezi / CNR Expo
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-is
+ k-sodex-istanbul-4734-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-isk-sodex-istanbul-4734-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAIE BARI — Bari\, Italy
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271024
+UID:f-saie-bari-29117-1@eventseye.impio-vault
+DESCRIPTION:SAIE represents the largest community of professionals in the c
+ onstruction sector. Discover the entire construction supply chain\, throug
+ h paths dedicated to the key themes of sustainability\, innovation\, energ
+ y efficiency and digital transformation\\nVenue: Fiera del Levante\\nFrequ
+ ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-saie-bari-
+ 29117-1.html
+LOCATION:Bari\, Italy
+URL:https://www.eventseye.com/fairs/f-saie-bari-29117-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMPACK BRUSSELS — Brussels\, Belgium
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271029
+UID:f-empack-brussels-11836-1@eventseye.impio-vault
+DESCRIPTION:Trade Fair for Innovative Packaging Solutions. Empack exhibitor
+ s will showcase Packaging Materials\, Equipment & Technologies\, Labeling 
+ and Marking Technology\, Creative and Design\, Recycling\, Services\\nVenu
+ e: Nekkerhal-Brussels North\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-empack-brussels-11836-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-empack-brussels-11836-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFF-GRID EXPERTS WORKSHOP — Augsburg\, Germany
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271029
+UID:f-off-grid-experts-workshop-6315-1@eventseye.impio-vault
+DESCRIPTION:OFF-GRID Experts Workshop is a three-day program around self-su
+ fficient solar\, wind and hydro power systems and the off-grid power suppl
+ y\\nVenue: Augsburger Messezentrum\\nFrequency: unknown\\nSource: https://
+ www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
+LOCATION:Augsburg\, Germany
+URL:https://www.eventseye.com/fairs/f-off-grid-experts-workshop-6315-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUGAREX INDONESIA — Surabaya\, Indonesia
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271112
+UID:f-sugarex-indonesia-21949-1@eventseye.impio-vault
+DESCRIPTION:Sugar and Bioethanol Technology Expo in Indonesia. Sugarex Indo
+ nesia will showcase the latest developments in the world sugar and bioetha
+ nol industry\\nVenue: Dyandra Convention Center\, Surabaya\\nFrequency: ev
+ ery 2 years\\nSource: https://www.eventseye.com/fairs/f-sugarex-indonesia-
+ 21949-1.html
+LOCATION:Surabaya\, Indonesia
+URL:https://www.eventseye.com/fairs/f-sugarex-indonesia-21949-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VITRUM — Milan\, Italy
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271120
+UID:f-vitrum-23910-1@eventseye.impio-vault
+DESCRIPTION:International Glass Industry Exhibition. Raw materials\, auxili
+ aries\, and additives for flat glass production\, systems\, machines\, and
+  equipment for raw material preparation and processing\, and glass waste c
+ rushing...\\nVenue: Fiera Milano\, Rho\\nFrequency: every 2 years\\nSource
+ : https://www.eventseye.com/fairs/f-vitrum-23910-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-vitrum-23910-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCL’EAU - CLERMONT-AUVERGNE — Clermont-Ferrand\, France
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271126
+UID:f-cycl-eau-clermont-auvergne-33402-1@eventseye.impio-vault
+DESCRIPTION:Forum dedicated to public and private stakeholders in the water
+  sector. Exchange and create synergies. Round tables & plenaries to highli
+ ght the major issues linked to climate change and the preservation of wate
+ r resources\\nVenue: Polydome - Centre d'Exposition et de Congrès\\nFrequ
+ ency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-c
+ lermont-auvergne-33402-1.html
+LOCATION:Clermont-Ferrand\, France
+URL:https://www.eventseye.com/fairs/f-cycl-eau-clermont-auvergne-33402-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CYCL’EAU CLERMONT - AUVERGNE — Clermont-Ferrand\, France
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271126
+UID:f-cycl-eau-clermont-auvergne-33046-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for players in the water sector. A cycle of conferen
+ ces will be offered on the sidelines of the expo on major themes: rainwate
+ r management\, water and agriculture\, pricing\, savings and management of
+  water resources...\\nVenue: Grande Halle d'Auvergne\\nFrequency: every 2 
+ years\\nSource: https://www.eventseye.com/fairs/f-cycl-eau-clermont-auverg
+ ne-33046-1.html
+LOCATION:Clermont-Ferrand\, France
+URL:https://www.eventseye.com/fairs/f-cycl-eau-clermont-auvergne-33046-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AQUA SUISSE — Zurich\, Switzerland
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271203
+UID:f-aqua-suisse-31922-1@eventseye.impio-vault
+DESCRIPTION:AQUA Suisse is the Swiss exhibition for municipal and industria
+ l water management. The latest products and solutions for water supply\, w
+ ater treatment\, wastewater and process water treatment\\nVenue: Ferienmes
+ se Zürich\\nFrequency: every 2 years\\nSource: https://www.eventseye.com/
+ fairs/f-aqua-suisse-31922-1.html
+LOCATION:Zurich\, Switzerland
+URL:https://www.eventseye.com/fairs/f-aqua-suisse-31922-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GLOBAL WASTE MANAGEMENT SYMPOSIUM — Palm Springs\, CA\, USA
 DTSTART;VALUE=DATE:20280206
 DTEND;VALUE=DATE:20280210
@@ -11726,6 +11830,20 @@ LOCATION:Nuremberg\, Germany
 URL:https://www.eventseye.com/fairs/f-ifh-intherm-18799-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POWERTAGE — Zurich\, Switzerland
+DTSTART;VALUE=DATE:20280516
+DTEND;VALUE=DATE:20280519
+UID:f-powertage-9928-1@eventseye.impio-vault
+DESCRIPTION:Powertage\, the leading networking event for the Swiss electric
+ ity industry\, offers the environment in which to chat with experts about 
+ current topics along the entire value chain and to learn about intelligent
+  services and sustainable technologies\\nVenue: Ferienmesse Zürich\\nFreq
+ uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-powertage
+ -9928-1.html
+LOCATION:Zurich\, Switzerland
+URL:https://www.eventseye.com/fairs/f-powertage-9928-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IFAT — Munich\, Germany
 DTSTART;VALUE=DATE:20280529
 DTEND;VALUE=DATE:20280602
@@ -11737,5 +11855,123 @@ DESCRIPTION:The world's leading trade fair for environmental technologies.
  html
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-ifat-1294-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORO DE LAS CIUDADES — Madrid\, Spain
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280609
+UID:f-foro-de-las-ciudades-27503-1@eventseye.impio-vault
+DESCRIPTION:Exhibition dedicated to urban spaces for-wellbeing and sustaina
+ bility. The event will include four themed auditoriums: Sustainable Urban 
+ Development\, Innovative City\, Circular City\, and Human Well-being\\nVen
+ ue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 years\\nSourc
+ e: https://www.eventseye.com/fairs/f-foro-de-las-ciudades-27503-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-foro-de-las-ciudades-27503-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SRR — Madrid\, Spain
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280609
+UID:f-srr-25104-1@eventseye.impio-vault
+DESCRIPTION:The International Fair of Recovery and Recycling\, SRR\, is con
+ sidered the main event in Spain in the circular economy sector\, promoted 
+ by FER (Spanish Federation of Recovery and Recycling)\\nVenue: Ifema - Par
+ que Ferial Juan Carlos I\\nFrequency: every 2 years\\nSource: https://www.
+ eventseye.com/fairs/f-srr-25104-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-srr-25104-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECMA — Madrid\, Spain
+DTSTART;VALUE=DATE:20280606
+DTEND;VALUE=DATE:20280609
+UID:f-tecma-2656-1@eventseye.impio-vault
+DESCRIPTION:Environment Techniques and Services Trade Fair. The Internation
+ al Urban Planning and Environment Trade Fair (TECMA) is the key meeting po
+ int for sustainable urban development and environmental transformation\\nV
+ enue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-tecma-2656-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-tecma-2656-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VALVE WORLD CALGARY CONFERENCE & EXHIBITION — Calgary\, AB\, Cana
+ da
+DTSTART;VALUE=DATE:20280607
+DTEND;VALUE=DATE:20280609
+UID:f-valve-world-calgary-conference-exhibition-32592-1@eventseye.impio-vault
+DESCRIPTION:Expo & Conference dedicated to the latest technologies\, compon
+ ents and systems in the field of industrial flow control\\nVenue: Telus Co
+ nvention Centre\\nFrequency: every 2 years\\nSource: https://www.eventseye
+ .com/fairs/f-valve-world-calgary-conference-exhibition-32592-1.html
+LOCATION:Calgary\, AB\, Canada
+URL:https://www.eventseye.com/fairs/f-valve-world-calgary-conference-exhibi
+ tion-32592-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASEAN SOLAR EXPO — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280616
+UID:f-asean-solar-expo-27276-1@eventseye.impio-vault
+DESCRIPTION:ASEAN Solar Expo brings together the largest group of green tec
+ hnology and renewable energy developers and supply chain partners seen any
+ where in the Southeast Asia\\nVenue: Kuala Lumpur Convention Centre (KLCC)
+ \\nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-as
+ ean-solar-expo-27276-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-asean-solar-expo-27276-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENERTEC ASIA — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280616
+UID:f-enertec-asia-33585-1@eventseye.impio-vault
+DESCRIPTION:ENERtec Asia is Southeast Asia’s premier event on Energy Tran
+ sition. The event showcases innovative solutions across Infrastructure\, M
+ anufacturing and Commercial Buildings. Renewable Energy\, Clean Technology
+ \, Electric Vehicles\\nVenue: Kuala Lumpur Convention Centre (KLCC)\\nFreq
+ uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-enertec-a
+ sia-33585-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-enertec-asia-33585-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JAS LA ROCHELLE — La Rochelle\, France
+DTSTART;VALUE=DATE:20280614
+DTEND;VALUE=DATE:20280616
+UID:f-jas-la-rochelle-31088-1@eventseye.impio-vault
+DESCRIPTION:The Food & Health Days (JAS) today represent a benchmark event 
+ for agri-food professionals\, and one of the most important European busin
+ ess conventions in the sector\\nVenue: Espace Encan\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-jas-la-rochelle-31088-1.h
+ tml
+LOCATION:La Rochelle\, France
+URL:https://www.eventseye.com/fairs/f-jas-la-rochelle-31088-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOREA OCEAN EXPO — Incheon\, Korea South
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280624
+UID:f-korea-ocean-expo-30491-1@eventseye.impio-vault
+DESCRIPTION:Korea International Shipbuilding Expo & Conference. Shipbuildin
+ g Equipment & Technologies\, Ship Engines & Parts\, Shipyard\, Marine Equi
+ pment\, Eco-Friendly Ship Equipement\, Navigation\, Communication Device\,
+  Safety\, Rescue...\\nVenue: Songdo Convensia\\nFrequency: every 2 years\\
+ nSource: https://www.eventseye.com/fairs/f-korea-ocean-expo-30491-1.html
+LOCATION:Incheon\, Korea South
+URL:https://www.eventseye.com/fairs/f-korea-ocean-expo-30491-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OILS+FATS — Munich\, Germany
+DTSTART;VALUE=DATE:20280911
+DTEND;VALUE=DATE:20280916
+UID:f-oils-fats-11910-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for the Production and Processing of O
+ ils and Fats made from Renewable Resources\\nVenue: Fairground Messe Münc
+ hen\\nFrequency: every 3 years\\nSource: https://www.eventseye.com/fairs/f
+ -oils-fats-11910-1.html
+LOCATION:Munich\, Germany
+URL:https://www.eventseye.com/fairs/f-oils-fats-11910-1.html
 END:VEVENT
 END:VCALENDAR

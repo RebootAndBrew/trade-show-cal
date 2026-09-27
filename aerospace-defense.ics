@@ -1071,6 +1071,18 @@ LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-mro-asia-pacific-30563-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NANO CARBON WEEK — Chennai\, India
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260924
+UID:f-nano-carbon-week-34700-1@eventseye.impio-vault
+DESCRIPTION:Forum on Carbon Nanotechnology and Applications. Aerospace\, Ty
+ re industry\, Sensors and Actuators...\\nVenue: Green Park Hotel\, Chennai
+ \\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-nano
+ -carbon-week-34700-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-nano-carbon-week-34700-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SECURITY ASIA — Karachi\, Pakistan
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260925
@@ -1121,19 +1133,6 @@ URL:https://www.eventseye.com/fairs/f-women-in-mobility-luncheon-29320-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DRONEXPO — Madrid\, Spain
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260925
-UID:f-dronexpo-29304-1@eventseye.impio-vault
-DESCRIPTION:Trade fair and congress for systems and applications for unmann
- ed systems. DRONExpo joins forces with EXPOSECURITY to create the largest 
- trade fair for security technologies\, police equipment and drones in Spai
- n\\nVenue: Madrid Arena\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-dronexpo-29304-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-dronexpo-29304-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PTE ASIA - PASSENGER TERMINAL EXPO — Singapore\, Singapore
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260925
@@ -1145,17 +1144,6 @@ DESCRIPTION:International conference and exhibition for passenger terminal
 LOCATION:Singapore\, Singapore
 URL:https://www.eventseye.com/fairs/f-pte-asia-passenger-terminal-expo-3460
  3-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECNOSEC — Madrid\, Spain
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260925
-UID:f-tecnosec-29303-1@eventseye.impio-vault
-DESCRIPTION:International fair and congress of High Security\, Police and I
- ntelligence Technologies\\nVenue: Madrid Arena\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-tecnosec-29303-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-tecnosec-29303-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DRONE EXPO INDIA — New Delhi\, India
@@ -2230,6 +2218,30 @@ LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-vietnam-aviation-forum-30732-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DRONEXPO — Madrid\, Spain
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+UID:f-dronexpo-29304-1@eventseye.impio-vault
+DESCRIPTION:Trade fair and congress for systems and applications for unmann
+ ed systems. DRONExpo joins forces with EXPOSECURITY to create the largest 
+ trade fair for security technologies\, police equipment and drones in Spai
+ n\\nVenue: Madrid Arena\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-dronexpo-29304-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-dronexpo-29304-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECNOSEC — Madrid\, Spain
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261107
+UID:f-tecnosec-29303-1@eventseye.impio-vault
+DESCRIPTION:International fair and congress of High Security\, Police and I
+ ntelligence Technologies\\nVenue: Madrid Arena\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-tecnosec-29303-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-tecnosec-29303-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NEOSHO GUN SHOW — Neosho\, MO\, USA
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
@@ -2285,6 +2297,20 @@ DESCRIPTION:Big Pop Gun Shows provide the public with venues to buy\, sale\
  tiesburg-gun-show-28814-1.html
 LOCATION:Hattiesburg\, MS\, USA
 URL:https://www.eventseye.com/fairs/f-hattiesburg-gun-show-28814-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMECE — Memphis\, TN\, USA
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261113
+UID:f-imece-23742-1@eventseye.impio-vault
+DESCRIPTION:International Mechanical Engineering Congress & Exposition. ASM
+ E’s International Mechanical Engineering Congress and Exposition (IMECE
+ ®) is your opportunity to connect with leading researchers from across en
+ gineering disciplines\\nVenue: Renasant Convention Center\, Memphis\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-imece-23742
+ -1.html
+LOCATION:Memphis\, TN\, USA
+URL:https://www.eventseye.com/fairs/f-imece-23742-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FIRE RESISTANCE IN PLASTICS — Dusseldorf\, Germany
@@ -2500,6 +2526,21 @@ DESCRIPTION:The Europe’s largest B2B event for the space industry\, in Br
  e-28601-1.html
 LOCATION:Bremen\, Germany
 URL:https://www.eventseye.com/fairs/f-space-tech-expo-europe-28601-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACNDT - CONFÉRENCE AFRICAINE DES CONTRÔLES NON DESTRUCTIFS — Tu
+ nis\, Tunisia
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+UID:f-acndt-conference-africaine-des-controles-non-destructifs-34725-1@eventseye.impio-vault
+DESCRIPTION:African Conference on Non-Destructive Testing. Two days of conf
+ erences\, exchanges\, technology exhibitions\, and partnerships with signi
+ ficant continental impact\\nVenue: Parc des expositions du Kram\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-acndt-conferenc
+ e-africaine-des-controles-non-destructifs-34725-1.html
+LOCATION:Tunis\, Tunisia
+URL:https://www.eventseye.com/fairs/f-acndt-conference-africaine-des-contro
+ les-non-destructifs-34725-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:APEX EXPO - FUTURE TRAVEL EXPERIENCE — Singapore\, Singapore
@@ -3880,602 +3921,6 @@ URL:https://www.eventseye.com/fairs/f-inter-airport-south-east-asia-19251-1
  .html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IDEF — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20270503
-DTEND;VALUE=DATE:20270510
-UID:f-idef-13472-1@eventseye.impio-vault
-DESCRIPTION:IDEF is an international prestigious event showcasing the lates
- t technological advancements & products in defence industry\, future defen
- ce technologies and fostering strategic partnerships\\nVenue: Istanbul Exp
- o Center / Istanbul Fuar Merkezi / CNR Expo\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-idef-13472-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-idef-13472-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AOC EUROPE — Lisbon\, Portugal
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270507
-UID:f-aoc-europe-4439-1@eventseye.impio-vault
-DESCRIPTION:AOC Europe connects organisations and individuals across govern
- ment\, defence\, industry\, and academia to promote the exchange of ideas 
- and information\, and review the latest advances in electromagnetic- and i
- nformation-related fields\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-aoc-europe-4439-1.html
-LOCATION:Lisbon\, Portugal
-URL:https://www.eventseye.com/fairs/f-aoc-europe-4439-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NBAA MAINTENANCE CONFERENCE — Charlotte\, NC\, USA
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270507
-UID:f-nbaa-maintenance-conference-27627-1@eventseye.impio-vault
-DESCRIPTION:Maintenance Conference will provide vital education and network
- ing opportunities for anyone involved in business aircraft maintenance –
-  from technicians to directors of maintenance\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-nbaa-maintenance-conference-27627
- -1.html
-LOCATION:Charlotte\, NC\, USA
-URL:https://www.eventseye.com/fairs/f-nbaa-maintenance-conference-27627-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IMDEX ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270505
-DTEND;VALUE=DATE:20270508
-UID:f-imdex-asia-9820-1@eventseye.impio-vault
-DESCRIPTION:International Maritime Defense Exhibition & Conference. As Asia
- 's leading naval and maritime defence event\, IMDEX Asia has mustered the 
- world’s naval elite and the finest fleets of maritime innovations\\nVenu
- e: Changi Exhibition Centre\\nFrequency: every 2 years\\nSource: https://w
- ww.eventseye.com/fairs/f-imdex-asia-9820-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-imdex-asia-9820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRITICAL COMMUNICATIONS WORLD — Amsterdam\, Netherlands
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-critical-communications-world-27502-1@eventseye.impio-vault
-DESCRIPTION:Critical Communications World (CCW) unites mission-critical and
-  business-critical end-users with manufacturers and suppliers for three da
- ys of inspiration\, knowledge and connections\\nVenue: RAI International E
- xhibition and Congress Centre\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-critical-communications-world-27502-1.html
-LOCATION:Amsterdam\, Netherlands
-URL:https://www.eventseye.com/fairs/f-critical-communications-world-27502-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ITEC — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-itec-7382-1@eventseye.impio-vault
-DESCRIPTION:Europe's largest defence training technology exhibition and tec
- hnical conference. ITEC explores emerging technologies that are disrupting
-  training paradigms cross the defence and security enterprise\\nVenue: ExC
- eL\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-it
- ec-7382-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-itec-7382-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SENSOR + TEST — Nuremberg\, Germany
-DTSTART;VALUE=DATE:20270511
-DTEND;VALUE=DATE:20270514
-UID:f-sensor-test-2429-1@eventseye.impio-vault
-DESCRIPTION:International trade show + congress for Sensors\, Transducers &
-  Systems. Sensor systems and sensory measuring equipment\, equipment\, com
- ponents and software\, Laboratory measuring equipment\, calibration\, anal
- ytical and testing equipment...\\nVenue: Exhibition Centre Nuremberg\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-sensor-tes
- t-2429-1.html
-LOCATION:Nuremberg\, Germany
-URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AEROSPACE & DEFENSE MEETINGS CENTRAL EUROPE - RZESZOW — Rzeszow\,
-  Poland
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270514
-UID:f-aerospace-defense-meetings-central-europe-rzeszow-21568-1@eventseye.impio-vault
-DESCRIPTION:Business Convention for the aerospace & defense industries. Att
- ending A&DM Central Europe is a great opportunity for leaders of the aeros
- pace and defense industry to make new business connections and strengthen 
- existing ones\\nVenue: Exhibition and Congress Center (G2A Arena)\\nFreque
- ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-aerospace-d
- efense-meetings-central-europe-rzeszow-21568-1.html
-LOCATION:Rzeszow\, Poland
-URL:https://www.eventseye.com/fairs/f-aerospace-defense-meetings-central-eu
- rope-rzeszow-21568-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AVIATION FESTIVAL AMERICAS — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270514
-UID:f-aviation-festival-americas-21428-1@eventseye.impio-vault
-DESCRIPTION:A leading event in the aviation industry. At Aviation Festival 
- Americas\, hear from 250+ of the most influential voices in the industry a
- cross conferences. Join makers from every major airline and airport\, as w
- ell as solution providers\\nVenue: Miami Beach Convention Center\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-aviation-festi
- val-americas-21428-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-aviation-festival-americas-21428-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPEXA - SPACE BUSINESS EXPO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270515
-UID:f-spexa-space-business-expo-31846-1@eventseye.impio-vault
-DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite 
- data utilization\, space infrastructure\, space exploration\, space touris
- m\, space application and services\, space technology...\\nVenue: Tokyo In
- ternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846
- -1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SUBBCON THAILAND — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270512
-DTEND;VALUE=DATE:20270516
-UID:f-subbcon-thailand-31812-1@eventseye.impio-vault
-DESCRIPTION:SUBCON Thailand is an important international industrial part-s
- ourcing and business-matching event. Automotive\, electrics\, electronics\
- , machinery\, aviation\, medical equipment\, robotics\, automation and dig
- ital...\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\
- nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-subb
- con-thailand-31812-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-subbcon-thailand-31812-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HELIRUSSIA — Moscow\, Russia
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270516
-UID:f-helirussia-18052-1@eventseye.impio-vault
-DESCRIPTION:Russia International Helicopter Industry Exhibition. The Latest
-  in Helicopter Equipment and Applications\\nVenue: Crocus-Expo IEC\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-helirussia-1
- 8052-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-helirussia-18052-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUVSI'S XPONENTIAL — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-auvsi-s-xponential-23783-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and conference on the latest developments in the unm
- anned systems technologies for air\, land and sea\\nVenue: Miami Beach Con
- vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-auvsi-s-xponential-23783-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-auvsi-s-xponential-23783-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
-DTSTART;VALUE=DATE:20270517
-DTEND;VALUE=DATE:20270521
-UID:f-sampe-north-america-33820-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition and Conference on Composite Materials 
- and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
- s from industrial companies\, research institutes\, and suppliers of moder
- n materials and advanced technologies\\nFrequency: once a year\\nSource: h
- ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-LOCATION:Salt Lake City\, UT\, USA
-URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ADHESIVES & BONDING EXPO - NORTH AMERICA — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-adhesives-bonding-expo-north-america-32844-1@eventseye.impio-vault
-DESCRIPTION:Adhesives & Bonding Expo North America is the largest trade fai
- r and conference for industrial bonding products and manufacturing on the 
- continent\\nVenue: Georgia World Congress Center\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-adhesives-bonding-expo-north-a
- merica-32844-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-adhesives-bonding-expo-north-america-
- 32844-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASCEND — Washington D.C.\, USA
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-ascend-28996-1@eventseye.impio-vault
-DESCRIPTION:ASCEND is a new event designed to accelerate space commerce\, e
- xploration\, and new discovery\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-ascend-28996-1.html
-LOCATION:Washington D.C.\, USA
-URL:https://www.eventseye.com/fairs/f-ascend-28996-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DEFEA – DEFENCE EXHIBITION ATHENS — Athens\, Greece
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-defea-defence-exhibition-athens-33202-1@eventseye.impio-vault
-DESCRIPTION:DEFEA - Defence Exhibition Athens is a premier international de
- fence and security exhibition held biennially in Athens\, Greece. It is Re
- nowned for showcasing cutting-edge technology and innovations in the defen
- ce sector\\nVenue: Athens Metropolitan Expo\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-defea-defence-exhibition-athens-3
- 3202-1.html
-LOCATION:Athens\, Greece
-URL:https://www.eventseye.com/fairs/f-defea-defence-exhibition-athens-33202
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FEINDEF — Madrid\, Spain
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-feindef-27509-1@eventseye.impio-vault
-DESCRIPTION:FEINDEF is Spain's largest international Defence and Security E
- xhibition. One of Europe's most significant exhibitions and a key meeting 
- point for governments\, industry\, universities\, and international organi
- sations\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 
- years\\nSource: https://www.eventseye.com/fairs/f-feindef-27509-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-feindef-27509-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOAM EXPO - NORTH AMERICA — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270518
-DTEND;VALUE=DATE:20270521
-UID:f-foam-expo-north-america-32845-1@eventseye.impio-vault
-DESCRIPTION:Exhibition and conference dedicated to the future of technologi
- cal innovation\, applications and manufacturing components for the technic
- al foam supply chain\\nVenue: Georgia World Congress Center\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-foam-expo-north-ame
- rica-32845-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-foam-expo-north-america-32845-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTENER FAIR USA — Louisville\, KY\, USA
-DTSTART;VALUE=DATE:20270519
-DTEND;VALUE=DATE:20270521
-UID:f-fastener-fair-usa-29924-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition for Fastener and Fixing Technology. Fr
- om automotive to aerospace\, construction to HVAC\, furniture to appliance
- s\, fastener professionals from every segment of the market find the lates
- t products they need at Fastener Fair USA\\nVenue: Kentucky International 
- Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
- .com/fairs/f-fastener-fair-usa-29924-1.html
-LOCATION:Louisville\, KY\, USA
-URL:https://www.eventseye.com/fairs/f-fastener-fair-usa-29924-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL FASTENER SHOW CHINA — Shanghai\, China
-DTSTART;VALUE=DATE:20270520
-DTEND;VALUE=DATE:20270523
-UID:f-international-fastener-show-china-26911-1@eventseye.impio-vault
-DESCRIPTION:Chinese International Fastener Trade Show. Machinery\, Fastener
-  materials\, Moulds and consumption goods\, Fastener manufacturing machine
- ry\, Installation / Measurement and maintenance...\\nVenue: Shanghai World
-  Expo Exhibition & Convention Center\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-international-fastener-show-china-26911-1.
- html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-international-fastener-show-china-269
- 11-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CERAMIC NETWORK — Limoges\, France
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-ceramic-network-21543-1@eventseye.impio-vault
-DESCRIPTION:International Business Convention on industrial and engineering
-  applications of ceramics. CERAMIC Network aims to gather together contrac
- tors and suppliers in the field of technical ceramics in the same place to
-  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
- -network-21543-1.html
-LOCATION:Limoges\, France
-URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAVEXPO — Lorient\, France
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-navexpo-22685-1@eventseye.impio-vault
-DESCRIPTION:Maritime Innovation Show + Dynamic Exhibition featuring drones 
- & professional vessels (sea trials). A business event bringing together Fr
- ench & international stakeholders\, rooted in Brittany within a maritime e
- cosystem spanning both civil defense sectors\\nVenue: Port de Lorient Cent
- re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-na
- vexpo-22685-1.html
-LOCATION:Lorient\, France
-URL:https://www.eventseye.com/fairs/f-navexpo-22685-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROTECTION TECHNOLOGIES — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-protection-technologies-6904-1@eventseye.impio-vault
-DESCRIPTION:International Trade Fair for Emergency Safety Facilities & Fire
-  Protection Systems and Technologies\\nVenue: Kiev International Exhibitio
- n Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-protection-technologies-6904-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-protection-technologies-6904-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IDET — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-idet-1284-1@eventseye.impio-vault
-DESCRIPTION:International fair of Defense and Security Technology. IDET is 
- an important defence and security technology show in Central Europe with s
- trong international participation of exhibitors and trade visitors\\nVenue
- : Brno Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www.
- eventseye.com/fairs/f-idet-1284-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-idet-1284-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ISET — Brno\, Czech Republic
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270530
-UID:f-iset-1579-1@eventseye.impio-vault
-DESCRIPTION:The ISET trade fair offers a comprehensive presentation of tech
- nologies for the protection and security of life\, information and propert
- y\\nVenue: Brno Exhibition Centre\\nFrequency: every 2 years\\nSource: htt
- ps://www.eventseye.com/fairs/f-iset-1579-1.html
-LOCATION:Brno\, Czech Republic
-URL:https://www.eventseye.com/fairs/f-iset-1579-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TCT ASIA — Shanghai\, China
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270530
-UID:f-tct-asia-21068-1@eventseye.impio-vault
-DESCRIPTION:Additive Manufacturing\, 3D printing and product development te
- chnology Expo. TCT ASIA is a leading event dedicated to 3D printing\, addi
- tive manufacturing and product development\\nVenue: National Exhibition an
- d Convention Center\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-tct-asia-21068-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-tct-asia-21068-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SECUREX SOUTH AFRICA — Johannesburg\, South Africa
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270604
-UID:f-securex-south-africa-5729-1@eventseye.impio-vault
-DESCRIPTION:Largest International Trade Show in South Africa dedicated to C
- ommercial\, Homeland and Cyber Security\, Fire Protection and Safety\\nVen
- ue: Gallagher Convention Centre\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-securex-south-africa-5729-1.html
-LOCATION:Johannesburg\, South Africa
-URL:https://www.eventseye.com/fairs/f-securex-south-africa-5729-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MADEX KOREA — Busan\, Korea South
-DTSTART;VALUE=DATE:20270602
-DTEND;VALUE=DATE:20270606
-UID:f-madex-korea-28025-1@eventseye.impio-vault
-DESCRIPTION:South Korean International Maritime Defense Industry Exhibition
- . Korean Defense Firms showcase their latest innovations on maritime secur
- ity at MADEX - the International Maritime Defense Exhibition\\nVenue: Bexc
- o (Busan Exhibition & Convention Center)\\nFrequency: every 2 years\\nSour
- ce: https://www.eventseye.com/fairs/f-madex-korea-28025-1.html
-LOCATION:Busan\, Korea South
-URL:https://www.eventseye.com/fairs/f-madex-korea-28025-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KLASSIKWELT BODENSEE — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270607
-UID:f-klassikwelt-bodensee-13923-1@eventseye.impio-vault
-DESCRIPTION:Expo of Vintage Cars & Motorbikes\, Boats and Airplanes. This m
- eeting place for the classic car community celebrates the classic mobility
-  and driving culture of past eras on land\, water and in the air\\nVenue: 
- Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https://w
- ww.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AIAA AVIATION AND AERONAUTICS FORUM — San Diego\, CA\, USA
-DTSTART;VALUE=DATE:20270607
-DTEND;VALUE=DATE:20270612
-UID:f-aiaa-aviation-and-aeronautics-forum-24381-1@eventseye.impio-vault
-DESCRIPTION:American Institute of Aeronautics and Astronautics Annual Forum
- . AIAA AVIATION AND AERONAUTICS FORUM offers B2B networking for the Indust
- ry\, latest aircraft designs\, new technologies\, engineering solutions\, 
- air traffic control support\, system development\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-aiaa-aviation-and-aeronautics-
- forum-24381-1.html
-LOCATION:San Diego\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-aiaa-aviation-and-aeronautics-forum-2
- 4381-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ENGINE LEASING\, TRADING AND FINANCE - EUROPE — London\, UK - Uni
- ted Kingdom
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270611
-UID:f-engine-leasing-trading-and-finance-europe-30611-1@eventseye.impio-vault
-DESCRIPTION:"Engine Leasing\, Trading & Finance Europe" is the pre-eminent 
- conference for the engine leasing community\, bringing together lessors\, 
- airlines\, MROs\, OEMs\, consultancies and financiers to discuss the lates
- t trends and issues in the industry\\nVenue: Hilton London Bankside\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-engine-leas
- ing-trading-and-finance-europe-30611-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-engine-leasing-trading-and-finance-eu
- rope-30611-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DRONE INTERNATIONAL EXPO — New Delhi\, India
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270612
-UID:f-drone-international-expo-30047-1@eventseye.impio-vault
-DESCRIPTION:Drone International Expo is display of capabilities\, Drones/UA
- V\, Unmanned Systems (Land and Water)\, Geospatial\, Components & Drones U
- AV Hardware and Softwares\\nVenue: Bharat Mandapam Convention Centre\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-drone-inte
- rnational-expo-30047-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-drone-international-expo-30047-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOMELAND SECURITY EXPO - INDIA — New Delhi\, India
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270612
-UID:f-homeland-security-expo-india-30048-1@eventseye.impio-vault
-DESCRIPTION:International Homeland Security and Defense Exhibition. Homelan
- d Security Expo showcases the latest and modern equipment\, technology and
-  products for the Homeland and Public Security\\nVenue: Bharat Mandapam Co
- nvention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-homeland-security-expo-india-30048-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-homeland-security-expo-india-30048-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL DRONE EXPO — New Delhi\, India
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270612
-UID:f-international-drone-expo-28574-1@eventseye.impio-vault
-DESCRIPTION:Drone International Expo is display of capabilities\, drones an
- d unmanned systems for various application\\nVenue: Bharat Mandapam Conven
- tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-international-drone-expo-28574-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-international-drone-expo-28574-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERNATIONAL POLICE EXPO — New Delhi\, India
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270612
-UID:f-international-police-expo-23442-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition dedicated to Policing Equipments\, Pro
- tection and Rescue Equipments in India\\nVenue: Bharat Mandapam Convention
-  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-international-police-expo-23442-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-international-police-expo-23442-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERPLASTPOINT TUNISIA — Sousse\, Tunisia
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270613
-UID:f-interplastpoint-tunisia-33774-1@eventseye.impio-vault
-DESCRIPTION:NTERPLASTPOINT TUNISIA will serve as a comprehensive meeting po
- int for the entire plastics industry. Covering the full value chain from r
- aw materials and machinery to recycling technologies and finished products
- \\nVenue: Foire Internationale de Sousse\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-interplastpoint-tunisia-33774-1.html
-LOCATION:Sousse\, Tunisia
-URL:https://www.eventseye.com/fairs/f-interplastpoint-tunisia-33774-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON INTERNATIONAL DE L’AÉRONAUTIQUE ET DE L’ESPACE – INTER
- NATIONAL PARIS AIR SHOW - LE BOURGET — Paris\, France
-DTSTART;VALUE=DATE:20270614
-DTEND;VALUE=DATE:20270621
-UID:f-salon-international-de-l-aeronautique-et-de-l-espace-international-paris-air-show-le-bourget-2321-1@eventseye.impio-vault
-DESCRIPTION:Paris Air Show - International Aeronautics & Space Show - Paris
-  Le Bourget. For over a century\, the preferred location for meetings and 
- opportunities in the global aeronautics and space industry\\nVenue: Parc d
- es expositions du Bourget\\nFrequency: every 2 years\\nSource: https://www
- .eventseye.com/fairs/f-salon-international-de-l-aeronautique-et-de-l-espac
- e-international-paris-air-show-le-bourget-2321-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-salon-international-de-l-aeronautique
- -et-de-l-espace-international-paris-air-show-le-bourget-2321-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CMPE — Beijing\, China
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270619
-UID:f-cmpe-30211-1@eventseye.impio-vault
-DESCRIPTION:China International Military Police Anti-Terrorism Emergency Eq
- uipment Expo. An international scientific and technological exchange platf
- orm for public security\\nVenue: China International Exhibition Centre (CI
- EC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-c
- mpe-30211-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-cmpe-30211-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CNTE — Beijing\, China
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270619
-UID:f-cnte-30212-1@eventseye.impio-vault
-DESCRIPTION:China National Defense Informatization\, Information Equipment 
- and Technology Expo\\nVenue: China International Exhibition Centre (CIEC)\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cnte-
- 30212-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-cnte-30212-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NAVAL DEFENSE PHILIPPINES — Manila\, Philippines
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270619
-UID:f-naval-defense-philippines-28940-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Naval Defense Technology\, Weaponry
- \, Equipment and its Supporting Industries\\nVenue: SMX Exhibition and Con
- vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-naval-defense-philippines-28940-1.html
-LOCATION:Manila\, Philippines
-URL:https://www.eventseye.com/fairs/f-naval-defense-philippines-28940-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SSD - SUPPLY SECURITY & DEFENCE EXPO — Riga\, Latvia
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270618
-UID:f-ssd-supply-security-defence-expo-32288-1@eventseye.impio-vault
-DESCRIPTION:SSD (Supply Security and Defence Expo) welcomes exhibitors and 
- procurement specialists to have recent information on the suppliers of def
- ence\, rescue\, and resilience technologies. Uniting Baltic Sea Coastal St
- ates for Enhanced Defence and Resilience\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-ssd-supply-security-defence-expo-32288
- -1.html
-LOCATION:Riga\, Latvia
-URL:https://www.eventseye.com/fairs/f-ssd-supply-security-defence-expo-3228
- 8-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO SEGURIDAD INDUSTRIAL MEXICO — Mexico City\, Mexico
-DTSTART;VALUE=DATE:20270622
-DTEND;VALUE=DATE:20270625
-UID:f-expo-seguridad-industrial-mexico-30485-1@eventseye.impio-vault
-DESCRIPTION:The largest event for the security industry in Latin America. A
-  3-day event with technology\, solutions and knowledge for manufacturers\,
-  distributors\, integrators and users\, national and foreign\, who meet an
- nualy to interact\, update and exchange\\nVenue: Centro Citibanamex\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-expo-seguri
- dad-industrial-mexico-30485-1.html
-LOCATION:Mexico City\, Mexico
-URL:https://www.eventseye.com/fairs/f-expo-seguridad-industrial-mexico-3048
- 5-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXPO SEGURIDAD MEXICO — Mexico City\, Mexico
-DTSTART;VALUE=DATE:20270622
-DTEND;VALUE=DATE:20270625
-UID:f-expo-seguridad-mexico-19194-1@eventseye.impio-vault
-DESCRIPTION:The largest event for the security industry in Latin America. A
-  3-day event with technology\, solutions and knowledge for manufacturers\,
-  distributors\, integrators and users\, national and foreign\, who meet an
- nualy to interact\, update and exchange\\nVenue: Centro Citibanamex\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-expo-seguri
- dad-mexico-19194-1.html
-LOCATION:Mexico City\, Mexico
-URL:https://www.eventseye.com/fairs/f-expo-seguridad-mexico-19194-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RISE — Kansas City\, MO\, USA
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270325
@@ -4897,6 +4342,615 @@ LOCATION:Chiba\, Japan
 URL:https://www.eventseye.com/fairs/f-dsei-japan-26730-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IDEF — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270510
+UID:f-idef-13472-1@eventseye.impio-vault
+DESCRIPTION:IDEF is an international prestigious event showcasing the lates
+ t technological advancements & products in defence industry\, future defen
+ ce technologies and fostering strategic partnerships\\nVenue: Istanbul Exp
+ o Center / Istanbul Fuar Merkezi / CNR Expo\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-idef-13472-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-idef-13472-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AOC EUROPE — Lisbon\, Portugal
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+UID:f-aoc-europe-4439-1@eventseye.impio-vault
+DESCRIPTION:AOC Europe connects organisations and individuals across govern
+ ment\, defence\, industry\, and academia to promote the exchange of ideas 
+ and information\, and review the latest advances in electromagnetic- and i
+ nformation-related fields\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-aoc-europe-4439-1.html
+LOCATION:Lisbon\, Portugal
+URL:https://www.eventseye.com/fairs/f-aoc-europe-4439-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NBAA MAINTENANCE CONFERENCE — Charlotte\, NC\, USA
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270507
+UID:f-nbaa-maintenance-conference-27627-1@eventseye.impio-vault
+DESCRIPTION:Maintenance Conference will provide vital education and network
+ ing opportunities for anyone involved in business aircraft maintenance –
+  from technicians to directors of maintenance\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-nbaa-maintenance-conference-27627
+ -1.html
+LOCATION:Charlotte\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-nbaa-maintenance-conference-27627-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMDEX ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270508
+UID:f-imdex-asia-9820-1@eventseye.impio-vault
+DESCRIPTION:International Maritime Defense Exhibition & Conference. As Asia
+ 's leading naval and maritime defence event\, IMDEX Asia has mustered the 
+ world’s naval elite and the finest fleets of maritime innovations\\nVenu
+ e: Changi Exhibition Centre\\nFrequency: every 2 years\\nSource: https://w
+ ww.eventseye.com/fairs/f-imdex-asia-9820-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-imdex-asia-9820-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRITICAL COMMUNICATIONS WORLD — Amsterdam\, Netherlands
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-critical-communications-world-27502-1@eventseye.impio-vault
+DESCRIPTION:Critical Communications World (CCW) unites mission-critical and
+  business-critical end-users with manufacturers and suppliers for three da
+ ys of inspiration\, knowledge and connections\\nVenue: RAI International E
+ xhibition and Congress Centre\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-critical-communications-world-27502-1.html
+LOCATION:Amsterdam\, Netherlands
+URL:https://www.eventseye.com/fairs/f-critical-communications-world-27502-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITEC — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-itec-7382-1@eventseye.impio-vault
+DESCRIPTION:Europe's largest defence training technology exhibition and tec
+ hnical conference. ITEC explores emerging technologies that are disrupting
+  training paradigms cross the defence and security enterprise\\nVenue: ExC
+ eL\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-it
+ ec-7382-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-itec-7382-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SENSOR + TEST — Nuremberg\, Germany
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270514
+UID:f-sensor-test-2429-1@eventseye.impio-vault
+DESCRIPTION:International trade show + congress for Sensors\, Transducers &
+  Systems. Sensor systems and sensory measuring equipment\, equipment\, com
+ ponents and software\, Laboratory measuring equipment\, calibration\, anal
+ ytical and testing equipment...\\nVenue: Exhibition Centre Nuremberg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-sensor-tes
+ t-2429-1.html
+LOCATION:Nuremberg\, Germany
+URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AEROSPACE & DEFENSE MEETINGS CENTRAL EUROPE - RZESZOW — Rzeszow\,
+  Poland
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270514
+UID:f-aerospace-defense-meetings-central-europe-rzeszow-21568-1@eventseye.impio-vault
+DESCRIPTION:Business Convention for the aerospace & defense industries. Att
+ ending A&DM Central Europe is a great opportunity for leaders of the aeros
+ pace and defense industry to make new business connections and strengthen 
+ existing ones\\nVenue: Exhibition and Congress Center (G2A Arena)\\nFreque
+ ncy: every 2 years\\nSource: https://www.eventseye.com/fairs/f-aerospace-d
+ efense-meetings-central-europe-rzeszow-21568-1.html
+LOCATION:Rzeszow\, Poland
+URL:https://www.eventseye.com/fairs/f-aerospace-defense-meetings-central-eu
+ rope-rzeszow-21568-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AVIATION FESTIVAL AMERICAS — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270514
+UID:f-aviation-festival-americas-21428-1@eventseye.impio-vault
+DESCRIPTION:A leading event in the aviation industry. At Aviation Festival 
+ Americas\, hear from 250+ of the most influential voices in the industry a
+ cross conferences. Join makers from every major airline and airport\, as w
+ ell as solution providers\\nVenue: Miami Beach Convention Center\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-aviation-festi
+ val-americas-21428-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-aviation-festival-americas-21428-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPEXA - SPACE BUSINESS EXPO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-spexa-space-business-expo-31846-1@eventseye.impio-vault
+DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite 
+ data utilization\, space infrastructure\, space exploration\, space touris
+ m\, space application and services\, space technology...\\nVenue: Tokyo In
+ ternational Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846
+ -1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SUBBCON THAILAND — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270516
+UID:f-subbcon-thailand-31812-1@eventseye.impio-vault
+DESCRIPTION:SUBCON Thailand is an important international industrial part-s
+ ourcing and business-matching event. Automotive\, electrics\, electronics\
+ , machinery\, aviation\, medical equipment\, robotics\, automation and dig
+ ital...\\nVenue: Bangkok International Trade & Exhibition Centre (BITEC)\\
+ nFrequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-subb
+ con-thailand-31812-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-subbcon-thailand-31812-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HELIRUSSIA — Moscow\, Russia
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+UID:f-helirussia-18052-1@eventseye.impio-vault
+DESCRIPTION:Russia International Helicopter Industry Exhibition. The Latest
+  in Helicopter Equipment and Applications\\nVenue: Crocus-Expo IEC\\nFrequ
+ ency: once a year\\nSource: https://www.eventseye.com/fairs/f-helirussia-1
+ 8052-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-helirussia-18052-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUVSI'S XPONENTIAL — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-auvsi-s-xponential-23783-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and conference on the latest developments in the unm
+ anned systems technologies for air\, land and sea\\nVenue: Miami Beach Con
+ vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-auvsi-s-xponential-23783-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-auvsi-s-xponential-23783-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SAMPE NORTH AMERICA — Salt Lake City\, UT\, USA
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270521
+UID:f-sampe-north-america-33820-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition and Conference on Composite Materials 
+ and Advanced Materials. SAMPE NORTH AMERICA brings together decision-maker
+ s from industrial companies\, research institutes\, and suppliers of moder
+ n materials and advanced technologies\\nFrequency: once a year\\nSource: h
+ ttps://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+LOCATION:Salt Lake City\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-sampe-north-america-33820-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADHESIVES & BONDING EXPO - NORTH AMERICA — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-adhesives-bonding-expo-north-america-32844-1@eventseye.impio-vault
+DESCRIPTION:Adhesives & Bonding Expo North America is the largest trade fai
+ r and conference for industrial bonding products and manufacturing on the 
+ continent\\nVenue: Georgia World Congress Center\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-adhesives-bonding-expo-north-a
+ merica-32844-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-adhesives-bonding-expo-north-america-
+ 32844-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASCEND — Washington D.C.\, USA
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-ascend-28996-1@eventseye.impio-vault
+DESCRIPTION:ASCEND is a new event designed to accelerate space commerce\, e
+ xploration\, and new discovery\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-ascend-28996-1.html
+LOCATION:Washington D.C.\, USA
+URL:https://www.eventseye.com/fairs/f-ascend-28996-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DEFEA – DEFENCE EXHIBITION ATHENS — Athens\, Greece
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-defea-defence-exhibition-athens-33202-1@eventseye.impio-vault
+DESCRIPTION:DEFEA - Defence Exhibition Athens is a premier international de
+ fence and security exhibition held biennially in Athens\, Greece. It is Re
+ nowned for showcasing cutting-edge technology and innovations in the defen
+ ce sector\\nVenue: Athens Metropolitan Expo\\nFrequency: every 2 years\\nS
+ ource: https://www.eventseye.com/fairs/f-defea-defence-exhibition-athens-3
+ 3202-1.html
+LOCATION:Athens\, Greece
+URL:https://www.eventseye.com/fairs/f-defea-defence-exhibition-athens-33202
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FEINDEF — Madrid\, Spain
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-feindef-27509-1@eventseye.impio-vault
+DESCRIPTION:FEINDEF is Spain's largest international Defence and Security E
+ xhibition. One of Europe's most significant exhibitions and a key meeting 
+ point for governments\, industry\, universities\, and international organi
+ sations\\nVenue: Ifema - Parque Ferial Juan Carlos I\\nFrequency: every 2 
+ years\\nSource: https://www.eventseye.com/fairs/f-feindef-27509-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-feindef-27509-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOAM EXPO - NORTH AMERICA — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270521
+UID:f-foam-expo-north-america-32845-1@eventseye.impio-vault
+DESCRIPTION:Exhibition and conference dedicated to the future of technologi
+ cal innovation\, applications and manufacturing components for the technic
+ al foam supply chain\\nVenue: Georgia World Congress Center\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-foam-expo-north-ame
+ rica-32845-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-foam-expo-north-america-32845-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTENER FAIR USA — Louisville\, KY\, USA
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270521
+UID:f-fastener-fair-usa-29924-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition for Fastener and Fixing Technology. Fr
+ om automotive to aerospace\, construction to HVAC\, furniture to appliance
+ s\, fastener professionals from every segment of the market find the lates
+ t products they need at Fastener Fair USA\\nVenue: Kentucky International 
+ Convention Center\\nFrequency: once a year\\nSource: https://www.eventseye
+ .com/fairs/f-fastener-fair-usa-29924-1.html
+LOCATION:Louisville\, KY\, USA
+URL:https://www.eventseye.com/fairs/f-fastener-fair-usa-29924-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL FASTENER SHOW CHINA — Shanghai\, China
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+UID:f-international-fastener-show-china-26911-1@eventseye.impio-vault
+DESCRIPTION:Chinese International Fastener Trade Show. Machinery\, Fastener
+  materials\, Moulds and consumption goods\, Fastener manufacturing machine
+ ry\, Installation / Measurement and maintenance...\\nVenue: Shanghai World
+  Expo Exhibition & Convention Center\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-international-fastener-show-china-26911-1.
+ html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-international-fastener-show-china-269
+ 11-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CERAMIC NETWORK — Limoges\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-ceramic-network-21543-1@eventseye.impio-vault
+DESCRIPTION:International Business Convention on industrial and engineering
+  applications of ceramics. CERAMIC Network aims to gather together contrac
+ tors and suppliers in the field of technical ceramics in the same place to
+  promote technology transfer\\nVenue: Parc des expositions de Limoges\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-ceramic
+ -network-21543-1.html
+LOCATION:Limoges\, France
+URL:https://www.eventseye.com/fairs/f-ceramic-network-21543-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAVEXPO — Lorient\, France
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-navexpo-22685-1@eventseye.impio-vault
+DESCRIPTION:Maritime Innovation Show + Dynamic Exhibition featuring drones 
+ & professional vessels (sea trials). A business event bringing together Fr
+ ench & international stakeholders\, rooted in Brittany within a maritime e
+ cosystem spanning both civil defense sectors\\nVenue: Port de Lorient Cent
+ re\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-na
+ vexpo-22685-1.html
+LOCATION:Lorient\, France
+URL:https://www.eventseye.com/fairs/f-navexpo-22685-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROTECTION TECHNOLOGIES — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-protection-technologies-6904-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair for Emergency Safety Facilities & Fire
+  Protection Systems and Technologies\\nVenue: Kiev International Exhibitio
+ n Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-protection-technologies-6904-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-protection-technologies-6904-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IDET — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-idet-1284-1@eventseye.impio-vault
+DESCRIPTION:International fair of Defense and Security Technology. IDET is 
+ an important defence and security technology show in Central Europe with s
+ trong international participation of exhibitors and trade visitors\\nVenue
+ : Brno Exhibition Centre\\nFrequency: every 2 years\\nSource: https://www.
+ eventseye.com/fairs/f-idet-1284-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-idet-1284-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ISET — Brno\, Czech Republic
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270530
+UID:f-iset-1579-1@eventseye.impio-vault
+DESCRIPTION:The ISET trade fair offers a comprehensive presentation of tech
+ nologies for the protection and security of life\, information and propert
+ y\\nVenue: Brno Exhibition Centre\\nFrequency: every 2 years\\nSource: htt
+ ps://www.eventseye.com/fairs/f-iset-1579-1.html
+LOCATION:Brno\, Czech Republic
+URL:https://www.eventseye.com/fairs/f-iset-1579-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRANCE AIR EXPO — Lyon\, France
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-france-air-expo-13483-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of General & Business Aviation. One of
+  the major events of general aviation in Europe and a major event for pilo
+ ts\, aero-clubs\, professionals\, and enthusiasts in the aeronautical sect
+ or\\nVenue: Aéroport Lyon Bron\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-france-air-expo-13483-1.html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-france-air-expo-13483-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TCT ASIA — Shanghai\, China
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-tct-asia-21068-1@eventseye.impio-vault
+DESCRIPTION:Additive Manufacturing\, 3D printing and product development te
+ chnology Expo. TCT ASIA is a leading event dedicated to 3D printing\, addi
+ tive manufacturing and product development\\nVenue: National Exhibition an
+ d Convention Center\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-tct-asia-21068-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-tct-asia-21068-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SECUREX SOUTH AFRICA — Johannesburg\, South Africa
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+UID:f-securex-south-africa-5729-1@eventseye.impio-vault
+DESCRIPTION:Largest International Trade Show in South Africa dedicated to C
+ ommercial\, Homeland and Cyber Security\, Fire Protection and Safety\\nVen
+ ue: Gallagher Convention Centre\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-securex-south-africa-5729-1.html
+LOCATION:Johannesburg\, South Africa
+URL:https://www.eventseye.com/fairs/f-securex-south-africa-5729-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MADEX KOREA — Busan\, Korea South
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270606
+UID:f-madex-korea-28025-1@eventseye.impio-vault
+DESCRIPTION:South Korean International Maritime Defense Industry Exhibition
+ . Korean Defense Firms showcase their latest innovations on maritime secur
+ ity at MADEX - the International Maritime Defense Exhibition\\nVenue: Bexc
+ o (Busan Exhibition & Convention Center)\\nFrequency: every 2 years\\nSour
+ ce: https://www.eventseye.com/fairs/f-madex-korea-28025-1.html
+LOCATION:Busan\, Korea South
+URL:https://www.eventseye.com/fairs/f-madex-korea-28025-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KLASSIKWELT BODENSEE — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+UID:f-klassikwelt-bodensee-13923-1@eventseye.impio-vault
+DESCRIPTION:Expo of Vintage Cars & Motorbikes\, Boats and Airplanes. This m
+ eeting place for the classic car community celebrates the classic mobility
+  and driving culture of past eras on land\, water and in the air\\nVenue: 
+ Messegelände Friedrichshafen\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-klassikwelt-bodensee-13923-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AIAA AVIATION AND AERONAUTICS FORUM — San Diego\, CA\, USA
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270612
+UID:f-aiaa-aviation-and-aeronautics-forum-24381-1@eventseye.impio-vault
+DESCRIPTION:American Institute of Aeronautics and Astronautics Annual Forum
+ . AIAA AVIATION AND AERONAUTICS FORUM offers B2B networking for the Indust
+ ry\, latest aircraft designs\, new technologies\, engineering solutions\, 
+ air traffic control support\, system development\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-aiaa-aviation-and-aeronautics-
+ forum-24381-1.html
+LOCATION:San Diego\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-aiaa-aviation-and-aeronautics-forum-2
+ 4381-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ENGINE LEASING\, TRADING AND FINANCE - EUROPE — London\, UK - Uni
+ ted Kingdom
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270611
+UID:f-engine-leasing-trading-and-finance-europe-30611-1@eventseye.impio-vault
+DESCRIPTION:"Engine Leasing\, Trading & Finance Europe" is the pre-eminent 
+ conference for the engine leasing community\, bringing together lessors\, 
+ airlines\, MROs\, OEMs\, consultancies and financiers to discuss the lates
+ t trends and issues in the industry\\nVenue: Hilton London Bankside\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-engine-leas
+ ing-trading-and-finance-europe-30611-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-engine-leasing-trading-and-finance-eu
+ rope-30611-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DRONE INTERNATIONAL EXPO — New Delhi\, India
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270612
+UID:f-drone-international-expo-30047-1@eventseye.impio-vault
+DESCRIPTION:Drone International Expo is display of capabilities\, Drones/UA
+ V\, Unmanned Systems (Land and Water)\, Geospatial\, Components & Drones U
+ AV Hardware and Softwares\\nVenue: Bharat Mandapam Convention Centre\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-drone-inte
+ rnational-expo-30047-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-drone-international-expo-30047-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOMELAND SECURITY EXPO - INDIA — New Delhi\, India
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270612
+UID:f-homeland-security-expo-india-30048-1@eventseye.impio-vault
+DESCRIPTION:International Homeland Security and Defense Exhibition. Homelan
+ d Security Expo showcases the latest and modern equipment\, technology and
+  products for the Homeland and Public Security\\nVenue: Bharat Mandapam Co
+ nvention Centre\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-homeland-security-expo-india-30048-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-homeland-security-expo-india-30048-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL DRONE EXPO — New Delhi\, India
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270612
+UID:f-international-drone-expo-28574-1@eventseye.impio-vault
+DESCRIPTION:Drone International Expo is display of capabilities\, drones an
+ d unmanned systems for various application\\nVenue: Bharat Mandapam Conven
+ tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-international-drone-expo-28574-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-international-drone-expo-28574-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL POLICE EXPO — New Delhi\, India
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270612
+UID:f-international-police-expo-23442-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition dedicated to Policing Equipments\, Pro
+ tection and Rescue Equipments in India\\nVenue: Bharat Mandapam Convention
+  Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-international-police-expo-23442-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-international-police-expo-23442-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERPLASTPOINT TUNISIA — Sousse\, Tunisia
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-interplastpoint-tunisia-33774-1@eventseye.impio-vault
+DESCRIPTION:NTERPLASTPOINT TUNISIA will serve as a comprehensive meeting po
+ int for the entire plastics industry. Covering the full value chain from r
+ aw materials and machinery to recycling technologies and finished products
+ \\nVenue: Foire Internationale de Sousse\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-interplastpoint-tunisia-33774-1.html
+LOCATION:Sousse\, Tunisia
+URL:https://www.eventseye.com/fairs/f-interplastpoint-tunisia-33774-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON INTERNATIONAL DE L’AÉRONAUTIQUE ET DE L’ESPACE – INTER
+ NATIONAL PARIS AIR SHOW - LE BOURGET — Paris\, France
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270621
+UID:f-salon-international-de-l-aeronautique-et-de-l-espace-international-paris-air-show-le-bourget-2321-1@eventseye.impio-vault
+DESCRIPTION:Paris Air Show - International Aeronautics & Space Show - Paris
+  Le Bourget. For over a century\, the preferred location for meetings and 
+ opportunities in the global aeronautics and space industry\\nVenue: Parc d
+ es expositions du Bourget\\nFrequency: every 2 years\\nSource: https://www
+ .eventseye.com/fairs/f-salon-international-de-l-aeronautique-et-de-l-espac
+ e-international-paris-air-show-le-bourget-2321-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-salon-international-de-l-aeronautique
+ -et-de-l-espace-international-paris-air-show-le-bourget-2321-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CMPE — Beijing\, China
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270619
+UID:f-cmpe-30211-1@eventseye.impio-vault
+DESCRIPTION:China International Military Police Anti-Terrorism Emergency Eq
+ uipment Expo. An international scientific and technological exchange platf
+ orm for public security\\nVenue: China International Exhibition Centre (CI
+ EC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-c
+ mpe-30211-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-cmpe-30211-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CNTE — Beijing\, China
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270619
+UID:f-cnte-30212-1@eventseye.impio-vault
+DESCRIPTION:China National Defense Informatization\, Information Equipment 
+ and Technology Expo\\nVenue: China International Exhibition Centre (CIEC)\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cnte-
+ 30212-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-cnte-30212-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NAVAL DEFENSE PHILIPPINES — Manila\, Philippines
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270619
+UID:f-naval-defense-philippines-28940-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Naval Defense Technology\, Weaponry
+ \, Equipment and its Supporting Industries\\nVenue: SMX Exhibition and Con
+ vention Center\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-naval-defense-philippines-28940-1.html
+LOCATION:Manila\, Philippines
+URL:https://www.eventseye.com/fairs/f-naval-defense-philippines-28940-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SSD - SUPPLY SECURITY & DEFENCE EXPO — Riga\, Latvia
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270618
+UID:f-ssd-supply-security-defence-expo-32288-1@eventseye.impio-vault
+DESCRIPTION:SSD (Supply Security and Defence Expo) welcomes exhibitors and 
+ procurement specialists to have recent information on the suppliers of def
+ ence\, rescue\, and resilience technologies. Uniting Baltic Sea Coastal St
+ ates for Enhanced Defence and Resilience\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-ssd-supply-security-defence-expo-32288
+ -1.html
+LOCATION:Riga\, Latvia
+URL:https://www.eventseye.com/fairs/f-ssd-supply-security-defence-expo-3228
+ 8-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO SEGURIDAD INDUSTRIAL MEXICO — Mexico City\, Mexico
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+UID:f-expo-seguridad-industrial-mexico-30485-1@eventseye.impio-vault
+DESCRIPTION:The largest event for the security industry in Latin America. A
+  3-day event with technology\, solutions and knowledge for manufacturers\,
+  distributors\, integrators and users\, national and foreign\, who meet an
+ nualy to interact\, update and exchange\\nVenue: Centro Citibanamex\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-expo-seguri
+ dad-industrial-mexico-30485-1.html
+LOCATION:Mexico City\, Mexico
+URL:https://www.eventseye.com/fairs/f-expo-seguridad-industrial-mexico-3048
+ 5-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXPO SEGURIDAD MEXICO — Mexico City\, Mexico
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+UID:f-expo-seguridad-mexico-19194-1@eventseye.impio-vault
+DESCRIPTION:The largest event for the security industry in Latin America. A
+  3-day event with technology\, solutions and knowledge for manufacturers\,
+  distributors\, integrators and users\, national and foreign\, who meet an
+ nualy to interact\, update and exchange\\nVenue: Centro Citibanamex\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-expo-seguri
+ dad-mexico-19194-1.html
+LOCATION:Mexico City\, Mexico
+URL:https://www.eventseye.com/fairs/f-expo-seguridad-mexico-19194-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UTECH LAS AMERICAS — Mexico City\, Mexico
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270625
@@ -5137,6 +5191,20 @@ DESCRIPTION:European Nonlinear Dynamics Conference. ENOC is the largest\, h
 LOCATION:Aberdeen\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-enoc-european-nonlinear-oscillations-
  conference-715-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LABACE — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270806
+UID:f-labace-20832-1@eventseye.impio-vault
+DESCRIPTION:LABACE is the Latin America’s foremost business aviation even
+ t\, welcoming the world's leading aircraft manufacturers and the aeronauti
+ cal sector’s principal suppliers and service providers\, in addition to 
+ aircraft owners\, enthusiasts and authorities\\nVenue: Campo de Marte Airp
+ ort\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-l
+ abace-20832-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-labace-20832-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OPTICAL ENGINEERING + APPLICATIONS (PART OF OPTICS+PHOTONICS) — S
@@ -5533,10 +5601,11 @@ SUMMARY:AEROSPACE & DEFENSE SUPPLIER SUMMIT SEATTLE — Seattle\, WA\, USA
 DTSTART;VALUE=DATE:20280328
 DTEND;VALUE=DATE:20280331
 UID:f-aerospace-defense-supplier-summit-seattle-16540-1@eventseye.impio-vault
-DESCRIPTION:International Business Convention for the Aerospace & Defense i
- ndustries\\nVenue: Seatle Convention Center\\nFrequency: every 2 years\\nS
- ource: https://www.eventseye.com/fairs/f-aerospace-defense-supplier-summit
- -seattle-16540-1.html
+DESCRIPTION:AEROSPACE & DEFENSE SUPPLIER SUMMIT SEATTLE is a supply chain e
+ vent that brings together aerospace and defense primes\, tier suppliers an
+ d contract-manufacturers\\nVenue: Seatle Convention Center\\nFrequency: ev
+ ery 2 years\\nSource: https://www.eventseye.com/fairs/f-aerospace-defense-
+ supplier-summit-seattle-16540-1.html
 LOCATION:Seattle\, WA\, USA
 URL:https://www.eventseye.com/fairs/f-aerospace-defense-supplier-summit-sea
  ttle-16540-1.html

@@ -677,8 +677,9 @@ DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260907
 UID:f-animotions-nimes-30293-1@eventseye.impio-vault
 DESCRIPTION:Minerals\, Fossils\, Crystals & Well-Being\, Designer Jewelry a
- nd Gems Fair\\nVenue: Salle des Fêtes de Milhaud\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-animotions-nimes-30293-1.html
+ nd Gems Fair. Exposition – Vente – Expertise\\nVenue: Salle des Fêtes
+  de Milhaud\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-animotions-nimes-30293-1.html
 LOCATION:Milhaud\, France
 URL:https://www.eventseye.com/fairs/f-animotions-nimes-30293-1.html
 END:VEVENT
@@ -1885,19 +1886,6 @@ URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-mesa-24284-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UNTITLED ART - HOUSTON — Houston\, TX\, USA
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260921
-UID:f-untitled-art-houston-32884-1@eventseye.impio-vault
-DESCRIPTION:Founded in 2012\, Untitled Art is a leading contemporary art fa
- ir\, offering an inclusive platform for discovering contemporary art that 
- prioritizes collaboration within each aspect of the fair\\nVenue: George R
- . Brown Convention Center\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-untitled-art-houston-32884-1.html
-LOCATION:Houston\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-untitled-art-houston-32884-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:VINTAGE PAPER BERLIN — Berlin\, Germany
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
@@ -1916,8 +1904,9 @@ DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
 UID:f-animotions-macon-32271-1@eventseye.impio-vault
 DESCRIPTION:Minerals\, Fossils\, Crystals & Well-Being\, Designer Jewelry a
- nd Gems Fair\\nVenue: Espace La Verchère\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-animotions-macon-32271-1.html
+ nd Gems Fair. Exposition – Vente – Expertise\\nVenue: Espace La Verch
+ ère\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ animotions-macon-32271-1.html
 LOCATION:Mâcon\, France
 URL:https://www.eventseye.com/fairs/f-animotions-macon-32271-1.html
 END:VEVENT
@@ -2533,6 +2522,19 @@ LOCATION:Santarcangelo di Romagna\, Italy
 URL:https://www.eventseye.com/fairs/f-fiera-di-san-michele-25784-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JAPAN DAY — Liege\, Belgium
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260928
+UID:f-japan-day-34703-1@eventseye.impio-vault
+DESCRIPTION:Whether you are a pop-culture fan\, a lover of tradition\, or s
+ imply curious\, this event brings together everything that makes the Japan
+ ese archipelago a success\, all within a festive and immersive atmosphere\
+ \nVenue: Liège Expo\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-japan-day-34703-1.html
+LOCATION:Liege\, Belgium
+URL:https://www.eventseye.com/fairs/f-japan-day-34703-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JAPAN WEEKEND MADRID — Madrid\, Spain
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260928
@@ -3093,6 +3095,18 @@ LOCATION:Cremona\, Italy
 URL:https://www.eventseye.com/fairs/f-piano-experience-27804-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SALON ÉROS — Liege\, Belgium
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-salon-eros-34702-1@eventseye.impio-vault
+DESCRIPTION:The Liège Eros Show\, an event reserved for adults\, offers a 
+ program centered on allure\, entertainment\, and eroticism\\nVenue: Liège
+  Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -salon-eros-34702-1.html
+LOCATION:Liege\, Belgium
+URL:https://www.eventseye.com/fairs/f-salon-eros-34702-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SOUTHERN AZ HOME SHOW — Tucson\, AZ\, USA
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261005
@@ -3133,6 +3147,19 @@ DESCRIPTION:Handicrafts and and do-it-yourself Exhibition. Sewing\, home-de
 LOCATION:Clermont-Ferrand\, France
 URL:https://www.eventseye.com/fairs/f-tendances-creatives-clermont-ferrand-
  29817-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNTITLED ART - HOUSTON — Houston\, TX\, USA
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261005
+UID:f-untitled-art-houston-32884-1@eventseye.impio-vault
+DESCRIPTION:Founded in 2012\, Untitled Art is a leading contemporary art fa
+ ir\, offering an inclusive platform for discovering contemporary art that 
+ prioritizes collaboration within each aspect of the fair\\nVenue: George R
+ . Brown Convention Center\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-untitled-art-houston-32884-1.html
+LOCATION:Houston\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-untitled-art-houston-32884-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AZLE GUNS & KNIFE SHOW — Azle\, TX\, USA
@@ -3668,6 +3695,22 @@ DESCRIPTION:Fair for works councils\, staff representatives and local autho
  eye.com/fairs/f-solutions-cse-nantes-10939-1.html
 LOCATION:Nantes\, France
 URL:https://www.eventseye.com/fairs/f-solutions-cse-nantes-10939-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BACHATA GENEVA FESTIVAL – THE FESTIVAL OF NATIONS — Geneve\, Sw
+ itzerland
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261013
+UID:f-bachata-geneva-festival-the-festival-of-nations-34714-1@eventseye.impio-vault
+DESCRIPTION:The Bachata Geneva Festival—"The Festival of Nations"—is an
+  international dance event dedicated to bachata (a partner dance originati
+ ng in the Dominican Republic)\, welcoming participants from over 70 countr
+ ies\\nVenue: Palexpo\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-bachata-geneva-festival-the-festival-of-nations-34714-1.ht
+ ml
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-bachata-geneva-festival-the-festival-
+ of-nations-34714-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KNIT + STITCH - LONDON — London\, UK - United Kingdom
@@ -4610,6 +4653,697 @@ LOCATION:Brussels\, Belgium
 URL:https://www.eventseye.com/fairs/f-made-in-asia-13541-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BROWNWOOD GUNS & KNIFE SHOW — Brownwood\, TX\, USA
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-brownwood-guns-knife-show-32967-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapons fair. BROWNWOOD GUNS & KNIFE SHOW showcases shoo
+ ting rifles\, self defense trainig\, all sizes of knives\, collectible fir
+ earms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartri
+ dges\, gun cases & safe\, holsters and antiques\\nVenue: Brownwood Regiona
+ l Airport\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f
+ -brownwood-guns-knife-show-32967-1.html
+LOCATION:Brownwood\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-brownwood-guns-knife-show-32967-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ERO-SPHERE DOLE — Dole\, France
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-ero-sphere-dole-34514-1@eventseye.impio-vault
+DESCRIPTION:Eroticism fair\, exclusively reserved for adults. Intimate ling
+ erie\, Jewelry\, Sex toys\, Shoes\, Erotic authors\, hair removal\, tattoo
+ \, Association\, erotic accessories...\\nVenue: Dolexpo\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-ero-sphere-dole-34514-1
+ .html
+LOCATION:Dole\, France
+URL:https://www.eventseye.com/fairs/f-ero-sphere-dole-34514-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FÊTE DES VINS ET BAPTÈME DU MILLÉSIME CHABLIS — Chablis\, Fran
+ ce
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-fete-des-vins-et-bapteme-du-millesime-chablis-31764-1@eventseye.impio-vault
+DESCRIPTION:Professionals and the general public gather in Chablis to celeb
+ rate its new vintage. On the program: tastings of all the appellations and
+  different vintages\, local gastronomy stands\, concert\, brotherhood para
+ de\, inductions...\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-fete-des-vins-et-bapteme-du-millesime-chablis-31764-1.html
+LOCATION:Chablis\, France
+URL:https://www.eventseye.com/fairs/f-fete-des-vins-et-bapteme-du-millesime
+ -chablis-31764-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FÊTE DU PIMENT D'ESPELETTE — Espelette\, France
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-fete-du-piment-d-espelette-31575-1@eventseye.impio-vault
+DESCRIPTION:The Espelette Pepper Festival is renowned well beyond the Basqu
+ e Country. Pepper production is in the spotlight: its culture\, its histor
+ y\, its strength\, its label... you will know everything about Espelette P
+ epper\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
+ -fete-du-piment-d-espelette-31575-1.html
+LOCATION:Espelette\, France
+URL:https://www.eventseye.com/fairs/f-fete-du-piment-d-espelette-31575-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G & S ARKANSAS GUNS & KNIFE SHOW - HOT SPRINGS — Hot Springs\, AR
+ \, USA
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261027
+UID:f-g-s-arkansas-guns-knife-show-hot-springs-25135-1@eventseye.impio-vault
+DESCRIPTION:Arms and Ammunition Fair. G & S ARKANSAS GUNS & KNIFE SHOW pres
+ ents antique pistols\, rifles\, air guns\, combat knives\, gun magazines\,
+  collectible firearm\, hunting gears\, fishing gears\, holsters\, gun safe
+ s\, display cases\, survival training...\\nVenue: Garland County Fairgroun
+ ds\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-g
+ -s-arkansas-guns-knife-show-hot-springs-25135-1.html
+LOCATION:Hot Springs\, AR\, USA
+URL:https://www.eventseye.com/fairs/f-g-s-arkansas-guns-knife-show-hot-spri
+ ngs-25135-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KENNER GUNS & KNIFE SHOW — New Orleans\, LA\, USA
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-kenner-guns-knife-show-24698-1@eventseye.impio-vault
+DESCRIPTION:Arms & Ammunition Fair. KENNER SUMMER GUNS & KNIFE SHOW feature
+ s hunting knife\, shooting rifle\, rifle spoke\, sharpening tool\, outdoor
+  equipment\, reloading supplies\, hunting & fishing gears\, holsters\, Fla
+ shlight\, hunting boots and Camouflage Related item\\nVenue: Pontchatrain 
+ Convention & Civic Center\\nFrequency: unknown\\nSource: https://www.event
+ seye.com/fairs/f-kenner-guns-knife-show-24698-1.html
+LOCATION:New Orleans\, LA\, USA
+URL:https://www.eventseye.com/fairs/f-kenner-guns-knife-show-24698-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAFAYETTE GUNS & KNIFE SHOW — Lafayette\, IN\, USA
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-lafayette-guns-knife-show-24741-1@eventseye.impio-vault
+DESCRIPTION:Arms & Ammunition Fair. LAFAYETTE GUNS & KNIFE SHOW presents au
+ tomatic firearms\, combat knife & swords\, shotguns\, antique pistols\, ca
+ rtridges\, fishing & hunting accessories\, gun cases & safes\, bullet proo
+ f jacket\, ear plugs and flashlights\\nVenue: Tippecanoe County Fairground
+ s\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-lafayet
+ te-guns-knife-show-24741-1.html
+LOCATION:Lafayette\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-lafayette-guns-knife-show-24741-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SALON LE PRINTEMPS DU BIEN-ÊTRE — Albi\, France
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-le-salon-le-printemps-du-bien-etre-31572-1@eventseye.impio-vault
+DESCRIPTION:Wellness fair. Head massage to pamper yourself\, reflexology\, 
+ well-being through stones and minerals with lithotherapy\, discovery of ru
+ nes\, cartomancy readings and many other holistic and well-being practices
+  will be offered\\nVenue: Salle événementielle de Pratgraussals\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-le-p
+ rintemps-du-bien-etre-31572-1.html
+LOCATION:Albi\, France
+URL:https://www.eventseye.com/fairs/f-le-salon-le-printemps-du-bien-etre-31
+ 572-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - LUXEMBOURG — Luxembourg\, Luxembourg
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-luxembourg-34341-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+LOCATION:Luxembourg\, Luxembourg
+URL:https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKER FAIRE - TAIWAN - TAIPEI — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-maker-faire-taiwan-taipei-34325-1@eventseye.impio-vault
+DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
+ enjoy learning and who love sharing what they can do. From engineers to ar
+ tists to scientists to crafters\, Maker Faire is a venue for these "makers
+ " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.ht
+ ml
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOSTRA MERCATO DELL’ARTIGIANATO — Erba\, Italy
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261102
+UID:f-mostra-mercato-dell-artigianato-15891-1@eventseye.impio-vault
+DESCRIPTION:Italian Quality Handicraft Fair. 'Mostra Artigianato' focuses o
+ n the value of craftsmanship. To know and appreciate the artisan productio
+ ns on display\, access our social networks!\\nVenue: Lario Fiere\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-mostra-mercato
+ -dell-artigianato-15891-1.html
+LOCATION:Erba\, Italy
+URL:https://www.eventseye.com/fairs/f-mostra-mercato-dell-artigianato-15891
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ORIGINAL FORT WORTH GUN SHOW — Fort Worth\, TX\, USA
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-original-fort-worth-gun-show-24510-1@eventseye.impio-vault
+DESCRIPTION:Arms & Ammunition Fair. ORIGINAL FORT WORTH GUN SHOW features s
+ elf protection weapons\, shooting rifle\, shotguns\, reloading supplies\, 
+ combat swords\, bulletproof jackets\, ear plugs\, holsters\, carbines\, la
+ ser sights and hunting knives\\nVenue: Will Rogers Memorial Center\\nFrequ
+ ency: unknown\\nSource: https://www.eventseye.com/fairs/f-original-fort-wo
+ rth-gun-show-24510-1.html
+LOCATION:Fort Worth\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-original-fort-worth-gun-show-24510-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON BIEN-ÊTRE & SANTÉ — Albi\, France
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-salon-bien-etre-sante-33552-1@eventseye.impio-vault
+DESCRIPTION:Trade fair for the promotion and enhancement of well-being and 
+ health themes: enabling everyone to access well-being\, opportunities for 
+ relaxation and self-care\\nVenue: Salle événementielle de Pratgraussals\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-salon
+ -bien-etre-sante-33552-1.html
+LOCATION:Albi\, France
+URL:https://www.eventseye.com/fairs/f-salon-bien-etre-sante-33552-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPOSI A BOLOGNA — Bologna\, Italy
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-sposi-a-bologna-28678-1@eventseye.impio-vault
+DESCRIPTION:Bologna Wedding Fair. Ateliers\, tailors\, men's suits\, photog
+ raphic studios\, wedding favors\, travel agencies\, locations\, jewelers\,
+  florists\, car rentals...\\nVenue: Bologna Exhibition Centre\\nFrequency:
+  twice a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-bologna-
+ 28678-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-sposi-a-bologna-28678-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPOSI A TREVISO — Treviso\, Italy
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-sposi-a-treviso-24957-1@eventseye.impio-vault
+DESCRIPTION:Treviso Wedding Fair Ateliers\, tailors\, men's suits\, photogr
+ aphic studios\, wedding favors\, travel agencies\, locations\, jewelers\, 
+ florists\, car rentals…\\nVenue: Villa Braida – Mogliano Veneto\\nFreq
+ uency: twice a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-tr
+ eviso-24957-1.html
+LOCATION:Treviso\, Italy
+URL:https://www.eventseye.com/fairs/f-sposi-a-treviso-24957-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPOSI A VICENZA — Vicenza\, Italy
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-sposi-a-vicenza-24962-1@eventseye.impio-vault
+DESCRIPTION:Vicenza Wedding Show Ateliers\, tailors\, men's suits\, photogr
+ aphic studios\, wedding favors\, travel agencies\, locations\, jewelers\, 
+ florists\, car rentals…\\nVenue: Villa Curti\, Sovizzo\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-vicenza-24962-
+ 1.html
+LOCATION:Vicenza\, Italy
+URL:https://www.eventseye.com/fairs/f-sposi-a-vicenza-24962-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRAU – THE MARRIAGE FAIR MANNHEIM — Mannheim\, Germany
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-trau-the-marriage-fair-mannheim-13646-1@eventseye.impio-vault
+DESCRIPTION:Wedding fair in Mannheim. “TRAU” presents everything import
+ ant on a wedding day\, shows the latest trends\\nVenue: Maimarkt Mannheim\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-trau-
+ the-marriage-fair-mannheim-13646-1.html
+LOCATION:Mannheim\, Germany
+URL:https://www.eventseye.com/fairs/f-trau-the-marriage-fair-mannheim-13646
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRAUDICH KÖLN — Cologne\, Germany
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+UID:f-traudich-koln-16766-1@eventseye.impio-vault
+DESCRIPTION:Wedding Fair in Cologne. Live music\, delicious cuisine\, pract
+ ical workshops... prepare your wedding in the best possible way! Meet all 
+ types of service providers: wedding dresses and formal wear\, bridal party
+  venues\, wedding rings...\\nVenue: XPOST Köln\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-traudich-koln-16766-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-traudich-koln-16766-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZAK JEWELS EXPO - CHENNAI — Chennai\, India
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261027
+UID:f-zak-jewels-expo-chennai-5969-1@eventseye.impio-vault
+DESCRIPTION:India’s Most Spectacular B2C Jewellery Show. A Grand Arena of
+  Dazzling Displa. Featuring Diamonds\, Gold\, Kundan\, Minakari\, Jadau\, 
+ Polki\, Precious & Semi-Precious Stones and more…\\nVenue: Taj Coromande
+ l\, Chennai\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs
+ /f-zak-jewels-expo-chennai-5969-1.html
+LOCATION:Chennai\, India
+URL:https://www.eventseye.com/fairs/f-zak-jewels-expo-chennai-5969-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUNS & KNIFE SHOW BURLINGTON — Burlington\, NC\, USA
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261027
+UID:f-guns-knife-show-burlington-33524-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapon fair. GUNS & KNIFE SHOW IN BURLINGTON features ri
+ fles\, all types of knives\, shotguns\, personal defence weapons\, fishing
+  gears\, holsters\, antiques & collectible firearms\, gun cases\, hunting 
+ accessories\, outdoor equipment\\nVenue: The Alliance Convention Center\\n
+ Frequency: unknown\\nSource: https://www.eventseye.com/fairs/f-guns-knife-
+ show-burlington-33524-1.html
+LOCATION:Burlington\, NC\, USA
+URL:https://www.eventseye.com/fairs/f-guns-knife-show-burlington-33524-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPACIOBODA - BARCELONA — Barcelona\, Spain
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261027
+UID:f-spacioboda-barcelona-34163-1@eventseye.impio-vault
+DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
+ ully selected vendors. Connect directly\, compare options easily\, and fin
+ d the right partners to plan your wedding in an inspiring setting\\nVenue:
+  PANGEA The Travel Store Barcelona\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-spacioboda-barcelona-34163-1.html
+LOCATION:Barcelona\, Spain
+URL:https://www.eventseye.com/fairs/f-spacioboda-barcelona-34163-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
+DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
+ s innovation hub covering Automotive\, Electronics\, Display and New Mater
+ ials. These shows connect across key industries in the world of advanced m
+ anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
+ r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
+ onnected-shows-a-mega-feast-of-innovation-32051-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
+ ovation-32051-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:C-TOUCH & DISPLAY SHENZHEN — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-c-touch-display-shenzhen-23815-1@eventseye.impio-vault
+DESCRIPTION:C-TOUCH & DISPLAY SHENZHEN is the globally exhibition for the t
+ ouchscreen industry and mobile phone manufacturing chains. Focusing on tou
+ ch technology\, it encompasses the top products and innovative technologie
+ s along every link of the industrial chain\\nVenue: Shenzhen World Exhibit
+ ion & Convention Center\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EDUCATION AND TEACHING TOOLS FAIR — Belgrade\, Serbia
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261101
+UID:f-education-and-teaching-tools-fair-16542-1@eventseye.impio-vault
+DESCRIPTION:Education and Teaching Tools Fair.The exhibiting range includes
+  anything necessary for the educational institution equipping and work –
+  from the preschool to high education ones\\nVenue: Belgrade Fair Grounds\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-educa
+ tion-and-teaching-tools-fair-16542-1.html
+LOCATION:Belgrade\, Serbia
+URL:https://www.eventseye.com/fairs/f-education-and-teaching-tools-fair-165
+ 42-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ITWA - INDUSTRIAL TECH WORLD ASIA - SHENZHEN — Shenzhen\, China
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-itwa-industrial-tech-world-asia-shenzhen-34712-1@eventseye.impio-vault
+DESCRIPTION:ITWA is a leading industrial trade event in Asia\, standing at 
+ the forefront of technological transformation. Driven by “AI empowerment
+ ”. Electronic Manufacturing\, Semiconductor\, Smart Factory & Automation
+  Technology\, Electronics\, Automotive\, Robotics...\\nVenue: Shenzhen Wor
+ ld Exhibition & Convention Center\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-itwa-industrial-tech-world-asia-shenzhen-3471
+ 2-1.html
+LOCATION:Shenzhen\, China
+URL:https://www.eventseye.com/fairs/f-itwa-industrial-tech-world-asia-shenz
+ hen-34712-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REKLAMA — Moscow\, Russia
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261030
+UID:f-reklama-2269-1@eventseye.impio-vault
+DESCRIPTION:Reklama is a major professional event in the Russian advertisin
+ g market. It is a key event reflecting the latest trends in the advertisin
+ g market. The participants demonstrate innovative technologies\, products 
+ and services in the advertising industry\\nVenue: Crocus-Expo IEC\\nFreque
+ ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-reklama-2269-
+ 1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-reklama-2269-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BHARAT GLOBAL CULTURAL EXPO — Bangalore\, India
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-bharat-global-cultural-expo-33102-1@eventseye.impio-vault
+DESCRIPTION:The Bharat Global Cultural Expo is a prestigious event taking p
+ lace in the vibrant city of Bangalore. As a global platform\, it brings to
+ gether industries\, government bodies\, and cultural institutions from aro
+ und the world under one roof\\nVenue: Bengaluru Palace\\nFrequency: twice 
+ a year\\nSource: https://www.eventseye.com/fairs/f-bharat-global-cultural-
+ expo-33102-1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-bharat-global-cultural-expo-33102-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BITAM SHOW — Madrid\, Spain
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+UID:f-bitam-show-29067-1@eventseye.impio-vault
+DESCRIPTION:BITAM SHOW is the exhibition that brings together all national 
+ audiovisual professionals. A pragmatic and realistic showcase full of oppo
+ rtunities. Audiovisual\, Installation\, Digital Signage\, Proveideo...\\nV
+ enue: Casa de Campo\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-bitam-show-29067-1.html
+LOCATION:Madrid\, Spain
+URL:https://www.eventseye.com/fairs/f-bitam-show-29067-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CREATIVA NANTES — Nantes\, France
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-creativa-nantes-4317-1@eventseye.impio-vault
+DESCRIPTION:This fair offers a range of shops to stock up on equipment\, ex
+ hibitions produced by professionals and initiation and improvement worksho
+ ps to approach different creative leisure techniques\\nVenue: Exponantes -
+  La Beaujoire\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-creativa-nantes-4317-1.html
+LOCATION:Nantes\, France
+URL:https://www.eventseye.com/fairs/f-creativa-nantes-4317-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FAME WEST AFRICA — Cape Town\, South Africa
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-fame-west-africa-32785-1@eventseye.impio-vault
+DESCRIPTION:FAME Week Africa is an essential destination for African and gl
+ obal creative professionals. Music showcases\, Film screenings\, exhibitio
+ ns\, conferencesn\, festivals and a variety of networking opportunities\\n
+ Venue: Cape Town International Convention Centre\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-fame-west-africa-32785-1.html
+LOCATION:Cape Town\, South Africa
+URL:https://www.eventseye.com/fairs/f-fame-west-africa-32785-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IMWF - INTERNATIONAL MICE & WEDDING FORUM — Didim\, Turkey
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261101
+UID:f-imwf-international-mice-wedding-forum-30304-1@eventseye.impio-vault
+DESCRIPTION:International MICE & Wedding Forum. IMWF will bring together th
+ e CEOs and senior managers of the largest MICE and wedding agencies of dif
+ ferent countries\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-imwf-international-mice-wedding-forum-30304-1.html
+LOCATION:Didim\, Turkey
+URL:https://www.eventseye.com/fairs/f-imwf-international-mice-wedding-forum
+ -30304-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUCCA COMICS & GAMES — Lucca\, Italy
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-lucca-comics-games-9705-1@eventseye.impio-vault
+DESCRIPTION:A fair dedicated to cartoons\, role-playing games and video gam
+ es. The city of Lucca celebrates the world of comics\, board games\, video
+  games\, illustration\, cinema\, theme songs and television series every y
+ ear\\nVenue: Lucca Fiere\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-lucca-comics-games-9705-1.html
+LOCATION:Lucca\, Italy
+URL:https://www.eventseye.com/fairs/f-lucca-comics-games-9705-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WINTERZAUBER - HERRENHÄUSEN — Hannover\, Germany
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+UID:f-winterzauber-herrenhausen-31935-1@eventseye.impio-vault
+DESCRIPTION:Pre-Christmas market at Herrenhäusen Castle. Mulled wine\, bis
+ cuits\, handicrafts\, Christmas decorations\, beautiful things for a cozy 
+ home and countless gift ideas\\nVenue: Herrenhäuser Gärten\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-winterzauber-herre
+ nhausen-31935-1.html
+LOCATION:Hannover\, Germany
+URL:https://www.eventseye.com/fairs/f-winterzauber-herrenhausen-31935-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ART TORONTO — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+UID:f-art-toronto-18231-1@eventseye.impio-vault
+DESCRIPTION:Canada’s international fair for modern and contemporary art. 
+ One of the most significant art events in Canada\, ART TORONTO connects co
+ llectors\, curators\, galleries and artists from across the country and ar
+ ound the world\\nVenue: Metro Toronto Convention Centre\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-art-toronto-18231-1.htm
+ l
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-art-toronto-18231-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAMESCOM ASIA X THAILAND GAME SHOW — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+UID:f-gamescom-asia-x-thailand-game-show-27128-1@eventseye.impio-vault
+DESCRIPTION:Gamescom asia is the first satellite event of the world's large
+ st computer and video games festival\, Gamescom. Gamescom asia aims to ser
+ ve as the premier platform for Southeast Asian game developers to explore 
+ partnerships globally\\nVenue: Queen Sirikit National Convention Center\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-gamesco
+ m-asia-x-thailand-game-show-27128-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-gamescom-asia-x-thailand-game-show-27
+ 128-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTEGRATEC PARAGUAY — Asunción\, Paraguay
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+UID:f-integratec-paraguay-34222-1@eventseye.impio-vault
+DESCRIPTION:Latin American exhibition & conference for Audiovisual Systems\
+ , Home Automation\, Digital Signage and Unified Communications\\nVenue: Es
+ plendor by Wyndham Asunción\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-integratec-paraguay-34222-1.html
+LOCATION:Asunción\, Paraguay
+URL:https://www.eventseye.com/fairs/f-integratec-paraguay-34222-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU PATRIMOINE CULTUREL — Paris\, France
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+UID:f-salon-du-patrimoine-culturel-6687-1@eventseye.impio-vault
+DESCRIPTION:Exhibition For People acting in the Conservation\, the Restorat
+ ion and the Development of the Movable and Real Cultural Patrimony\\nVenue
+ : Carrousel du Louvre\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-salon-du-patrimoine-culturel-6687-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-patrimoine-culturel-6687-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TAAPE — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261101
+UID:f-taape-27956-1@eventseye.impio-vault
+DESCRIPTION:Thailand (Bangkok) Theme Park\, Video Game And Game Amusement E
+ xhibition. It showcases the latest products\, technologies\, and solutions
+ \, creating a truly international platform for networking\, knowledge exch
+ ange\, and business growth\\nVenue: Impact Exhibition & Convention Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-taape
+ -27956-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-taape-27956-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AES CONVENTION — Nashville\, TN\, USA
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-aes-convention-35-1@eventseye.impio-vault
+DESCRIPTION:International Audio Congress and Trade Fair. The largest gather
+ ings of audio professionals in the world\, AES Conventions are held annual
+ ly in both the United States and Europe\\nVenue: Gaylord Opryland Conventi
+ on Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fa
+ irs/f-aes-convention-35-1.html
+LOCATION:Nashville\, TN\, USA
+URL:https://www.eventseye.com/fairs/f-aes-convention-35-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ART TAIPEI — Taipei\, Taiwan
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261103
+UID:f-art-taipei-20596-1@eventseye.impio-vault
+DESCRIPTION:Contemporary art fair in Taipei. ART TAINAN gathers contemporar
+ y art galleries with unique characteristics and global vision\, to establi
+ sh an accessible platform to cultivate art market in southern Taiwan\\nVen
+ ue: Taipei World Trade Center (TWTC)\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-art-taipei-20596-1.html
+LOCATION:Taipei\, Taiwan
+URL:https://www.eventseye.com/fairs/f-art-taipei-20596-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTISSIMA — Torino\, Italy
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-artissima-5759-1@eventseye.impio-vault
+DESCRIPTION:Contemporary International Art Show. Artissima is Italy’s mos
+ t important contemporary art fair. Since its establishment in 1994\, it ha
+ s combined the presence of an international market with a focus on experim
+ entation and research\\nVenue: Lingotto Fiere\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-artissima-5759-1.html
+LOCATION:Torino\, Italy
+URL:https://www.eventseye.com/fairs/f-artissima-5759-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUBAI ACTIVE — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-dubai-active-33355-1@eventseye.impio-vault
+DESCRIPTION:The Middle East’s Leading International Fitness & Wellness Ex
+ hibition\, featuring competitions\, free workouts\, talks\, workshops\, fr
+ eebies and so much more...\\nVenue: Dubai World Trade Centre (Dubai Exhibi
+ tion Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-dubai-active-33355-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-dubai-active-33355-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DUBAI MUSCLE SHOW — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-dubai-muscle-show-33353-1@eventseye.impio-vault
+DESCRIPTION:Muscle Show is the Middle East’s Leading Fitness & Bodybuildi
+ ng Show. Jaw-dropping competitions\, legendary athletes\, wall-to-wall bra
+ nds... all under one roof\\nVenue: Dubai World Trade Centre (Dubai Exhibit
+ ion Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-dubai-muscle-show-33353-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-dubai-muscle-show-33353-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUN & KNIFE SHOW BLOOMINGTON — Minneapolis\, MN\, USA
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+UID:f-gun-knife-show-bloomington-24446-1@eventseye.impio-vault
+DESCRIPTION:GUN & KNIFE SHOW BLOOMINGTON presents shotguns\, hunting rifles
+ \, rifle spoke\, gun parts\, combat knife & swords\, cartridges\, muzzle l
+ oad\, gun magazines\, sharpening tool\, holster\, gun safe & cases\, laser
+  sight and Militaria of all Wa\\nVenue: Bloomington Armory\\nFrequency: un
+ known\\nSource: https://www.eventseye.com/fairs/f-gun-knife-show-bloomingt
+ on-24446-1.html
+LOCATION:Minneapolis\, MN\, USA
+URL:https://www.eventseye.com/fairs/f-gun-knife-show-bloomington-24446-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOLY RUSSIA - ST. PETERSBURG — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261106
+UID:f-holy-russia-st.-petersburg-4967-1@eventseye.impio-vault
+DESCRIPTION:Russian Expo dedicated to Church Architecture\, Construction & 
+ Restoration\, Book-Printing\, Church Utensils\, Religion Education\\nVenue
+ : Kirov Palace of Culture - Dvorets Kul'tury Imeni S. M. Kirova\\nFrequenc
+ y: twice a year\\nSource: https://www.eventseye.com/fairs/f-holy-russia-st
+ .-petersburg-4967-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-holy-russia-st.-petersburg-4967-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DES VINS DE TERROIR — Arras\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-salon-des-vins-de-terroir-24581-1@eventseye.impio-vault
+DESCRIPTION:Local Wines and Regional Products Fair. This show aims to promo
+ te and promote all agricultural\, wine and local products. It brings toget
+ her wine growers as well as some farm producers\\nVenue: Parc des Expositi
+ ons Artois Expo\\nFrequency: twice a year\\nSource: https://www.eventseye.
+ com/fairs/f-salon-des-vins-de-terroir-24581-1.html
+LOCATION:Arras\, France
+URL:https://www.eventseye.com/fairs/f-salon-des-vins-de-terroir-24581-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE CAEN — Caen\, France
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-salon-du-mariage-de-caen-28584-1@eventseye.impio-vault
+DESCRIPTION:Caen Wedding Fair. Wedding dresses\, suits\, jewelers\, invitat
+ ions\, decorations\, florists\, wedding planners\, hairstylists\, accessor
+ ies\, caterers\, photographers\, videographers\, entertainment\, equipment
+  rentals...\\nVenue: Parc des expositions de Caen\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-2858
+ 4-1.html
+LOCATION:Caen\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-28584-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAMP & SCRAPBOOK EXPO ONTARIO — Ontario\, CA\, USA
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+UID:f-stamp-scrapbook-expo-ontario-24289-1@eventseye.impio-vault
+DESCRIPTION:Art & Craft fair in Ontario\, C. STAMP & SCRAPBOOK EXPO ONTARIO
+  features craft show\, craft shopping\, paper craft\, clay modelling\, abs
+ tract arts\, Art & Craft workshop\, craft tools\, creative ideas and craft
+ s for kids\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-stamp-scrapbook-expo-ontario-24289-1.html
+LOCATION:Ontario\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-ontario-24289-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TUTTINFIERA — Padua\, Italy
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261102
+UID:f-tuttinfiera-11717-1@eventseye.impio-vault
+DESCRIPTION:Hobby and leisure time fair. A continuous and varied show\, ded
+ icated to an audience of enthusiasts of all ages. The opportunity to have 
+ fun while buying handcrafted products\, souvenirs\, rarities and unique pi
+ eces often impossible to find elsewhere...\\nVenue: PadovaFiere\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-tuttinfiera-117
+ 17-1.html
+LOCATION:Padua\, Italy
+URL:https://www.eventseye.com/fairs/f-tuttinfiera-11717-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANFIELD GUN SHOW — Canfield\, OH\, USA
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-canfield-gun-show-33968-1@eventseye.impio-vault
+DESCRIPTION:Self Defense Weapons Fair. CANFIELD GUN SHOW presents antique p
+ istols\, rifles\, air guns\, combat knives\, gun magazines\, collectible f
+ irearm\, hunting gears\, fishing gears\, holsters\, gun safes\, display ca
+ ses\, survival training and gun parts\\nFrequency: unknown\\nSource: https
+ ://www.eventseye.com/fairs/f-canfield-gun-show-33968-1.html
+LOCATION:Canfield\, OH\, USA
+URL:https://www.eventseye.com/fairs/f-canfield-gun-show-33968-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MAKER FAIRE - CZECH REPUBLIC - BRNO — Brno\, Czech Republic
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
@@ -5295,47 +6029,61 @@ URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-sacramento-24285
  -1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BROWNWOOD GUNS & KNIFE SHOW — Brownwood\, TX\, USA
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-brownwood-guns-knife-show-32967-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapons fair. BROWNWOOD GUNS & KNIFE SHOW showcases shoo
- ting rifles\, self defense trainig\, all sizes of knives\, collectible fir
- earms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartri
- dges\, gun cases & safe\, holsters and antiques\\nVenue: Brownwood Regiona
- l Airport\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f
- -brownwood-guns-knife-show-32967-1.html
-LOCATION:Brownwood\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-brownwood-guns-knife-show-32967-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ERO-SPHERE DOLE — Dole\, France
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-ero-sphere-dole-34514-1@eventseye.impio-vault
+SUMMARY:EROSEXPO ROUEN — Rouen\, France
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-erosexpo-rouen-12302-1@eventseye.impio-vault
 DESCRIPTION:Eroticism fair\, exclusively reserved for adults. Intimate ling
  erie\, Jewelry\, Sex toys\, Shoes\, Erotic authors\, hair removal\, tattoo
- \, Association\, erotic accessories...\\nVenue: Dolexpo\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-ero-sphere-dole-34514-1
- .html
-LOCATION:Dole\, France
-URL:https://www.eventseye.com/fairs/f-ero-sphere-dole-34514-1.html
+ \, Association\, erotic accessories...\\nVenue: Parc des expositions de Ro
+ uen\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-e
+ rosexpo-rouen-12302-1.html
+LOCATION:Rouen\, France
+URL:https://www.eventseye.com/fairs/f-erosexpo-rouen-12302-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FÊTE DES VINS ET BAPTÈME DU MILLÉSIME CHABLIS — Chablis\, Fran
- ce
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-fete-des-vins-et-bapteme-du-millesime-chablis-31764-1@eventseye.impio-vault
-DESCRIPTION:Professionals and the general public gather in Chablis to celeb
- rate its new vintage. On the program: tastings of all the appellations and
-  different vintages\, local gastronomy stands\, concert\, brotherhood para
- de\, inductions...\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-fete-des-vins-et-bapteme-du-millesime-chablis-31764-1.html
-LOCATION:Chablis\, France
-URL:https://www.eventseye.com/fairs/f-fete-des-vins-et-bapteme-du-millesime
- -chablis-31764-1.html
+SUMMARY:EVANSVILLE GUNS & KNIFE SHOW — Evansville\, IN\, USA
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-evansville-guns-knife-show-24756-1@eventseye.impio-vault
+DESCRIPTION:Guns & Knife Expo. EVANSVILLE GUNS & KNIFE SHOW showcases shotg
+ uns\, handguns\, hunting rifle\, swords\, collector & antique guns\, India
+ n artifacts\, muzzle load\, rifle spoke\, ear plugs\, flashlight\, safety 
+ equipment\, holsters\, war relics\, ammo and gun parts\\nVenue: Vanderburg
+ h 4-H Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
+ s/f-evansville-guns-knife-show-24756-1.html
+LOCATION:Evansville\, IN\, USA
+URL:https://www.eventseye.com/fairs/f-evansville-guns-knife-show-24756-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FACTS COMIC CON — Ghent\, Belgium
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-facts-comic-con-31853-1@eventseye.impio-vault
+DESCRIPTION:Watch films\, series and video games come to life in the larges
+ t Belgian comics and pop culture festival! For fans of films\, series\, vi
+ deo games\, board games\, cosplay\, superheroes\, anime...\\nVenue: Flande
+ rs Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-facts-comic-con-31853-1.html
+LOCATION:Ghent\, Belgium
+URL:https://www.eventseye.com/fairs/f-facts-comic-con-31853-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G & S ARKANSAS GUNS & KNIFE SHOW - MOUNTAIN HOME — Mountain Home\
+ , AR\, USA
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261102
+UID:f-g-s-arkansas-guns-knife-show-mountain-home-24377-1@eventseye.impio-vault
+DESCRIPTION:Arms and Ammunition Fair. G & S ARKANSAS GUNS & KNIFE SHOW feat
+ ures rifles\, handguns\, shotguns\, combat knives\, samurai swords\, cartr
+ idges\, collectibles\, antique coins\, hunting and fishing accessories\, w
+ ar relics\, carbines and self protection items\\nVenue: Baxter County Fair
+ grounds\\nFrequency: 3 times a year\\nSource: https://www.eventseye.com/fa
+ irs/f-g-s-arkansas-guns-knife-show-mountain-home-24377-1.html
+LOCATION:Mountain Home\, AR\, USA
+URL:https://www.eventseye.com/fairs/f-g-s-arkansas-guns-knife-show-mountain
+ -home-24377-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HARRISBURG GUN & KNIFE SHOW — Harrisburg\, PA\, USA
@@ -5784,695 +6532,6 @@ URL:https://www.eventseye.com/fairs/f-harvest-festival-original-art-craft-s
  anta-rosa-33507-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FÊTE DU PIMENT D'ESPELETTE — Espelette\, France
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-fete-du-piment-d-espelette-31575-1@eventseye.impio-vault
-DESCRIPTION:The Espelette Pepper Festival is renowned well beyond the Basqu
- e Country. Pepper production is in the spotlight: its culture\, its histor
- y\, its strength\, its label... you will know everything about Espelette P
- epper\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f
- -fete-du-piment-d-espelette-31575-1.html
-LOCATION:Espelette\, France
-URL:https://www.eventseye.com/fairs/f-fete-du-piment-d-espelette-31575-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G & S ARKANSAS GUNS & KNIFE SHOW - HOT SPRINGS — Hot Springs\, AR
- \, USA
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261027
-UID:f-g-s-arkansas-guns-knife-show-hot-springs-25135-1@eventseye.impio-vault
-DESCRIPTION:Arms and Ammunition Fair. G & S ARKANSAS GUNS & KNIFE SHOW pres
- ents antique pistols\, rifles\, air guns\, combat knives\, gun magazines\,
-  collectible firearm\, hunting gears\, fishing gears\, holsters\, gun safe
- s\, display cases\, survival training...\\nVenue: Garland County Fairgroun
- ds\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-g
- -s-arkansas-guns-knife-show-hot-springs-25135-1.html
-LOCATION:Hot Springs\, AR\, USA
-URL:https://www.eventseye.com/fairs/f-g-s-arkansas-guns-knife-show-hot-spri
- ngs-25135-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KENNER GUNS & KNIFE SHOW — New Orleans\, LA\, USA
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-kenner-guns-knife-show-24698-1@eventseye.impio-vault
-DESCRIPTION:Arms & Ammunition Fair. KENNER SUMMER GUNS & KNIFE SHOW feature
- s hunting knife\, shooting rifle\, rifle spoke\, sharpening tool\, outdoor
-  equipment\, reloading supplies\, hunting & fishing gears\, holsters\, Fla
- shlight\, hunting boots and Camouflage Related item\\nVenue: Pontchatrain 
- Convention & Civic Center\\nFrequency: unknown\\nSource: https://www.event
- seye.com/fairs/f-kenner-guns-knife-show-24698-1.html
-LOCATION:New Orleans\, LA\, USA
-URL:https://www.eventseye.com/fairs/f-kenner-guns-knife-show-24698-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAFAYETTE GUNS & KNIFE SHOW — Lafayette\, IN\, USA
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-lafayette-guns-knife-show-24741-1@eventseye.impio-vault
-DESCRIPTION:Arms & Ammunition Fair. LAFAYETTE GUNS & KNIFE SHOW presents au
- tomatic firearms\, combat knife & swords\, shotguns\, antique pistols\, ca
- rtridges\, fishing & hunting accessories\, gun cases & safes\, bullet proo
- f jacket\, ear plugs and flashlights\\nVenue: Tippecanoe County Fairground
- s\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-lafayet
- te-guns-knife-show-24741-1.html
-LOCATION:Lafayette\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-lafayette-guns-knife-show-24741-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LE SALON LE PRINTEMPS DU BIEN-ÊTRE — Albi\, France
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-le-salon-le-printemps-du-bien-etre-31572-1@eventseye.impio-vault
-DESCRIPTION:Wellness fair. Head massage to pamper yourself\, reflexology\, 
- well-being through stones and minerals with lithotherapy\, discovery of ru
- nes\, cartomancy readings and many other holistic and well-being practices
-  will be offered\\nVenue: Salle événementielle de Pratgraussals\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-le-salon-le-p
- rintemps-du-bien-etre-31572-1.html
-LOCATION:Albi\, France
-URL:https://www.eventseye.com/fairs/f-le-salon-le-printemps-du-bien-etre-31
- 572-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - LUXEMBOURG — Luxembourg\, Luxembourg
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-maker-faire-luxembourg-34341-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
-LOCATION:Luxembourg\, Luxembourg
-URL:https://www.eventseye.com/fairs/f-maker-faire-luxembourg-34341-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAKER FAIRE - TAIWAN - TAIPEI — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-maker-faire-taiwan-taipei-34325-1@eventseye.impio-vault
-DESCRIPTION:Maker Faire is a gathering of fascinating\, curious people who 
- enjoy learning and who love sharing what they can do. From engineers to ar
- tists to scientists to crafters\, Maker Faire is a venue for these "makers
- " to show hobbies\, experiments\, projects\\nFrequency: once a year\\nSour
- ce: https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.ht
- ml
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-maker-faire-taiwan-taipei-34325-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MOSTRA MERCATO DELL’ARTIGIANATO — Erba\, Italy
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261102
-UID:f-mostra-mercato-dell-artigianato-15891-1@eventseye.impio-vault
-DESCRIPTION:Italian Quality Handicraft Fair. 'Mostra Artigianato' focuses o
- n the value of craftsmanship. To know and appreciate the artisan productio
- ns on display\, access our social networks!\\nVenue: Lario Fiere\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-mostra-mercato
- -dell-artigianato-15891-1.html
-LOCATION:Erba\, Italy
-URL:https://www.eventseye.com/fairs/f-mostra-mercato-dell-artigianato-15891
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORIGINAL FORT WORTH GUN SHOW — Fort Worth\, TX\, USA
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-original-fort-worth-gun-show-24510-1@eventseye.impio-vault
-DESCRIPTION:Arms & Ammunition Fair. ORIGINAL FORT WORTH GUN SHOW features s
- elf protection weapons\, shooting rifle\, shotguns\, reloading supplies\, 
- combat swords\, bulletproof jackets\, ear plugs\, holsters\, carbines\, la
- ser sights and hunting knives\\nVenue: Will Rogers Memorial Center\\nFrequ
- ency: unknown\\nSource: https://www.eventseye.com/fairs/f-original-fort-wo
- rth-gun-show-24510-1.html
-LOCATION:Fort Worth\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-original-fort-worth-gun-show-24510-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON BIEN-ÊTRE & SANTÉ — Albi\, France
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-salon-bien-etre-sante-33552-1@eventseye.impio-vault
-DESCRIPTION:Trade fair for the promotion and enhancement of well-being and 
- health themes: enabling everyone to access well-being\, opportunities for 
- relaxation and self-care\\nVenue: Salle événementielle de Pratgraussals\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-salon
- -bien-etre-sante-33552-1.html
-LOCATION:Albi\, France
-URL:https://www.eventseye.com/fairs/f-salon-bien-etre-sante-33552-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPOSI A BOLOGNA — Bologna\, Italy
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-sposi-a-bologna-28678-1@eventseye.impio-vault
-DESCRIPTION:Bologna Wedding Fair. Ateliers\, tailors\, men's suits\, photog
- raphic studios\, wedding favors\, travel agencies\, locations\, jewelers\,
-  florists\, car rentals...\\nVenue: Bologna Exhibition Centre\\nFrequency:
-  twice a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-bologna-
- 28678-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-sposi-a-bologna-28678-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPOSI A TREVISO — Treviso\, Italy
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-sposi-a-treviso-24957-1@eventseye.impio-vault
-DESCRIPTION:Treviso Wedding Fair Ateliers\, tailors\, men's suits\, photogr
- aphic studios\, wedding favors\, travel agencies\, locations\, jewelers\, 
- florists\, car rentals…\\nVenue: Villa Braida – Mogliano Veneto\\nFreq
- uency: twice a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-tr
- eviso-24957-1.html
-LOCATION:Treviso\, Italy
-URL:https://www.eventseye.com/fairs/f-sposi-a-treviso-24957-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPOSI A VICENZA — Vicenza\, Italy
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-sposi-a-vicenza-24962-1@eventseye.impio-vault
-DESCRIPTION:Vicenza Wedding Show Ateliers\, tailors\, men's suits\, photogr
- aphic studios\, wedding favors\, travel agencies\, locations\, jewelers\, 
- florists\, car rentals…\\nVenue: Villa Curti\, Sovizzo\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-sposi-a-vicenza-24962-
- 1.html
-LOCATION:Vicenza\, Italy
-URL:https://www.eventseye.com/fairs/f-sposi-a-vicenza-24962-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAU – THE MARRIAGE FAIR MANNHEIM — Mannheim\, Germany
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-trau-the-marriage-fair-mannheim-13646-1@eventseye.impio-vault
-DESCRIPTION:Wedding fair in Mannheim. “TRAU” presents everything import
- ant on a wedding day\, shows the latest trends\\nVenue: Maimarkt Mannheim\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-trau-
- the-marriage-fair-mannheim-13646-1.html
-LOCATION:Mannheim\, Germany
-URL:https://www.eventseye.com/fairs/f-trau-the-marriage-fair-mannheim-13646
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAUDICH KÖLN — Cologne\, Germany
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261026
-UID:f-traudich-koln-16766-1@eventseye.impio-vault
-DESCRIPTION:Wedding Fair in Cologne. Live music\, delicious cuisine\, pract
- ical workshops... prepare your wedding in the best possible way! Meet all 
- types of service providers: wedding dresses and formal wear\, bridal party
-  venues\, wedding rings...\\nVenue: XPOST Köln\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-traudich-koln-16766-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-traudich-koln-16766-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ZAK JEWELS EXPO - CHENNAI — Chennai\, India
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261027
-UID:f-zak-jewels-expo-chennai-5969-1@eventseye.impio-vault
-DESCRIPTION:India’s Most Spectacular B2C Jewellery Show. A Grand Arena of
-  Dazzling Displa. Featuring Diamonds\, Gold\, Kundan\, Minakari\, Jadau\, 
- Polki\, Precious & Semi-Precious Stones and more…\\nVenue: Taj Coromande
- l\, Chennai\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs
- /f-zak-jewels-expo-chennai-5969-1.html
-LOCATION:Chennai\, India
-URL:https://www.eventseye.com/fairs/f-zak-jewels-expo-chennai-5969-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUNS & KNIFE SHOW BURLINGTON — Burlington\, NC\, USA
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261027
-UID:f-guns-knife-show-burlington-33524-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapon fair. GUNS & KNIFE SHOW IN BURLINGTON features ri
- fles\, all types of knives\, shotguns\, personal defence weapons\, fishing
-  gears\, holsters\, antiques & collectible firearms\, gun cases\, hunting 
- accessories\, outdoor equipment\\nVenue: The Alliance Convention Center\\n
- Frequency: unknown\\nSource: https://www.eventseye.com/fairs/f-guns-knife-
- show-burlington-33524-1.html
-LOCATION:Burlington\, NC\, USA
-URL:https://www.eventseye.com/fairs/f-guns-knife-show-burlington-33524-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SPACIOBODA - BARCELONA — Barcelona\, Spain
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261027
-UID:f-spacioboda-barcelona-34163-1@eventseye.impio-vault
-DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
- ully selected vendors. Connect directly\, compare options easily\, and fin
- d the right partners to plan your wedding in an inspiring setting\\nVenue:
-  PANGEA The Travel Store Barcelona\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-spacioboda-barcelona-34163-1.html
-LOCATION:Barcelona\, Spain
-URL:https://www.eventseye.com/fairs/f-spacioboda-barcelona-34163-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:6 CONNECTED SHOWS - A MEGA FEAST OF INNOVATION — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-6-connected-shows-a-mega-feast-of-innovation-32051-1@eventseye.impio-vault
-DESCRIPTION:A combination of 6 flagship professional tradeshows at China’
- s innovation hub covering Automotive\, Electronics\, Display and New Mater
- ials. These shows connect across key industries in the world of advanced m
- anufacturing\\nVenue: Shenzhen International Convention & Exhibition Cente
- r\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-6-c
- onnected-shows-a-mega-feast-of-innovation-32051-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-6-connected-shows-a-mega-feast-of-inn
- ovation-32051-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:C-TOUCH & DISPLAY SHENZHEN — Shenzhen\, China
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-c-touch-display-shenzhen-23815-1@eventseye.impio-vault
-DESCRIPTION:C-TOUCH & DISPLAY SHENZHEN is the globally exhibition for the t
- ouchscreen industry and mobile phone manufacturing chains. Focusing on tou
- ch technology\, it encompasses the top products and innovative technologie
- s along every link of the industrial chain\\nVenue: Shenzhen World Exhibit
- ion & Convention Center\\nFrequency: once a year\\nSource: https://www.eve
- ntseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
-LOCATION:Shenzhen\, China
-URL:https://www.eventseye.com/fairs/f-c-touch-display-shenzhen-23815-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EDUCATION AND TEACHING TOOLS FAIR — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261101
-UID:f-education-and-teaching-tools-fair-16542-1@eventseye.impio-vault
-DESCRIPTION:Education and Teaching Tools Fair.The exhibiting range includes
-  anything necessary for the educational institution equipping and work –
-  from the preschool to high education ones\\nVenue: Belgrade Fair Grounds\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-educa
- tion-and-teaching-tools-fair-16542-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-education-and-teaching-tools-fair-165
- 42-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REKLAMA — Moscow\, Russia
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261030
-UID:f-reklama-2269-1@eventseye.impio-vault
-DESCRIPTION:Reklama is a major professional event in the Russian advertisin
- g market. It is a key event reflecting the latest trends in the advertisin
- g market. The participants demonstrate innovative technologies\, products 
- and services in the advertising industry\\nVenue: Crocus-Expo IEC\\nFreque
- ncy: once a year\\nSource: https://www.eventseye.com/fairs/f-reklama-2269-
- 1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-reklama-2269-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BHARAT GLOBAL CULTURAL EXPO — Bangalore\, India
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-bharat-global-cultural-expo-33102-1@eventseye.impio-vault
-DESCRIPTION:The Bharat Global Cultural Expo is a prestigious event taking p
- lace in the vibrant city of Bangalore. As a global platform\, it brings to
- gether industries\, government bodies\, and cultural institutions from aro
- und the world under one roof\\nVenue: Bengaluru Palace\\nFrequency: twice 
- a year\\nSource: https://www.eventseye.com/fairs/f-bharat-global-cultural-
- expo-33102-1.html
-LOCATION:Bangalore\, India
-URL:https://www.eventseye.com/fairs/f-bharat-global-cultural-expo-33102-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BITAM SHOW — Madrid\, Spain
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-UID:f-bitam-show-29067-1@eventseye.impio-vault
-DESCRIPTION:BITAM SHOW is the exhibition that brings together all national 
- audiovisual professionals. A pragmatic and realistic showcase full of oppo
- rtunities. Audiovisual\, Installation\, Digital Signage\, Proveideo...\\nV
- enue: Casa de Campo\\nFrequency: once a year\\nSource: https://www.eventse
- ye.com/fairs/f-bitam-show-29067-1.html
-LOCATION:Madrid\, Spain
-URL:https://www.eventseye.com/fairs/f-bitam-show-29067-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CREATIVA NANTES — Nantes\, France
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-creativa-nantes-4317-1@eventseye.impio-vault
-DESCRIPTION:This fair offers a range of shops to stock up on equipment\, ex
- hibitions produced by professionals and initiation and improvement worksho
- ps to approach different creative leisure techniques\\nVenue: Exponantes -
-  La Beaujoire\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-creativa-nantes-4317-1.html
-LOCATION:Nantes\, France
-URL:https://www.eventseye.com/fairs/f-creativa-nantes-4317-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FAME WEST AFRICA — Cape Town\, South Africa
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-fame-west-africa-32785-1@eventseye.impio-vault
-DESCRIPTION:FAME Week Africa is an essential destination for African and gl
- obal creative professionals. Music showcases\, Film screenings\, exhibitio
- ns\, conferencesn\, festivals and a variety of networking opportunities\\n
- Venue: Cape Town International Convention Centre\\nFrequency: once a year\
- \nSource: https://www.eventseye.com/fairs/f-fame-west-africa-32785-1.html
-LOCATION:Cape Town\, South Africa
-URL:https://www.eventseye.com/fairs/f-fame-west-africa-32785-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IMWF - INTERNATIONAL MICE & WEDDING FORUM — Didim\, Turkey
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261101
-UID:f-imwf-international-mice-wedding-forum-30304-1@eventseye.impio-vault
-DESCRIPTION:International MICE & Wedding Forum. IMWF will bring together th
- e CEOs and senior managers of the largest MICE and wedding agencies of dif
- ferent countries\\nFrequency: once a year\\nSource: https://www.eventseye.
- com/fairs/f-imwf-international-mice-wedding-forum-30304-1.html
-LOCATION:Didim\, Turkey
-URL:https://www.eventseye.com/fairs/f-imwf-international-mice-wedding-forum
- -30304-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LUCCA COMICS & GAMES — Lucca\, Italy
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-lucca-comics-games-9705-1@eventseye.impio-vault
-DESCRIPTION:A fair dedicated to cartoons\, role-playing games and video gam
- es. The city of Lucca celebrates the world of comics\, board games\, video
-  games\, illustration\, cinema\, theme songs and television series every y
- ear\\nVenue: Lucca Fiere\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-lucca-comics-games-9705-1.html
-LOCATION:Lucca\, Italy
-URL:https://www.eventseye.com/fairs/f-lucca-comics-games-9705-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WINTERZAUBER - HERRENHÄUSEN — Hannover\, Germany
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261102
-UID:f-winterzauber-herrenhausen-31935-1@eventseye.impio-vault
-DESCRIPTION:Pre-Christmas market at Herrenhäusen Castle. Mulled wine\, bis
- cuits\, handicrafts\, Christmas decorations\, beautiful things for a cozy 
- home and countless gift ideas\\nVenue: Herrenhäuser Gärten\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-winterzauber-herre
- nhausen-31935-1.html
-LOCATION:Hannover\, Germany
-URL:https://www.eventseye.com/fairs/f-winterzauber-herrenhausen-31935-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ART TORONTO — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261102
-UID:f-art-toronto-18231-1@eventseye.impio-vault
-DESCRIPTION:Canada’s international fair for modern and contemporary art. 
- One of the most significant art events in Canada\, ART TORONTO connects co
- llectors\, curators\, galleries and artists from across the country and ar
- ound the world\\nVenue: Metro Toronto Convention Centre\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-art-toronto-18231-1.htm
- l
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-art-toronto-18231-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAMESCOM ASIA X THAILAND GAME SHOW — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261102
-UID:f-gamescom-asia-x-thailand-game-show-27128-1@eventseye.impio-vault
-DESCRIPTION:Gamescom asia is the first satellite event of the world's large
- st computer and video games festival\, Gamescom. Gamescom asia aims to ser
- ve as the premier platform for Southeast Asian game developers to explore 
- partnerships globally\\nVenue: Queen Sirikit National Convention Center\\n
- Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-gamesco
- m-asia-x-thailand-game-show-27128-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-gamescom-asia-x-thailand-game-show-27
- 128-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTEGRATEC PARAGUAY — Asunción\, Paraguay
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-UID:f-integratec-paraguay-34222-1@eventseye.impio-vault
-DESCRIPTION:Latin American exhibition & conference for Audiovisual Systems\
- , Home Automation\, Digital Signage and Unified Communications\\nVenue: Es
- plendor by Wyndham Asunción\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-integratec-paraguay-34222-1.html
-LOCATION:Asunción\, Paraguay
-URL:https://www.eventseye.com/fairs/f-integratec-paraguay-34222-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU PATRIMOINE CULTUREL — Paris\, France
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261102
-UID:f-salon-du-patrimoine-culturel-6687-1@eventseye.impio-vault
-DESCRIPTION:Exhibition For People acting in the Conservation\, the Restorat
- ion and the Development of the Movable and Real Cultural Patrimony\\nVenue
- : Carrousel du Louvre\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-salon-du-patrimoine-culturel-6687-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-patrimoine-culturel-6687-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TAAPE — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261101
-UID:f-taape-27956-1@eventseye.impio-vault
-DESCRIPTION:Thailand (Bangkok) Theme Park\, Video Game And Game Amusement E
- xhibition. It showcases the latest products\, technologies\, and solutions
- \, creating a truly international platform for networking\, knowledge exch
- ange\, and business growth\\nVenue: Impact Exhibition & Convention Center\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-taape
- -27956-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-taape-27956-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AES CONVENTION — Nashville\, TN\, USA
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-aes-convention-35-1@eventseye.impio-vault
-DESCRIPTION:International Audio Congress and Trade Fair. The largest gather
- ings of audio professionals in the world\, AES Conventions are held annual
- ly in both the United States and Europe\\nVenue: Gaylord Opryland Conventi
- on Center\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fa
- irs/f-aes-convention-35-1.html
-LOCATION:Nashville\, TN\, USA
-URL:https://www.eventseye.com/fairs/f-aes-convention-35-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ART TAIPEI — Taipei\, Taiwan
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261103
-UID:f-art-taipei-20596-1@eventseye.impio-vault
-DESCRIPTION:Contemporary art fair in Taipei. ART TAINAN gathers contemporar
- y art galleries with unique characteristics and global vision\, to establi
- sh an accessible platform to cultivate art market in southern Taiwan\\nVen
- ue: Taipei World Trade Center (TWTC)\\nFrequency: once a year\\nSource: ht
- tps://www.eventseye.com/fairs/f-art-taipei-20596-1.html
-LOCATION:Taipei\, Taiwan
-URL:https://www.eventseye.com/fairs/f-art-taipei-20596-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARTISSIMA — Torino\, Italy
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-artissima-5759-1@eventseye.impio-vault
-DESCRIPTION:Contemporary International Art Show. Artissima is Italy’s mos
- t important contemporary art fair. Since its establishment in 1994\, it ha
- s combined the presence of an international market with a focus on experim
- entation and research\\nVenue: Lingotto Fiere\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-artissima-5759-1.html
-LOCATION:Torino\, Italy
-URL:https://www.eventseye.com/fairs/f-artissima-5759-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DUBAI ACTIVE — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-dubai-active-33355-1@eventseye.impio-vault
-DESCRIPTION:The Middle East’s Leading International Fitness & Wellness Ex
- hibition\, featuring competitions\, free workouts\, talks\, workshops\, fr
- eebies and so much more...\\nVenue: Dubai World Trade Centre (Dubai Exhibi
- tion Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-dubai-active-33355-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-dubai-active-33355-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DUBAI MUSCLE SHOW — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-dubai-muscle-show-33353-1@eventseye.impio-vault
-DESCRIPTION:Muscle Show is the Middle East’s Leading Fitness & Bodybuildi
- ng Show. Jaw-dropping competitions\, legendary athletes\, wall-to-wall bra
- nds... all under one roof\\nVenue: Dubai World Trade Centre (Dubai Exhibit
- ion Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-dubai-muscle-show-33353-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-dubai-muscle-show-33353-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUN & KNIFE SHOW BLOOMINGTON — Minneapolis\, MN\, USA
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-UID:f-gun-knife-show-bloomington-24446-1@eventseye.impio-vault
-DESCRIPTION:GUN & KNIFE SHOW BLOOMINGTON presents shotguns\, hunting rifles
- \, rifle spoke\, gun parts\, combat knife & swords\, cartridges\, muzzle l
- oad\, gun magazines\, sharpening tool\, holster\, gun safe & cases\, laser
-  sight and Militaria of all Wa\\nVenue: Bloomington Armory\\nFrequency: un
- known\\nSource: https://www.eventseye.com/fairs/f-gun-knife-show-bloomingt
- on-24446-1.html
-LOCATION:Minneapolis\, MN\, USA
-URL:https://www.eventseye.com/fairs/f-gun-knife-show-bloomington-24446-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOLY RUSSIA - ST. PETERSBURG — St. Petersburg\, Russia
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261106
-UID:f-holy-russia-st.-petersburg-4967-1@eventseye.impio-vault
-DESCRIPTION:Russian Expo dedicated to Church Architecture\, Construction & 
- Restoration\, Book-Printing\, Church Utensils\, Religion Education\\nVenue
- : Kirov Palace of Culture - Dvorets Kul'tury Imeni S. M. Kirova\\nFrequenc
- y: twice a year\\nSource: https://www.eventseye.com/fairs/f-holy-russia-st
- .-petersburg-4967-1.html
-LOCATION:St. Petersburg\, Russia
-URL:https://www.eventseye.com/fairs/f-holy-russia-st.-petersburg-4967-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DES VINS DE TERROIR — Arras\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-salon-des-vins-de-terroir-24581-1@eventseye.impio-vault
-DESCRIPTION:Local Wines and Regional Products Fair. This show aims to promo
- te and promote all agricultural\, wine and local products. It brings toget
- her wine growers as well as some farm producers\\nVenue: Parc des Expositi
- ons Artois Expo\\nFrequency: twice a year\\nSource: https://www.eventseye.
- com/fairs/f-salon-des-vins-de-terroir-24581-1.html
-LOCATION:Arras\, France
-URL:https://www.eventseye.com/fairs/f-salon-des-vins-de-terroir-24581-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE CAEN — Caen\, France
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-salon-du-mariage-de-caen-28584-1@eventseye.impio-vault
-DESCRIPTION:Caen Wedding Fair. Wedding dresses\, suits\, jewelers\, invitat
- ions\, decorations\, florists\, wedding planners\, hairstylists\, accessor
- ies\, caterers\, photographers\, videographers\, entertainment\, equipment
-  rentals...\\nVenue: Parc des expositions de Caen\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-2858
- 4-1.html
-LOCATION:Caen\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-caen-28584-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAMP & SCRAPBOOK EXPO ONTARIO — Ontario\, CA\, USA
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
-UID:f-stamp-scrapbook-expo-ontario-24289-1@eventseye.impio-vault
-DESCRIPTION:Art & Craft fair in Ontario\, C. STAMP & SCRAPBOOK EXPO ONTARIO
-  features craft show\, craft shopping\, paper craft\, clay modelling\, abs
- tract arts\, Art & Craft workshop\, craft tools\, creative ideas and craft
- s for kids\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
- irs/f-stamp-scrapbook-expo-ontario-24289-1.html
-LOCATION:Ontario\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-ontario-24289-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TUTTINFIERA — Padua\, Italy
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261102
-UID:f-tuttinfiera-11717-1@eventseye.impio-vault
-DESCRIPTION:Hobby and leisure time fair. A continuous and varied show\, ded
- icated to an audience of enthusiasts of all ages. The opportunity to have 
- fun while buying handcrafted products\, souvenirs\, rarities and unique pi
- eces often impossible to find elsewhere...\\nVenue: PadovaFiere\\nFrequenc
- y: once a year\\nSource: https://www.eventseye.com/fairs/f-tuttinfiera-117
- 17-1.html
-LOCATION:Padua\, Italy
-URL:https://www.eventseye.com/fairs/f-tuttinfiera-11717-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANFIELD GUN SHOW — Canfield\, OH\, USA
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-canfield-gun-show-33968-1@eventseye.impio-vault
-DESCRIPTION:Self Defense Weapons Fair. CANFIELD GUN SHOW presents antique p
- istols\, rifles\, air guns\, combat knives\, gun magazines\, collectible f
- irearm\, hunting gears\, fishing gears\, holsters\, gun safes\, display ca
- ses\, survival training and gun parts\\nFrequency: unknown\\nSource: https
- ://www.eventseye.com/fairs/f-canfield-gun-show-33968-1.html
-LOCATION:Canfield\, OH\, USA
-URL:https://www.eventseye.com/fairs/f-canfield-gun-show-33968-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EROSEXPO ROUEN — Rouen\, France
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-erosexpo-rouen-12302-1@eventseye.impio-vault
-DESCRIPTION:Eroticism fair\, exclusively reserved for adults. Intimate ling
- erie\, Jewelry\, Sex toys\, Shoes\, Erotic authors\, hair removal\, tattoo
- \, Association\, erotic accessories...\\nVenue: Parc des expositions de Ro
- uen\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-e
- rosexpo-rouen-12302-1.html
-LOCATION:Rouen\, France
-URL:https://www.eventseye.com/fairs/f-erosexpo-rouen-12302-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EVANSVILLE GUNS & KNIFE SHOW — Evansville\, IN\, USA
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-evansville-guns-knife-show-24756-1@eventseye.impio-vault
-DESCRIPTION:Guns & Knife Expo. EVANSVILLE GUNS & KNIFE SHOW showcases shotg
- uns\, handguns\, hunting rifle\, swords\, collector & antique guns\, India
- n artifacts\, muzzle load\, rifle spoke\, ear plugs\, flashlight\, safety 
- equipment\, holsters\, war relics\, ammo and gun parts\\nVenue: Vanderburg
- h 4-H Center\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
- s/f-evansville-guns-knife-show-24756-1.html
-LOCATION:Evansville\, IN\, USA
-URL:https://www.eventseye.com/fairs/f-evansville-guns-knife-show-24756-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FACTS COMIC CON — Ghent\, Belgium
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-facts-comic-con-31853-1@eventseye.impio-vault
-DESCRIPTION:Watch films\, series and video games come to life in the larges
- t Belgian comics and pop culture festival! For fans of films\, series\, vi
- deo games\, board games\, cosplay\, superheroes\, anime...\\nVenue: Flande
- rs Expo\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-facts-comic-con-31853-1.html
-LOCATION:Ghent\, Belgium
-URL:https://www.eventseye.com/fairs/f-facts-comic-con-31853-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:G & S ARKANSAS GUNS & KNIFE SHOW - MOUNTAIN HOME — Mountain Home\
- , AR\, USA
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261102
-UID:f-g-s-arkansas-guns-knife-show-mountain-home-24377-1@eventseye.impio-vault
-DESCRIPTION:Arms and Ammunition Fair. G & S ARKANSAS GUNS & KNIFE SHOW feat
- ures rifles\, handguns\, shotguns\, combat knives\, samurai swords\, cartr
- idges\, collectibles\, antique coins\, hunting and fishing accessories\, w
- ar relics\, carbines and self protection items\\nVenue: Baxter County Fair
- grounds\\nFrequency: 3 times a year\\nSource: https://www.eventseye.com/fa
- irs/f-g-s-arkansas-guns-knife-show-mountain-home-24377-1.html
-LOCATION:Mountain Home\, AR\, USA
-URL:https://www.eventseye.com/fairs/f-g-s-arkansas-guns-knife-show-mountain
- -home-24377-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JAPAN AMUSEMENT EXPO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
@@ -6602,6 +6661,19 @@ LOCATION:Boulogne-sur-Mer\, France
 URL:https://www.eventseye.com/fairs/f-chtarwars-32140-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FIERA DI SAN MARTINO — Santarcangelo di Romagna\, Italy
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261112
+UID:f-fiera-di-san-martino-19816-1@eventseye.impio-vault
+DESCRIPTION:Santarcangelo di Romagna Fair also known as ‘Fiera dei becchi
+ ’. With a centuries-old tradition\, this fall event offers regional prod
+ ucts\, crafts and foods\, a street market\, festive and cultural entertain
+ ment...\\nVenue: Piazza Ganganelli\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-fiera-di-san-martino-19816-1.html
+LOCATION:Santarcangelo di Romagna\, Italy
+URL:https://www.eventseye.com/fairs/f-fiera-di-san-martino-19816-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GUNS & KNIFE SHOW BRUNSWICK — Brunswick\, GA\, USA
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261109
@@ -6695,6 +6767,19 @@ DESCRIPTION:Nîmes Contemporary Art and Designers Fair. Nimagine is one of
  ://www.eventseye.com/fairs/f-nimagine-16504-1.html
 LOCATION:Nîmes\, France
 URL:https://www.eventseye.com/fairs/f-nimagine-16504-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RE&UP GENÈVE — Geneve\, Switzerland
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+UID:f-re-up-geneve-34721-1@eventseye.impio-vault
+DESCRIPTION:RE&UP GENÈVE is the trade show dedicated to sustainable consum
+ ption. It promotes upcycling—the practice of reclaiming used items and t
+ ransforming them into high-quality pieces\\nVenue: Palexpo\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-re-up-geneve-34721-1
+ .html
+LOCATION:Geneve\, Switzerland
+URL:https://www.eventseye.com/fairs/f-re-up-geneve-34721-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALON DU MARIAGE DE NANTES — Nantes\, France
@@ -7402,6 +7487,20 @@ DESCRIPTION:A friendly day of entertainment\, with over 30 winemakers offer
 LOCATION:Tours\, France
 URL:https://www.eventseye.com/fairs/f-festival-des-vins-de-touraine-31777-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FIERE DEL FUMETTO - COMICS & GAMES - VICENZA — Vicenza\, Italy
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+UID:f-fiere-del-fumetto-comics-games-vicenza-29760-1@eventseye.impio-vault
+DESCRIPTION:Event dedicated to Pop Culture lovers\, an association of comic
+ s\, animation\, games\, figurines\, cosplay\, movies\, TV series\, fantasy
+ \, science fiction...\\nVenue: Fiera di Vicenza\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-fiere-del-fumetto-comics-games-
+ vicenza-29760-1.html
+LOCATION:Vicenza\, Italy
+URL:https://www.eventseye.com/fairs/f-fiere-del-fumetto-comics-games-vicenz
+ a-29760-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FINEST AUDIOSHOW COLOGNE — Cologne\, Germany
@@ -8689,8 +8788,9 @@ DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
 UID:f-animotions-avignon-34471-1@eventseye.impio-vault
 DESCRIPTION:Minerals\, Fossils\, Crystals & Well-Being\, Designer Jewelry a
- nd Gems Fair\\nFrequency: once a year\\nSource: https://www.eventseye.com/
- fairs/f-animotions-avignon-34471-1.html
+ nd Gems Fair. Exposition – Vente – Expertise\\nFrequency: once a year\
+ \nSource: https://www.eventseye.com/fairs/f-animotions-avignon-34471-1.htm
+ l
 LOCATION:Avignon\, France
 URL:https://www.eventseye.com/fairs/f-animotions-avignon-34471-1.html
 END:VEVENT
@@ -9344,6 +9444,21 @@ LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-masters-expo-27385-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NEW YEAR'S GIFT - EXPOFORUM — St. Petersburg\, Russia
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+UID:f-new-year-s-gift-expoforum-12244-1@eventseye.impio-vault
+DESCRIPTION:Trade fair of Consumer Goods\, Holiday and New Year's Goods. Ne
+ w Year's paraphernalia\, Corporate and VIP gifts\, Christmas decorations\,
+  Hand-made products\, Clothes\, shoes\, hats\, Jewelry and accessories...\
+ \nVenue: ExpoForum Convention and Exhibition Centre\\nFrequency: once a ye
+ ar\\nSource: https://www.eventseye.com/fairs/f-new-year-s-gift-expoforum-1
+ 2244-1.html
+LOCATION:St. Petersburg\, Russia
+URL:https://www.eventseye.com/fairs/f-new-year-s-gift-expoforum-12244-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HUNTING EXPO — Warsaw\, Poland
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
@@ -9617,35 +9732,33 @@ URL:https://www.eventseye.com/fairs/f-boonville-guns-knife-show-34141-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BURLESON GUNS & KNIFE SHOW — Arlington\, TX\, USA
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261221
-UID:f-burleson-guns-knife-show-24393-1@eventseye.impio-vault
-DESCRIPTION:Arms & Weapons fair. BURLESON GUNS & KNIFE SHOW showcases shoot
- ing rifles\, self defense trainig\, all sizes of knives\, collectible fire
- arms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartrid
- ges\, gun cases & safe\, holsters and antiques\\nVenue: Burleson Event Cen
- ter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-burle
- son-guns-knife-show-24393-1.html
-LOCATION:Arlington\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-burleson-guns-knife-show-24393-1.html
+SUMMARY:SALON DU MARIAGE DE BORDEAUX — Bordeaux\, France
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+UID:f-salon-du-mariage-de-bordeaux-29446-1@eventseye.impio-vault
+DESCRIPTION:The largest wedding fair in the Nouvelle-Aquitaine region. Prof
+ essional wedding exhibitors\, events\, conference-workshops\, caterer tast
+ ings\, parades with hundreds of new dresses and costumes from designers an
+ d manufacturers...\\nVenue: Parc des expositions de Bordeaux-Lac\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-maria
+ ge-de-bordeaux-29446-1.html
+LOCATION:Bordeaux\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-bordeaux-29446-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G & S OKLAHOMA GUNS & KNIFE SHOW - SHAWNEE — Oklahoma City\, OK\,
-  USA
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261221
-UID:f-g-s-oklahoma-guns-knife-show-shawnee-24380-1@eventseye.impio-vault
-DESCRIPTION:Arms and Ammunition Fair. G & S OKLAHOMA GUNS & KNIFE SHOW pres
- ents antique pistols\, rifles\, air guns\, combat knives\, gun magazines\,
-  collectible firearm\, hunting & fishing gears\, holsters\, gun safes\, di
- splay cases\, survival training and gun parts\\nVenue: Expo Center Shawnee
-  - Heart of Oklahoma Exposition Center\\nFrequency: 3 times a year\\nSourc
- e: https://www.eventseye.com/fairs/f-g-s-oklahoma-guns-knife-show-shawnee-
- 24380-1.html
-LOCATION:Oklahoma City\, OK\, USA
-URL:https://www.eventseye.com/fairs/f-g-s-oklahoma-guns-knife-show-shawnee-
- 24380-1.html
+SUMMARY:TRAU – THE MARRIAGE FAIR FREIBURG — Freiburg im Breisgau\, Germ
+ any
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270118
+UID:f-trau-the-marriage-fair-freiburg-8959-1@eventseye.impio-vault
+DESCRIPTION:Wedding Fair in Freiburg. “TRAU” presents everything import
+ ant on a wedding day\, shows the latest trends\\nVenue: Freiburg Messehall
+ e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tra
+ u-the-marriage-fair-freiburg-8959-1.html
+LOCATION:Freiburg im Breisgau\, Germany
+URL:https://www.eventseye.com/fairs/f-trau-the-marriage-fair-freiburg-8959-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRAUDICH FRANKURT — Frankfurt\, Germany
@@ -9833,9 +9946,9 @@ DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270125
 UID:f-animotions-orleans-30037-1@eventseye.impio-vault
 DESCRIPTION:Minerals\, Fossils\, Crystals & Well-Being\, Designer Jewelry a
- nd Gems Fair\\nVenue: Gymnase Marie-Amélie-Le-Fur\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-animotions-orleans-30037-1.h
- tml
+ nd Gems Fair. Exposition – Vente – Expertise\\nVenue: Gymnase Marie-Am
+ élie-Le-Fur\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-animotions-orleans-30037-1.html
 LOCATION:Orleans\, France
 URL:https://www.eventseye.com/fairs/f-animotions-orleans-30037-1.html
 END:VEVENT
@@ -10290,18 +10403,35 @@ LOCATION:Philadelphia\, PA\, USA
 URL:https://www.eventseye.com/fairs/f-philadelphia-gift-show-4679-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PHILADELPHIA SOUVENIR & RESORT EXPO — Philadelphia\, PA\, USA
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270203
-UID:f-philadelphia-souvenir-resort-expo-26755-1@eventseye.impio-vault
-DESCRIPTION:The expo will bring together 150+ vendors showcasing a versatil
- e selection of souvenir/resort merchandise custom-tailored for the regiona
- l marketplace\\nVenue: Greater Philadelphia Expo Center\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-philadelphia-souvenir-r
- esort-expo-26755-1.html
-LOCATION:Philadelphia\, PA\, USA
-URL:https://www.eventseye.com/fairs/f-philadelphia-souvenir-resort-expo-267
- 55-1.html
+SUMMARY:BURLESON GUNS & KNIFE SHOW — Arlington\, TX\, USA
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+UID:f-burleson-guns-knife-show-24393-1@eventseye.impio-vault
+DESCRIPTION:Arms & Weapons fair. BURLESON GUNS & KNIFE SHOW showcases shoot
+ ing rifles\, self defense trainig\, all sizes of knives\, collectible fire
+ arms\, hunting & fishing accessories\, shotguns\, samurai swords\, cartrid
+ ges\, gun cases & safe\, holsters and antiques\\nVenue: Burleson Event Cen
+ ter\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-burle
+ son-guns-knife-show-24393-1.html
+LOCATION:Arlington\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-burleson-guns-knife-show-24393-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G & S OKLAHOMA GUNS & KNIFE SHOW - SHAWNEE — Oklahoma City\, OK\,
+  USA
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261221
+UID:f-g-s-oklahoma-guns-knife-show-shawnee-24380-1@eventseye.impio-vault
+DESCRIPTION:Arms and Ammunition Fair. G & S OKLAHOMA GUNS & KNIFE SHOW pres
+ ents antique pistols\, rifles\, air guns\, combat knives\, gun magazines\,
+  collectible firearm\, hunting & fishing gears\, holsters\, gun safes\, di
+ splay cases\, survival training and gun parts\\nVenue: Expo Center Shawnee
+  - Heart of Oklahoma Exposition Center\\nFrequency: 3 times a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-g-s-oklahoma-guns-knife-show-shawnee-
+ 24380-1.html
+LOCATION:Oklahoma City\, OK\, USA
+URL:https://www.eventseye.com/fairs/f-g-s-oklahoma-guns-knife-show-shawnee-
+ 24380-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GIFT ASIA — Karachi\, Pakistan
@@ -10667,33 +10797,18 @@ LOCATION:Lyon\, France
 URL:https://www.eventseye.com/fairs/f-salon-du-mariage-lyon-28795-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE BORDEAUX — Bordeaux\, France
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270118
-UID:f-salon-du-mariage-de-bordeaux-29446-1@eventseye.impio-vault
-DESCRIPTION:The largest wedding fair in the Nouvelle-Aquitaine region. Prof
- essional wedding exhibitors\, events\, conference-workshops\, caterer tast
- ings\, parades with hundreds of new dresses and costumes from designers an
- d manufacturers...\\nVenue: Parc des expositions de Bordeaux-Lac\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-maria
- ge-de-bordeaux-29446-1.html
-LOCATION:Bordeaux\, France
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-bordeaux-29446-1.
- html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAU – THE MARRIAGE FAIR FREIBURG — Freiburg im Breisgau\, Germ
- any
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270118
-UID:f-trau-the-marriage-fair-freiburg-8959-1@eventseye.impio-vault
-DESCRIPTION:Wedding Fair in Freiburg. “TRAU” presents everything import
- ant on a wedding day\, shows the latest trends\\nVenue: Freiburg Messehall
- e\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-tra
- u-the-marriage-fair-freiburg-8959-1.html
-LOCATION:Freiburg im Breisgau\, Germany
-URL:https://www.eventseye.com/fairs/f-trau-the-marriage-fair-freiburg-8959-
- 1.html
+SUMMARY:PHILADELPHIA SOUVENIR & RESORT EXPO — Philadelphia\, PA\, USA
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270203
+UID:f-philadelphia-souvenir-resort-expo-26755-1@eventseye.impio-vault
+DESCRIPTION:The expo will bring together 150+ vendors showcasing a versatil
+ e selection of souvenir/resort merchandise custom-tailored for the regiona
+ l marketplace\\nVenue: Greater Philadelphia Expo Center\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-philadelphia-souvenir-r
+ esort-expo-26755-1.html
+LOCATION:Philadelphia\, PA\, USA
+URL:https://www.eventseye.com/fairs/f-philadelphia-souvenir-resort-expo-267
+ 55-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ISE (INTEGRATED SYSTEMS EUROPE) — Barcelona\, Spain
@@ -11210,6 +11325,31 @@ LOCATION:Menton\, France
 URL:https://www.eventseye.com/fairs/f-fete-du-citron-31574-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MODENANTIQUARIA — Modena\, Italy
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270218
+UID:f-modenantiquaria-11769-1@eventseye.impio-vault
+DESCRIPTION:Modena Arts and Antiques Fair. Modenantiquaria is sponsored by 
+ the Association of Antique Dealers of Italy and FIMA (Italian Federation o
+ f Art Dealers)\\nVenue: Modena Fiere\\nFrequency: once a year\\nSource: ht
+ tps://www.eventseye.com/fairs/f-modenantiquaria-11769-1.html
+LOCATION:Modena\, Italy
+URL:https://www.eventseye.com/fairs/f-modenantiquaria-11769-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PETRA — Modena\, Italy
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270218
+UID:f-petra-11771-1@eventseye.impio-vault
+DESCRIPTION:Antiques Show for Parks\, Gardens and Renovations. Petra is ded
+ icated to the outdoors\, which combines the past and the present\, the anc
+ ient and the modern\, the classic and the contemporary\, between city and 
+ countryside\\nVenue: Modena Fiere\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-petra-11771-1.html
+LOCATION:Modena\, Italy
+URL:https://www.eventseye.com/fairs/f-petra-11771-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALON DU MARIAGE DE VALENCE — Valence\, France
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270215
@@ -11416,9 +11556,9 @@ DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270222
 UID:f-animotions-reims-33680-1@eventseye.impio-vault
 DESCRIPTION:Minerals\, Fossils\, Crystals & Well-Being\, Designer Jewelry a
- nd Gems Fair\\nVenue: Centre de Conférence et d'Animation\, Taissy\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-animotions-
- reims-33680-1.html
+ nd Gems Fair. Exposition – Vente – Expertise\\nVenue: Centre de Confé
+ rence et d'Animation\, Taissy\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-animotions-reims-33680-1.html
 LOCATION:Reims\, France
 URL:https://www.eventseye.com/fairs/f-animotions-reims-33680-1.html
 END:VEVENT
@@ -11718,6 +11858,19 @@ DESCRIPTION:Ocala Creative Arts Fair. A celebration of creativity\, a gathe
  ventseye.com/fairs/f-ocala-spring-craft-fair-31542-1.html
 LOCATION:Ocala\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-ocala-spring-craft-fair-31542-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WIKAM PALAIS FESTEL — Vienna\, Austria
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270308
+UID:f-wikam-palais-festel-31793-1@eventseye.impio-vault
+DESCRIPTION:WIKAM is one of Austria's most important art fairs and an inter
+ nationally renowned platform for private collectors\, museum experts\, cur
+ ators and art-loving visitors from home and abroad\\nVenue: Messezentrum W
+ ien (Vienna Exhibition Centre)\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-wikam-palais-festel-31793-1.html
+LOCATION:Vienna\, Austria
+URL:https://www.eventseye.com/fairs/f-wikam-palais-festel-31793-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WPPI — Las Vegas\, NV\, USA
@@ -12024,6 +12177,18 @@ DESCRIPTION:INTERNATIONALE HANDWERKSMESSE presents the entire spectrum of t
 LOCATION:Munich\, Germany
 URL:https://www.eventseye.com/fairs/f-internationale-handwerksmesse-18800-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANTIKMÄSSAN — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+UID:f-antikmassan-16924-1@eventseye.impio-vault
+DESCRIPTION:Antiques fair with fine art\, vintage and 20th century design\,
+  collectors' items and building preservation\\nVenue: Stockholmsmässan - 
+ Stockholm International Fairs\\nFrequency: once a year\\nSource: https://w
+ ww.eventseye.com/fairs/f-antikmassan-16924-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-antikmassan-16924-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ART3F STRASBOURG — Strasbourg\, France
@@ -12532,10 +12697,11 @@ SUMMARY:SCHWEIZER WAFFEN-SAMMLERBÖRSE — Lucerne\, Switzerland
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270322
 UID:f-schweizer-waffen-sammlerborse-4426-1@eventseye.impio-vault
-DESCRIPTION:Swiss arms exchange for hunters\, shooters and collectors of ol
- d weapons\\nVenue: Messe Luzern - Centre d'exposition de l'Allmend\\nFrequ
- ency: once a year\\nSource: https://www.eventseye.com/fairs/f-schweizer-wa
- ffen-sammlerborse-4426-1.html
+DESCRIPTION:International Arms Collectors' Exchange. For shooters\, hunters
+  and lovers of weapons\, outdoor activities and militaria. Five decades of
+  passion\, expertise\, and tradition\\nVenue: Messe Luzern - Centre d'expo
+ sition de l'Allmend\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-schweizer-waffen-sammlerborse-4426-1.html
 LOCATION:Lucerne\, Switzerland
 URL:https://www.eventseye.com/fairs/f-schweizer-waffen-sammlerborse-4426-1.
  html
@@ -12604,6 +12770,18 @@ DESCRIPTION:Antique Map\, Atlas & Globe Fair. On display are geographical m
   https://www.eventseye.com/fairs/f-venice-map-fair-34199-1.html
 LOCATION:Venice\, Italy
 URL:https://www.eventseye.com/fairs/f-venice-map-fair-34199-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARMI&BAGAGLI — Piacenza\, Italy
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270322
+UID:f-armi-bagagli-19754-1@eventseye.impio-vault
+DESCRIPTION:International Re-enactors Market. An appointment must for anyon
+ e working in the field of Living History\\nVenue: Piacenza Expo\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-armi-bagagli-19
+ 754-1.html
+LOCATION:Piacenza\, Italy
+URL:https://www.eventseye.com/fairs/f-armi-bagagli-19754-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GIAPPONE IN FIERA - FERRARA — Ferrara\, Italy
@@ -12752,6 +12930,20 @@ DESCRIPTION:International FPD (Flat Panel Display) trade show. Manufacturin
  d-china-8273-1.html
 LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-fpd-china-8273-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLUTIONS CSE PARIS PRINTEMPS — Paris\, France
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270326
+UID:f-solutions-cse-paris-printemps-638-1@eventseye.impio-vault
+DESCRIPTION:Fair for works councils\, staff representatives and local autho
+ rities. A multitude of "Culture\, Leisure & Relaxation" outings\, good hol
+ iday plans\, providing service and comfort to employees…\\nVenue: Paris 
+ Expo Porte de Versailles\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-solutions-cse-paris-printemps-638-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-solutions-cse-paris-printemps-638-1.h
+ tml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ART BASEL HONG KONG — Hong Kong\, Hong Kong
@@ -14027,6 +14219,20 @@ URL:https://www.eventseye.com/fairs/f-highly-functional-material-week-osaka
  -31790-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HOME SHOW VIETNAM — Ho Chi Minh\, Vietnam
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-home-show-vietnam-34231-1@eventseye.impio-vault
+DESCRIPTION:International Houseware and Gift Fair in Vietnam. 'Home Show Vi
+ etnam' offers a fantastic opportunity for engaging with top-tier houseware
+  and gift manufacturers\, exporters\, importers\, distributors\, and buyer
+ s from around the globe\\nVenue: Saigon Exhibition & Convention Center - S
+ ECC\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-h
+ ome-show-vietnam-34231-1.html
+LOCATION:Ho Chi Minh\, Vietnam
+URL:https://www.eventseye.com/fairs/f-home-show-vietnam-34231-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MPTS - MEDIA PRODUCTION & TECHNOLOGY SHOW — London\, UK - United 
  Kingdom
 DTSTART;VALUE=DATE:20270512
@@ -14320,144 +14526,6 @@ LOCATION:Brno\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-animefest-18293-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:STAMP & SCRAPBOOK EXPO PUYALLUP — Puyallup\, WA\, USA
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270523
-UID:f-stamp-scrapbook-expo-puyallup-24286-1@eventseye.impio-vault
-DESCRIPTION:Art & Craft fair in Puyallup\, WA. STAMP & SCRAPBOOK EXPO PUYAL
- LUP features craft show\, craft shopping\, paper craft\, clay modelling\, 
- abstract arts\, Art & Craft workshop\, craft tools\, creative ideas and cr
- afts for kids\\nVenue: Washington State Fair Events Center\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-stamp-scrapbook-expo
- -puyallup-24286-1.html
-LOCATION:Puyallup\, WA\, USA
-URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-puyallup-24286-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TECHNARTE BILBAO — Bilbao\, Spain
-DTSTART;VALUE=DATE:20270521
-DTEND;VALUE=DATE:20270522
-UID:f-technarte-bilbao-22680-1@eventseye.impio-vault
-DESCRIPTION:International Conference on Art and Technology. The aim is to p
- resent technological developments that enhance a broader expression of mod
- ern art\, and to provide a forum for debate and reflection on the conferen
- ce between technology and art\\nVenue: Palacio de Congresos Euskalduna\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-technart
- e-bilbao-22680-1.html
-LOCATION:Bilbao\, Spain
-URL:https://www.eventseye.com/fairs/f-technarte-bilbao-22680-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STOCKHOLM TECH SHOW — Stockholm\, Sweden
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270527
-UID:f-stockholm-tech-show-31876-1@eventseye.impio-vault
-DESCRIPTION:The Nordic region's leading forum and networking venue for digi
- tal transformation technologies. The technologies of the future brought to
- gether under one roof. Meet visionaries\, innovators\, the most exciting c
- ompanies and start-ups in the sector\\nVenue: Kista Mässan\\nFrequency: e
- very 2 years\\nSource: https://www.eventseye.com/fairs/f-stockholm-tech-sh
- ow-31876-1.html
-LOCATION:Stockholm\, Sweden
-URL:https://www.eventseye.com/fairs/f-stockholm-tech-show-31876-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BROADCAST ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270526
-DTEND;VALUE=DATE:20270529
-UID:f-broadcast-asia-334-1@eventseye.impio-vault
-DESCRIPTION:International Electronic Media Technology Exhibition & Conferen
- ce. Incorporating CableSat\, ProfessionalAudioTechnology\, ComGraphics&Ani
- mation\\nVenue: Singapore Expo\\nFrequency: once a year\\nSource: https://
- www.eventseye.com/fairs/f-broadcast-asia-334-1.html
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-broadcast-asia-334-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CHARDONNAY DAY — Chardonnay\, France
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270528
-UID:f-chardonnay-day-31781-1@eventseye.impio-vault
-DESCRIPTION:Burgundy\, the birthplace of the Chardonnay grape\, is naturall
- y at the center of the Chardonnay Day festivities. The event celebrates th
- is emblematic grape variety. A program combining meetings with winemakers\
- , gastronomy and music awaits you\\nVenue: Place de l'Eglise\\nFrequency: 
- once a year\\nSource: https://www.eventseye.com/fairs/f-chardonnay-day-317
- 81-1.html
-LOCATION:Chardonnay\, France
-URL:https://www.eventseye.com/fairs/f-chardonnay-day-31781-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GUANGZHOU INTERNATIONAL MUSICAL INSTRUMENTS EXHIBITION — Guangzho
- u\, China
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270531
-UID:f-guangzhou-international-musical-instruments-exhibition-13964-1@eventseye.impio-vault
-DESCRIPTION:China (Guangzhou) International Musical Instruments Expo. Music
-  Guangzhou has become the largest trade fair in South China and one of the
-  most influential trade fairs for musical industry in China today\\nVenue:
-  China Import and Export Fair Pazhou Complex\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-guangzhou-international-musical-in
- struments-exhibition-13964-1.html
-LOCATION:Guangzhou\, China
-URL:https://www.eventseye.com/fairs/f-guangzhou-international-musical-instr
- uments-exhibition-13964-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PALM EXPO — Mumbai\, India
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270530
-UID:f-palm-expo-16727-1@eventseye.impio-vault
-DESCRIPTION:PALM Expo is India’s foremost show for the pro audio\, lighti
- ng\, live sound\, install sound\, musical instruments and AV integration i
- ndustry\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency:
-  once a year\\nSource: https://www.eventseye.com/fairs/f-palm-expo-16727-1
- .html
-LOCATION:Mumbai\, India
-URL:https://www.eventseye.com/fairs/f-palm-expo-16727-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TANZANIA TOURISM SUMMIT — Arusha\, Tanzania
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270531
-UID:f-tanzania-tourism-summit-28643-1@eventseye.impio-vault
-DESCRIPTION:Tanzania Tourism Fair (Tour company\, Lodge\, Resort and Hospit
- ality Industry related services) + arts\, crafts\, cosmetics & interior de
- sign products for hotels\, lodges or consumers\\nVenue: Arusha Internation
- al Conference Centre\\nFrequency: once a year\\nSource: https://www.events
- eye.com/fairs/f-tanzania-tourism-summit-28643-1.html
-LOCATION:Arusha\, Tanzania
-URL:https://www.eventseye.com/fairs/f-tanzania-tourism-summit-28643-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE EDUCATION SHOW - BRISBANE — Brisbane\, Australia
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270529
-UID:f-the-education-show-brisbane-26909-1@eventseye.impio-vault
-DESCRIPTION:Australian Education Show. Visit and discover the latest resour
- ces\, products and services for your classroom\, school and career\\nVenue
- : Brisbane Convention & Exhibition Centre\\nFrequency: once a year\\nSourc
- e: https://www.eventseye.com/fairs/f-the-education-show-brisbane-26909-1.h
- tml
-LOCATION:Brisbane\, Australia
-URL:https://www.eventseye.com/fairs/f-the-education-show-brisbane-26909-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANGA COM — Cologne\, Germany
-DTSTART;VALUE=DATE:20270601
-DTEND;VALUE=DATE:20270604
-UID:f-anga-com-103-1@eventseye.impio-vault
-DESCRIPTION:ANGA COM is Europe’s leading business platform for Broadband\
- , Media and Connectivity. It brings together network operators\, vendors a
- nd content providers on all issues of broadband and media distribution\\nV
- enue: Exhibition Centre Cologne\\nFrequency: once a year\\nSource: https:/
- /www.eventseye.com/fairs/f-anga-com-103-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-anga-com-103-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SAUDI ENTERTAINMENT AND AMUSEMENT (SEA) EXPO — Riyadh\, Saudi Ara
  bia
 DTSTART;VALUE=DATE:20270601
@@ -14648,6 +14716,21 @@ LOCATION:Melbourne\, Australia
 URL:https://www.eventseye.com/fairs/f-oz-comic-con-melbourne-29038-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FESTIVAL INTERNATIONAL DU FILM D'ANIMATION D'ANNECY — Annecy\, Fr
+ ance
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270619
+UID:f-festival-international-du-film-d-animation-d-annecy-33038-1@eventseye.impio-vault
+DESCRIPTION:Annecy International Animation Film Festival. This week-long ev
+ ent celebrates the best of animated cinema from around the world. Exhibiti
+ ons\, signings\, and festival extras\\nVenue: Arcadium d'Annecy\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-festival-intern
+ ational-du-film-d-animation-d-annecy-33038-1.html
+LOCATION:Annecy\, France
+URL:https://www.eventseye.com/fairs/f-festival-international-du-film-d-anim
+ ation-d-annecy-33038-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CONSUMER ELECTRONICS EXPO KAZAKHSTAN — Astana\, Kazakhstan
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270619
@@ -14769,6 +14852,20 @@ DESCRIPTION:The Vans Warped Tour is a traveling music festival featuring pu
 LOCATION:Washington D.C.\, USA
 URL:https://www.eventseye.com/fairs/f-vans-warped-washington-dc-34464-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRAFT & QUILT FAIR - SYDNEY — Sydney\, Australia
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270704
+UID:f-craft-quilt-fair-sydney-7333-1@eventseye.impio-vault
+DESCRIPTION:Australia’s favourite Craft & Quilt Fair. Sydney Craft & Quil
+ t Fair exhibitors show handmade crafts\, workshops & latest products for s
+ tamping\, scrapbooking\, knitting\, crochet\, cardmaking\, embroidery\, se
+ wing\, quilting\, jewellery-making & more\\nVenue: ICC Sydney - Internatio
+ nal Convention Centre Sydney\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-craft-quilt-fair-sydney-7333-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-craft-quilt-fair-sydney-7333-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CINEEUROPE — Barcelona\, Spain
@@ -14908,6 +15005,19 @@ URL:https://www.eventseye.com/fairs/f-lakeshore-art-festival-in-muskegon-24
  096-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FESTIVAL BEAUREGARD — Cellettes\, France
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270705
+UID:f-festival-beauregard-34466-1@eventseye.impio-vault
+DESCRIPTION:Beauregard Festival is a music festival held every year in Norm
+ andy\, bringing together international and French-speaking artists with a 
+ diverse lineup ranging from rock and pop to electronic music and hip-hop\\
+ nVenue: Château de Beauregard\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-festival-beauregard-34466-1.html
+LOCATION:Cellettes\, France
+URL:https://www.eventseye.com/fairs/f-festival-beauregard-34466-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NEW DESIGNERS — London\, UK - United Kingdom
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270704
@@ -14920,6 +15030,144 @@ DESCRIPTION:The UK’s most important exhibition for emerging design. Since
  768-1.html
 LOCATION:London\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-new-designers-25768-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAMP & SCRAPBOOK EXPO PUYALLUP — Puyallup\, WA\, USA
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270523
+UID:f-stamp-scrapbook-expo-puyallup-24286-1@eventseye.impio-vault
+DESCRIPTION:Art & Craft fair in Puyallup\, WA. STAMP & SCRAPBOOK EXPO PUYAL
+ LUP features craft show\, craft shopping\, paper craft\, clay modelling\, 
+ abstract arts\, Art & Craft workshop\, craft tools\, creative ideas and cr
+ afts for kids\\nVenue: Washington State Fair Events Center\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-stamp-scrapbook-expo
+ -puyallup-24286-1.html
+LOCATION:Puyallup\, WA\, USA
+URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-puyallup-24286-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TECHNARTE BILBAO — Bilbao\, Spain
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+UID:f-technarte-bilbao-22680-1@eventseye.impio-vault
+DESCRIPTION:International Conference on Art and Technology. The aim is to p
+ resent technological developments that enhance a broader expression of mod
+ ern art\, and to provide a forum for debate and reflection on the conferen
+ ce between technology and art\\nVenue: Palacio de Congresos Euskalduna\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-technart
+ e-bilbao-22680-1.html
+LOCATION:Bilbao\, Spain
+URL:https://www.eventseye.com/fairs/f-technarte-bilbao-22680-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STOCKHOLM TECH SHOW — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270527
+UID:f-stockholm-tech-show-31876-1@eventseye.impio-vault
+DESCRIPTION:The Nordic region's leading forum and networking venue for digi
+ tal transformation technologies. The technologies of the future brought to
+ gether under one roof. Meet visionaries\, innovators\, the most exciting c
+ ompanies and start-ups in the sector\\nVenue: Kista Mässan\\nFrequency: e
+ very 2 years\\nSource: https://www.eventseye.com/fairs/f-stockholm-tech-sh
+ ow-31876-1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-stockholm-tech-show-31876-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BROADCAST ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+UID:f-broadcast-asia-334-1@eventseye.impio-vault
+DESCRIPTION:International Electronic Media Technology Exhibition & Conferen
+ ce. Incorporating CableSat\, ProfessionalAudioTechnology\, ComGraphics&Ani
+ mation\\nVenue: Singapore Expo\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-broadcast-asia-334-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-broadcast-asia-334-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CHARDONNAY DAY — Chardonnay\, France
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+UID:f-chardonnay-day-31781-1@eventseye.impio-vault
+DESCRIPTION:Burgundy\, the birthplace of the Chardonnay grape\, is naturall
+ y at the center of the Chardonnay Day festivities. The event celebrates th
+ is emblematic grape variety. A program combining meetings with winemakers\
+ , gastronomy and music awaits you\\nVenue: Place de l'Eglise\\nFrequency: 
+ once a year\\nSource: https://www.eventseye.com/fairs/f-chardonnay-day-317
+ 81-1.html
+LOCATION:Chardonnay\, France
+URL:https://www.eventseye.com/fairs/f-chardonnay-day-31781-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GUANGZHOU INTERNATIONAL MUSICAL INSTRUMENTS EXHIBITION — Guangzho
+ u\, China
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+UID:f-guangzhou-international-musical-instruments-exhibition-13964-1@eventseye.impio-vault
+DESCRIPTION:China (Guangzhou) International Musical Instruments Expo. Music
+  Guangzhou has become the largest trade fair in South China and one of the
+  most influential trade fairs for musical industry in China today\\nVenue:
+  China Import and Export Fair Pazhou Complex\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-guangzhou-international-musical-in
+ struments-exhibition-13964-1.html
+LOCATION:Guangzhou\, China
+URL:https://www.eventseye.com/fairs/f-guangzhou-international-musical-instr
+ uments-exhibition-13964-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PALM EXPO — Mumbai\, India
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-palm-expo-16727-1@eventseye.impio-vault
+DESCRIPTION:PALM Expo is India’s foremost show for the pro audio\, lighti
+ ng\, live sound\, install sound\, musical instruments and AV integration i
+ ndustry\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency:
+  once a year\\nSource: https://www.eventseye.com/fairs/f-palm-expo-16727-1
+ .html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-palm-expo-16727-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TANZANIA TOURISM SUMMIT — Arusha\, Tanzania
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+UID:f-tanzania-tourism-summit-28643-1@eventseye.impio-vault
+DESCRIPTION:Tanzania Tourism Fair (Tour company\, Lodge\, Resort and Hospit
+ ality Industry related services) + arts\, crafts\, cosmetics & interior de
+ sign products for hotels\, lodges or consumers\\nVenue: Arusha Internation
+ al Conference Centre\\nFrequency: once a year\\nSource: https://www.events
+ eye.com/fairs/f-tanzania-tourism-summit-28643-1.html
+LOCATION:Arusha\, Tanzania
+URL:https://www.eventseye.com/fairs/f-tanzania-tourism-summit-28643-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE EDUCATION SHOW - BRISBANE — Brisbane\, Australia
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270529
+UID:f-the-education-show-brisbane-26909-1@eventseye.impio-vault
+DESCRIPTION:Australian Education Show. Visit and discover the latest resour
+ ces\, products and services for your classroom\, school and career\\nVenue
+ : Brisbane Convention & Exhibition Centre\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-the-education-show-brisbane-26909-1.h
+ tml
+LOCATION:Brisbane\, Australia
+URL:https://www.eventseye.com/fairs/f-the-education-show-brisbane-26909-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ANGA COM — Cologne\, Germany
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+UID:f-anga-com-103-1@eventseye.impio-vault
+DESCRIPTION:ANGA COM is Europe’s leading business platform for Broadband\
+ , Media and Connectivity. It brings together network operators\, vendors a
+ nd content providers on all issues of broadband and media distribution\\nV
+ enue: Exhibition Centre Cologne\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-anga-com-103-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-anga-com-103-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ANNUAL WESTMORELAND ARTS & HERITAGE FESTIVAL — Pittsburgh\, PA\, 
@@ -15264,6 +15512,19 @@ URL:https://www.eventseye.com/fairs/f-country-thunder-wisconsin-34462-1.htm
  l
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INDIAN DJ EXPO — New Delhi\, India
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270718
+UID:f-indian-dj-expo-23024-1@eventseye.impio-vault
+DESCRIPTION:DJ Equipment\, Sound System & Lighting Exhibition in India. IND
+ IAN DJ EXPO will showcase DJ Gear\, Club & Touring Sound\, Stage Lighting\
+ , Lasers\, DJ Consoles & Mixers\, Turntables\, Audio Processors & Effect\,
+  Software\, Amplifiers\\nVenue: Pragati Maidan\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-indian-dj-expo-23024-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-indian-dj-expo-23024-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AFFAIR OF THE HEART - TULSA — Tulsa\, OK\, USA
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270719
@@ -15385,150 +15646,6 @@ DESCRIPTION:The biggest quilting show in Europe\, featuring workshops\, tal
  www.eventseye.com/fairs/f-the-festival-of-quilts-25769-1.html
 LOCATION:Birmingham\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-the-festival-of-quilts-25769-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270801
-DTEND;VALUE=DATE:20270805
-UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
-DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
- cts in the sectors of stationery\, school supplies\, office supplies\, cra
- fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOME SHOW BRAZIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270803
-DTEND;VALUE=DATE:20270806
-UID:f-home-show-brazil-34235-1@eventseye.impio-vault
-DESCRIPTION:International Houseware and Gift Fair in Brazil. 'Home Show Bra
- zil' offers a fantastic opportunity for engaging with top-tier houseware a
- nd gift manufacturers\, exporters\, importers\, distributors\, and buyers 
- from around the globe\\nVenue: Parque Anhembi\\nFrequency: once a year\\nS
- ource: https://www.eventseye.com/fairs/f-home-show-brazil-34235-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-home-show-brazil-34235-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SCREEN PRINT INDIA — New Delhi\, India
-DTSTART;VALUE=DATE:20270805
-DTEND;VALUE=DATE:20270808
-UID:f-screen-print-india-9061-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition on Screen Printing Equipments\, Materi
- als & Accessories\\nVenue: Pragati Maidan\\nFrequency: every 2 years\\nSou
- rce: https://www.eventseye.com/fairs/f-screen-print-india-9061-1.html
-LOCATION:New Delhi\, India
-URL:https://www.eventseye.com/fairs/f-screen-print-india-9061-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FESTIVAL DU CHANT DE MARIN — Paimpol\, France
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270809
-UID:f-festival-du-chant-de-marin-32988-1@eventseye.impio-vault
-DESCRIPTION:The Sea Shanty Festival has already taken you on a journey from
-  Africa to Asia\, to America\, from Celtic times to the Balkans\, from the
-  South to the islands. This festival celebrates travel and a change of sce
- nery... inviting artists from all walks of life\\nFrequency: every 2 years
- \\nSource: https://www.eventseye.com/fairs/f-festival-du-chant-de-marin-32
- 988-1.html
-LOCATION:Paimpol\, France
-URL:https://www.eventseye.com/fairs/f-festival-du-chant-de-marin-32988-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:STAMP & SCRAPBOOK EXPO SCHAUMBURG — Schaumburg\, IL\, USA
-DTSTART;VALUE=DATE:20270806
-DTEND;VALUE=DATE:20270808
-UID:f-stamp-scrapbook-expo-schaumburg-24281-1@eventseye.impio-vault
-DESCRIPTION:Art & Craft fair in Schaumburg\, I. STAMP & SCRAPBOOK EXPO SCHA
- UMBURG features craft show\, craft shopping\, paper craft\, clay modelling
- \, abstract arts\, Art & Craft workshop\, craft tools\, creative ideas and
-  crafts for kids\\nVenue: Schaumburg Convention Center\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-sch
- aumburg-24281-1.html
-LOCATION:Schaumburg\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-schaumburg-24281
- -1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIGGRAPH — Los Angeles\, CA\, USA
-DTSTART;VALUE=DATE:20270808
-DTEND;VALUE=DATE:20270813
-UID:f-siggraph-20390-1@eventseye.impio-vault
-DESCRIPTION:SIGGRAPH is the Premier Conference & Exhibition on Computer Gra
- phics & Interactive Techniques. A cross-section of transformative work spa
- nning AI\, robotics\, immersive experiences\, simulation\, animation\, and
-  cutting-edge innovations in real time\\nFrequency: once a year\\nSource: 
- https://www.eventseye.com/fairs/f-siggraph-20390-1.html
-LOCATION:Los Angeles\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-siggraph-20390-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
-DTSTART;VALUE=DATE:20270810
-DTEND;VALUE=DATE:20270816
-UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
-DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
- k\, crafts\, pets… It promotes innovation and integration between produc
- ers and the community in order to stimulate regional development\\nVenue: 
- Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
- y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
- 8-1.html
-LOCATION:Santa Rosa\, Brazil
-URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OPTICAL FIBER COMM. & ICT MALAYSIA — Kuala Lumpur\, Malaysia
-DTSTART;VALUE=DATE:20270819
-DTEND;VALUE=DATE:20270822
-UID:f-optical-fiber-comm.-ict-malaysia-32215-1@eventseye.impio-vault
-DESCRIPTION:Malaysia's largest and most professional Optical Fiber Communic
- ations and Technology Industry Event\\nVenue: Malaysia International Trade
-  & Exhibition Centre (MITEC)\\nFrequency: every 2 years\\nSource: https://
- www.eventseye.com/fairs/f-optical-fiber-comm.-ict-malaysia-32215-1.html
-LOCATION:Kuala Lumpur\, Malaysia
-URL:https://www.eventseye.com/fairs/f-optical-fiber-comm.-ict-malaysia-3221
- 5-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAMESCOM — Cologne\, Germany
-DTSTART;VALUE=DATE:20270823
-DTEND;VALUE=DATE:20270830
-UID:f-gamescom-14351-1@eventseye.impio-vault
-DESCRIPTION:Gamescom is the world's largest gaming event and Europe's leadi
- ng business platform for the games industry\\nVenue: Exhibition Centre Col
- ogne\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- gamescom-14351-1.html
-LOCATION:Cologne\, Germany
-URL:https://www.eventseye.com/fairs/f-gamescom-14351-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FANEXPO CANADA — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20270826
-DTEND;VALUE=DATE:20270830
-UID:f-fanexpo-canada-23140-1@eventseye.impio-vault
-DESCRIPTION:International Comics\, Sci-fi\, Horror\, Anime\, Gaming and cos
- play in Toronto\\nVenue: Metro Toronto Convention Centre\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-fanexpo-canada-23140-1
- .html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-fanexpo-canada-23140-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VANCOUVER WINE & JAZZ FESTIVAL — Vancouver\, WA\, USA
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270830
-UID:f-vancouver-wine-jazz-festival-12812-1@eventseye.impio-vault
-DESCRIPTION:International Wine & Jazz Festival. Wine & Jazz Festival also p
- rovides Commercial Exhibitor space for local and regional small businesses
-  to market and sell your products and services\\nVenue: Esther Short Park\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vanco
- uver-wine-jazz-festival-12812-1.html
-LOCATION:Vancouver\, WA\, USA
-URL:https://www.eventseye.com/fairs/f-vancouver-wine-jazz-festival-12812-1.
- html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PRO AVL INDONESIA EXPO — Jakarta\, Indonesia
@@ -15732,5 +15849,162 @@ DESCRIPTION:The great Nordic construction fair. In Nordbygg\, the principle
  s/f-nordbygg-14983-1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-nordbygg-14983-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ESCOLAR OFFICE BRASIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270805
+UID:f-escolar-office-brasil-28046-1@eventseye.impio-vault
+DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
+ cts in the sectors of stationery\, school supplies\, office supplies\, cra
+ fts...\\nVenue: Expo Center Norte\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOME SHOW BRAZIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270806
+UID:f-home-show-brazil-34235-1@eventseye.impio-vault
+DESCRIPTION:International Houseware and Gift Fair in Brazil. 'Home Show Bra
+ zil' offers a fantastic opportunity for engaging with top-tier houseware a
+ nd gift manufacturers\, exporters\, importers\, distributors\, and buyers 
+ from around the globe\\nVenue: Parque Anhembi\\nFrequency: once a year\\nS
+ ource: https://www.eventseye.com/fairs/f-home-show-brazil-34235-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-home-show-brazil-34235-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SCREEN PRINT INDIA — New Delhi\, India
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270808
+UID:f-screen-print-india-9061-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition on Screen Printing Equipments\, Materi
+ als & Accessories\\nVenue: Pragati Maidan\\nFrequency: every 2 years\\nSou
+ rce: https://www.eventseye.com/fairs/f-screen-print-india-9061-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-screen-print-india-9061-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FESTIVAL DU CHANT DE MARIN — Paimpol\, France
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270809
+UID:f-festival-du-chant-de-marin-32988-1@eventseye.impio-vault
+DESCRIPTION:The Sea Shanty Festival has already taken you on a journey from
+  Africa to Asia\, to America\, from Celtic times to the Balkans\, from the
+  South to the islands. This festival celebrates travel and a change of sce
+ nery... inviting artists from all walks of life\\nFrequency: every 2 years
+ \\nSource: https://www.eventseye.com/fairs/f-festival-du-chant-de-marin-32
+ 988-1.html
+LOCATION:Paimpol\, France
+URL:https://www.eventseye.com/fairs/f-festival-du-chant-de-marin-32988-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STAMP & SCRAPBOOK EXPO SCHAUMBURG — Schaumburg\, IL\, USA
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270808
+UID:f-stamp-scrapbook-expo-schaumburg-24281-1@eventseye.impio-vault
+DESCRIPTION:Art & Craft fair in Schaumburg\, I. STAMP & SCRAPBOOK EXPO SCHA
+ UMBURG features craft show\, craft shopping\, paper craft\, clay modelling
+ \, abstract arts\, Art & Craft workshop\, craft tools\, creative ideas and
+  crafts for kids\\nVenue: Schaumburg Convention Center\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-sch
+ aumburg-24281-1.html
+LOCATION:Schaumburg\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-stamp-scrapbook-expo-schaumburg-24281
+ -1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIGGRAPH — Los Angeles\, CA\, USA
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270813
+UID:f-siggraph-20390-1@eventseye.impio-vault
+DESCRIPTION:SIGGRAPH is the Premier Conference & Exhibition on Computer Gra
+ phics & Interactive Techniques. A cross-section of transformative work spa
+ nning AI\, robotics\, immersive experiences\, simulation\, animation\, and
+  cutting-edge innovations in real time\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-siggraph-20390-1.html
+LOCATION:Los Angeles\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-siggraph-20390-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HORTIGRANJEIROS — Santa Rosa\, Brazil
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270816
+UID:f-hortigranjeiros-27658-1@eventseye.impio-vault
+DESCRIPTION:A show for horticulture\, floriculture\, agriculture\, livestoc
+ k\, crafts\, pets… It promotes innovation and integration between produc
+ ers and the community in order to stimulate regional development\\nVenue: 
+ Parque Municipal de Exposições Alfredo Leandro Carlson\\nFrequency: ever
+ y 2 years\\nSource: https://www.eventseye.com/fairs/f-hortigranjeiros-2765
+ 8-1.html
+LOCATION:Santa Rosa\, Brazil
+URL:https://www.eventseye.com/fairs/f-hortigranjeiros-27658-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KNOKKE ART FAIR — Knokke-Heist\, Belgium
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270816
+UID:f-knokke-art-fair-29098-1@eventseye.impio-vault
+DESCRIPTION:​ The KNOKKE ART FAIR is a fully independent art fair\, focus
+ sing on quality with a competent vetting taking place. An international wi
+ ndow onto the current high-end scene of modern & contemporary art\\nVenue:
+  Hôtel La Réserve - Knokke\\nFrequency: once a year\\nSource: https://ww
+ w.eventseye.com/fairs/f-knokke-art-fair-29098-1.html
+LOCATION:Knokke-Heist\, Belgium
+URL:https://www.eventseye.com/fairs/f-knokke-art-fair-29098-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OPTICAL FIBER COMM. & ICT MALAYSIA — Kuala Lumpur\, Malaysia
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270822
+UID:f-optical-fiber-comm.-ict-malaysia-32215-1@eventseye.impio-vault
+DESCRIPTION:Malaysia's largest and most professional Optical Fiber Communic
+ ations and Technology Industry Event\\nVenue: Malaysia International Trade
+  & Exhibition Centre (MITEC)\\nFrequency: every 2 years\\nSource: https://
+ www.eventseye.com/fairs/f-optical-fiber-comm.-ict-malaysia-32215-1.html
+LOCATION:Kuala Lumpur\, Malaysia
+URL:https://www.eventseye.com/fairs/f-optical-fiber-comm.-ict-malaysia-3221
+ 5-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAMESCOM — Cologne\, Germany
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270830
+UID:f-gamescom-14351-1@eventseye.impio-vault
+DESCRIPTION:Gamescom is the world's largest gaming event and Europe's leadi
+ ng business platform for the games industry\\nVenue: Exhibition Centre Col
+ ogne\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ gamescom-14351-1.html
+LOCATION:Cologne\, Germany
+URL:https://www.eventseye.com/fairs/f-gamescom-14351-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FANEXPO CANADA — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+UID:f-fanexpo-canada-23140-1@eventseye.impio-vault
+DESCRIPTION:International Comics\, Sci-fi\, Horror\, Anime\, Gaming and cos
+ play in Toronto\\nVenue: Metro Toronto Convention Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-fanexpo-canada-23140-1
+ .html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-fanexpo-canada-23140-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VANCOUVER WINE & JAZZ FESTIVAL — Vancouver\, WA\, USA
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+UID:f-vancouver-wine-jazz-festival-12812-1@eventseye.impio-vault
+DESCRIPTION:International Wine & Jazz Festival. Wine & Jazz Festival also p
+ rovides Commercial Exhibitor space for local and regional small businesses
+  to market and sell your products and services\\nVenue: Esther Short Park\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-vanco
+ uver-wine-jazz-festival-12812-1.html
+LOCATION:Vancouver\, WA\, USA
+URL:https://www.eventseye.com/fairs/f-vancouver-wine-jazz-festival-12812-1.
+ html
 END:VEVENT
 END:VCALENDAR

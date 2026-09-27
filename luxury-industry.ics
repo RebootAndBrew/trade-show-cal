@@ -186,10 +186,11 @@ SUMMARY:WATCHES & JEWELLERY - HODINY A KLENOTY — Prague\, Czech Republic
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260911
 UID:f-watches-jewellery-hodiny-a-klenoty-2185-1@eventseye.impio-vault
-DESCRIPTION:Specialized Exhibition of Watches and Jewels combined with Exhi
- bition of Exclusive Gifts\\nVenue: PVA Letnany - Prague Exhibition Centre 
- Letnany\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-watches-jewellery-hodiny-a-klenoty-2185-1.html
+DESCRIPTION:Exhibition of Watches\, Jewels & Exclusive Gifts in the Czech R
+ epublic\, serving as a B2B platform for luxury sector professionals\, bran
+ ds\, wholesalers\, and designers\\nVenue: PVA Letnany - Prague Exhibition 
+ Centre Letnany\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-watches-jewellery-hodiny-a-klenoty-2185-1.html
 LOCATION:Prague\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-watches-jewellery-hodiny-a-klenoty-21
  85-1.html
@@ -1004,6 +1005,21 @@ URL:https://www.eventseye.com/fairs/f-fashion-jewelry-accessories-asia-2815
  9-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EIBS - EGYPT INTERNATIONAL BOAT SHOW — Cairo\, Egypt
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270118
+UID:f-eibs-egypt-international-boat-show-33461-1@eventseye.impio-vault
+DESCRIPTION:Egypt International Boat Show. EIBS is a premier hub for the ya
+ chting\, boating\, and watersports industries in Egypt. It brings together
+  manufacturers\, dealers\, distributors\, and traders to showcase the late
+ st advancements in boating technology\\nVenue: Cairo International Convent
+ ion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-eibs-egypt-international-boat-show-33461-1.html
+LOCATION:Cairo\, Egypt
+URL:https://www.eventseye.com/fairs/f-eibs-egypt-international-boat-show-33
+ 461-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MIJF - MALAYSIA INTERNATIONAL JEWELLERY FAIR — Kuala Lumpur\, Mal
  aysia
 DTSTART;VALUE=DATE:20270115
@@ -1373,16 +1389,16 @@ LOCATION:Geneve\, Switzerland
 URL:https://www.eventseye.com/fairs/f-time-to-watches-29097-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WATCHES & WONDERS — Geneve\, Switzerland
+SUMMARY:WATCHES & WONDERS GENEVA — Geneve\, Switzerland
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270412
-UID:f-watches-wonders-2365-1@eventseye.impio-vault
+UID:f-watches-wonders-geneva-2365-1@eventseye.impio-vault
 DESCRIPTION:International Exhibition of Luxury Watches. Exclusively for pro
  fessionals in Fine Watchmaking who are invited by the exhibiting brands\\n
  Venue: Palexpo\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-watches-wonders-2365-1.html
+ m/fairs/f-watches-wonders-geneva-2365-1.html
 LOCATION:Geneve\, Switzerland
-URL:https://www.eventseye.com/fairs/f-watches-wonders-2365-1.html
+URL:https://www.eventseye.com/fairs/f-watches-wonders-geneva-2365-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WATCHES AND WONDERS GENEVA — Geneve\, Switzerland
@@ -1937,6 +1953,20 @@ DESCRIPTION:Specialized jewelry & accessories industry exhibition in Korea.
  /fairs/f-the-most-valuable-32341-1.html
 LOCATION:Seoul\, Korea South
 URL:https://www.eventseye.com/fairs/f-the-most-valuable-32341-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERNATIONAL JEWELLERY FAIR — Sydney\, Australia
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270817
+UID:f-international-jewellery-fair-13029-1@eventseye.impio-vault
+DESCRIPTION:The International Jewellery Fair is a trade-only fair for buyer
+ s and sellers in the jewellery and timepiece industry. The place to meet l
+ ocal and international suppliers under one roof\\nVenue: ICC Sydney - Inte
+ rnational Convention Centre Sydney\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-international-jewellery-fair-13029-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-international-jewellery-fair-13029-1.
+ html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JAPAN JEWELLERY FAIR — Tokyo\, Japan

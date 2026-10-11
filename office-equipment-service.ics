@@ -7,75 +7,6 @@ X-WR-CALDESC:Trade shows: Office Equipment & service — sourced from Event
  sEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:CADEAUX LEIPZIG — Leipzig\, Germany
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260908
-UID:f-cadeaux-leipzig-362-1@eventseye.impio-vault
-DESCRIPTION:Trade Fair for Gifts and Ideas for the home. Folk art/arts and 
- crafts from the Erzgebirge region\, Floristry/home/gifts/souvenirs\, Stati
- onery/handicrafts/creative items\, Bathroom/wellness/beauty\, Costume jewe
- llery/accessories\, Home textiles...\\nVenue: Exhibition Centre Leipzig\\n
- Frequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-cadeau
- x-leipzig-362-1.html
-LOCATION:Leipzig\, Germany
-URL:https://www.eventseye.com/fairs/f-cadeaux-leipzig-362-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTUMN FAIR — Birmingham\, UK - United Kingdom
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260910
-UID:f-autumn-fair-28711-1@eventseye.impio-vault
-DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty & 
- Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
- wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.ht
- ml
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORLD OF GIFTS TRADE SHOW — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260912
-UID:f-world-of-gifts-trade-show-28496-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition of Gifts. Gifts and souvenirs\, Busine
- ss Gifts & Promotional Souvenirs\, Jewelry and fashion accessories. С raf
- t stationery\, Gift wrap\, Travel accessories\, Products for creativity\,\
- nHandmade...\\nVenue: Kiev International Exhibition Center\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-world-of-gifts-trade
- -show-28496-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-world-of-gifts-trade-show-28496-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAPER ARABIA — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260918
-UID:f-paper-arabia-5661-1@eventseye.impio-vault
-DESCRIPTION:International Technological Exhibition for Paper\, Printing & C
- onverting Industries. Explore innovations in the tissue\, non-woven\, and 
- paper converting industries\\nVenue: Dubai World Trade Centre (Dubai Exhib
- ition Centre)\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-paper-arabia-5661-1.html
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-paper-arabia-5661-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OFFICE SERVICE EXPO - TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260919
-UID:f-office-service-expo-tokyo-30941-1@eventseye.impio-vault
-DESCRIPTION:Japanese office services fair. All products and services for ba
- ck office will be exhibited at OFFICE SERVICE EXPO - TOKYO\\nVenue: Tokyo 
- International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-office-service-expo-tokyo-309
- 41-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LARIO CREATIVA — Erba\, Italy
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
@@ -87,19 +18,6 @@ DESCRIPTION:Lario Creativa is a creative fair dedicated to DIY\, crafts and
  f-lario-creativa-34065-1.html
 LOCATION:Erba\, Italy
 URL:https://www.eventseye.com/fairs/f-lario-creativa-34065-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIRO-EXPO — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260927
-UID:f-biro-expo-8519-1@eventseye.impio-vault
-DESCRIPTION:Bureau equipment and supplies (computers\, printers\, paper and
-  spare parts)\, equipment for transfer and telecommunications\, communicat
- ions equipment and furniture\, office supplies\\nVenue: Belgrade Fair Grou
- nds\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-b
- iro-expo-8519-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-biro-expo-8519-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIFESTYLE WEEK JAPAN - TOKYO — Tokyo\, Japan
@@ -610,6 +528,46 @@ DESCRIPTION:Escolar Office Brasil brings together the most innovative produ
  ://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
 LOCATION:São Paulo\, Brazil
 URL:https://www.eventseye.com/fairs/f-escolar-office-brasil-28046-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GIFTS INDIA — Mumbai\, India
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270822
+UID:f-gifts-india-24997-1@eventseye.impio-vault
+DESCRIPTION:The Biggest International Trade Exhibition on Gifts\, Stationer
+ y\, Writing Instruments\, Office\, Gadgets\, Handicrafts\, Housewares & Ho
+ me Decor\\nVenue: Bombay Convention & Exhibition Centre (BCEC)\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-gifts-india-2499
+ 7-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-gifts-india-24997-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTUMN FAIR — Birmingham\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270909
+UID:f-autumn-fair-28711-1@eventseye.impio-vault
+DESCRIPTION:Birmingham Autumn Trade Fair. Home\, Living & Décor. Beauty & 
+ Wellbeing. Gifts. Greetings & Stationery. Kids\, Toys & Plays. Fashion. Je
+ wellery & Watches...\\nVenue: National Exhibition Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-autumn-fair-28711-1.ht
+ ml
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-autumn-fair-28711-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OFFICE SERVICE EXPO - TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271002
+UID:f-office-service-expo-tokyo-30941-1@eventseye.impio-vault
+DESCRIPTION:Japanese office services fair. All products and services for ba
+ ck office will be exhibited at OFFICE SERVICE EXPO - TOKYO\\nVenue: Tokyo 
+ International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-office-service-expo-tokyo-309
+ 41-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941-1.htm
+ l
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PAPEREX — New Delhi\, India

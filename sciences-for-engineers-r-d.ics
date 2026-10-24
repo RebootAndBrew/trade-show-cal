@@ -326,18 +326,6 @@ URL:https://www.eventseye.com/fairs/f-meteorological-technology-world-expo-
  europe-18421-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
-DESCRIPTION:American conference focused on photoelectric cell technologies 
- and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
- ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- pv-celltech-usa-32892-1.html
-LOCATION:San Francisco\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:R4 COMPOSITES — Bordeaux\, France
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261008
@@ -477,6 +465,18 @@ DESCRIPTION:European Conference on Heat Treatment and Surface Engineering.
 LOCATION:Cologne\, Germany
 URL:https://www.eventseye.com/fairs/f-echt-european-conference-on-heat-trea
  tment-and-surface-engineering-31262-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
+DESCRIPTION:American conference focused on photoelectric cell technologies 
+ and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
+ ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ pv-celltech-usa-32892-1.html
+LOCATION:San Francisco\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BELARUSIAN INDUSTRIAL AND INNOVATION FORUM — Minsk\, Belarus
@@ -1756,6 +1756,19 @@ LOCATION:Toulouse\, France
 URL:https://www.eventseye.com/fairs/f-aeromart-toulouse-3502-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DECARBON TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-decarbon-tokyo-34785-1@eventseye.impio-vault
+DESCRIPTION:DeCarbon connects biomass\, renewable gas and carbon markets th
+ rough conferences covering bioenergy\, renewable molecules\, sustainable f
+ eedstocks\, biogenic carbon and carbon-removal certification\\nVenue: Toky
+ o Marriott Hotel\\nFrequency: unknown\\nSource: https://www.eventseye.com/
+ fairs/f-decarbon-tokyo-34785-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-decarbon-tokyo-34785-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MICROGRID GLOBAL INNOVATION FORUM - NORTH AMERICA — Chicago\, IL\
  , USA
 DTSTART;VALUE=DATE:20261201
@@ -2265,6 +2278,19 @@ DESCRIPTION:Advanced Lithography Conference and Expo + Patterning. The even
 LOCATION:San Jose\, CA\, USA
 URL:https://www.eventseye.com/fairs/f-spie-advanced-lithography-10610-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DECARBON COPENHAGEN — Copenhagen\, Denmark
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270226
+UID:f-decarbon-copenhagen-34786-1@eventseye.impio-vault
+DESCRIPTION:DeCarbon connects biomass\, renewable gas and carbon markets th
+ rough conferences covering bioenergy\, renewable molecules\, sustainable f
+ eedstocks\, biogenic carbon and carbon-removal certification\\nFrequency: 
+ unknown\\nSource: https://www.eventseye.com/fairs/f-decarbon-copenhagen-34
+ 786-1.html
+LOCATION:Copenhagen\, Denmark
+URL:https://www.eventseye.com/fairs/f-decarbon-copenhagen-34786-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WORLD WATER-TECH INNOVATION SUMMIT — London\, UK - United Kingdom
@@ -3070,6 +3096,18 @@ LOCATION:Miami\, FL\, USA
 URL:https://www.eventseye.com/fairs/f-the-business-show-miami-31075-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DRONE EXPO INDIA — Bangalore\, India
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270418
+UID:f-drone-expo-india-30187-1@eventseye.impio-vault
+DESCRIPTION:India's International Exhibition on Drones\, UAV Technology\, a
+ nd Anti Drone Technologies\\nVenue: Bangalore International Exhibition Cen
+ tre (BIEC)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-drone-expo-india-30187-1.html
+LOCATION:Bangalore\, India
+URL:https://www.eventseye.com/fairs/f-drone-expo-india-30187-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPIE DEFENSE + COMMERCIAL SENSING EXPO — Orlando\, FL\, USA
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270423
@@ -3312,6 +3350,19 @@ LOCATION:Nuremberg\, Germany
 URL:https://www.eventseye.com/fairs/f-sensor-test-2429-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:3BS MATERIALS TECH — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-3bs-materials-tech-33763-1@eventseye.impio-vault
+DESCRIPTION:3BS MATERIALS TECH is a premier international conference in the
+  field of biomaterials\, biomimetics and biomedical engineering\, bringing
+  together researchers\, engineers & innovators to explore bioinspired and 
+ biomimetic biomaterials\\nFrequency: once a year\\nSource: https://www.eve
+ ntseye.com/fairs/f-3bs-materials-tech-33763-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-3bs-materials-tech-33763-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AEROSPACE & DEFENSE MEETINGS CENTRAL EUROPE - RZESZOW — Rzeszow\,
   Poland
 DTSTART;VALUE=DATE:20270512
@@ -3326,6 +3377,19 @@ DESCRIPTION:Business Convention for the aerospace & defense industries. Att
 LOCATION:Rzeszow\, Poland
 URL:https://www.eventseye.com/fairs/f-aerospace-defense-meetings-central-eu
  rope-rzeszow-21568-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COMPOSITES — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-composites-33764-1@eventseye.impio-vault
+DESCRIPTION:COMMPOSITES is an international conference bringing together le
+ ading researchers\, engineers and industry experts in composites\, biocomp
+ osites & and nanocomposites. A unique platform to share knowledge\, explor
+ e innovations\, and build global collaborations\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-composites-33764-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-composites-33764-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:METAL JAPAN - HIGHLY-FUNCTIONAL METAL EXPO - OSAKA — Osaka\, Japa
@@ -3358,6 +3422,19 @@ LOCATION:Osaka\, Japan
 URL:https://www.eventseye.com/fairs/f-nepcon-japan-osaka-31527-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PLASMA TECH — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-plasma-tech-29008-1@eventseye.impio-vault
+DESCRIPTION:Plasma Processing and Technology International Conference. PLAS
+ MA TECH brings together leading scientists\, engineers\, and industry prof
+ essionals to exchange knowledge and explore the latest advancements in pla
+ sma science and technology\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-plasma-tech-29008-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-plasma-tech-29008-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PLASTIC JAPAN - HIGH-PERFORMANCE PLASTICS EXPO - OSAKA — Osaka\, 
  Japan
 DTSTART;VALUE=DATE:20270512
@@ -3373,6 +3450,32 @@ URL:https://www.eventseye.com/fairs/f-plastic-japan-high-performance-plasti
  cs-expo-osaka-27802-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:POLYMERS — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-polymers-33765-1@eventseye.impio-vault
+DESCRIPTION:POLYMERS is a premier international conference in the field of 
+ polymer science. A unique platform for exchange of knowledge\, collaborati
+ on and exploration of new opportunities in fundamental research & applied 
+ technologies\\nFrequency: once a year\\nSource: https://www.eventseye.com/
+ fairs/f-polymers-33765-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-polymers-33765-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SICT — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-sict-29007-1@eventseye.impio-vault
+DESCRIPTION:Surfaces\, Interfaces and Coatings Technologies International C
+ onference. The SICT offers a great opportunity for scientists\, researcher
+ s\, and experts active in the field of surfaces and coatings science and t
+ echnologies\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-sict-29007-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-sict-29007-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SPEXA - SPACE BUSINESS EXPO — Tokyo\, Japan
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270515
@@ -3386,6 +3489,18 @@ DESCRIPTION:SPEXA is a showcase of innovation on outer space and satellite
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-spexa-space-business-expo-31846-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRIBOLOGY — Rome\, Italy
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270515
+UID:f-tribology-29009-1@eventseye.impio-vault
+DESCRIPTION:Tribology International Conference. Leading university research
+ ers present their latest findings\, and representatives of the industry in
+ spire scientists to develop new solutions\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-tribology-29009-1.html
+LOCATION:Rome\, Italy
+URL:https://www.eventseye.com/fairs/f-tribology-29009-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ATD INTERNATIONAL CONFERENCE & EXPOSITION — Boston\, MA\, USA
@@ -4327,6 +4442,18 @@ DESCRIPTION:Industrial Fair dedicated to Innovations\, Technologies\, Machi
  m/fairs/f-itm-industry-europe-9631-1.html
 LOCATION:Poznan\, Poland
 URL:https://www.eventseye.com/fairs/f-itm-industry-europe-9631-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BIOTECHX USA — Boston\, MA\, USA
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270910
+UID:f-biotechx-usa-31173-1@eventseye.impio-vault
+DESCRIPTION:Leading Digital Transformation Event for Precision Medicine on 
+ the East Coast. Data\, AI\, Precision\, Innovation\, For Pharma\, Healthca
+ re & Partners\\nVenue: Hynes Convention Center\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-biotechx-usa-31173-1.html
+LOCATION:Boston\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-biotechx-usa-31173-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NEPCON JAPAN - CHIBA — Chiba\, Japan

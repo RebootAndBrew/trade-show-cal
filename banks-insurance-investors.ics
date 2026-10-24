@@ -230,18 +230,6 @@ LOCATION:Lyon\, France
 URL:https://www.eventseye.com/fairs/f-preventica-lyon-10547-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261008
-UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
-DESCRIPTION:American conference focused on photoelectric cell technologies 
- and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
- ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
- pv-celltech-usa-32892-1.html
-LOCATION:San Francisco\, CA\, USA
-URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SPIGF - SAINT PETERSBURG INTERNATIONAL GAS FORUM — St. Petersburg
  \, Russia
 DTSTART;VALUE=DATE:20261006
@@ -336,6 +324,20 @@ DESCRIPTION:The Solucop Trade Shows concern all stakeholders in co-ownershi
  .eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
 LOCATION:Lille\, France
 URL:https://www.eventseye.com/fairs/f-salon-solucup-lille-32739-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - NEW YORK — New York\, NY\, USA
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+UID:f-worktech-new-york-34776-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: District Council 37\\nFrequenc
+ y: once a year\\nSource: https://www.eventseye.com/fairs/f-worktech-new-yo
+ rk-34776-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-worktech-new-york-34776-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MINEX IRAN — Tehran\, Iran
@@ -487,6 +489,18 @@ DESCRIPTION:Kenya Water Expo gathers water treatment specialists\, pump sup
  er-kenya-34632-1.html
 LOCATION:Nairobi\, Kenya
 URL:https://www.eventseye.com/fairs/f-mega-water-kenya-34632-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PV CELLTECH USA — San Francisco\, CA\, USA
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261015
+UID:f-pv-celltech-usa-32892-1@eventseye.impio-vault
+DESCRIPTION:American conference focused on photoelectric cell technologies 
+ and production capabilities\\nVenue: San Francisco Airport Marriott Waterf
+ ront\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ pv-celltech-usa-32892-1.html
+LOCATION:San Francisco\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-pv-celltech-usa-32892-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AKTOBENEFTEKHIM — Aktobe\, Kazakhstan
@@ -651,6 +665,20 @@ DESCRIPTION:Cleaning\, Waste and Facilities Management (CWFM) exhibition. T
 LOCATION:Lahore\, Pakistan
 URL:https://www.eventseye.com/fairs/f-cwfm-expo-pakistan-lahore-31551-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - SAN FRANCISCO — San Francisco\, CA\, USA
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+UID:f-worktech-san-francisco-34772-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: Mission Bay Conference Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-workt
+ ech-san-francisco-34772-1.html
+LOCATION:San Francisco\, CA\, USA
+URL:https://www.eventseye.com/fairs/f-worktech-san-francisco-34772-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GCFF - ANNUAL WEALTH CONFERENCE (AWC) - TORONTO — Toronto\, ON\, 
@@ -1598,6 +1626,20 @@ URL:https://www.eventseye.com/fairs/f-forum-mediterraneen-de-l-intelligence
  -artificielle-33568-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LIFE SCIENCES WORKPLACE - BOSTON — Cambridge\, MA\, USA
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+UID:f-life-sciences-workplace-boston-34788-1@eventseye.impio-vault
+DESCRIPTION:Life Sciences Workplace is a senior-level conference exploring 
+ the future of work in health and life sciences. It examines how workplace 
+ strategy\, data\, technology and culture intersect to support business per
+ formance\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-life-sciences-workplace-boston-34788-1.html
+LOCATION:Cambridge\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-life-sciences-workplace-boston-34788-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UNITED PROPERTY & INVEST SHOW - POLAND - GDANSK — Gdansk\, Poland
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261108
@@ -1764,6 +1806,20 @@ DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
 LOCATION:Poznan\, Poland
 URL:https://www.eventseye.com/fairs/f-united-property-invest-show-poland-po
  znan-34525-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - STOCKHOLM — Stockholm\, Sweden
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+UID:f-worktech-stockholm-34770-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: Epicenter\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-worktech-stockholm-34770-
+ 1.html
+LOCATION:Stockholm\, Sweden
+URL:https://www.eventseye.com/fairs/f-worktech-stockholm-34770-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AFRICA PPP — Nairobi\, Kenya
@@ -2197,6 +2253,19 @@ DESCRIPTION:The Europe’s largest B2B event for the space industry\, in Br
  e-28601-1.html
 LOCATION:Bremen\, Germany
 URL:https://www.eventseye.com/fairs/f-space-tech-expo-europe-28601-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - LONDON — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+UID:f-worktech-london-34775-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: Together\\nFrequency: unknown\
+ \nSource: https://www.eventseye.com/fairs/f-worktech-london-34775-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-worktech-london-34775-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ACCOUNTEX ESPAÑA — Madrid\, Spain
@@ -2635,6 +2704,33 @@ LOCATION:Istanbul\, Turkey
 URL:https://www.eventseye.com/fairs/f-ethexpo-eurasia-32043-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WORKTECH - DUBAI — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+UID:f-worktech-dubai-34774-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-worktech-dubai-34774-1.html
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-worktech-dubai-34774-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - SINGAPORE — Singapore\, Singapore
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+UID:f-worktech-singapore-34771-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: Network Hub\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-worktech-singapore-3477
+ 1-1.html
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-worktech-singapore-34771-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ITS BAKU — Baku\, Azerbaijan
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261129
@@ -2746,6 +2842,19 @@ DESCRIPTION:Event bringing together CIOs to address key challenges: CIO/CIS
 LOCATION:Seattle\, WA\, USA
 URL:https://www.eventseye.com/fairs/f-cio-community-executive-summit-usa-se
  attle-34272-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DECARBON TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261204
+UID:f-decarbon-tokyo-34785-1@eventseye.impio-vault
+DESCRIPTION:DeCarbon connects biomass\, renewable gas and carbon markets th
+ rough conferences covering bioenergy\, renewable molecules\, sustainable f
+ eedstocks\, biogenic carbon and carbon-removal certification\\nVenue: Toky
+ o Marriott Hotel\\nFrequency: unknown\\nSource: https://www.eventseye.com/
+ fairs/f-decarbon-tokyo-34785-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-decarbon-tokyo-34785-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FINTECH POLAND EXPO — Warsaw\, Poland
@@ -3585,6 +3694,33 @@ URL:https://www.eventseye.com/fairs/f-bio-ceo-investor-conference-3527-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WORKTECH - BANGKOK — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+UID:f-worktech-bangkok-34773-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nVenue: One Bangkok\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-worktech-bangkok-34773-
+ 1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-worktech-bangkok-34773-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DECARBON COPENHAGEN — Copenhagen\, Denmark
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270226
+UID:f-decarbon-copenhagen-34786-1@eventseye.impio-vault
+DESCRIPTION:DeCarbon connects biomass\, renewable gas and carbon markets th
+ rough conferences covering bioenergy\, renewable molecules\, sustainable f
+ eedstocks\, biogenic carbon and carbon-removal certification\\nFrequency: 
+ unknown\\nSource: https://www.eventseye.com/fairs/f-decarbon-copenhagen-34
+ 786-1.html
+LOCATION:Copenhagen\, Denmark
+URL:https://www.eventseye.com/fairs/f-decarbon-copenhagen-34786-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FINANCIAL WORKPLACE - NEW YORK — New York\, NY\, USA
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
@@ -3987,6 +4123,20 @@ URL:https://www.eventseye.com/fairs/f-ciff-guangzhou-china-international-ho
  me-furniture-fair-new-34705-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LIFE SCIENCES WORKPLACE - BASEL — Basel\, Switzerland
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+UID:f-life-sciences-workplace-basel-34778-1@eventseye.impio-vault
+DESCRIPTION:Life Sciences Workplace is a senior-level conference exploring 
+ the future of work in health and life sciences. It examines how workplace 
+ strategy\, data\, technology and culture intersect to support business per
+ formance\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-life-sciences-workplace-basel-34778-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-life-sciences-workplace-basel-34778-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LIGHTING ASIA — Karachi\, Pakistan
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270321
@@ -4107,6 +4257,19 @@ DESCRIPTION:Gain crucial insights into the growing and evolving solar energ
 LOCATION:Vilnius\, Lithuania
 URL:https://www.eventseye.com/fairs/f-solarplaza-summit-baltics-29674-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - WARSAW — Warsaw\, Poland
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+UID:f-worktech-warsaw-34768-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-worktech-warsaw-34768-1.html
+LOCATION:Warsaw\, Poland
+URL:https://www.eventseye.com/fairs/f-worktech-warsaw-34768-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHARM OF LIGHT — Shanghai\, China
@@ -4820,6 +4983,19 @@ LOCATION:Montreal\, QC\, Canada
 URL:https://www.eventseye.com/fairs/f-cim-7208-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AI SEC SUMMIT — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+UID:f-ai-sec-summit-34050-1@eventseye.impio-vault
+DESCRIPTION:The AI Sec Summit is a conference dedicated to cybersecurity an
+ d artificial intelligence. The event covers risks related to AI\, data pro
+ tection\, AI system security\, and the management of emerging threats\\nVe
+ nue: Park Plaza Victoria\, London\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-ai-sec-summit-34050-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-ai-sec-summit-34050-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:IBEX INDIA — Mumbai\, India
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
@@ -5061,6 +5237,18 @@ URL:https://www.eventseye.com/fairs/f-the-franchise-expo-chicago-17626-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BANKSPACES — Fort Lauderdale\, FL\, USA
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270526
+UID:f-bankspaces-31620-1@eventseye.impio-vault
+DESCRIPTION:Retail banking is undergoing a radical transformation. BankSpac
+ es brings key leaders together to explore this transformation through the 
+ lens of real estate\, design + technology\\nFrequency: once a year\\nSourc
+ e: https://www.eventseye.com/fairs/f-bankspaces-31620-1.html
+LOCATION:Fort Lauderdale\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-bankspaces-31620-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PLMA INTERNATIONAL — Amsterdam\, Netherlands
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270527
@@ -5283,6 +5471,19 @@ LOCATION:Dubai\, UAE - United Arab Emirates
 URL:https://www.eventseye.com/fairs/f-workspace-23315-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:WORKTECH - MELBOURNE — Melbourne\, Australia
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+UID:f-worktech-melbourne-34777-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-worktech-melbourne-34777-1.html
+LOCATION:Melbourne\, Australia
+URL:https://www.eventseye.com/fairs/f-worktech-melbourne-34777-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAKU ENERGY FORUM — Baku\, Azerbaijan
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270604
@@ -5372,6 +5573,22 @@ DESCRIPTION:International Franchise Expo. Meet in person with the hottest f
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-international-franchise-expo-12703-1.
  html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNITED PROPERTY & INVEST SHOW - SWITZERLAND — Zurich\, Switzerlan
+ d
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270606
+UID:f-united-property-invest-show-switzerland-33603-1@eventseye.impio-vault
+DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
+ \, making safe deals and networking. It gives the opportunity to discuss w
+ ith professionals the issues of buying/renting real estate abroad\, to get
+  adviced on mortgages\, taxes investments...\\nVenue: Renaissance Zurich T
+ ower Hotel\\nFrequency: once a year\\nSource: https://www.eventseye.com/fa
+ irs/f-united-property-invest-show-switzerland-33603-1.html
+LOCATION:Zurich\, Switzerland
+URL:https://www.eventseye.com/fairs/f-united-property-invest-show-switzerla
+ nd-33603-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MONEY 20/20 EUROPE — Amsterdam\, Netherlands
@@ -5696,6 +5913,19 @@ DESCRIPTION:Event showcasing the newest trends\, solutions\, and groundbrea
 LOCATION:Johannesburg\, South Africa
 URL:https://www.eventseye.com/fairs/f-fintech-festival-south-africa-32138-1
  .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORKTECH - VANCOUVER — Vancouver\, BC\, Canada
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+UID:f-worktech-vancouver-34769-1@eventseye.impio-vault
+DESCRIPTION:WORKTECH is a conference series exploring the future of work th
+ rough people\, place\, technology and design. It brings together senior pr
+ ofessionals to examine workplace strategy\, digital transformation\, emplo
+ yee experience and emerging trends\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-worktech-vancouver-34769-1.html
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-worktech-vancouver-34769-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FACILITIES MANAGEMENT FORUM - UK — Manchester\, UK - United Kingd
@@ -6360,6 +6590,22 @@ URL:https://www.eventseye.com/fairs/f-cms-cleaning.-management.-services-46
  1-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SOLAR & STORAGE LIVE - EUROPE - UK - BIRMINGHAM — Birmingham\, UK
+  - United Kingdom
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+UID:f-solar-storage-live-europe-uk-birmingham-31146-1@eventseye.impio-vault
+DESCRIPTION:Exhibiton & Congress dedicated to Solar PV\, Storage\, and Comp
+ limentary Systems. The forum brings key stakeholders within the energy val
+ ue chain together with the innovators & disruptors to showcase their techn
+ ology service solutions\\nVenue: National Exhibition Centre\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-solar-storage-live-
+ europe-uk-birmingham-31146-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-solar-storage-live-europe-uk-birmingh
+ am-31146-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PHARMA UZBEKISTAN & CENTRAL ASIA — Tashkent\, Uzbekistan
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
@@ -6468,6 +6714,19 @@ DESCRIPTION:Japanese office services fair. All products and services for ba
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-office-service-expo-tokyo-30941-1.htm
  l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PATRIMONIA — Lyon\, France
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271001
+UID:f-patrimonia-23290-1@eventseye.impio-vault
+DESCRIPTION:Investment Management Exhibition in Lyons. Patrimonia is the la
+ rgest gathering in France of professionals in the world of heritage advice
+ \\nVenue: Centre de Congrès de Lyon (Cité Internationale)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-patrimonia-23290-1.
+ html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-patrimonia-23290-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POST-EXPO — Paris\, France

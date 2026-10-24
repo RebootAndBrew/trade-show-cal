@@ -7,20 +7,6 @@ X-WR-CALDESC:Trade shows: Jewellery - Watch-Making - Gifts — sourced from
   EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:FASHIONISTA LIFESTYLE EXHIBITION - NAGPUR — Nagpur\, India
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260713
-UID:f-fashionista-lifestyle-exhibition-nagpur-17680-1@eventseye.impio-vault
-DESCRIPTION:Now a market leader in Fashion & Lifestyle Exhibitions\, Fashio
- nista is playing a significant role in revolutionizing the Fashion Exhibit
- ion Industry in Tier-II cities\\nVenue: Hotel Centre Point\, Nagpur\\nFreq
- uency: unknown\\nSource: https://www.eventseye.com/fairs/f-fashionista-lif
- estyle-exhibition-nagpur-17680-1.html
-LOCATION:Nagpur\, India
-URL:https://www.eventseye.com/fairs/f-fashionista-lifestyle-exhibition-nagp
- ur-17680-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BRIDAL ASIA - AHMEDABAD — Ahmedabad\, India
 DTSTART;VALUE=DATE:20260724
 DTEND;VALUE=DATE:20260726
@@ -86,21 +72,6 @@ DESCRIPTION:ANTIQUE ALLEY AT WHIPP FARM presents shooting rifles\, knives o
 LOCATION:Cleburne\, TX\, USA
 URL:https://www.eventseye.com/fairs/f-antique-alley-at-whipp-farm-24392-1.h
  tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASHIONISTA LIFESTYLE EXHIBITION - COIMBATORE — Coimbatore\, Indi
- a
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260921
-UID:f-fashionista-lifestyle-exhibition-coimbatore-17684-1@eventseye.impio-vault
-DESCRIPTION:Now a market leader in Fashion & Lifestyle Exhibitions\, Fashio
- nista is playing a significant role in revolutionizing the Fashion Exhibit
- ion Industry in Tier-II cities\\nVenue: Vivanta by Taj - Surya\\nFrequency
- : unknown\\nSource: https://www.eventseye.com/fairs/f-fashionista-lifestyl
- e-exhibition-coimbatore-17684-1.html
-LOCATION:Coimbatore\, India
-URL:https://www.eventseye.com/fairs/f-fashionista-lifestyle-exhibition-coim
- batore-17684-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUNWAY MONDAY AT NEWARK ANTIQUES AND COLLECTORS FAIR — Newark-on-
@@ -3709,6 +3680,21 @@ LOCATION:Milan\, Italy
 URL:https://www.eventseye.com/fairs/f-af-l-artigiano-in-fiera-7553-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FASHIONISTA LIFESTYLE EXHIBITION - COIMBATORE — Coimbatore\, Indi
+ a
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261207
+UID:f-fashionista-lifestyle-exhibition-coimbatore-17684-1@eventseye.impio-vault
+DESCRIPTION:Now a market leader in Fashion & Lifestyle Exhibitions\, Fashio
+ nista is playing a significant role in revolutionizing the Fashion Exhibit
+ ion Industry in Tier-II cities\\nVenue: Vivanta by Taj - Surya\\nFrequency
+ : unknown\\nSource: https://www.eventseye.com/fairs/f-fashionista-lifestyl
+ e-exhibition-coimbatore-17684-1.html
+LOCATION:Coimbatore\, India
+URL:https://www.eventseye.com/fairs/f-fashionista-lifestyle-exhibition-coim
+ batore-17684-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE ULTIMATE WOMEN'S SHOW - ATLANTA — Atlanta\, GA\, USA
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261207
@@ -3748,6 +3734,20 @@ DESCRIPTION:The Grand Strand Gift & Resort Merchandise show is the must-att
 LOCATION:Myrtle Beach\, SC\, USA
 URL:https://www.eventseye.com/fairs/f-grand-strand-gift-resort-merchandise-
  show-17967-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASHIONISTA LIFESTYLE EXHIBITION - MYSORE — Mysore\, India
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+UID:f-fashionista-lifestyle-exhibition-mysore-29316-1@eventseye.impio-vault
+DESCRIPTION:Now a market leader in Fashion & Lifestyle Exhibitions\, Fashio
+ nista is playing a significant role in revolutionizing the Fashion Exhibit
+ ion Industry in Tier-II cities\\nVenue: Hotel Southern Star Mysuru\\nFrequ
+ ency: unknown\\nSource: https://www.eventseye.com/fairs/f-fashionista-life
+ style-exhibition-mysore-29316-1.html
+LOCATION:Mysore\, India
+URL:https://www.eventseye.com/fairs/f-fashionista-lifestyle-exhibition-myso
+ re-29316-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOGLIATTI CHRISTMAS FAIR — Togliatti\, Russia
@@ -3871,6 +3871,20 @@ DESCRIPTION:The New Year´s Fair\, event of fun and good shopping\, is trad
 LOCATION:Belgrade\, Serbia
 URL:https://www.eventseye.com/fairs/f-novogodisnji-vasar-new-year-s-fair-33
  565-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASHIONISTA LIFESTYLE EXHIBITION - NAGPUR — Nagpur\, India
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+UID:f-fashionista-lifestyle-exhibition-nagpur-17680-1@eventseye.impio-vault
+DESCRIPTION:Now a market leader in Fashion & Lifestyle Exhibitions\, Fashio
+ nista is playing a significant role in revolutionizing the Fashion Exhibit
+ ion Industry in Tier-II cities\\nVenue: Hotel Centre Point\, Nagpur\\nFreq
+ uency: unknown\\nSource: https://www.eventseye.com/fairs/f-fashionista-lif
+ estyle-exhibition-nagpur-17680-1.html
+LOCATION:Nagpur\, India
+URL:https://www.eventseye.com/fairs/f-fashionista-lifestyle-exhibition-nagp
+ ur-17680-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CHINA HOMELIFE DUBAI — Dubai\, UAE - United Arab Emirates
@@ -4880,437 +4894,6 @@ URL:https://www.eventseye.com/fairs/f-philadelphia-souvenir-resort-expo-267
  55-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASD MARKET WEEK — Las Vegas\, NV\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-asd-market-week-1688-1@eventseye.impio-vault
-DESCRIPTION:Gift & home trade show. ASD Market Week showcases Jewelry and H
- andicrafts to Tabletop and Collectibles\; Wood\, Ceramic and Porcelain to 
- Metals and Crystal...\\nVenue: Las Vegas Convention Center\\nFrequency: tw
- ice a year\\nSource: https://www.eventseye.com/fairs/f-asd-market-week-168
- 8-1.html
-LOCATION:Las Vegas\, NV\, USA
-URL:https://www.eventseye.com/fairs/f-asd-market-week-1688-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HKTDC HONG KONG INTERNATIONAL DIAMOND\, GEM & PEARL SHOW — Hong K
- ong\, Hong Kong
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270307
-UID:f-hktdc-hong-kong-international-diamond-gem-pearl-show-19903-1@eventseye.impio-vault
-DESCRIPTION:The Hong Kong International Diamond\, Gem & Pearl Show\, is a s
- pecialised trade platform for loose stones and raw materials. A wide range
-  of diamonds\, pearls\, precious and semi-precious stones will be showcase
- d to buyers from all over the world\\nVenue: Hong Kong Convention & Exhibi
- tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
- airs/f-hktdc-hong-kong-international-diamond-gem-pearl-show-19903-1.html
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hktdc-hong-kong-international-diamond
- -gem-pearl-show-19903-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
-DTSTART;VALUE=DATE:20270302
-DTEND;VALUE=DATE:20270305
-UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
-DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
-  exciting product lines will include: apparel\, bath & body\, gifts\, home
-  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
- Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
- ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
- 2-1.html
-LOCATION:Kalamazoo\, MI\, USA
-URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
- w-31612-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HKTDC HONG KONG INTERNATIONAL JEWELLERY SHOW — Hong Kong\, Hong K
- ong
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270309
-UID:f-hktdc-hong-kong-international-jewellery-show-4778-1@eventseye.impio-vault
-DESCRIPTION:Hong Kong international jewellery show. Major exhibit categorie
- s include antique jewellery\, brand name watches & clocks\, fine & finishe
- d jewellery\, jade jewellery\, jewellery accessories\, display\, packaging
-  material\, tools & equipment\, silver jewellery\\nVenue: Hong Kong Conven
- tion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-hktdc-hong-kong-international-jewellery-show-4778-1.ht
- ml
-LOCATION:Hong Kong\, Hong Kong
-URL:https://www.eventseye.com/fairs/f-hktdc-hong-kong-international-jewelle
- ry-show-4778-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LA BROCANTE DE MARTIGNY — Martigny\, Switzerland
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270308
-UID:f-la-brocante-de-martigny-30785-1@eventseye.impio-vault
-DESCRIPTION:This show has today become a reference in the world of flea mar
- kets and antiques in Switzerland and neighboring countries thanks to the q
- uality of the exhibitors and the objects presented. Open to initiates and 
- the curious alike\\nVenue: CERM (Centre d'Expositions et de Réunions de M
- artigny)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-la-brocante-de-martigny-30785-1.html
-LOCATION:Martigny\, Switzerland
-URL:https://www.eventseye.com/fairs/f-la-brocante-de-martigny-30785-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DU MARIAGE DE NAMUR — Namur\, Belgium
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270308
-UID:f-salon-du-mariage-de-namur-26377-1@eventseye.impio-vault
-DESCRIPTION:The Wedding Fair of Namur offers the time of a weekend\, the po
- ssibility to all its visitors to find everything they are looking for for 
- their wedding in one and the same place\\nVenue: Namur expo\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de
- -namur-26377-1.html
-LOCATION:Namur\, Belgium
-URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-namur-26377-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BE+WELL | BEAUTY AND WELLNESS SHOW — New York\, NY\, USA
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270310
-UID:f-be-well-beauty-and-wellness-show-33821-1@eventseye.impio-vault
-DESCRIPTION:Be+Well | Beauty and Wellness Show is the New York's ultimate e
- vent for Beauty (Hair\, Skin & Body)\, Spa\, Wellness & Fitness Profession
- als. 600+ exhibitors are showcasing the newest trends\, tools\, products\,
-  and equipment that power the pros\\nVenue: Jacob K. Javits Convention Cen
- ter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-b
- e-well-beauty-and-wellness-show-33821-1.html
-LOCATION:New York\, NY\, USA
-URL:https://www.eventseye.com/fairs/f-be-well-beauty-and-wellness-show-3382
- 1-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEWELERS INTERNATIONAL SHOWCASE - JIS MIAMI — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270310
-UID:f-jewelers-international-showcase-jis-miami-24611-1@eventseye.impio-vault
-DESCRIPTION:JIS Miami is one of the largest jewelry trade shows and brings 
- together a variety of manufacturers\, wholesalers and brands\\nVenue: Miam
- i Beach Convention Center\\nFrequency: once a year\\nSource: https://www.e
- ventseye.com/fairs/f-jewelers-international-showcase-jis-miami-24611-1.htm
- l
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-jewelers-international-showcase-jis-m
- iami-24611-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JIS SPRING — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270310
-UID:f-jis-spring-29931-1@eventseye.impio-vault
-DESCRIPTION:JIS Spring is where jewelry industry professionals grow their b
- usinesses and deepen relationships with suppliers. Discover new products\,
-  trends\, and suppliers as you restock inventory for Mother’s Day\, wedd
- ing season\, graduation & other major milestones\\nVenue: Miami Beach Conv
- ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
- /fairs/f-jis-spring-29931-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-jis-spring-29931-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WORCESTER WEDDING & BRIDAL EXPO — Worcester\, MA\, USA
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-UID:f-worcester-wedding-bridal-expo-29539-1@eventseye.impio-vault
-DESCRIPTION:Bridal expo show in New England. Wedding dresses\, bridesmaid d
- resses\, invitations\, shoes\, venues and literally all other bridal and w
- edding services imaginable\\nVenue: DCU Center\\nFrequency: once a year\\n
- Source: https://www.eventseye.com/fairs/f-worcester-wedding-bridal-expo-29
- 539-1.html
-LOCATION:Worcester\, MA\, USA
-URL:https://www.eventseye.com/fairs/f-worcester-wedding-bridal-expo-29539-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KYOTO INTERNATIONAL GIFT SHOW — Kyoto\, Japan
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270312
-UID:f-kyoto-international-gift-show-26590-1@eventseye.impio-vault
-DESCRIPTION:Trade fair for personal gifts\, business gifts and decorative a
- ccessories\\nVenue: Miyako Messe\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-kyoto-international-gift-show-26590-1.html
-LOCATION:Kyoto\, Japan
-URL:https://www.eventseye.com/fairs/f-kyoto-international-gift-show-26590-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRO BEAUTY EXPO — Kiev\, Ukraine
-DTSTART;VALUE=DATE:20270310
-DTEND;VALUE=DATE:20270313
-UID:f-pro-beauty-expo-26687-1@eventseye.impio-vault
-DESCRIPTION:Congress\, Exhibition of Beauty Industry with Training and Comp
- etitive Programs\\nVenue: Kiev International Exhibition Center\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-pro-beauty-expo-
- 26687-1.html
-LOCATION:Kiev\, Ukraine
-URL:https://www.eventseye.com/fairs/f-pro-beauty-expo-26687-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ULTIMATE WOMEN'S SHOW - NASHVILLE — Nashville\, TN\, USA
-DTSTART;VALUE=DATE:20270313
-DTEND;VALUE=DATE:20270315
-UID:f-the-ultimate-women-s-show-nashville-29348-1@eventseye.impio-vault
-DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
-  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
- e Experience for women\\nFrequency: once a year\\nSource: https://www.even
- tseye.com/fairs/f-the-ultimate-women-s-show-nashville-29348-1.html
-LOCATION:Nashville\, TN\, USA
-URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-nashville-2
- 9348-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AUTUMN GIFT & HOMEWARE FAIR — Auckland\, New Zealand
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270317
-UID:f-autumn-gift-homeware-fair-12911-1@eventseye.impio-vault
-DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
- orm for thousands of retailers and buyers in attendance exploring the late
- st products from hundreds of local and international exhibiting wholesaler
- s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
- eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.html
-LOCATION:Auckland\, New Zealand
-URL:https://www.eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NATIONAL BRIDAL MARKET CHICAGO — Chicago\, IL\, USA
-DTSTART;VALUE=DATE:20270314
-DTEND;VALUE=DATE:20270317
-UID:f-national-bridal-market-chicago-15561-1@eventseye.impio-vault
-DESCRIPTION:Bridal Expo. National Bridal Market Chicago™ is the leading s
- how for all your bridal & special occasion needs\, offering the latest sty
- les from the industry's top manufactures of bridal gowns & bridesmaids gow
- ns\\nVenue: The Mart\\nFrequency: twice a year\\nSource: https://www.event
- seye.com/fairs/f-national-bridal-market-chicago-15561-1.html
-LOCATION:Chicago\, IL\, USA
-URL:https://www.eventseye.com/fairs/f-national-bridal-market-chicago-15561-
- 1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PLÁSTICO BRASIL — São Paulo\, Brazil
-DTSTART;VALUE=DATE:20270315
-DTEND;VALUE=DATE:20270320
-UID:f-plastico-brasil-23597-1@eventseye.impio-vault
-DESCRIPTION:The Plástico Brasil Fair brings together innovative technologi
- es and the main launches aimed at plastic transformers\, civil constructio
- n\, food and beverages\, automobiles\, perfumery\, hygiene and cleaning an
- d much more\\nVenue: São Paulo Expo Exhibition & Convention Center\\nFreq
- uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-plastico-
- brasil-23597-1.html
-LOCATION:São Paulo\, Brazil
-URL:https://www.eventseye.com/fairs/f-plastico-brasil-23597-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AMA AARGAUER MESSE — Aarau\, Switzerland
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-ama-aargauer-messe-17839-1@eventseye.impio-vault
-DESCRIPTION:Every year in spring\, AMA is the meeting place of social life 
- within the canton of Aargau. The heart of the fair is formed by 200+ exhib
- itors. They present their innovative products and services in an attractiv
- e environment. Special shows every year\\nVenue: AMA Aargauer Messe Aarau 
- - Messegelände\\nFrequency: once a year\\nSource: https://www.eventseye.c
- om/fairs/f-ama-aargauer-messe-17839-1.html
-LOCATION:Aarau\, Switzerland
-URL:https://www.eventseye.com/fairs/f-ama-aargauer-messe-17839-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IBO — Friedrichshafen\, Germany
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270322
-UID:f-ibo-5133-1@eventseye.impio-vault
-DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
- , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
- tyle... Meet\, have fun\, marvel at new things\, experience something toge
- ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
-LOCATION:Friedrichshafen\, Germany
-URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEAUTY & CARE — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-UID:f-beauty-care-29213-1@eventseye.impio-vault
-DESCRIPTION:International Medical Aesthetics & Anti-Aging and Professional 
- Product and Equipment Fair\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention
-  & Exhibition Centre)\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-beauty-care-29213-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-beauty-care-29213-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSMOPACK — Bologna\, Italy
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270321
-UID:f-cosmopack-3745-1@eventseye.impio-vault
-DESCRIPTION:Creative Packaging Fair in Bologna\, for beauty and cosmetic pr
- oducts\, dedicated to the supply chain\\nVenue: Bologna Exhibition Centre\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cosmo
- pack-3745-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-cosmopack-3745-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COSMOPROF WORLDWIDE BOLOGNA — Bologna\, Italy
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-UID:f-cosmoprof-worldwide-bologna-3744-1@eventseye.impio-vault
-DESCRIPTION:As the most influential global event dedicated to all facets of
-  the beauty industry\, Cosmoprof Bologna is where companies do business an
- d the perfect stage for the beauty trend-setters to present breakthrough p
- roduct launches & innovative solutions\\nVenue: Bologna Exhibition Centre\
- \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cosmo
- prof-worldwide-bologna-3744-1.html
-LOCATION:Bologna\, Italy
-URL:https://www.eventseye.com/fairs/f-cosmoprof-worldwide-bologna-3744-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JEWELRY SALON OF SIBERIA — Krasnoyarsk\, Russia
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-UID:f-jewelry-salon-of-siberia-23841-1@eventseye.impio-vault
-DESCRIPTION:The largest jewelry industry event in the Siberian Federal Dist
- rict annually brings together leading manufacturers of jewelry and accesso
- ries made from precious metals and stones from across Russia\\nVenue: Sibe
- ria International Exhibition Business Centre\\nFrequency: once a year\\nSo
- urce: https://www.eventseye.com/fairs/f-jewelry-salon-of-siberia-23841-1.h
- tml
-LOCATION:Krasnoyarsk\, Russia
-URL:https://www.eventseye.com/fairs/f-jewelry-salon-of-siberia-23841-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORIGINAL MIAMI BEACH ANTIQUE SHOW — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270323
-UID:f-original-miami-beach-antique-show-10112-1@eventseye.impio-vault
-DESCRIPTION:Miami International Antique Show. Discover anything from antiqu
- e jewelry and vintage watches to modern furniture and home decor...\\nVenu
- e: Miami Beach Convention Center\\nFrequency: once a year\\nSource: https:
- //www.eventseye.com/fairs/f-original-miami-beach-antique-show-10112-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-original-miami-beach-antique-show-101
- 12-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ORIGINAL MIAMI BEACH ANTIQUE SHOW — Miami\, FL\, USA
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270323
-UID:f-the-original-miami-beach-antique-show-32420-1@eventseye.impio-vault
-DESCRIPTION:The world’s largest indoor antique show. Items featured inclu
- de 17-19th century furniture\, paintings\, silver\, objects of virtue\, te
- xtiles and rugs\, Art Deco\, Modernism\, porcelain\, art glass\, bronze sc
- ulptures\, antique jewelry...\\nVenue: Miami Beach Convention Center\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-origin
- al-miami-beach-antique-show-32420-1.html
-LOCATION:Miami\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-the-original-miami-beach-antique-show
- -32420-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE STICH FESTIVAL — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-UID:f-the-stich-festival-30182-1@eventseye.impio-vault
-DESCRIPTION:The Knitting & Stitching Show is a place where like-minded arti
- sans can meet\, discuss ideas\, learn new skills and buy their craft suppl
- ies\\nVenue: Business Design Centre\, Islington\\nFrequency: once a year\\
- nSource: https://www.eventseye.com/fairs/f-the-stich-festival-30182-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-the-stich-festival-30182-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LONDON BRIDAL FASHION WEEK — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270321
-DTEND;VALUE=DATE:20270324
-UID:f-london-bridal-fashion-week-6199-1@eventseye.impio-vault
-DESCRIPTION:Bridal Trade Show in United Kingdom. The London Bridal Fashion 
- Week will introduce retailers to the latest collections from some of the b
- iggest names in the bridal business\\nVenue: ExCeL\\nFrequency: once a yea
- r\\nSource: https://www.eventseye.com/fairs/f-london-bridal-fashion-week-6
- 199-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-london-bridal-fashion-week-6199-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PROFESSIONAL BEAUTY - GCC — Dubai\, UAE - United Arab Emirates
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270324
-UID:f-professional-beauty-gcc-24616-1@eventseye.impio-vault
-DESCRIPTION:UAE Beauty & Wellness Industry Trade Show. The visitors can bro
- wse the stands of the biggest brands and most recent innovations in skinca
- re\, hair\, barbering\, aesthetic devices\, nails\, make-up and much more\
- \nVenue: Festival Arena by InterContinental\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-professional-beauty-gcc-24616-1.htm
- l
-LOCATION:Dubai\, UAE - United Arab Emirates
-URL:https://www.eventseye.com/fairs/f-professional-beauty-gcc-24616-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTERCHARM PROFESSIONAL — Moscow\, Russia
-DTSTART;VALUE=DATE:20270323
-DTEND;VALUE=DATE:20270326
-UID:f-intercharm-professional-19206-1@eventseye.impio-vault
-DESCRIPTION:International exhibition and forum for professional cosmetics\,
-  equipment\, nutraceuticals\, technologies and methods for complex skin\, 
- hair\, nails and mental health\\nVenue: Crocus-Expo IEC\\nFrequency: once 
- a year\\nSource: https://www.eventseye.com/fairs/f-intercharm-professional
- -19206-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-intercharm-professional-19206-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEIJING INTERNATIONAL GIFTS\, PREMIUM & HOUSEWARE EXHIBITION — Be
- ijing\, China
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270328
-UID:f-beijing-international-gifts-premium-houseware-exhibition-20071-1@eventseye.impio-vault
-DESCRIPTION:A leading event in China that focuses on gifts and home-use ite
- ms. This flagship gift and home event in North China offers a great platfo
- rm to launch creative design and brands as well as to share the latest ind
- ustry updates\\nVenue: China International Exhibition Centre (CIEC)\\nFreq
- uency: twice a year\\nSource: https://www.eventseye.com/fairs/f-beijing-in
- ternational-gifts-premium-houseware-exhibition-20071-1.html
-LOCATION:Beijing\, China
-URL:https://www.eventseye.com/fairs/f-beijing-international-gifts-premium-h
- ouseware-exhibition-20071-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:THE ULTIMATE WOMEN'S SHOW - JACKSONVILLE — Jacksonville\, FL\, US
- A
-DTSTART;VALUE=DATE:20270327
-DTEND;VALUE=DATE:20270329
-UID:f-the-ultimate-women-s-show-jacksonville-28923-1@eventseye.impio-vault
-DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
-  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
- e Experience for women\\nVenue: Prime Osborn Convention Center\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-the-ultimate-wom
- en-s-show-jacksonville-28923-1.html
-LOCATION:Jacksonville\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-jacksonvill
- e-28923-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PAVILLON DES ARTS ET DU DESIGN - PARIS — Paris\, France
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270405
-UID:f-pavillon-des-arts-et-du-design-paris-11001-1@eventseye.impio-vault
-DESCRIPTION:An international Fair Embracing 150 years of Fine Arts\, Decora
- tive Arts and Design of the 20th and 21st Centuries\\nVenue: Jardin des Tu
- ileries - Esplanade des Feuillants\\nFrequency: once a year\\nSource: http
- s://www.eventseye.com/fairs/f-pavillon-des-arts-et-du-design-paris-11001-1
- .html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-pavillon-des-arts-et-du-design-paris-
- 11001-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CTCO LYON — Lyon\, France
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270205
@@ -5883,6 +5466,474 @@ DESCRIPTION:WIKAM is one of Austria's most important art fairs and an inter
  www.eventseye.com/fairs/f-wikam-palais-festel-31793-1.html
 LOCATION:Vienna\, Austria
 URL:https://www.eventseye.com/fairs/f-wikam-palais-festel-31793-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASD MARKET WEEK — Las Vegas\, NV\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-asd-market-week-1688-1@eventseye.impio-vault
+DESCRIPTION:Gift & home trade show. ASD Market Week showcases Jewelry and H
+ andicrafts to Tabletop and Collectibles\; Wood\, Ceramic and Porcelain to 
+ Metals and Crystal...\\nVenue: Las Vegas Convention Center\\nFrequency: tw
+ ice a year\\nSource: https://www.eventseye.com/fairs/f-asd-market-week-168
+ 8-1.html
+LOCATION:Las Vegas\, NV\, USA
+URL:https://www.eventseye.com/fairs/f-asd-market-week-1688-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HKTDC HONG KONG INTERNATIONAL DIAMOND\, GEM & PEARL SHOW — Hong K
+ ong\, Hong Kong
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270307
+UID:f-hktdc-hong-kong-international-diamond-gem-pearl-show-19903-1@eventseye.impio-vault
+DESCRIPTION:The Hong Kong International Diamond\, Gem & Pearl Show\, is a s
+ pecialised trade platform for loose stones and raw materials. A wide range
+  of diamonds\, pearls\, precious and semi-precious stones will be showcase
+ d to buyers from all over the world\\nVenue: Hong Kong Convention & Exhibi
+ tion Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/f
+ airs/f-hktdc-hong-kong-international-diamond-gem-pearl-show-19903-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hktdc-hong-kong-international-diamond
+ -gem-pearl-show-19903-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE GREAT LAKES BOUTIQUE AND GIFT SHOW — Kalamazoo\, MI\, USA
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270305
+UID:f-the-great-lakes-boutique-and-gift-show-31612-1@eventseye.impio-vault
+DESCRIPTION:The Great Lakes Boutique and Gift show features hundreds of new
+  exciting product lines will include: apparel\, bath & body\, gifts\, home
+  decor\, jewelry\, Made in USA\, souvenirs\, Cash and Carry & much more\\n
+ Venue: Kalamazoo County Expo Center\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-show-3161
+ 2-1.html
+LOCATION:Kalamazoo\, MI\, USA
+URL:https://www.eventseye.com/fairs/f-the-great-lakes-boutique-and-gift-sho
+ w-31612-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HKTDC HONG KONG INTERNATIONAL JEWELLERY SHOW — Hong Kong\, Hong K
+ ong
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270309
+UID:f-hktdc-hong-kong-international-jewellery-show-4778-1@eventseye.impio-vault
+DESCRIPTION:Hong Kong international jewellery show. Major exhibit categorie
+ s include antique jewellery\, brand name watches & clocks\, fine & finishe
+ d jewellery\, jade jewellery\, jewellery accessories\, display\, packaging
+  material\, tools & equipment\, silver jewellery\\nVenue: Hong Kong Conven
+ tion & Exhibition Centre\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-hktdc-hong-kong-international-jewellery-show-4778-1.ht
+ ml
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hktdc-hong-kong-international-jewelle
+ ry-show-4778-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LA BROCANTE DE MARTIGNY — Martigny\, Switzerland
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+UID:f-la-brocante-de-martigny-30785-1@eventseye.impio-vault
+DESCRIPTION:This show has today become a reference in the world of flea mar
+ kets and antiques in Switzerland and neighboring countries thanks to the q
+ uality of the exhibitors and the objects presented. Open to initiates and 
+ the curious alike\\nVenue: CERM (Centre d'Expositions et de Réunions de M
+ artigny)\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-la-brocante-de-martigny-30785-1.html
+LOCATION:Martigny\, Switzerland
+URL:https://www.eventseye.com/fairs/f-la-brocante-de-martigny-30785-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIDAL ASIA - NEW DELHI — New Delhi\, India
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+UID:f-bridal-asia-new-delhi-5552-1@eventseye.impio-vault
+DESCRIPTION:Wedding Show. Bridal Asia brings to you a first-of-its kind exh
+ ibition with a handpicked collection of bridal couture\, jewellery & acces
+ sories\\nVenue: Ashok Convention Center - The Ashok Hotel\\nFrequency: twi
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-bridal-asia-new-delh
+ i-5552-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-bridal-asia-new-delhi-5552-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE NAMUR — Namur\, Belgium
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270308
+UID:f-salon-du-mariage-de-namur-26377-1@eventseye.impio-vault
+DESCRIPTION:The Wedding Fair of Namur offers the time of a weekend\, the po
+ ssibility to all its visitors to find everything they are looking for for 
+ their wedding in one and the same place\\nVenue: Namur expo\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-salon-du-mariage-de
+ -namur-26377-1.html
+LOCATION:Namur\, Belgium
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-namur-26377-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BE+WELL | BEAUTY AND WELLNESS SHOW — New York\, NY\, USA
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270310
+UID:f-be-well-beauty-and-wellness-show-33821-1@eventseye.impio-vault
+DESCRIPTION:Be+Well | Beauty and Wellness Show is the New York's ultimate e
+ vent for Beauty (Hair\, Skin & Body)\, Spa\, Wellness & Fitness Profession
+ als. 600+ exhibitors are showcasing the newest trends\, tools\, products\,
+  and equipment that power the pros\\nVenue: Jacob K. Javits Convention Cen
+ ter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-b
+ e-well-beauty-and-wellness-show-33821-1.html
+LOCATION:New York\, NY\, USA
+URL:https://www.eventseye.com/fairs/f-be-well-beauty-and-wellness-show-3382
+ 1-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEWELERS INTERNATIONAL SHOWCASE - JIS MIAMI — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270310
+UID:f-jewelers-international-showcase-jis-miami-24611-1@eventseye.impio-vault
+DESCRIPTION:JIS Miami is one of the largest jewelry trade shows and brings 
+ together a variety of manufacturers\, wholesalers and brands\\nVenue: Miam
+ i Beach Convention Center\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-jewelers-international-showcase-jis-miami-24611-1.htm
+ l
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-jewelers-international-showcase-jis-m
+ iami-24611-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JIS SPRING — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270310
+UID:f-jis-spring-29931-1@eventseye.impio-vault
+DESCRIPTION:JIS Spring is where jewelry industry professionals grow their b
+ usinesses and deepen relationships with suppliers. Discover new products\,
+  trends\, and suppliers as you restock inventory for Mother’s Day\, wedd
+ ing season\, graduation & other major milestones\\nVenue: Miami Beach Conv
+ ention Center\\nFrequency: once a year\\nSource: https://www.eventseye.com
+ /fairs/f-jis-spring-29931-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-jis-spring-29931-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WORCESTER WEDDING & BRIDAL EXPO — Worcester\, MA\, USA
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+UID:f-worcester-wedding-bridal-expo-29539-1@eventseye.impio-vault
+DESCRIPTION:Bridal expo show in New England. Wedding dresses\, bridesmaid d
+ resses\, invitations\, shoes\, venues and literally all other bridal and w
+ edding services imaginable\\nVenue: DCU Center\\nFrequency: once a year\\n
+ Source: https://www.eventseye.com/fairs/f-worcester-wedding-bridal-expo-29
+ 539-1.html
+LOCATION:Worcester\, MA\, USA
+URL:https://www.eventseye.com/fairs/f-worcester-wedding-bridal-expo-29539-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KYOTO INTERNATIONAL GIFT SHOW — Kyoto\, Japan
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270312
+UID:f-kyoto-international-gift-show-26590-1@eventseye.impio-vault
+DESCRIPTION:Trade fair for personal gifts\, business gifts and decorative a
+ ccessories\\nVenue: Miyako Messe\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-kyoto-international-gift-show-26590-1.html
+LOCATION:Kyoto\, Japan
+URL:https://www.eventseye.com/fairs/f-kyoto-international-gift-show-26590-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRO BEAUTY EXPO — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270313
+UID:f-pro-beauty-expo-26687-1@eventseye.impio-vault
+DESCRIPTION:Congress\, Exhibition of Beauty Industry with Training and Comp
+ etitive Programs\\nVenue: Kiev International Exhibition Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-pro-beauty-expo-
+ 26687-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-pro-beauty-expo-26687-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMBERIF — Gdansk\, Poland
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270314
+UID:f-amberif-16073-1@eventseye.impio-vault
+DESCRIPTION:International Amber\, Gemstones and Jewelry Fair in Poland. One
+  the the largest jewelry event in Central and Eastern Europe\\nVenue: Ambe
+ rexpo\\nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/
+ f-amberif-16073-1.html
+LOCATION:Gdansk\, Poland
+URL:https://www.eventseye.com/fairs/f-amberif-16073-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALESPO - FOIRE D'ALÈS — Alès\, France
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270316
+UID:f-alespo-foire-d-ales-16520-1@eventseye.impio-vault
+DESCRIPTION:Alès Fair. Home\, garden & Leisure. Discover young inventive e
+ ntrepreneurs\, ingenious craftsmen\, interior designers\, decorators...\\n
+ Venue: Parc des expositions d'Alès\\nFrequency: once a year\\nSource: htt
+ ps://www.eventseye.com/fairs/f-alespo-foire-d-ales-16520-1.html
+LOCATION:Alès\, France
+URL:https://www.eventseye.com/fairs/f-alespo-foire-d-ales-16520-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ULTIMATE WOMEN'S SHOW - NASHVILLE — Nashville\, TN\, USA
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270315
+UID:f-the-ultimate-women-s-show-nashville-29348-1@eventseye.impio-vault
+DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
+  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
+ e Experience for women\\nFrequency: once a year\\nSource: https://www.even
+ tseye.com/fairs/f-the-ultimate-women-s-show-nashville-29348-1.html
+LOCATION:Nashville\, TN\, USA
+URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-nashville-2
+ 9348-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AUTUMN GIFT & HOMEWARE FAIR — Auckland\, New Zealand
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270317
+UID:f-autumn-gift-homeware-fair-12911-1@eventseye.impio-vault
+DESCRIPTION:Gifts and home products fair in New Zealand. The sourcing platf
+ orm for thousands of retailers and buyers in attendance exploring the late
+ st products from hundreds of local and international exhibiting wholesaler
+ s\\nVenue: ASB Showgrounds\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.html
+LOCATION:Auckland\, New Zealand
+URL:https://www.eventseye.com/fairs/f-autumn-gift-homeware-fair-12911-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NATIONAL BRIDAL MARKET CHICAGO — Chicago\, IL\, USA
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270317
+UID:f-national-bridal-market-chicago-15561-1@eventseye.impio-vault
+DESCRIPTION:Bridal Expo. National Bridal Market Chicago™ is the leading s
+ how for all your bridal & special occasion needs\, offering the latest sty
+ les from the industry's top manufactures of bridal gowns & bridesmaids gow
+ ns\\nVenue: The Mart\\nFrequency: twice a year\\nSource: https://www.event
+ seye.com/fairs/f-national-bridal-market-chicago-15561-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-national-bridal-market-chicago-15561-
+ 1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PLÁSTICO BRASIL — São Paulo\, Brazil
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+UID:f-plastico-brasil-23597-1@eventseye.impio-vault
+DESCRIPTION:The Plástico Brasil Fair brings together innovative technologi
+ es and the main launches aimed at plastic transformers\, civil constructio
+ n\, food and beverages\, automobiles\, perfumery\, hygiene and cleaning an
+ d much more\\nVenue: São Paulo Expo Exhibition & Convention Center\\nFreq
+ uency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-plastico-
+ brasil-23597-1.html
+LOCATION:São Paulo\, Brazil
+URL:https://www.eventseye.com/fairs/f-plastico-brasil-23597-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AMA AARGAUER MESSE — Aarau\, Switzerland
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-ama-aargauer-messe-17839-1@eventseye.impio-vault
+DESCRIPTION:Every year in spring\, AMA is the meeting place of social life 
+ within the canton of Aargau. The heart of the fair is formed by 200+ exhib
+ itors. They present their innovative products and services in an attractiv
+ e environment. Special shows every year\\nVenue: AMA Aargauer Messe Aarau 
+ - Messegelände\\nFrequency: once a year\\nSource: https://www.eventseye.c
+ om/fairs/f-ama-aargauer-messe-17839-1.html
+LOCATION:Aarau\, Switzerland
+URL:https://www.eventseye.com/fairs/f-ama-aargauer-messe-17839-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IBO — Friedrichshafen\, Germany
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270322
+UID:f-ibo-5133-1@eventseye.impio-vault
+DESCRIPTION:IBO offers many themes: vacation/leisure/travel\, construction\
+ , garden and atmosphere\, mobility\, creative hobbies\, gastronomy\, lifes
+ tyle... Meet\, have fun\, marvel at new things\, experience something toge
+ ther\\nVenue: Messegelände Friedrichshafen\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-ibo-5133-1.html
+LOCATION:Friedrichshafen\, Germany
+URL:https://www.eventseye.com/fairs/f-ibo-5133-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEAUTY & CARE — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+UID:f-beauty-care-29213-1@eventseye.impio-vault
+DESCRIPTION:International Medical Aesthetics & Anti-Aging and Professional 
+ Product and Equipment Fair\\nVenue: ICEC (Istanbul Lotfi Kirdar Convention
+  & Exhibition Centre)\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-beauty-care-29213-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-beauty-care-29213-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSMOPACK — Bologna\, Italy
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270321
+UID:f-cosmopack-3745-1@eventseye.impio-vault
+DESCRIPTION:Creative Packaging Fair in Bologna\, for beauty and cosmetic pr
+ oducts\, dedicated to the supply chain\\nVenue: Bologna Exhibition Centre\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cosmo
+ pack-3745-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-cosmopack-3745-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COSMOPROF WORLDWIDE BOLOGNA — Bologna\, Italy
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+UID:f-cosmoprof-worldwide-bologna-3744-1@eventseye.impio-vault
+DESCRIPTION:As the most influential global event dedicated to all facets of
+  the beauty industry\, Cosmoprof Bologna is where companies do business an
+ d the perfect stage for the beauty trend-setters to present breakthrough p
+ roduct launches & innovative solutions\\nVenue: Bologna Exhibition Centre\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-cosmo
+ prof-worldwide-bologna-3744-1.html
+LOCATION:Bologna\, Italy
+URL:https://www.eventseye.com/fairs/f-cosmoprof-worldwide-bologna-3744-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JEWELRY SALON OF SIBERIA — Krasnoyarsk\, Russia
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+UID:f-jewelry-salon-of-siberia-23841-1@eventseye.impio-vault
+DESCRIPTION:The largest jewelry industry event in the Siberian Federal Dist
+ rict annually brings together leading manufacturers of jewelry and accesso
+ ries made from precious metals and stones from across Russia\\nVenue: Sibe
+ ria International Exhibition Business Centre\\nFrequency: once a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-jewelry-salon-of-siberia-23841-1.h
+ tml
+LOCATION:Krasnoyarsk\, Russia
+URL:https://www.eventseye.com/fairs/f-jewelry-salon-of-siberia-23841-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ORIGINAL MIAMI BEACH ANTIQUE SHOW — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270323
+UID:f-original-miami-beach-antique-show-10112-1@eventseye.impio-vault
+DESCRIPTION:Miami International Antique Show. Discover anything from antiqu
+ e jewelry and vintage watches to modern furniture and home decor...\\nVenu
+ e: Miami Beach Convention Center\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-original-miami-beach-antique-show-10112-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-original-miami-beach-antique-show-101
+ 12-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ORIGINAL MIAMI BEACH ANTIQUE SHOW — Miami\, FL\, USA
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270323
+UID:f-the-original-miami-beach-antique-show-32420-1@eventseye.impio-vault
+DESCRIPTION:The world’s largest indoor antique show. Items featured inclu
+ de 17-19th century furniture\, paintings\, silver\, objects of virtue\, te
+ xtiles and rugs\, Art Deco\, Modernism\, porcelain\, art glass\, bronze sc
+ ulptures\, antique jewelry...\\nVenue: Miami Beach Convention Center\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-the-origin
+ al-miami-beach-antique-show-32420-1.html
+LOCATION:Miami\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-the-original-miami-beach-antique-show
+ -32420-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE STICH FESTIVAL — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+UID:f-the-stich-festival-30182-1@eventseye.impio-vault
+DESCRIPTION:The Knitting & Stitching Show is a place where like-minded arti
+ sans can meet\, discuss ideas\, learn new skills and buy their craft suppl
+ ies\\nVenue: Business Design Centre\, Islington\\nFrequency: once a year\\
+ nSource: https://www.eventseye.com/fairs/f-the-stich-festival-30182-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-the-stich-festival-30182-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LONDON BRIDAL FASHION WEEK — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270324
+UID:f-london-bridal-fashion-week-6199-1@eventseye.impio-vault
+DESCRIPTION:Bridal Trade Show in United Kingdom. The London Bridal Fashion 
+ Week will introduce retailers to the latest collections from some of the b
+ iggest names in the bridal business\\nVenue: ExCeL\\nFrequency: once a yea
+ r\\nSource: https://www.eventseye.com/fairs/f-london-bridal-fashion-week-6
+ 199-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-london-bridal-fashion-week-6199-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROFESSIONAL BEAUTY - GCC — Dubai\, UAE - United Arab Emirates
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270324
+UID:f-professional-beauty-gcc-24616-1@eventseye.impio-vault
+DESCRIPTION:UAE Beauty & Wellness Industry Trade Show. The visitors can bro
+ wse the stands of the biggest brands and most recent innovations in skinca
+ re\, hair\, barbering\, aesthetic devices\, nails\, make-up and much more\
+ \nVenue: Festival Arena by InterContinental\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-professional-beauty-gcc-24616-1.htm
+ l
+LOCATION:Dubai\, UAE - United Arab Emirates
+URL:https://www.eventseye.com/fairs/f-professional-beauty-gcc-24616-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTERCHARM PROFESSIONAL — Moscow\, Russia
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+UID:f-intercharm-professional-19206-1@eventseye.impio-vault
+DESCRIPTION:International exhibition and forum for professional cosmetics\,
+  equipment\, nutraceuticals\, technologies and methods for complex skin\, 
+ hair\, nails and mental health\\nVenue: Crocus-Expo IEC\\nFrequency: once 
+ a year\\nSource: https://www.eventseye.com/fairs/f-intercharm-professional
+ -19206-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-intercharm-professional-19206-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEIJING INTERNATIONAL GIFTS\, PREMIUM & HOUSEWARE EXHIBITION — Be
+ ijing\, China
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+UID:f-beijing-international-gifts-premium-houseware-exhibition-20071-1@eventseye.impio-vault
+DESCRIPTION:A leading event in China that focuses on gifts and home-use ite
+ ms. This flagship gift and home event in North China offers a great platfo
+ rm to launch creative design and brands as well as to share the latest ind
+ ustry updates\\nVenue: China International Exhibition Centre (CIEC)\\nFreq
+ uency: twice a year\\nSource: https://www.eventseye.com/fairs/f-beijing-in
+ ternational-gifts-premium-houseware-exhibition-20071-1.html
+LOCATION:Beijing\, China
+URL:https://www.eventseye.com/fairs/f-beijing-international-gifts-premium-h
+ ouseware-exhibition-20071-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE ULTIMATE WOMEN'S SHOW - JACKSONVILLE — Jacksonville\, FL\, US
+ A
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270329
+UID:f-the-ultimate-women-s-show-jacksonville-28923-1@eventseye.impio-vault
+DESCRIPTION:The Nation's Largest Women's Expos\, combining the very best in
+  shopping\, speakers\, makeovers and rejuvenation designed for the Ultimat
+ e Experience for women\\nVenue: Prime Osborn Convention Center\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-the-ultimate-wom
+ en-s-show-jacksonville-28923-1.html
+LOCATION:Jacksonville\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-jacksonvill
+ e-28923-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAVILLON DES ARTS ET DU DESIGN - PARIS — Paris\, France
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270405
+UID:f-pavillon-des-arts-et-du-design-paris-11001-1@eventseye.impio-vault
+DESCRIPTION:An international Fair Embracing 150 years of Fine Arts\, Decora
+ tive Arts and Design of the 20th and 21st Centuries\\nVenue: Jardin des Tu
+ ileries - Esplanade des Feuillants\\nFrequency: once a year\\nSource: http
+ s://www.eventseye.com/fairs/f-pavillon-des-arts-et-du-design-paris-11001-1
+ .html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-pavillon-des-arts-et-du-design-paris-
+ 11001-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IVORY COAST CBH EXPO — Abidjan\, Ivory Coast
@@ -7625,6 +7676,20 @@ URL:https://www.eventseye.com/fairs/f-jewellery-watch-birmingham-20780-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HONG KONG WATCH & CLOCK — Hong Kong\, Hong Kong
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270912
+UID:f-hong-kong-watch-clock-1230-1@eventseye.impio-vault
+DESCRIPTION:Watch and Clock Manufacturers Show. HKTDC Hong Kong Watch & Clo
+ ck Fair is focusing on all sectors of the watch and clock business\, inclu
+ ding branded and complete watches\, clocks\, machinery & equipment\, packa
+ ging and parts & components\\nVenue: Hong Kong Convention & Exhibition Cen
+ tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-h
+ ong-kong-watch-clock-1230-1.html
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.eventseye.com/fairs/f-hong-kong-watch-clock-1230-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FRAGRANZE — Florence\, Italy
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270913
@@ -7702,6 +7767,21 @@ LOCATION:Sydney\, Australia
 URL:https://www.eventseye.com/fairs/f-agha-gift-fairs-sydney-8975-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JEWELLERY AND GEM FAIR - DELHI — New Delhi\, India
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270921
+UID:f-jewellery-and-gem-fair-delhi-23028-1@eventseye.impio-vault
+DESCRIPTION:Professional B2B trade show for the Gem & Jewellery Industry. G
+ ujarat Jewellery and Gem Fair showcases Fine Finished Gold Jewellery\nGems
+ tones\, Pearls\, Diamonds\, Silver Jewellery\, Machinery & Equipment\, Pac
+ kaging & Display\, Ancillary Services Provider\\nVenue: Pragati Maidan\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-jeweller
+ y-and-gem-fair-delhi-23028-1.html
+LOCATION:New Delhi\, India
+URL:https://www.eventseye.com/fairs/f-jewellery-and-gem-fair-delhi-23028-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE ULTIMATE WOMEN'S SHOW - DALLAS/FORTH WORTH — Irving\, TX\, US
  A
 DTSTART;VALUE=DATE:20270918
@@ -7760,6 +7840,35 @@ LOCATION:Offenburg\, Germany
 URL:https://www.eventseye.com/fairs/f-oberrhein-messe-13461-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SALON DU MARIAGE DE BÉZIERS — Béziers\, France
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271011
+UID:f-salon-du-mariage-de-beziers-16536-1@eventseye.impio-vault
+DESCRIPTION:Béziers Wedding Fair. A complete event around marriage bringin
+ g together a diversity of qualified service providers: wedding dresses\, h
+ airdressing and beauty\, formal wear for men\, invitations\, photographers
+ \, reception venues and caterers\, entertainment...\\nVenue: Parc des Expo
+ sitions de Béziers\\nFrequency: once a year\\nSource: https://www.eventse
+ ye.com/fairs/f-salon-du-mariage-de-beziers-16536-1.html
+LOCATION:Béziers\, France
+URL:https://www.eventseye.com/fairs/f-salon-du-mariage-de-beziers-16536-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEAUTY CODE — Krasnoyarsk\, Russia
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271018
+UID:f-beauty-code-14569-1@eventseye.impio-vault
+DESCRIPTION:Specialized exhibition of cosmetics and perfumery products\, ha
+ irdressers and cosmetologists services and equipment. A large-scale platfo
+ rm that brings together specialists and reflects current trends in the bea
+ uty industry\\nVenue: Siberia International Exhibition Business Centre\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-beauty-c
+ ode-14569-1.html
+LOCATION:Krasnoyarsk\, Russia
+URL:https://www.eventseye.com/fairs/f-beauty-code-14569-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:COSMETISTA EXPO — Casablanca\, Morocco
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271020
@@ -7787,6 +7896,21 @@ DESCRIPTION:Cosmetista Expo North & West Africa is the leading trade fair i
 LOCATION:Casablanca\, Morocco
 URL:https://www.eventseye.com/fairs/f-cosmetista-expo-north-west-africa-269
  74-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE NATIONAL WOMEN'S SHOW - VANCOUVER — Vancouver\, BC\, Canada
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271108
+UID:f-the-national-women-s-show-vancouver-34149-1@eventseye.impio-vault
+DESCRIPTION:Women's Show. Shop ‘til you drop at over 300 exhibits and fin
+ d everything from food and wine sampling\, fashion shows\, celebrity guest
+ s\, free makeovers\, health\, wellness & beauty secrets\, cooking demos\, 
+ home renovation advice\, travel ideas...\\nVenue: Vancouver Convention Cen
+ tre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-t
+ he-national-women-s-show-vancouver-34149-1.html
+LOCATION:Vancouver\, BC\, Canada
+URL:https://www.eventseye.com/fairs/f-the-national-women-s-show-vancouver-3
+ 4149-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEAUTY EURASIA — Istanbul\, Turkey

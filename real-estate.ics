@@ -405,6 +405,19 @@ URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
  -new-delhi-22486-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SINA PARIS — Paris\, France
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+UID:f-sina-paris-31808-1@eventseye.impio-vault
+DESCRIPTION:Exhibition for Algerian new real estate in Montreal. SINA PARIS
+  brings together real estate developers from Algeria with members of the A
+ lgerian community living in France and Europe\\nVenue: Espace Charenton\\n
+ Frequency: once a year\\nSource: https://www.eventseye.com/fairs/f-sina-pa
+ ris-31808-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-sina-paris-31808-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:VIMO - VITRINA IMMOBILIARIA DEL CARIBE — Barranquilla\, Colombia
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261026
@@ -634,6 +647,20 @@ DESCRIPTION:WORKTECH is a conference series exploring the future of work th
  1.html
 LOCATION:Stockholm\, Sweden
 URL:https://www.eventseye.com/fairs/f-worktech-stockholm-34770-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VIETBUILD EXHIBITION - HANOI — Hanoi\, Vietnam
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+UID:f-vietbuild-exhibition-hanoi-33814-1@eventseye.impio-vault
+DESCRIPTION:VIETBUILD is the traditional festival and the big event to brin
+ g the full impression of Construction – Real Estate – Building Materia
+ ls – Interior & Exterior decoration to take place in Viet Nam\\nVenue: I
+ .C.E. Hanoi (Cung Van Hoa)\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-vietbuild-exhibition-hanoi-33814-1.html
+LOCATION:Hanoi\, Vietnam
+URL:https://www.eventseye.com/fairs/f-vietbuild-exhibition-hanoi-33814-1.ht
+ ml
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REAL ESTATE EXPO BANGLADESH — Dhaka\, Bangladesh
@@ -922,6 +949,20 @@ DESCRIPTION:UNITED PROPERTY EXPO is a platform for investing in real estate
 LOCATION:Mumbai\, India
 URL:https://www.eventseye.com/fairs/f-united-property-invest-show-india-335
  19-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LIFE SCIENCES WORKPLACE - LONDON — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+UID:f-life-sciences-workplace-london-34840-1@eventseye.impio-vault
+DESCRIPTION:Life Sciences Workplace is a senior-level conference exploring 
+ the future of work in health and life sciences. It examines how workplace 
+ strategy\, data\, technology and culture intersect to support business per
+ formance\\nVenue: Victoria House\\nFrequency: once a year\\nSource: https:
+ //www.eventseye.com/fairs/f-life-sciences-workplace-london-34840-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-life-sciences-workplace-london-34840-
+ 1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REAL ESTATE POLAND EXPO — Warsaw\, Poland
@@ -1249,206 +1290,6 @@ URL:https://www.eventseye.com/fairs/f-fastighetsmassan-stockholm-31900-1.ht
  ml
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
-DTSTART;VALUE=DATE:20270721
-DTEND;VALUE=DATE:20270723
-UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-LOCATION:Atlanta\, GA\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - DALLAS — Dallas\, TX\, USA
-DTSTART;VALUE=DATE:20270825
-DTEND;VALUE=DATE:20270827
-UID:f-build-expo-usa-dallas-32704-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Kay Bailey Hutchison - Dallas Convention Center\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-build-ex
- po-usa-dallas-32704-1.html
-LOCATION:Dallas\, TX\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-dallas-32704-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GRAN SALÓN INMOBILIARIO — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20270826
-DTEND;VALUE=DATE:20270830
-UID:f-gran-salon-inmobiliario-13771-1@eventseye.impio-vault
-DESCRIPTION:The GRAN SALON INMOBILIARIO is the fair that presents the most 
- complete offer of new and used projects\, residential\, offices\, hotels\,
-  commercial premises\, national industrial parks...\\nVenue: Corferias - C
- entro de Convenciones\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEX ASIA — Singapore\, Singapore
-DTSTART;VALUE=DATE:20270901
-DTEND;VALUE=DATE:20270904
-UID:f-bex-asia-11732-1@eventseye.impio-vault
-DESCRIPTION:BEX Asia is the premier platform for the built environment indu
- stry that connects solution providers\, distributors and sellers with deci
- sion makers\, developers\, architects\, interior designers\, landscape arc
- hitects\, consultants and buyers\\nVenue: Marina Bay Sands\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-bex-asia-11732-1.htm
- l
-LOCATION:Singapore\, Singapore
-URL:https://www.eventseye.com/fairs/f-bex-asia-11732-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTER-BUILD JORDAN — Amman\, Jordan
-DTSTART;VALUE=DATE:20270906
-DTEND;VALUE=DATE:20270910
-UID:f-inter-build-jordan-13296-1@eventseye.impio-vault
-DESCRIPTION:Fair and Forum for Construction & building technologies. INTER-
- BUILD JORDAN includes Building Industry\, Architecture\, Decoration\, Ligh
- ting\, Marble and Stones\, Granite\, Installation Techniques for Buildings
- \, Solar Heating and Cooling Systems\, HVAC...\\nVenue: Mecal Mall (Jordan
-  International Exhibition Center)\\nFrequency: once a year\\nSource: https
- ://www.eventseye.com/fairs/f-inter-build-jordan-13296-1.html
-LOCATION:Amman\, Jordan
-URL:https://www.eventseye.com/fairs/f-inter-build-jordan-13296-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON DE L'HABITAT - THIONVILLE — Thionville\, France
-DTSTART;VALUE=DATE:20270911
-DTEND;VALUE=DATE:20270913
-UID:f-salon-de-l-habitat-thionville-28400-1@eventseye.impio-vault
-DESCRIPTION:Thionville home fair. Construction\, renovation\, financing\, r
- eal estate\, heating\, building closures\, kitchens and bathrooms\, floor 
- and wall coverings\, spas\, garden\, verandas...\\nVenue: Espace multifonc
- tionnel de Veymerange\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-salon-de-l-habitat-thionville-28400-1.html
-LOCATION:Thionville\, France
-URL:https://www.eventseye.com/fairs/f-salon-de-l-habitat-thionville-28400-1
- .html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REALREIT — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20270920
-DTEND;VALUE=DATE:20270921
-UID:f-realreit-18623-1@eventseye.impio-vault
-DESCRIPTION:Canada’s only Real Estate Industry Conference devoted exclusi
- vely to REITs (Real Estate Investment Trusts) and REOCs (Real Estate Opera
- ting Companies)\\nVenue: Metro Toronto Convention Centre\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-realreit-18623-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-realreit-18623-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANADIAN APARTMENT INVESTMENT CONFERENCE — Toronto\, ON\, Canada
-DTSTART;VALUE=DATE:20270921
-DTEND;VALUE=DATE:20270922
-UID:f-canadian-apartment-investment-conference-18624-1@eventseye.impio-vault
-DESCRIPTION:Canadian Apartment Investment Conference. Facilitating connecti
- ons and insights to strategize on housing affordability and overcome high 
- costs and supply issues\\nVenue: Metro Toronto Convention Centre\\nFrequen
- cy: once a year\\nSource: https://www.eventseye.com/fairs/f-canadian-apart
- ment-investment-conference-18624-1.html
-LOCATION:Toronto\, ON\, Canada
-URL:https://www.eventseye.com/fairs/f-canadian-apartment-investment-confere
- nce-18624-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A PLACE IN THE SUN LIVE - BIRMINGHAM — Birmingham\, UK - United K
- ingdom
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270927
-UID:f-a-place-in-the-sun-live-birmingham-25020-1@eventseye.impio-vault
-DESCRIPTION:Overseas Real-estate exhibition. Informative seminars and hundr
- eds of advisors at your service\\nVenue: National Exhibition Centre\\nFreq
- uency: once a year\\nSource: https://www.eventseye.com/fairs/f-a-place-in-
- the-sun-live-birmingham-25020-1.html
-LOCATION:Birmingham\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-a-place-in-the-sun-live-birmingham-25
- 020-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROBAU — Rostock\, Germany
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270927
-UID:f-robau-16661-1@eventseye.impio-vault
-DESCRIPTION:Construction and Property Industry Show in Mecklenburg-Western 
- Pomerania. RoBau had become the most important exhibition for private buil
- ding\, real estate\, handcrafts\, techniques and machines in the north-eas
- t of Germany\\nVenue: HanseMesse Rostock\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-robau-16661-1.html
-LOCATION:Rostock\, Germany
-URL:https://www.eventseye.com/fairs/f-robau-16661-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PATRIMONIA — Lyon\, France
-DTSTART;VALUE=DATE:20270929
-DTEND;VALUE=DATE:20271001
-UID:f-patrimonia-23290-1@eventseye.impio-vault
-DESCRIPTION:Investment Management Exhibition in Lyons. Patrimonia is the la
- rgest gathering in France of professionals in the world of heritage advice
- \\nVenue: Centre de Congrès de Lyon (Cité Internationale)\\nFrequency: o
- nce a year\\nSource: https://www.eventseye.com/fairs/f-patrimonia-23290-1.
- html
-LOCATION:Lyon\, France
-URL:https://www.eventseye.com/fairs/f-patrimonia-23290-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BUILD EXPO USA - S. FLORIDA — Fort Lauderdale\, FL\, USA
-DTSTART;VALUE=DATE:20271006
-DTEND;VALUE=DATE:20271008
-UID:f-build-expo-usa-s.-florida-32706-1@eventseye.impio-vault
-DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
- iding a platform for the latest developments and innovations in the constr
- uction sector\\nVenue: Greater Ft. Lauderdale - Broward County Convention 
- Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-build-expo-usa-s.-florida-32706-1.html
-LOCATION:Fort Lauderdale\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-build-expo-usa-s.-florida-32706-1.htm
- l
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SWISSBAU — Basel\, Switzerland
-DTSTART;VALUE=DATE:20280118
-DTEND;VALUE=DATE:20280123
-UID:f-swissbau-2618-1@eventseye.impio-vault
-DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
- lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
- Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
- bau-2618-1.html
-LOCATION:Basel\, Switzerland
-URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTIGHETSMÄSSAN MÄLMO — Malmö\, Sweden
-DTSTART;VALUE=DATE:20280209
-DTEND;VALUE=DATE:20280211
-UID:f-fastighetsmassan-malmo-21324-1@eventseye.impio-vault
-DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
- smässan is an opportunity to quickly establish valuable contacts with pro
- perty owners for apartments buildings\, office buildings\, commercial buil
- dings\, shopping malls\, industrial properties\\nVenue: MalmöMässan\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
- etsmassan-malmo-21324-1.html
-LOCATION:Malmö\, Sweden
-URL:https://www.eventseye.com/fairs/f-fastighetsmassan-malmo-21324-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASTIGHETSMÄSSAN SYD — Malmö\, Sweden
-DTSTART;VALUE=DATE:20280209
-DTEND;VALUE=DATE:20280211
-UID:f-fastighetsmassan-syd-31912-1@eventseye.impio-vault
-DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
- smässan is an opportunity to quickly establish valuable contacts with pro
- perty owners for apartments buildings\, office buildings\, commercial buil
- dings\, shopping malls\, industrial properties\\nVenue: MalmöMässan\\nFr
- equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
- etsmassan-syd-31912-1.html
-LOCATION:Malmö\, Sweden
-URL:https://www.eventseye.com/fairs/f-fastighetsmassan-syd-31912-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EXPO HABITATION DE MONTRÉAL — Montreal\, QC\, Canada
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270315
@@ -1700,6 +1541,20 @@ LOCATION:Dortmund\, Germany
 URL:https://www.eventseye.com/fairs/f-baumesse-nrw-8537-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IREX (INTERNATIONAL REAL ESTATE EXPO) - MUMBAI — Mumbai\, India
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+UID:f-irex-(international-real-estate-expo)-mumbai-34094-1@eventseye.impio-vault
+DESCRIPTION:Luxury Real Estate Exhibition in India. IREX is an innovative p
+ latform to market real estate to elite clientele and top-pier investors in
+  India\\nVenue: The St. Regis\, Mumbai\\nFrequency: once a year\\nSource: 
+ https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)-mu
+ mbai-34094-1.html
+LOCATION:Mumbai\, India
+URL:https://www.eventseye.com/fairs/f-irex-(international-real-estate-expo)
+ -mumbai-34094-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SIIMEA - SALON DE L’INVESTISSEMENT\, DE L’IMMOBILIER ET DES ÉN
  ERGIES POUR L’AFRIQUE — Paris\, France
 DTSTART;VALUE=DATE:20270409
@@ -1940,5 +1795,219 @@ DESCRIPTION:WORKTECH is a conference series exploring the future of work th
  s://www.eventseye.com/fairs/f-worktech-vancouver-34769-1.html
 LOCATION:Vancouver\, BC\, Canada
 URL:https://www.eventseye.com/fairs/f-worktech-vancouver-34769-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - ATLANTA — Atlanta\, GA\, USA
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270723
+UID:f-build-expo-usa-atlanta-32701-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Cobb Galleria Centre\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+LOCATION:Atlanta\, GA\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-atlanta-32701-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - DALLAS — Dallas\, TX\, USA
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270827
+UID:f-build-expo-usa-dallas-32704-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Kay Bailey Hutchison - Dallas Convention Center\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-build-ex
+ po-usa-dallas-32704-1.html
+LOCATION:Dallas\, TX\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-dallas-32704-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GRAN SALÓN INMOBILIARIO — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+UID:f-gran-salon-inmobiliario-13771-1@eventseye.impio-vault
+DESCRIPTION:The GRAN SALON INMOBILIARIO is the fair that presents the most 
+ complete offer of new and used projects\, residential\, offices\, hotels\,
+  commercial premises\, national industrial parks...\\nVenue: Corferias - C
+ entro de Convenciones\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-gran-salon-inmobiliario-13771-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEX ASIA — Singapore\, Singapore
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270904
+UID:f-bex-asia-11732-1@eventseye.impio-vault
+DESCRIPTION:BEX Asia is the premier platform for the built environment indu
+ stry that connects solution providers\, distributors and sellers with deci
+ sion makers\, developers\, architects\, interior designers\, landscape arc
+ hitects\, consultants and buyers\\nVenue: Marina Bay Sands\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-bex-asia-11732-1.htm
+ l
+LOCATION:Singapore\, Singapore
+URL:https://www.eventseye.com/fairs/f-bex-asia-11732-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTER-BUILD JORDAN — Amman\, Jordan
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270910
+UID:f-inter-build-jordan-13296-1@eventseye.impio-vault
+DESCRIPTION:Fair and Forum for Construction & building technologies. INTER-
+ BUILD JORDAN includes Building Industry\, Architecture\, Decoration\, Ligh
+ ting\, Marble and Stones\, Granite\, Installation Techniques for Buildings
+ \, Solar Heating and Cooling Systems\, HVAC...\\nVenue: Mecal Mall (Jordan
+  International Exhibition Center)\\nFrequency: once a year\\nSource: https
+ ://www.eventseye.com/fairs/f-inter-build-jordan-13296-1.html
+LOCATION:Amman\, Jordan
+URL:https://www.eventseye.com/fairs/f-inter-build-jordan-13296-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PROPTECH CONNECT - EUROPE — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270910
+UID:f-proptech-connect-europe-33783-1@eventseye.impio-vault
+DESCRIPTION:PROPTECH CONNECT - EUROPE is one of the largest Real Estate Tec
+ h events\, connecting global senior real estate executives\, investors\, o
+ perators\, developers\, owners\, asset managers\, agents and occupiers wit
+ h cutting edge solution providers\\nVenue: Intercontinental O2 North Green
+ wich\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-
+ proptech-connect-europe-33783-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-proptech-connect-europe-33783-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON DE L'HABITAT - THIONVILLE — Thionville\, France
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270913
+UID:f-salon-de-l-habitat-thionville-28400-1@eventseye.impio-vault
+DESCRIPTION:Thionville home fair. Construction\, renovation\, financing\, r
+ eal estate\, heating\, building closures\, kitchens and bathrooms\, floor 
+ and wall coverings\, spas\, garden\, verandas...\\nVenue: Espace multifonc
+ tionnel de Veymerange\\nFrequency: once a year\\nSource: https://www.event
+ seye.com/fairs/f-salon-de-l-habitat-thionville-28400-1.html
+LOCATION:Thionville\, France
+URL:https://www.eventseye.com/fairs/f-salon-de-l-habitat-thionville-28400-1
+ .html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REALREIT — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+UID:f-realreit-18623-1@eventseye.impio-vault
+DESCRIPTION:Canada’s only Real Estate Industry Conference devoted exclusi
+ vely to REITs (Real Estate Investment Trusts) and REOCs (Real Estate Opera
+ ting Companies)\\nVenue: Metro Toronto Convention Centre\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-realreit-18623-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-realreit-18623-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANADIAN APARTMENT INVESTMENT CONFERENCE — Toronto\, ON\, Canada
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+UID:f-canadian-apartment-investment-conference-18624-1@eventseye.impio-vault
+DESCRIPTION:Canadian Apartment Investment Conference. Facilitating connecti
+ ons and insights to strategize on housing affordability and overcome high 
+ costs and supply issues\\nVenue: Metro Toronto Convention Centre\\nFrequen
+ cy: once a year\\nSource: https://www.eventseye.com/fairs/f-canadian-apart
+ ment-investment-conference-18624-1.html
+LOCATION:Toronto\, ON\, Canada
+URL:https://www.eventseye.com/fairs/f-canadian-apartment-investment-confere
+ nce-18624-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A PLACE IN THE SUN LIVE - BIRMINGHAM — Birmingham\, UK - United K
+ ingdom
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+UID:f-a-place-in-the-sun-live-birmingham-25020-1@eventseye.impio-vault
+DESCRIPTION:Overseas Real-estate exhibition. Informative seminars and hundr
+ eds of advisors at your service\\nVenue: National Exhibition Centre\\nFreq
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-a-place-in-
+ the-sun-live-birmingham-25020-1.html
+LOCATION:Birmingham\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-a-place-in-the-sun-live-birmingham-25
+ 020-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROBAU — Rostock\, Germany
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+UID:f-robau-16661-1@eventseye.impio-vault
+DESCRIPTION:Construction and Property Industry Show in Mecklenburg-Western 
+ Pomerania. RoBau had become the most important exhibition for private buil
+ ding\, real estate\, handcrafts\, techniques and machines in the north-eas
+ t of Germany\\nVenue: HanseMesse Rostock\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-robau-16661-1.html
+LOCATION:Rostock\, Germany
+URL:https://www.eventseye.com/fairs/f-robau-16661-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PATRIMONIA — Lyon\, France
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271001
+UID:f-patrimonia-23290-1@eventseye.impio-vault
+DESCRIPTION:Investment Management Exhibition in Lyons. Patrimonia is the la
+ rgest gathering in France of professionals in the world of heritage advice
+ \\nVenue: Centre de Congrès de Lyon (Cité Internationale)\\nFrequency: o
+ nce a year\\nSource: https://www.eventseye.com/fairs/f-patrimonia-23290-1.
+ html
+LOCATION:Lyon\, France
+URL:https://www.eventseye.com/fairs/f-patrimonia-23290-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BUILD EXPO USA - S. FLORIDA — Fort Lauderdale\, FL\, USA
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271008
+UID:f-build-expo-usa-s.-florida-32706-1@eventseye.impio-vault
+DESCRIPTION:America's Premier Regional Building & Construction Event\, prov
+ iding a platform for the latest developments and innovations in the constr
+ uction sector\\nVenue: Greater Ft. Lauderdale - Broward County Convention 
+ Center\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-build-expo-usa-s.-florida-32706-1.html
+LOCATION:Fort Lauderdale\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-build-expo-usa-s.-florida-32706-1.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SWISSBAU — Basel\, Switzerland
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280123
+UID:f-swissbau-2618-1@eventseye.impio-vault
+DESCRIPTION:Swissbau is the showcase for innovations for the entire Swiss p
+ lanning\, construction and real estate sector\\nVenue: Basel Fairground\\n
+ Frequency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-swiss
+ bau-2618-1.html
+LOCATION:Basel\, Switzerland
+URL:https://www.eventseye.com/fairs/f-swissbau-2618-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTIGHETSMÄSSAN MÄLMO — Malmö\, Sweden
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280211
+UID:f-fastighetsmassan-malmo-21324-1@eventseye.impio-vault
+DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
+ smässan is an opportunity to quickly establish valuable contacts with pro
+ perty owners for apartments buildings\, office buildings\, commercial buil
+ dings\, shopping malls\, industrial properties\\nVenue: MalmöMässan\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
+ etsmassan-malmo-21324-1.html
+LOCATION:Malmö\, Sweden
+URL:https://www.eventseye.com/fairs/f-fastighetsmassan-malmo-21324-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASTIGHETSMÄSSAN SYD — Malmö\, Sweden
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280211
+UID:f-fastighetsmassan-syd-31912-1@eventseye.impio-vault
+DESCRIPTION:Trade Show for the Scandinavian Real Estate Industry. Fastighet
+ smässan is an opportunity to quickly establish valuable contacts with pro
+ perty owners for apartments buildings\, office buildings\, commercial buil
+ dings\, shopping malls\, industrial properties\\nVenue: MalmöMässan\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-fastigh
+ etsmassan-syd-31912-1.html
+LOCATION:Malmö\, Sweden
+URL:https://www.eventseye.com/fairs/f-fastighetsmassan-syd-31912-1.html
 END:VEVENT
 END:VCALENDAR

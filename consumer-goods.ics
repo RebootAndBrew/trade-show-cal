@@ -660,19 +660,6 @@ URL:https://www.eventseye.com/fairs/f-sipremium-seoul-international-sourcin
  g-fair-15036-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
-DTSTART;VALUE=DATE:20270925
-DTEND;VALUE=DATE:20271004
-UID:f-oberrhein-messe-13461-1@eventseye.impio-vault
-DESCRIPTION:Oberrhein Fair - Consumer Goods. Products & services on energy 
- concepts\, construction\, housing and renovation\, technologies for the ho
- me and crafts\, beauty\, fashion and health\\nVenue: Messe Offenburg\\nFre
- quency: once a year\\nSource: https://www.eventseye.com/fairs/f-oberrhein-
- messe-13461-1.html
-LOCATION:Offenburg\, Germany
-URL:https://www.eventseye.com/fairs/f-oberrhein-messe-13461-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CHRISTMAS DAYS BRATISLAVA — Bratislava\, Slovakia
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261214
@@ -1239,6 +1226,20 @@ URL:https://www.eventseye.com/fairs/f-foire-internationale-de-lyon-1031-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FOIRE INTERNATIONALE DE ROUEN — Rouen\, France
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270405
+UID:f-foire-internationale-de-rouen-4108-1@eventseye.impio-vault
+DESCRIPTION:Rouen International Fair. The international fair of Rouen exhib
+ its the products and services divided into 4 universes: Home\, Crafts and 
+ Wealth of the World\, Leisure and Well-being\, and Gastronomy\\nVenue: Par
+ c des expositions de Rouen\\nFrequency: once a year\\nSource: https://www.
+ eventseye.com/fairs/f-foire-internationale-de-rouen-4108-1.html
+LOCATION:Rouen\, France
+URL:https://www.eventseye.com/fairs/f-foire-internationale-de-rouen-4108-1.
+ html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THE ULTIMATE WOMEN'S SHOW - JACKSONVILLE — Jacksonville\, FL\, US
  A
 DTSTART;VALUE=DATE:20270327
@@ -1540,6 +1541,19 @@ LOCATION:Amsterdam\, Netherlands
 URL:https://www.eventseye.com/fairs/f-plma-international-6592-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OBERRHEIN MESSE — Offenburg\, Germany
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20271004
+UID:f-oberrhein-messe-13461-1@eventseye.impio-vault
+DESCRIPTION:Oberrhein Fair - Consumer Goods. Products & services on energy 
+ concepts\, construction\, housing and renovation\, technologies for the ho
+ me and crafts\, beauty\, fashion and health\\nVenue: Messe Offenburg\\nFre
+ quency: once a year\\nSource: https://www.eventseye.com/fairs/f-oberrhein-
+ messe-13461-1.html
+LOCATION:Offenburg\, Germany
+URL:https://www.eventseye.com/fairs/f-oberrhein-messe-13461-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FOIRE EXPOSITION DE PICARDIE — Amiens\, France
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270614
@@ -1717,6 +1731,20 @@ DESCRIPTION:The largest Public Fair & Popular Sales in the Zurich Oberland.
  e.com/fairs/f-zom-wetzikon-17841-1.html
 LOCATION:Wetzikon\, Switzerland
 URL:https://www.eventseye.com/fairs/f-zom-wetzikon-17841-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE EUROPEENNE DE STRASBOURG — Strasbourg\, France
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270913
+UID:f-foire-europeenne-de-strasbourg-1032-1@eventseye.impio-vault
+DESCRIPTION:The Strasbourg European Fair\, which welcomes 25 countries each
+  year\, offers a constantly updated offer: everything for the home\, the g
+ arden\, decoration\, well-being and gift ideas\\nVenue: Parc des expositio
+ ns de Strasbourg\\nFrequency: once a year\\nSource: https://www.eventseye.
+ com/fairs/f-foire-europeenne-de-strasbourg-1032-1.html
+LOCATION:Strasbourg\, France
+URL:https://www.eventseye.com/fairs/f-foire-europeenne-de-strasbourg-1032-1
+ .html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HERBST MESSE — Dornbirn\, Austria

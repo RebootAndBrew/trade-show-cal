@@ -731,9 +731,9 @@ UID:f-lifestyle-week-japan-tokyo-27841-1@eventseye.impio-vault
 DESCRIPTION:LIFESTYLE Week is a comprehensive lifestyle exhibition consiste
  d of specialised shows\, covering gifts\, interior goods\, stationery\, fa
  shion goods\, beauty & healthcare products\, food gifts\, etc.\\nVenue: To
- kyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a
-  year\\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-tok
- yo-27841-1.html
+ kyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-lifestyle-week-japan-toky
+ o-27841-1.html
 LOCATION:Tokyo\, Japan
 URL:https://www.eventseye.com/fairs/f-lifestyle-week-japan-tokyo-27841-1.ht
  ml
@@ -1279,8 +1279,8 @@ UID:f-shoes-leather-hanoi-26958-1@eventseye.impio-vault
 DESCRIPTION:International Shoes & Leather Exhibition. SHOES & LEATHER HANOI
   is one of the most important and leading events for the shoes & leather i
  ndustries in the ASEAN regions\\nVenue: I.C.E. Hanoi (Cung Van Hoa)\\nFreq
- uency: twice a year\\nSource: https://www.eventseye.com/fairs/f-shoes-leat
- her-hanoi-26958-1.html
+ uency: once a year\\nSource: https://www.eventseye.com/fairs/f-shoes-leath
+ er-hanoi-26958-1.html
 LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-shoes-leather-hanoi-26958-1.html
 END:VEVENT
@@ -1748,15 +1748,16 @@ LOCATION:Hanoi\, Vietnam
 URL:https://www.eventseye.com/fairs/f-hanoitex-28539-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:IMPRESSIONS EXPO - FORT WORTH — Dallas\, TX\, USA
+SUMMARY:IMPRESSIONS EXPO - FORT WORTH — Fort Worth\, TX\, USA
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261025
 UID:f-impressions-expo-fort-worth-3693-1@eventseye.impio-vault
 DESCRIPTION:Decorated Apparel and Imprinted Sportswear Industry Trade Show.
   For over 30 years\, the Imprinted Sportswear Shows (ISS) have been the le
- aders of the decorated apparel industry\\nFrequency: once a year\\nSource:
-  https://www.eventseye.com/fairs/f-impressions-expo-fort-worth-3693-1.html
-LOCATION:Dallas\, TX\, USA
+ aders of the decorated apparel industry\\nVenue: Fort Worth Convention Cen
+ ter\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-i
+ mpressions-expo-fort-worth-3693-1.html
+LOCATION:Fort Worth\, TX\, USA
 URL:https://www.eventseye.com/fairs/f-impressions-expo-fort-worth-3693-1.ht
  ml
 END:VEVENT
@@ -2108,6 +2109,22 @@ LOCATION:Viterbo\, Italy
 URL:https://www.eventseye.com/fairs/f-viterbo-sposi-expo-32222-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO MARRIOTT HOTEL SCHAUMBURG — Schaumburg\, IL\, 
+ USA
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+UID:f-luxury-bridal-expo-marriott-hotel-schaumburg-34806-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Schaumburg. LUXURY BRIDAL EXPO feat
+ ures Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Acti
+ vities providers\, Beauty\, Lifestyle and Wellness products\, Caterers\, W
+ edding Dresses\, Event Planners\\nVenue: Marriott Hotel\, Schaumburg\\nFre
+ quency: unknown\\nSource: https://www.eventseye.com/fairs/f-luxury-bridal-
+ expo-marriott-hotel-schaumburg-34806-1.html
+LOCATION:Schaumburg\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-marriott-hotel-sch
+ aumburg-34806-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SALON DU MARIAGE - STRASBOURG — Strasbourg\, France
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261027
@@ -2360,6 +2377,21 @@ DESCRIPTION:SpacioBoda is an intimate wedding fair where you can meet caref
  entseye.com/fairs/f-spacioboda-santander-34162-1.html
 LOCATION:Santander\, Spain
 URL:https://www.eventseye.com/fairs/f-spacioboda-santander-34162-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO MARRIOTT HOTEL WAUKESHA — Waukesha\, WI\, USA
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+UID:f-luxury-bridal-expo-marriott-hotel-waukesha-32355-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Wisconsin. LUXURY BRIDAL EXPO featu
+ res Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Activ
+ ities providers\, Beauty\, Lifestyle and Wellness products\, Caterers\, We
+ dding Dresses\, Event Planners\\nVenue: Marriott Hotel\, Waukesha\\nFreque
+ ncy: unknown\\nSource: https://www.eventseye.com/fairs/f-luxury-bridal-exp
+ o-marriott-hotel-waukesha-32355-1.html
+LOCATION:Waukesha\, WI\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-marriott-hotel-wau
+ kesha-32355-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:STOFFEN SPEKTAKEL HOUTEN — Houten\, Netherlands
@@ -5257,6 +5289,22 @@ LOCATION:Harrogate\, UK - United Kingdom
 URL:https://www.eventseye.com/fairs/f-harrogate-christmas-gift-32079-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO GEORGIOS BANQUETS ORLAND PARK — Chicago\, IL\,
+  USA
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+UID:f-luxury-bridal-expo-georgios-banquets-orland-park-24078-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Chicago. LUXURY BRIDAL EXPO feature
+ s Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Activit
+ ies providers\, Beauty\, Lifestyle and Wellness products\, Caterers\, Wedd
+ ing Dresses\, Event Planners\\nVenue: Georgios Banquets\, Orland Park\\nFr
+ equency: unknown\\nSource: https://www.eventseye.com/fairs/f-luxury-bridal
+ -expo-georgios-banquets-orland-park-24078-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-georgios-banquets-
+ orland-park-24078-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PROWINTER — Bolzano\, Italy
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270113
@@ -5709,6 +5757,22 @@ LOCATION:Paris\, France
 URL:https://www.eventseye.com/fairs/f-who-s-next-3367-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO HYATT REGENCY SCHAUMBURG — Schaumburg\, IL\, U
+ SA
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+UID:f-luxury-bridal-expo-hyatt-regency-schaumburg-32354-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Chicago. LUXURY BRIDAL EXPO CHICAGO
+  features Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party &
+  Activities providers\, Beauty\, Lifestyle and Wellness products\, Caterer
+ s\, Wedding Dresses\, Event Planners\\nVenue: Hyatt Regency\, Schaumburg\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-luxury
+ -bridal-expo-hyatt-regency-schaumburg-32354-1.html
+LOCATION:Schaumburg\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-hyatt-regency-scha
+ umburg-32354-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:COLOMBIATEX DE LAS AMÉRICAS — Medellin\, Colombia
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270122
@@ -5733,6 +5797,18 @@ DESCRIPTION:Wedding Dresses\, Suits and Evening Gowns Fair. Combining fashi
  dding-fashion-izmir-11422-1.html
 LOCATION:Izmir\, Turkey
 URL:https://www.eventseye.com/fairs/f-if-wedding-fashion-izmir-11422-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JUNIOSHOW — Bursa\, Turkey
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270122
+UID:f-junioshow-27419-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition of Articles and Clothing for Babies an
+ d Children in Bursa (Turkey)\\nVenue: ACCC - Ataturk Congress Culture Cent
+ er\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ju
+ nioshow-27419-1.html
+LOCATION:Bursa\, Turkey
+URL:https://www.eventseye.com/fairs/f-junioshow-27419-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PREMIÈRE VISION NEW YORK — New York\, NY\, USA
@@ -5762,6 +5838,20 @@ DESCRIPTION:Première Vision New York is THE event for North American fashi
 LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-premiere-vision-new-york-designs-2353
  9-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KYIV FASHION — Kiev\, Ukraine
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270123
+UID:f-kyiv-fashion-6113-1@eventseye.impio-vault
+DESCRIPTION:Light and Textile Industry International Festival. Kyiv fashion
+  is the main B2B event of Ukrainian fashion industry. It is the meeting pl
+ ace for industry professionals\, reflecting up-to-date tendencies\, as wel
+ l as development directions\\nVenue: Kiev International Exhibition Center\
+ \nFrequency: twice a year\\nSource: https://www.eventseye.com/fairs/f-kyiv
+ -fashion-6113-1.html
+LOCATION:Kiev\, Ukraine
+URL:https://www.eventseye.com/fairs/f-kyiv-fashion-6113-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MUNICH FABRIC START — Munich\, Germany
@@ -5985,6 +6075,22 @@ DESCRIPTION:Home\, gift and lifestyle show. At Gift + Home Market Toronto d
  t-home-market-toronto-28428-1.html
 LOCATION:Toronto\, ON\, Canada
 URL:https://www.eventseye.com/fairs/f-gift-home-market-toronto-28428-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO ​EMBASSY SUITES HILTON NAPERVILLE — Napervil
+ le\, IL\, USA
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+UID:f-luxury-bridal-expo-8203-embassy-suites-hilton-naperville-34804-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Naperville. LUXURY BRIDAL EXPO feat
+ ures Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Acti
+ vities providers\, Beauty\, Lifestyle and Wellness products\, Caterers\, W
+ edding Dresses\, Event Planners\\nVenue: Embassy Suites by Hilton \,Chicag
+ o Naperville\\nFrequency: unknown\\nSource: https://www.eventseye.com/fair
+ s/f-luxury-bridal-expo-8203-embassy-suites-hilton-naperville-34804-1.html
+LOCATION:Naperville\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-8203-embassy-suite
+ s-hilton-naperville-34804-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SCOTLAND'S TRADE FAIR — Glasgow\, UK - United Kingdom
@@ -6567,6 +6673,21 @@ LOCATION:New York\, NY\, USA
 URL:https://www.eventseye.com/fairs/f-curve-ny-5320-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO ​DOUBLETREE OAK BROOK — Oak Brook\, IL\, USA
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+UID:f-luxury-bridal-expo-8203-doubletree-oak-brook-34847-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Oak Brook. LUXURY BRIDAL EXPO featu
+ res Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Activ
+ ities providers\, Beauty\, Lifestyle and Wellness products\, Caterers\, We
+ dding Dresses\, Event Planners\\nVenue: DoubleTree by Hilton Hotel Chicago
+  Oak Brook\\nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/
+ f-luxury-bridal-expo-8203-doubletree-oak-brook-34847-1.html
+LOCATION:Oak Brook\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-8203-doubletree-oa
+ k-brook-34847-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MAGIC NEW YORK — New York\, NY\, USA
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270210
@@ -6696,6 +6817,20 @@ DESCRIPTION:International Fashion Fair. STYL Fashion Fair is a trade summit
  ps://www.eventseye.com/fairs/f-styl-2595-1.html
 LOCATION:Brno\, Czech Republic
 URL:https://www.eventseye.com/fairs/f-styl-2595-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIDAL SHOWCASE - MOUNTAIN AMERICA EXPO CENTER — Sandy\, UT\, USA
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+UID:f-bridal-showcase-mountain-america-expo-center-18483-1@eventseye.impio-vault
+DESCRIPTION:Wedding Fair in Utah. Whether you are just getting started with
+  your wedding planning or wrapping up the final details\, you will enjoy a
+  day of fun at the Bridal Showcase\\nVenue: Mountain America Expo Center\\
+ nFrequency: unknown\\nSource: https://www.eventseye.com/fairs/f-bridal-sho
+ wcase-mountain-america-expo-center-18483-1.html
+LOCATION:Sandy\, UT\, USA
+URL:https://www.eventseye.com/fairs/f-bridal-showcase-mountain-america-expo
+ -center-18483-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BRIDAL SHOWCASE - SOUTH TOWNE EXPO CENTER — Sandy\, UT\, USA
@@ -6835,6 +6970,19 @@ DESCRIPTION:SOURCING at MAGIC Las Vegas will address everchanging sourcing
 LOCATION:Las Vegas\, NV\, USA
 URL:https://www.eventseye.com/fairs/f-sourcing-at-magic-las-vegas-32780-1.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRANOÏ TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270218
+UID:f-tranoi-tokyo-34200-1@eventseye.impio-vault
+DESCRIPTION:TRANOÏ TOKYO has established itself as a leading fashion event
+  in Asia. The event presents a series of special projects that extend beyo
+ nd fashion\, offering immersive experiences into the worlds of brands and 
+ creators\\nVenue: Yoyogi National Stadium\\nFrequency: twice a year\\nSour
+ ce: https://www.eventseye.com/fairs/f-tranoi-tokyo-34200-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-tranoi-tokyo-34200-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:COBE BABY FAIR - INCHEON — Incheon\, Korea South
@@ -7131,6 +7279,19 @@ DESCRIPTION:SÉCURITÉ AU TRAVAIL. LABOR PROTECTION and WORK WEAR are the e
  urce: https://www.eventseye.com/fairs/f-work-wear-9791-1.html
 LOCATION:Minsk\, Belarus
 URL:https://www.eventseye.com/fairs/f-work-wear-9791-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TFT EXPO UZBEKISTAN — Tashkent\, Uzbekistan
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+UID:f-tft-expo-uzbekistan-30841-1@eventseye.impio-vault
+DESCRIPTION:Tashkent Fashion & Textile Expo. Establish new business contact
+ s with Representatives / manufacturers of Uzbekistan\, Turkey\, CIS countr
+ ies and others\\nVenue: CAEx Uzbekistan - Central Asian Expo\\nFrequency: 
+ twice a year\\nSource: https://www.eventseye.com/fairs/f-tft-expo-uzbekist
+ an-30841-1.html
+LOCATION:Tashkent\, Uzbekistan
+URL:https://www.eventseye.com/fairs/f-tft-expo-uzbekistan-30841-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE BABY SHOW - LONDON — London\, UK - United Kingdom
@@ -7778,6 +7939,18 @@ LOCATION:Shanghai\, China
 URL:https://www.eventseye.com/fairs/f-shg-expo-22907-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GSE EXPO — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270328
+UID:f-gse-expo-26436-1@eventseye.impio-vault
+DESCRIPTION:Thai Garment\, Screen\, Embroidery & Garment Equipments Digital
+  Textile\, & Sublimation Machine international trade Show\\nVenue: Impact 
+ Exhibition & Convention Center\\nFrequency: once a year\\nSource: https://
+ www.eventseye.com/fairs/f-gse-expo-26436-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-gse-expo-26436-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ISTANBUL YARN FAIR — Istanbul\, Turkey
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270327
@@ -8373,319 +8546,6 @@ LOCATION:Stuttgart\, Germany
 URL:https://www.eventseye.com/fairs/f-babini-stuutgart-34575-1.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CREATEX — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-createx-26307-1@eventseye.impio-vault
-DESCRIPTION:Createx is Columbia's leading knowledge platform for the textil
- e and apparel industries\, providing solutions and services for the manufa
- cturing of finished products\\nVenue: Corferias - Centro de Convenciones\\
- nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-create
- x-26307-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-createx-26307-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON CREATEX — Bogotá\, Colombia
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-salon-createx-25847-1@eventseye.impio-vault
-DESCRIPTION:Createx is Colombia’s most relevant goods procurement and inf
- ormation platform for the clothing industry. Small\, medium and large text
- ile businesses participate every year\\nVenue: Corferias - Centro de Conve
- nciones\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
- /f-salon-createx-25847-1.html
-LOCATION:Bogotá\, Colombia
-URL:https://www.eventseye.com/fairs/f-salon-createx-25847-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SMAB — Milan\, Italy
-DTSTART;VALUE=DATE:20270525
-DTEND;VALUE=DATE:20270528
-UID:f-smab-33269-1@eventseye.impio-vault
-DESCRIPTION:Fashion Technologies & Innovation Event that shapes fashion. Th
- e evnt will accompany the professional visitor to learn about new products
- \, find out about new technologies and find useful ideas for improving the
- ir production processes\\nVenue: Fiera Milano\, Rho\\nFrequency: every 2 y
- ears\\nSource: https://www.eventseye.com/fairs/f-smab-33269-1.html
-LOCATION:Milan\, Italy
-URL:https://www.eventseye.com/fairs/f-smab-33269-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASFW (AFRICA SOURCING & FASHION WEEK) - NAIROBI — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270530
-UID:f-asfw-(africa-sourcing-fashion-week)-nairobi-32925-1@eventseye.impio-vault
-DESCRIPTION:An exclusive meeting platform for the home textile\, leather\, 
- accessories\, and footwear industry\, showcasing the best in the textile\,
-  leather\, and fashion industries across East Africa. Networking\, innovat
- ion and sustainable development\\nVenue: The Sarit Centre\\nFrequency: onc
- e a year\\nSource: https://www.eventseye.com/fairs/f-asfw-(africa-sourcing
- -fashion-week)-nairobi-32925-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-asfw-(africa-sourcing-fashion-week)-n
- airobi-32925-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EAST AFRICA TEXTILE & LEATHER WEEK — Nairobi\, Kenya
-DTSTART;VALUE=DATE:20270527
-DTEND;VALUE=DATE:20270530
-UID:f-east-africa-textile-leather-week-30712-1@eventseye.impio-vault
-DESCRIPTION:The most exclusive meeting platform in East Africa for the home
-  textile\, leather\, accessories and footwear industry\\nVenue: The Sarit 
- Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
- f-east-africa-textile-leather-week-30712-1.html
-LOCATION:Nairobi\, Kenya
-URL:https://www.eventseye.com/fairs/f-east-africa-textile-leather-week-3071
- 2-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PREMIERE ORLANDO — Orlando\, FL\, USA
-DTSTART;VALUE=DATE:20270605
-DTEND;VALUE=DATE:20270608
-UID:f-premiere-orlando-20141-1@eventseye.impio-vault
-DESCRIPTION:International Beauty Show. It is the place to explore everythin
- g that’s happening in the beauty industry: hottest hair color trends & c
- utting techniques\, high fashion nail art\, edgy barber designs\, day spa 
- procedures...\\nVenue: Orange County Convention Center\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-premiere-orlando-20141-1
- .html
-LOCATION:Orlando\, FL\, USA
-URL:https://www.eventseye.com/fairs/f-premiere-orlando-20141-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EBIO — Guadalajara\, Mexico
-DTSTART;VALUE=DATE:20270606
-DTEND;VALUE=DATE:20270608
-UID:f-ebio-19329-1@eventseye.impio-vault
-DESCRIPTION:EBIO is the meeting point for beauty professionals\, where you 
- will find the best brands\, shows\, courses\, products and services for: n
- ails\, makeup\, hair\, colorimetry\, barbering\, tools\, hair and body tre
- atments\, furniture and more\\nVenue: Expo Guadalajara\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-ebio-19329-1.html
-LOCATION:Guadalajara\, Mexico
-URL:https://www.eventseye.com/fairs/f-ebio-19329-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BABY & KIDS EXPO - TOKYO - SUMMER — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270612
-UID:f-baby-kids-expo-tokyo-summer-17007-1@eventseye.impio-vault
-DESCRIPTION:Baby & Kids Expo. Baby & Kids Expo is Japan’s largest trade f
- air gathering every baby and kids' items\, such as toys\, maternity goods\
- , baby&kids’ wear and buggies etc.\\nVenue: Tokyo International Exhibiti
- on Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www
- .eventseye.com/fairs/f-baby-kids-expo-tokyo-summer-17007-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-baby-kids-expo-tokyo-summer-17007-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DESIGN TOKYO - SUMMER — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270612
-UID:f-design-tokyo-summer-14302-1@eventseye.impio-vault
-DESCRIPTION:Japan’s leading trade fair for “marketable” design produc
- ts. Only the products which passed a screening by a committee will be show
- cased\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nF
- requency: once a year\\nSource: https://www.eventseye.com/fairs/f-design-t
- okyo-summer-14302-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-design-tokyo-summer-14302-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FASHION GOODS & ACCESSORIES EXPO - TOKYO - SUMMER — Tokyo\, Japan
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270612
-UID:f-fashion-goods-accessories-expo-tokyo-summer-17008-1@eventseye.impio-vault
-DESCRIPTION:Fashion Goods & Accessories Expo in Tokyo. All kinds of fashion
-  goods such as bags\, accessories and leather goods are showcased\\nVenue:
-  Tokyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once
-  a year\\nSource: https://www.eventseye.com/fairs/f-fashion-goods-accessor
- ies-expo-tokyo-summer-17008-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-fashion-goods-accessories-expo-tokyo-
- summer-17008-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LESHOW MOSCOW — Moscow\, Russia
-DTSTART;VALUE=DATE:20270609
-DTEND;VALUE=DATE:20270612
-UID:f-leshow-moscow-6121-1@eventseye.impio-vault
-DESCRIPTION:International Leather and Fur Fair. Leather and Fur Garments\, 
- Finished Leather and Fur\, Components and Accessories\\nVenue: Main Stage\
- , Moscow\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
- s/f-leshow-moscow-6121-1.html
-LOCATION:Moscow\, Russia
-URL:https://www.eventseye.com/fairs/f-leshow-moscow-6121-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHANGHAI BAG EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270613
-UID:f-shanghai-bag-expo-31843-1@eventseye.impio-vault
-DESCRIPTION:Shanghai international Luggage Exhibition. A high-end platform 
- for luggage manufacturers to communicate with dealers\, agents\, e-commerc
- e\, micro-business\, international trade buyers\, brands\, and designers\\
- nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a
-  year\\nSource: https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-
- 1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SHANGHAI INTERNATIONAL SHOE EXPO — Shanghai\, China
-DTSTART;VALUE=DATE:20270610
-DTEND;VALUE=DATE:20270613
-UID:f-shanghai-international-shoe-expo-31844-1@eventseye.impio-vault
-DESCRIPTION:Shanghai International Footwear Exhibition. The expo gathers do
- mestic and foreign shoe brands\, manufacturers\, traders\, shoe material a
- nd equipment suppliers and professional buyers of the shoe industry\\nVenu
- e: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a year
- \\nSource: https://www.eventseye.com/fairs/f-shanghai-international-shoe-e
- xpo-31844-1.html
-LOCATION:Shanghai\, China
-URL:https://www.eventseye.com/fairs/f-shanghai-international-shoe-expo-3184
- 4-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TEXTILES RECYCLING EXPO EU — Brussels\, Belgium
-DTSTART;VALUE=DATE:20270616
-DTEND;VALUE=DATE:20270618
-UID:f-textiles-recycling-expo-eu-33580-1@eventseye.impio-vault
-DESCRIPTION:Textiles Recycling Expo EU is the first dedicated exhibition an
- d conference in Europe focused entirely on textile recycling. From fiber-t
- o-fiber technologies and collection systems to brand accountability and ci
- rcular strategies\\nVenue: Brussels Exhibition Centre\\nFrequency: once a 
- year\\nSource: https://www.eventseye.com/fairs/f-textiles-recycling-expo-e
- u-33580-1.html
-LOCATION:Brussels\, Belgium
-URL:https://www.eventseye.com/fairs/f-textiles-recycling-expo-eu-33580-1.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DYE+CHEM ASIA — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270620
-UID:f-dye-chem-asia-31773-1@eventseye.impio-vault
-DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
- and Fine & Specialty Chemicals. Asia’s most authoritative platform for t
- he global dyestuff\, fine chemicals\, and specialty chemicals industry\\nV
- enue: Impact Exhibition & Convention Center\\nFrequency: once a year\\nSou
- rce: https://www.eventseye.com/fairs/f-dye-chem-asia-31773-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-dye-chem-asia-31773-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KOREA EXPO — Paris\, France
-DTSTART;VALUE=DATE:20270617
-DTEND;VALUE=DATE:20270620
-UID:f-korea-expo-31329-1@eventseye.impio-vault
-DESCRIPTION:Korea Expo highlights products and services from Korea: Fashion
- \, beauty\, gastronomy\, technologies... At the same time\, an Economic Fo
- rum proposes to expand industrial exchanges between South Korea and France
- \\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource
- : https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
-LOCATION:Paris\, France
-URL:https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEAUTYWORLD RIYADH — Riyadh\, Saudi Arabia
-DTSTART;VALUE=DATE:20270621
-DTEND;VALUE=DATE:20270624
-UID:f-beautyworld-riyadh-27568-1@eventseye.impio-vault
-DESCRIPTION:BEAUTYWORLD RIYADH is the Kingdom’s leading and most influent
- ial beauty event\, significantly influencing the beauty and personal care 
- market\, driving growth through economic diversification\, cultural transf
- ormation and technological innovation\\nVenue: Riyadh Front Exhibition & C
- onference Center - RFECC\\nFrequency: once a year\\nSource: https://www.ev
- entseye.com/fairs/f-beautyworld-riyadh-27568-1.html
-LOCATION:Riyadh\, Saudi Arabia
-URL:https://www.eventseye.com/fairs/f-beautyworld-riyadh-27568-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PRIDE SHOW BANGKOK — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270621
-DTEND;VALUE=DATE:20270629
-UID:f-pride-show-bangkok-33760-1@eventseye.impio-vault
-DESCRIPTION:The PRIDE SHOW BANGKOK is the Bangkok's newest flagship LGBTQIA
- + cultural and business showcase. Discover an electrifying lineup of exper
- iences\, exhibitions\, and performances that celebrate diversity and empow
- er pride in every dimension\\nVenue: Bangkok International Trade & Exhibit
- ion Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventsey
- e.com/fairs/f-pride-show-bangkok-33760-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-pride-show-bangkok-33760-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INTEX SOUTH ASIA - BANGLADESH — Dhaka\, Bangladesh
-DTSTART;VALUE=DATE:20270622
-DTEND;VALUE=DATE:20270625
-UID:f-intex-south-asia-bangladesh-26524-1@eventseye.impio-vault
-DESCRIPTION:Intex South Asia Bangladesh will offer direct opportunities to 
- launch new textile products\, generate business enquiries\, meet existing 
- customers and network with potential buyers from major parts of Bangladesh
- \\nVenue: ICCB - International Convention City Bashundhara\\nFrequency: on
- ce a year\\nSource: https://www.eventseye.com/fairs/f-intex-south-asia-ban
- gladesh-26524-1.html
-LOCATION:Dhaka\, Bangladesh
-URL:https://www.eventseye.com/fairs/f-intex-south-asia-bangladesh-26524-1.h
- tml
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HAIR FESTIVAL — Sydney\, Australia
-DTSTART;VALUE=DATE:20270627
-DTEND;VALUE=DATE:20270629
-UID:f-hair-festival-13135-1@eventseye.impio-vault
-DESCRIPTION:A multi-faceted\, dynamic event that meets modern hairdressing 
- values and will once again allow the hair community to Shop\, Learn\, Comp
- ete and Connect\\nVenue: ICC Sydney - International Convention Centre Sydn
- ey\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ha
- ir-festival-13135-1.html
-LOCATION:Sydney\, Australia
-URL:https://www.eventseye.com/fairs/f-hair-festival-13135-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GARMENT MANUFACTURERS SOURCING EXPO — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270704
-UID:f-garment-manufacturers-sourcing-expo-20105-1@eventseye.impio-vault
-DESCRIPTION:ASEAN's Only Exhibition on Materials\, Accessories and Equipmen
- t for Garment and Textile Manufacturing\\nVenue: Bangkok International Tra
- de & Exhibition Centre (BITEC)\\nFrequency: every 2 years\\nSource: https:
- //www.eventseye.com/fairs/f-garment-manufacturers-sourcing-expo-20105-1.ht
- ml
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-garment-manufacturers-sourcing-expo-2
- 0105-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GFT — Bangkok\, Thailand
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270704
-UID:f-gft-3481-1@eventseye.impio-vault
-DESCRIPTION:ASEAN’s Most Comprehensive Exhibition for Garment and Textile
-  Manufacturing Industry\\nVenue: Bangkok International Trade & Exhibition 
- Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventseye.co
- m/fairs/f-gft-3481-1.html
-LOCATION:Bangkok\, Thailand
-URL:https://www.eventseye.com/fairs/f-gft-3481-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NEW DESIGNERS — London\, UK - United Kingdom
-DTSTART;VALUE=DATE:20270630
-DTEND;VALUE=DATE:20270704
-UID:f-new-designers-25768-1@eventseye.impio-vault
-DESCRIPTION:The UK’s most important exhibition for emerging design. Since
-  its inception\, New Designers has provided a platform for over 2\, 500 gr
- aduates every year to present their visionary ideas to industry profession
- als and the public\\nVenue: Business Design Centre\, Islington\\nFrequency
- : once a year\\nSource: https://www.eventseye.com/fairs/f-new-designers-25
- 768-1.html
-LOCATION:London\, UK - United Kingdom
-URL:https://www.eventseye.com/fairs/f-new-designers-25768-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NORTH EAST OPTICAL SHOW — Providence\, RI\, USA
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270419
@@ -9061,6 +8921,319 @@ LOCATION:Guangzhou\, China
 URL:https://www.eventseye.com/fairs/f-shoes-leather-guangzhou-17394-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CREATEX — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-createx-26307-1@eventseye.impio-vault
+DESCRIPTION:Createx is Columbia's leading knowledge platform for the textil
+ e and apparel industries\, providing solutions and services for the manufa
+ cturing of finished products\\nVenue: Corferias - Centro de Convenciones\\
+ nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-create
+ x-26307-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-createx-26307-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON CREATEX — Bogotá\, Colombia
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-salon-createx-25847-1@eventseye.impio-vault
+DESCRIPTION:Createx is Colombia’s most relevant goods procurement and inf
+ ormation platform for the clothing industry. Small\, medium and large text
+ ile businesses participate every year\\nVenue: Corferias - Centro de Conve
+ nciones\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs
+ /f-salon-createx-25847-1.html
+LOCATION:Bogotá\, Colombia
+URL:https://www.eventseye.com/fairs/f-salon-createx-25847-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMAB — Milan\, Italy
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270528
+UID:f-smab-33269-1@eventseye.impio-vault
+DESCRIPTION:Fashion Technologies & Innovation Event that shapes fashion. Th
+ e evnt will accompany the professional visitor to learn about new products
+ \, find out about new technologies and find useful ideas for improving the
+ ir production processes\\nVenue: Fiera Milano\, Rho\\nFrequency: every 2 y
+ ears\\nSource: https://www.eventseye.com/fairs/f-smab-33269-1.html
+LOCATION:Milan\, Italy
+URL:https://www.eventseye.com/fairs/f-smab-33269-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASFW (AFRICA SOURCING & FASHION WEEK) - NAIROBI — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-asfw-(africa-sourcing-fashion-week)-nairobi-32925-1@eventseye.impio-vault
+DESCRIPTION:An exclusive meeting platform for the home textile\, leather\, 
+ accessories\, and footwear industry\, showcasing the best in the textile\,
+  leather\, and fashion industries across East Africa. Networking\, innovat
+ ion and sustainable development\\nVenue: The Sarit Centre\\nFrequency: onc
+ e a year\\nSource: https://www.eventseye.com/fairs/f-asfw-(africa-sourcing
+ -fashion-week)-nairobi-32925-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-asfw-(africa-sourcing-fashion-week)-n
+ airobi-32925-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EAST AFRICA TEXTILE & LEATHER WEEK — Nairobi\, Kenya
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270530
+UID:f-east-africa-textile-leather-week-30712-1@eventseye.impio-vault
+DESCRIPTION:The most exclusive meeting platform in East Africa for the home
+  textile\, leather\, accessories and footwear industry\\nVenue: The Sarit 
+ Centre\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/
+ f-east-africa-textile-leather-week-30712-1.html
+LOCATION:Nairobi\, Kenya
+URL:https://www.eventseye.com/fairs/f-east-africa-textile-leather-week-3071
+ 2-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PREMIERE ORLANDO — Orlando\, FL\, USA
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270608
+UID:f-premiere-orlando-20141-1@eventseye.impio-vault
+DESCRIPTION:International Beauty Show. It is the place to explore everythin
+ g that’s happening in the beauty industry: hottest hair color trends & c
+ utting techniques\, high fashion nail art\, edgy barber designs\, day spa 
+ procedures...\\nVenue: Orange County Convention Center\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-premiere-orlando-20141-1
+ .html
+LOCATION:Orlando\, FL\, USA
+URL:https://www.eventseye.com/fairs/f-premiere-orlando-20141-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EBIO — Guadalajara\, Mexico
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270608
+UID:f-ebio-19329-1@eventseye.impio-vault
+DESCRIPTION:EBIO is the meeting point for beauty professionals\, where you 
+ will find the best brands\, shows\, courses\, products and services for: n
+ ails\, makeup\, hair\, colorimetry\, barbering\, tools\, hair and body tre
+ atments\, furniture and more\\nVenue: Expo Guadalajara\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-ebio-19329-1.html
+LOCATION:Guadalajara\, Mexico
+URL:https://www.eventseye.com/fairs/f-ebio-19329-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BABY & KIDS EXPO - TOKYO - SUMMER — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270612
+UID:f-baby-kids-expo-tokyo-summer-17007-1@eventseye.impio-vault
+DESCRIPTION:Baby & Kids Expo. Baby & Kids Expo is Japan’s largest trade f
+ air gathering every baby and kids' items\, such as toys\, maternity goods\
+ , baby&kids’ wear and buggies etc.\\nVenue: Tokyo International Exhibiti
+ on Center (Tokyo Big Sight)\\nFrequency: once a year\\nSource: https://www
+ .eventseye.com/fairs/f-baby-kids-expo-tokyo-summer-17007-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-baby-kids-expo-tokyo-summer-17007-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DESIGN TOKYO - SUMMER — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270612
+UID:f-design-tokyo-summer-14302-1@eventseye.impio-vault
+DESCRIPTION:Japan’s leading trade fair for “marketable” design produc
+ ts. Only the products which passed a screening by a committee will be show
+ cased\\nVenue: Tokyo International Exhibition Center (Tokyo Big Sight)\\nF
+ requency: once a year\\nSource: https://www.eventseye.com/fairs/f-design-t
+ okyo-summer-14302-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-design-tokyo-summer-14302-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASHION GOODS & ACCESSORIES EXPO - TOKYO - SUMMER — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270612
+UID:f-fashion-goods-accessories-expo-tokyo-summer-17008-1@eventseye.impio-vault
+DESCRIPTION:Fashion Goods & Accessories Expo in Tokyo. All kinds of fashion
+  goods such as bags\, accessories and leather goods are showcased\\nVenue:
+  Tokyo International Exhibition Center (Tokyo Big Sight)\\nFrequency: once
+  a year\\nSource: https://www.eventseye.com/fairs/f-fashion-goods-accessor
+ ies-expo-tokyo-summer-17008-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-fashion-goods-accessories-expo-tokyo-
+ summer-17008-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LESHOW MOSCOW — Moscow\, Russia
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270612
+UID:f-leshow-moscow-6121-1@eventseye.impio-vault
+DESCRIPTION:International Leather and Fur Fair. Leather and Fur Garments\, 
+ Finished Leather and Fur\, Components and Accessories\\nVenue: Main Stage\
+ , Moscow\\nFrequency: once a year\\nSource: https://www.eventseye.com/fair
+ s/f-leshow-moscow-6121-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-leshow-moscow-6121-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHANGHAI BAG EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-shanghai-bag-expo-31843-1@eventseye.impio-vault
+DESCRIPTION:Shanghai international Luggage Exhibition. A high-end platform 
+ for luggage manufacturers to communicate with dealers\, agents\, e-commerc
+ e\, micro-business\, international trade buyers\, brands\, and designers\\
+ nVenue: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a
+  year\\nSource: https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-
+ 1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-shanghai-bag-expo-31843-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHANGHAI INTERNATIONAL SHOE EXPO — Shanghai\, China
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270613
+UID:f-shanghai-international-shoe-expo-31844-1@eventseye.impio-vault
+DESCRIPTION:Shanghai International Footwear Exhibition. The expo gathers do
+ mestic and foreign shoe brands\, manufacturers\, traders\, shoe material a
+ nd equipment suppliers and professional buyers of the shoe industry\\nVenu
+ e: Shanghai New International Expo Centre - SNIEC\\nFrequency: once a year
+ \\nSource: https://www.eventseye.com/fairs/f-shanghai-international-shoe-e
+ xpo-31844-1.html
+LOCATION:Shanghai\, China
+URL:https://www.eventseye.com/fairs/f-shanghai-international-shoe-expo-3184
+ 4-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEXTILES RECYCLING EXPO EU — Brussels\, Belgium
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270618
+UID:f-textiles-recycling-expo-eu-33580-1@eventseye.impio-vault
+DESCRIPTION:Textiles Recycling Expo EU is the first dedicated exhibition an
+ d conference in Europe focused entirely on textile recycling. From fiber-t
+ o-fiber technologies and collection systems to brand accountability and ci
+ rcular strategies\\nVenue: Brussels Exhibition Centre\\nFrequency: once a 
+ year\\nSource: https://www.eventseye.com/fairs/f-textiles-recycling-expo-e
+ u-33580-1.html
+LOCATION:Brussels\, Belgium
+URL:https://www.eventseye.com/fairs/f-textiles-recycling-expo-eu-33580-1.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DYE+CHEM ASIA — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+UID:f-dye-chem-asia-31773-1@eventseye.impio-vault
+DESCRIPTION:International Exhibition devoted to focus on all kinds of Dyes 
+ and Fine & Specialty Chemicals. Asia’s most authoritative platform for t
+ he global dyestuff\, fine chemicals\, and specialty chemicals industry\\nV
+ enue: Impact Exhibition & Convention Center\\nFrequency: once a year\\nSou
+ rce: https://www.eventseye.com/fairs/f-dye-chem-asia-31773-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-dye-chem-asia-31773-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KOREA EXPO — Paris\, France
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+UID:f-korea-expo-31329-1@eventseye.impio-vault
+DESCRIPTION:Korea Expo highlights products and services from Korea: Fashion
+ \, beauty\, gastronomy\, technologies... At the same time\, an Economic Fo
+ rum proposes to expand industrial exchanges between South Korea and France
+ \\nVenue: Paris Expo Porte de Versailles\\nFrequency: once a year\\nSource
+ : https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
+LOCATION:Paris\, France
+URL:https://www.eventseye.com/fairs/f-korea-expo-31329-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEAUTYWORLD RIYADH — Riyadh\, Saudi Arabia
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270624
+UID:f-beautyworld-riyadh-27568-1@eventseye.impio-vault
+DESCRIPTION:BEAUTYWORLD RIYADH is the Kingdom’s leading and most influent
+ ial beauty event\, significantly influencing the beauty and personal care 
+ market\, driving growth through economic diversification\, cultural transf
+ ormation and technological innovation\\nVenue: Riyadh Front Exhibition & C
+ onference Center - RFECC\\nFrequency: once a year\\nSource: https://www.ev
+ entseye.com/fairs/f-beautyworld-riyadh-27568-1.html
+LOCATION:Riyadh\, Saudi Arabia
+URL:https://www.eventseye.com/fairs/f-beautyworld-riyadh-27568-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRIDE SHOW BANGKOK — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270629
+UID:f-pride-show-bangkok-33760-1@eventseye.impio-vault
+DESCRIPTION:The PRIDE SHOW BANGKOK is the Bangkok's newest flagship LGBTQIA
+ + cultural and business showcase. Discover an electrifying lineup of exper
+ iences\, exhibitions\, and performances that celebrate diversity and empow
+ er pride in every dimension\\nVenue: Bangkok International Trade & Exhibit
+ ion Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventsey
+ e.com/fairs/f-pride-show-bangkok-33760-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-pride-show-bangkok-33760-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INTEX SOUTH ASIA - BANGLADESH — Dhaka\, Bangladesh
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+UID:f-intex-south-asia-bangladesh-26524-1@eventseye.impio-vault
+DESCRIPTION:Intex South Asia Bangladesh will offer direct opportunities to 
+ launch new textile products\, generate business enquiries\, meet existing 
+ customers and network with potential buyers from major parts of Bangladesh
+ \\nVenue: ICCB - International Convention City Bashundhara\\nFrequency: on
+ ce a year\\nSource: https://www.eventseye.com/fairs/f-intex-south-asia-ban
+ gladesh-26524-1.html
+LOCATION:Dhaka\, Bangladesh
+URL:https://www.eventseye.com/fairs/f-intex-south-asia-bangladesh-26524-1.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAIR FESTIVAL — Sydney\, Australia
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270629
+UID:f-hair-festival-13135-1@eventseye.impio-vault
+DESCRIPTION:A multi-faceted\, dynamic event that meets modern hairdressing 
+ values and will once again allow the hair community to Shop\, Learn\, Comp
+ ete and Connect\\nVenue: ICC Sydney - International Convention Centre Sydn
+ ey\\nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-ha
+ ir-festival-13135-1.html
+LOCATION:Sydney\, Australia
+URL:https://www.eventseye.com/fairs/f-hair-festival-13135-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GARMENT MANUFACTURERS SOURCING EXPO — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270704
+UID:f-garment-manufacturers-sourcing-expo-20105-1@eventseye.impio-vault
+DESCRIPTION:ASEAN's Only Exhibition on Materials\, Accessories and Equipmen
+ t for Garment and Textile Manufacturing\\nVenue: Bangkok International Tra
+ de & Exhibition Centre (BITEC)\\nFrequency: every 2 years\\nSource: https:
+ //www.eventseye.com/fairs/f-garment-manufacturers-sourcing-expo-20105-1.ht
+ ml
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-garment-manufacturers-sourcing-expo-2
+ 0105-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GFT — Bangkok\, Thailand
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270704
+UID:f-gft-3481-1@eventseye.impio-vault
+DESCRIPTION:ASEAN’s Most Comprehensive Exhibition for Garment and Textile
+  Manufacturing Industry\\nVenue: Bangkok International Trade & Exhibition 
+ Centre (BITEC)\\nFrequency: once a year\\nSource: https://www.eventseye.co
+ m/fairs/f-gft-3481-1.html
+LOCATION:Bangkok\, Thailand
+URL:https://www.eventseye.com/fairs/f-gft-3481-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW DESIGNERS — London\, UK - United Kingdom
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270704
+UID:f-new-designers-25768-1@eventseye.impio-vault
+DESCRIPTION:The UK’s most important exhibition for emerging design. Since
+  its inception\, New Designers has provided a platform for over 2\, 500 gr
+ aduates every year to present their visionary ideas to industry profession
+ als and the public\\nVenue: Business Design Centre\, Islington\\nFrequency
+ : once a year\\nSource: https://www.eventseye.com/fairs/f-new-designers-25
+ 768-1.html
+LOCATION:London\, UK - United Kingdom
+URL:https://www.eventseye.com/fairs/f-new-designers-25768-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ANNUAL ART & CRAFT FAIR — Traverse City\, MI\, USA
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270711
@@ -9232,6 +9405,22 @@ DESCRIPTION:International Leather\, Fur\, Shoes and Accessories Exhibition
  tps://www.eventseye.com/fairs/f-eliteline-expo-23338-1.html
 LOCATION:Almaty\, Kazakhstan
 URL:https://www.eventseye.com/fairs/f-eliteline-expo-23338-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUXURY BRIDAL EXPO CHICAGO MARRIOTT NAPERVILLE — Chicago\, IL\, U
+ SA
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+UID:f-luxury-bridal-expo-chicago-marriott-naperville-24073-1@eventseye.impio-vault
+DESCRIPTION:Luxury Bridal Exhibition in Chicago. LUXURY BRIDAL EXPO feature
+ s Bridal Gowns & Shops\, Accessories and Fashion Jewelry\, Party & Activit
+ ies providers\, Beauty\, Lifestyle & Wellness products\, Caterers\, Weddin
+ g Dresses\, Event Plan\\nVenue: Chicago Marriott Naperville\\nFrequency: u
+ nknown\\nSource: https://www.eventseye.com/fairs/f-luxury-bridal-expo-chic
+ ago-marriott-naperville-24073-1.html
+LOCATION:Chicago\, IL\, USA
+URL:https://www.eventseye.com/fairs/f-luxury-bridal-expo-chicago-marriott-n
+ aperville-24073-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIFE INSTYLE MELBOURNE — Melbourne\, Australia
@@ -9702,6 +9891,19 @@ LOCATION:Dhaka\, Bangladesh
 URL:https://www.eventseye.com/fairs/f-dye-chem-bangladesh-25414-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ITM — Istanbul\, Turkey
+DTSTART;VALUE=DATE:20280613
+DTEND;VALUE=DATE:20280618
+UID:f-itm-5429-1@eventseye.impio-vault
+DESCRIPTION:Turkish International Exhibition of Textile Machinery\, ITM bri
+ ngs together leading textile machinery manufacturers\, global industry inv
+ estors and professional visitors in Istanbul\\nVenue: Tüyap Fair Conventi
+ on and Congress Center\\nFrequency: every 2 years\\nSource: https://www.ev
+ entseye.com/fairs/f-itm-5429-1.html
+LOCATION:Istanbul\, Turkey
+URL:https://www.eventseye.com/fairs/f-itm-5429-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEXTECH INTERNATIONAL EXPO - BANGLADESH — Dhaka\, Bangladesh
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270905
@@ -9982,6 +10184,18 @@ URL:https://www.eventseye.com/fairs/f-the-ultimate-women-s-show-dallas-fort
  h-worth-25628-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HOMETEXTILE & DESIGN — Moscow\, Russia
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270924
+UID:f-hometextile-design-3396-1@eventseye.impio-vault
+DESCRIPTION:International Trade Fair Floor Wall-Window Decoration & Furnitu
+ re Fabrics Bed-Bath-Table & Kitchen Linen\\nVenue: VDNH Exhibition Center\
+ \nFrequency: once a year\\nSource: https://www.eventseye.com/fairs/f-homet
+ extile-design-3396-1.html
+LOCATION:Moscow\, Russia
+URL:https://www.eventseye.com/fairs/f-hometextile-design-3396-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DENIMINIST — Istanbul\, Turkey
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270926
@@ -10122,6 +10336,20 @@ LOCATION:Krasnoyarsk\, Russia
 URL:https://www.eventseye.com/fairs/f-beauty-code-14569-1.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OPTICAL FAIR POZNAN — Poznan\, Poland
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271018
+UID:f-optical-fair-poznan-12586-1@eventseye.impio-vault
+DESCRIPTION:The Optical Fair OPTYKA is the largest business event in this p
+ art of Europe\, bringing together the entire optical industry. Every two y
+ ears in Poznań\, several thousand professionals meet to learn about the l
+ atest products\, trends and solutions\\nVenue: Poznan Congress Center\\nFr
+ equency: every 2 years\\nSource: https://www.eventseye.com/fairs/f-optical
+ -fair-poznan-12586-1.html
+LOCATION:Poznan\, Poland
+URL:https://www.eventseye.com/fairs/f-optical-fair-poznan-12586-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:GIAPPONE IN FIERA - CASALE MONFERRATO — Casale Monferrato\, Italy
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271018
@@ -10214,18 +10442,5 @@ DESCRIPTION:ExpoÓptica presents a fair model fully adapted to the demands
   2 years\\nSource: https://www.eventseye.com/fairs/f-expooptica-907-1.html
 LOCATION:Madrid\, Spain
 URL:https://www.eventseye.com/fairs/f-expooptica-907-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ITM — Istanbul\, Turkey
-DTSTART;VALUE=DATE:20280613
-DTEND;VALUE=DATE:20280618
-UID:f-itm-5429-1@eventseye.impio-vault
-DESCRIPTION:Turkish International Exhibition of Textile Machinery\, ITM bri
- ngs together leading textile machinery manufacturers\, global industry inv
- estors and professional visitors in Istanbul\\nVenue: Tüyap Fair Conventi
- on and Congress Center\\nFrequency: every 2 years\\nSource: https://www.ev
- entseye.com/fairs/f-itm-5429-1.html
-LOCATION:Istanbul\, Turkey
-URL:https://www.eventseye.com/fairs/f-itm-5429-1.html
 END:VEVENT
 END:VCALENDAR

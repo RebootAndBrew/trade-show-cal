@@ -6,60 +6,6 @@ X-WR-CALNAME:Optik - Brillen
 X-WR-CALDESC:Trade shows: Optik - Brillen — sourced from EventsEye.com
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-SUMMARY:FASHION WORLD TOKYO — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261010
-UID:f-fashion-world-tokyo-20127-1@eventseye.impio-vault
-DESCRIPTION:Japan’s largest international fashion trade show. Not only as
-  the best gateway to the Japanese market\, FASHION WORLD TOKYO is also gro
- wing to serve as a new Asian hub for the fashion industry\\nVenue: Tokyo I
- nternational Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a year
- \\nSource: https://www.eventseye.com/fairs/f-fashion-world-tokyo-20127-1.h
- tml
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-fashion-world-tokyo-20127-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IOFT — Tokyo\, Japan
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261010
-UID:f-ioft-1555-1@eventseye.impio-vault
-DESCRIPTION:Medical-Optical Equipment Show. IOFT features Reading Glasses\,
-  Frames\, Sports Glasses\, Cases for Glasses\, Sunglasses\, Contact Lenses
-  & Related Products\, Shop Design & Displays\, Lenses\, Eye Examination & 
- Testing Equipment\, Display Cases & Lighting Fixture\\nVenue: Tokyo Intern
- ational Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a year\\nSo
- urce: https://www.eventseye.com/fairs/f-ioft-1555-1.html
-LOCATION:Tokyo\, Japan
-URL:https://www.eventseye.com/fairs/f-ioft-1555-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEDINEX — Baku\, Azerbaijan
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261101
-UID:f-medinex-26884-1@eventseye.impio-vault
-DESCRIPTION:Medinex is the leading and most comprehensive event in Azerbaij
- an’s healthcare and medical sector\, serving as a key meeting point for 
- manufacturers\, distributors\, investors\, and industry professionals\\nVe
- nue: Baku Expo Center\\nFrequency: once a year\\nSource: https://www.event
- seye.com/fairs/f-medinex-26884-1.html
-LOCATION:Baku\, Azerbaijan
-URL:https://www.eventseye.com/fairs/f-medinex-26884-1.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MEDIPHARM - MEDIDENT — Belgrade\, Serbia
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261101
-UID:f-medipharm-medident-8914-1@eventseye.impio-vault
-DESCRIPTION:Electro medical Equipment\, Laboratory Technology\, Diagnostics
- \, Therapeutics\, Medical Technology\, Work Outfits\, Drugs\, Dental Equip
- ment\, Medical equipment\, Medical Vehicles\, Orthopedics\, Informatics\\n
- Venue: Belgrade Fair Grounds\\nFrequency: once a year\\nSource: https://ww
- w.eventseye.com/fairs/f-medipharm-medident-8914-1.html
-LOCATION:Belgrade\, Serbia
-URL:https://www.eventseye.com/fairs/f-medipharm-medident-8914-1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HONG KONG INTERNATIONAL OPTICAL FAIR — Hong Kong\, Hong Kong
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261107
@@ -396,6 +342,34 @@ URL:https://www.eventseye.com/fairs/f-spie-optics-optoelectronics-21110-1.h
  tml
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FASHION WORLD TOKYO — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+UID:f-fashion-world-tokyo-20127-1@eventseye.impio-vault
+DESCRIPTION:Japan’s largest international fashion trade show. Not only as
+  the best gateway to the Japanese market\, FASHION WORLD TOKYO is also gro
+ wing to serve as a new Asian hub for the fashion industry\\nVenue: Tokyo I
+ nternational Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a year
+ \\nSource: https://www.eventseye.com/fairs/f-fashion-world-tokyo-20127-1.h
+ tml
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-fashion-world-tokyo-20127-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IOFT — Tokyo\, Japan
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+UID:f-ioft-1555-1@eventseye.impio-vault
+DESCRIPTION:Medical-Optical Equipment Show. IOFT features Reading Glasses\,
+  Frames\, Sports Glasses\, Cases for Glasses\, Sunglasses\, Contact Lenses
+  & Related Products\, Shop Design & Displays\, Lenses\, Eye Examination & 
+ Testing Equipment\, Display Cases & Lighting Fixture\\nVenue: Tokyo Intern
+ ational Exhibition Center (Tokyo Big Sight)\\nFrequency: twice a year\\nSo
+ urce: https://www.eventseye.com/fairs/f-ioft-1555-1.html
+LOCATION:Tokyo\, Japan
+URL:https://www.eventseye.com/fairs/f-ioft-1555-1.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MOROCCO MEDICAL EXPO — Casablanca\, Morocco
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270412
@@ -458,6 +432,32 @@ DESCRIPTION:EFCLIN Congress is an international meeting platform and forum
  e.com/fairs/f-efclin-congress-11207-1.html
 LOCATION:Dubrovnik\, Croatia
 URL:https://www.eventseye.com/fairs/f-efclin-congress-11207-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BELARUSIAN MEDICAL FORUM — Minsk\, Belarus
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270501
+UID:f-belarusian-medical-forum-12640-1@eventseye.impio-vault
+DESCRIPTION:Medical Techniques\, Equipment\, Goods and Services. Pharmaceut
+ ical Products. Laboratory and Diagnostic Equipment. Medical Optics\\nVenue
+ : Football Manege Sport Complex\\nFrequency: once a year\\nSource: https:/
+ /www.eventseye.com/fairs/f-belarusian-medical-forum-12640-1.html
+LOCATION:Minsk\, Belarus
+URL:https://www.eventseye.com/fairs/f-belarusian-medical-forum-12640-1.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOF - WENZHOU OPTICS FAIR — Wenzhou\, China
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270511
+UID:f-wof-wenzhou-optics-fair-5485-1@eventseye.impio-vault
+DESCRIPTION:The China Wenzhou International Optics Fair (WOF) is a Must-att
+ end optical event and a strategic platform for importers and buyers from t
+ he worldwide B2B trade. Reading glasses\, sunglasses\, lens\, glasses fram
+ es\, glasses cases & accessories...\\nVenue: Wenzhou International Convent
+ ion and Exhibition Center\\nFrequency: once a year\\nSource: https://www.e
+ ventseye.com/fairs/f-wof-wenzhou-optics-fair-5485-1.html
+LOCATION:Wenzhou\, China
+URL:https://www.eventseye.com/fairs/f-wof-wenzhou-optics-fair-5485-1.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PHOTONICS EXPO POLAND — Warsaw\, Poland
